@@ -1,0 +1,92 @@
+[
+  {
+    "property": "kingfisher",
+    "role": "logo",
+    "url": "https://kingfishervilla.co.za/wp-content/uploads/2024/03/KingfisherVillaSuites-Brand-gold-leaf.png",
+    "file": "source/assets/kingfisher/logo.png",
+    "sha256": "b63659b2eb6a09040cda0f75159a94764337b0b220e092e53b836bf1fdc53457",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "kingfisher",
+    "role": "hero",
+    "url": "https://kingfishervilla.co.za/wp-content/uploads/2023/10/kingfisher-suites-pool-with-lounge-1024x683.jpg",
+    "file": "source/assets/kingfisher/hero.jpg",
+    "sha256": "5930f6714634d0889f75db8cb7c67800862464a9e4501b0b87ee47ae77fa8c27",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "kwafubesi",
+    "role": "logo",
+    "url": "https://kwafubesi.com/wp-content/uploads/2021/01/kwafubesi-brand-brown.png",
+    "file": "source/assets/kwafubesi/logo.png",
+    "sha256": "e77c3146315526e8c26d64012948c49919a6a8321fc4e00eb25dd2488d367ee4",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "kwafubesi",
+    "role": "hero",
+    "url": "https://kwafubesi.com/wp-content/uploads/2025/09/Kwafubesi-Tented-Camp-luxury-tent.jpg",
+    "file": "source/assets/kwafubesi/hero.jpg",
+    "sha256": "b6ca6b38e11d200a24334c9d8a5cd3ec0870dbf2027f3a0859fa888c913fd135",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "hoyo-hoyo",
+    "role": "logo",
+    "url": "https://hoyohoyo.com/wp-content/uploads/2019/08/hoyo-hoyo-logo-colour.png",
+    "file": "source/assets/hoyo-hoyo/logo.png",
+    "sha256": "3d817a37f24d24b4fea5576cfc1c685fc6f60ae423d927a2c4369f8a1078c3fa",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "hoyo-hoyo",
+    "role": "hero",
+    "url": "https://hoyohoyo.com/wp-content/uploads/2022/06/2022-Hoyo-Hoyo-Exterior-lodge.jpg",
+    "file": "source/assets/hoyo-hoyo/hero.jpg",
+    "sha256": "9a2faa296e69110be51e072c74b3f58cf8fc93a0c03a7cae1a8e87a76448beec",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "hamiltons",
+    "role": "logo",
+    "url": "https://hamiltonstentedcamp.co.za/wp-content/uploads/2017/03/hamiltons-tented-camp-logo-colour.png",
+    "file": "source/assets/hamiltons/logo.png",
+    "sha256": "be7462604134fe54446a0a593a43976899671520709dbe26aa17d9f0fe54cfcc",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "hamiltons",
+    "role": "hero",
+    "url": "https://hamiltonstentedcamp.co.za/wp-content/uploads/2022/07/2022-Hamiltons-main-area-lounge-600x600.jpg",
+    "file": "source/assets/hamiltons/hero.jpg",
+    "sha256": "961d0f60f2533c64a7130a946eb076a3277c45f881eb6405390101500cbdf31a",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "imbali",
+    "role": "logo",
+    "url": "https://imbali.com/wp-content/uploads/2021/01/Imbali-brand-full-colour.png",
+    "file": "source/assets/imbali/logo.png",
+    "sha256": "03c040755f78d68934b5d258f1d0b3153a3823db3f380a8365c76c78f62389df",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  },
+  {
+    "property": "imbali",
+    "role": "hero",
+    "url": "https://imbali.com/wp-content/uploads/2021/01/imbali-suite-at-night.jpg",
+    "file": "source/assets/imbali/hero.jpg",
+    "sha256": "f8573c16c69b1a35caf2a1337846d7312a8c379b145468ff1d54a1f019eeee34",
+    "observed": "2026-10-25",
+    "rights": "Existing official property website asset; property-owned use only. No third-party redistribution licence asserted."
+  }
+]

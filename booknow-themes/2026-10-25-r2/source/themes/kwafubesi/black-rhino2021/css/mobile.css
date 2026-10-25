@@ -1,0 +1,834 @@
+
+
+body {
+    background-color: #fff;
+    font: 16px/1.5 "Open Sans","Helvetica","Arial",sans-serif;
+}
+select {
+    font: 16px/1.5 "Open Sans","Helvetica","Arial",sans-serif;
+}
+h4 {
+    color: #888;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 70%;
+    font-weight: normal;
+}
+#siteWrapper {
+    box-shadow: none;
+    min-height: 640px;
+    width: 100%;
+}
+#client_logo {
+    background-image: none;
+    height: 100px;
+}
+#sideBar {
+    box-sizing: border-box;
+    left: 0;
+    padding: 3px 4px 0;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+#sideBar label {
+    line-height: 1.4;
+}
+#itineraryBar {
+    background-image: none;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 8px;
+}
+#itineraryBar h4 {
+    display: none;
+}
+#itineraryTotal {
+    padding: 0 2px;
+}
+#itineraryTotal label {
+    color: #555555;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 93%;
+    margin-top: 2px;
+}
+#sideBar label.itineraryAmountTotal {
+    color: #b8a28c;
+    font-family: segoe ui,sans-serif;
+    font-size: 17px;
+    margin-top: 0;
+}
+.itineraryRemoveAllLink {
+    display: none;
+}
+#sideBar label.itineraryAmount {
+    float: left;
+    font-size: 11px;
+    margin-top: 0;
+}
+#itineraryContent {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    padding: 1px;
+}
+#itineraryContent .paymentTerms {
+    background: none repeat scroll 0 0 #ffffff;
+    box-sizing: border-box;
+    margin: 0;
+    opacity: 0.8;
+    padding: 0 8px 6px;
+    width: 100%;
+}
+#itineraryContent .paymentTerms h3 {
+    color: #b8a28c;
+    font-size: 88%;
+}
+#itineraryContent .paymentTerms label {
+    color: black;
+    font-size: 100%;
+}
+.itineraryContentDetail table {
+    width: 97%;
+}
+.itineraryRemoveLink a {
+    background-color: #ff0000;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 72%;
+    padding: 3px 4px;
+}
+#content {
+    border: medium none;
+    border-radius: 0;
+    box-shadow: 0 0 0 #fff;
+    margin: 0;
+    width: 100%;
+}
+#searchBar h4 {
+    background-color: #676767;
+    background-image: none;
+    border-radius: 0;
+    color: #b8a28c;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    height: 40px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+#searchBar {
+    background-color: #ebebeb;
+    background-image: none;
+    border: 1px solid #d9d9d9;
+    border-radius: 0;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    left: 0;
+    margin: 5px;
+    position: relative;
+    top: -4px;
+}
+#searchBar label {
+    font-size: 100%;
+    line-height: 1.5;
+}
+#searchBar select {
+    color: #888;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 100%;
+    height: auto;
+    width: 13.7em;
+}
+#searchBar input[type="text"] {
+    border: 1px solid #ddd;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 100%;
+    height: 18px;
+    width: 14em;
+}
+#searchBar table label {
+    margin-left: 5px;
+}
+#unitBreakDown select {
+    width: 4.5em;
+}
+#searchBar .dateListBoxes select {
+    margin-left: 2px;
+    width: 4.7em;
+}
+#searchBar button {
+    background-color: #b8a28c;
+    background-image: none;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    height: 40px;
+    line-height: 40px;
+    margin: 5px 0 10px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
+#bookingSteps {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 2px 0 0;
+    width: 100%;
+}
+#bookingSteps .steps {
+    height: 44px;
+    line-height: 32px;
+    margin: 0;
+    text-align: center;
+}
+#bookingSteps .steps div {
+    font-size: 13px;
+    width: 100%;
+}
+#bookingSteps .steps div.unselected {
+    display: none;
+}
+#bookingSteps .steps div.stepsName1 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 100%;
+}
+#bookingSteps .steps div.stepsName2 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 100%;
+}
+#bookingSteps .steps div.stepsName3 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 100%;
+}
+#bookingSteps .steps div.stepsName4 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 100%;
+}
+.stepsName1 div.selected {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.stepsName2 div.selected {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.stepsName3 div.selected {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.stepsName4 div.selected {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+#bookingSteps a {
+    float: left;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    margin: 6px 0 0;
+    position: absolute;
+    text-align: left;
+    top: 0;
+    z-index: 210;
+}
+#bookingSteps .steps a {
+    color: #777;
+    padding: 0;
+    text-transform: uppercase;
+}
+.backButton {
+    background: url("../images/colourSchemes/back-small-m.png") no-repeat scroll 1px 8px transparent;
+    color: #b8a28c;
+    float: left;
+    height: 34px;
+    left: 5px;
+    line-height: 35px;
+    margin-right: 2px;
+    padding-left: 16px;
+    text-shadow: none;
+    width: 85px;
+}
+.backButtonWide {
+    background: url("../images/colourSchemes/back-small-m.png") no-repeat scroll 1px 8px transparent;
+    color: #b8a28c;
+    height: 34px;
+    left: 5px;
+    line-height: 35px;
+    padding-left: 15px;
+    text-shadow: none;
+    width: 90px;
+}
+.homeButton {
+    background: url("../images/colourSchemes/back-small-m.png") no-repeat scroll 4px 8px transparent;
+    color: #b8a28c;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    height: 34px;
+    left: 2px !important;
+    line-height: 35px;
+    padding: 0 0 0 19px;
+    text-align: left;
+    text-decoration: none;
+    text-shadow: none;
+    width: 100px;
+}
+.homeButtonNextToBack {
+    display: none;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    left: 75px;
+}
+.homeButtonRight {
+    display: none;
+    left: inherit;
+    right: 5px;
+}
+.myBookingsButton {
+    background: url("../images/colourSchemes/reservations.png") no-repeat scroll 87px 8px transparent;
+    color: #b8a28c;
+    line-height: 35px;
+    padding-left: 6px;
+    right: 0;
+    text-shadow: none;
+    width: 106px;
+}
+.forwardButtonWide {
+    background: url("../images/colourSchemes/forward-wide-m.png") no-repeat scroll 66px 9px transparent;
+    color: #b8a28c;
+    height: 34px;
+    line-height: 35px;
+    padding-right: 0;
+    right: 5px;
+    text-shadow: none;
+    width: 64px;
+}
+.hotelResult {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    margin: 3px;
+}
+.hotelResult .centerColumn {
+    border-right: medium none;
+    border-top: 1px dotted #ccc;
+    padding-right: 0;
+    padding-top: 6px;
+    width: 100%;
+}
+.hotelHeading {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+}
+.hotelHeading h1 {
+    color: #b8a28c;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 104%;
+    font-weight: bold;
+    height: auto;
+    line-height: 24px;
+    margin: 8px 5px 6px 8px;
+    text-shadow: none;
+    text-transform: uppercase;
+}
+.hotelHeading h3 {
+    font-size: 150%;
+}
+.hotelHeading h4 {
+    float: right;
+    margin-top: 8px;
+}
+.hotelDescription p {
+    font-size: 100%;
+    width: 95%;
+}
+.centerColumn .hotelInfo {
+    width: 100%;
+}
+.hotelInfo {
+    border-radius: 0;
+    display: none;
+    margin-left: 0;
+    padding-left: 5px;
+}
+.hotelInfo a {
+    font-size: 70%;
+    height: 20px;
+    padding: 6px 1px 2px 17px;
+    text-align: center;
+    width: 28%;
+}
+.roomDescription p {
+    float: none;
+    font-size: 93%;
+    line-height: 1.4;
+}
+.hotelRates {
+    margin-top: 10px;
+}
+.hotelRates .standardButton {
+    color: #fff;
+    height: 28px;
+    line-height: 0;
+    margin-top: 10px;
+    padding: 0;
+    text-transform: uppercase;
+}
+.hotelFeatures {
+    display: none;
+}
+#locationMap {
+    width: 390px;
+}
+.ratesHeading {
+    width: 100%;
+}
+.ratesResult {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    margin: 3px;
+}
+.ratesDetails {
+    width: 100%;
+}
+.viewMore {
+    margin-left: 10px;
+}
+.roomsAndFeatures h1 {
+    display: none;
+}
+.hotelResultRoom {
+    border-top: 1px dotted #ccc;
+    padding-bottom: 10px;
+}
+.roomDescription {
+    color: #777;
+    float: none;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    padding-left: 5px;
+    width: auto;
+}
+.roomOptions {
+    margin-top: 6px;
+    width: 95px;
+}
+.roomOptions h4 {
+    display: none;
+}
+.roomOptions select {
+    width: 90px;
+}
+.roomsAndRates {
+    width: auto;
+}
+.roomRates {
+    background-color: #f3f3f3;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 6px 4px 2px;
+    min-height: 3em;
+    padding: 4px 12px 14px;
+    width: auto;
+}
+.hotelDetail {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    margin: 0 10px;
+}
+.hotelDetailLocation {
+    margin-right: 10px;
+    max-width: 130px;
+}
+#confirmBooking {
+    width: 100%;
+}
+#confirmBooking table {
+    width: 100%;
+}
+.dialogColumn {
+    width: 95%;
+}
+.dialogColumn .gwt-Label {
+    font-size: 100%;
+    width: 23%;
+}
+.dialogColumn .dialogColumnValue {
+    max-width: 70%;
+    width: 70%;
+}
+#confirmBookingForm .centerLeft select {
+    margin-left: 0;
+}
+.statusMessage {
+    z-index: 20000;
+}
+#statusMessagePanel {
+    width: 100%;
+}
+#statusMessagePanel div {
+    text-align: center;
+}
+#statusMessagePanel p {
+    color: #4e4e4e;
+    float: none;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 14px;
+    margin: 50px 10px 0;
+    padding: 0;
+    width: 100%;
+}
+#statusMessagePanel img {
+    float: none;
+    margin-left: 0;
+}
+#formDetails {
+    padding: 5px;
+}
+#formDetails fieldset {
+    padding: 0 5px;
+}
+#formDetails fieldset legend {
+    background-color: #676767;
+    color: #fff;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+}
+#formDetails fieldset p {
+    color: #777;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    margin-left: 2px;
+}
+#formDetails textarea {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 90%;
+    width: 97%;
+}
+#formDetails label {
+    font-size: 90%;
+    line-height: 30px;
+    width: 90px;
+}
+#formDetails select {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 90%;
+    height: auto;
+}
+#formDetails input[type="text"], #formDetails input[type="password"] {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 100%;
+    height: 20px;
+}
+#formDetails .haveReadAndAccept {
+    background-color: #e9e9e9;
+    margin: 15px 0 5px;
+    padding: 5px;
+}
+#formDetails .haveReadAndAccept a {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 28px;
+    text-align: left;
+    width: 42%;
+}
+#formDetails .haveReadAndAccept label {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 28px;
+    padding-right: 2px;
+    text-align: left;
+    width: 50%;
+}
+.haveReadAndAccept input[type="checkbox"] {
+    display: none;
+}
+.haveReadAndAcceptLeft {
+    background: url("../images/check_box.png") no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 30px;
+    margin: 0;
+    position: absolute;
+    width: 32px;
+}
+.haveReadAndAcceptLeftSelected {
+    background: url("../images/check_box.png") no-repeat scroll 0 -28px transparent;
+}
+.haveReadAndAcceptRight {
+    box-sizing: border-box;
+    padding-left: 35px;
+    width: 100%;
+}
+#formDetails .gwt-HTML {
+    color: #777;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 14px;
+    margin-bottom: 6px;
+    margin-left: 5px;
+}
+.detailsColumn {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    width: 296px;
+}
+#hotelConfirmation {
+    padding: 0;
+}
+#hotelConfirmation h4 {
+    background-color: #676767;
+    background-image: none;
+    border-radius: 0;
+    color: #fff;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 15px;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 0 0 9px;
+}
+#hotelConfirmation h6 {
+    background-color: #676767;
+    background-image: none;
+    color: #fff;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 15px;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 0 0 10px;
+}
+#hotelConfirmation td {
+    font-size: 85%;
+    margin: 1px 0 5px 5px;
+    text-align: right;
+}
+#confirmBookingForm .centerLeft {
+    width: auto;
+}
+#confirmBookingForm .centerRight {
+    float: left;
+    padding: 0;
+    width: 192px;
+}
+.reservationDetails {
+    border-radius: 0;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    width: 100%;
+}
+.personalDetails {
+    border-radius: 0;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    width: 100%;
+}
+#hotelConfirmation .termsAndConditions div {
+    margin: 10px 10px 20px;
+}
+#hotelConfirmation .paymentDetails label {
+    font-size: 100%;
+    margin: 10px 10px 0;
+}
+#message {
+    padding: 3px 4px 0;
+}
+#message .error {
+    background: none repeat scroll 0 0 #efefef;
+    border: 1px solid #b8a28c;
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    margin: 0 0 10px;
+    width: 100%;
+}
+@keyframes changeContentLeftMobile {
+0% {
+    transform: translateX(-470px) translateY(0px);
+}
+100% {
+    transform: translateY(0px);
+}
+}
+@keyframes changeContentLeftMobile {
+0% {
+    transform: translateX(-470px) translateY(0px);
+}
+100% {
+    transform: translateY(0px);
+}
+}
+.changeContentLeft {
+    animation-name: changeContentLeftMobile;
+}
+@keyframes changeContentRightMobile {
+0% {
+    transform: translateX(470px) translateY(0px);
+}
+100% {
+    transform: translateY(0px);
+}
+}
+@keyframes changeContentRightMobile {
+0% {
+    transform: translateX(470px) translateY(0px);
+}
+100% {
+    transform: translateY(0px);
+}
+}
+.changeContentRight {
+    animation-name: changeContentRightMobile;
+}
+.resultStayDetailsWrapper {
+}
+input.gwt-SuggestBox {
+    background: url("../images/colourSchemes/dropdown_down_arrow.gif") no-repeat scroll right center #fff / 22px;
+    border: 1px solid #ccc;
+    padding: 4px !important;
+    width: 14em;
+}
+.gwt-SuggestBoxPopup {
+    background: none repeat scroll 0 0 / 100% auto #fff;
+    border: 1px solid #ccc;
+    border-radius: 0;
+    font-size: 11px;
+    overflow-x: hidden;
+    width: 240px;
+    z-index: 1010;
+}
+.gwt-SuggestBoxPopup .suggestPopupContent {
+    max-height: 170px;
+    max-width: 240px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.gwt-SuggestBoxPopup .item {
+    color: #666666;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    padding: 3px;
+    width: 214px;
+}
+.gwt-SuggestBoxPopup .item-selected {
+    background-color: #ebebeb;
+    background-image: none;
+    border-radius: 0;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-weight: normal;
+}
+.hotelRooms td.name {
+    color: #676767;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 19px;
+    max-width: 130px;
+    overflow: visible;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-top: 2px;
+    text-align: left;
+    white-space: nowrap;
+    width: 130px;
+}
+.centerColumn .hotelRooms {
+    width: 94%;
+}
+.hotelRooms {
+    float: right;
+    margin-right: 10px;
+}
+.hotelRooms td.rate {
+    color: #444;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 16px;
+    max-width: 120px;
+    overflow: visible;
+    padding: 2px 5px 0;
+    text-align: right;
+    white-space: nowrap;
+    width: 80px;
+}
+.hotelRooms td {
+    border-top: 1px solid #fff;
+}
+.hotelRates h5 {
+    color: #b8a28c;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    line-height: 16px;
+    margin: 0 0 4px;
+    text-align: center;
+    width: 100%;
+}
+.hotelRates .standardButton {
+    color: #fff;
+    height: 28px;
+    line-height: 0;
+    margin-top: 10px;
+    padding: 0;
+    text-transform: uppercase;
+}
+.standardButton:hover {
+    background-position: 0 -28px;
+}
+.hotelDescription {
+    color: #777;
+    float: left;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    margin: 5px 10px 10px 14px !important;
+}
+.hotelRooms td.name {
+    color: #676767;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 19px;
+    max-width: 130px;
+    overflow: visible;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-top: 2px;
+    text-align: left;
+    white-space: nowrap;
+    width: 130px;
+}
+.centerColumn .hotelRooms {
+    width: 94%;
+}
+.hotelRooms {
+    float: right;
+    margin-right: 10px;
+}
+.hotelRooms td.rate {
+    color: #444;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 16px;
+    max-width: 120px;
+    overflow: visible;
+    padding: 2px 5px 0;
+    text-align: right;
+    white-space: nowrap;
+    width: 80px;
+}
+.hotelRooms td {
+    border-top: 1px solid #fff;
+}
+.hotelRates h5 {
+    color: #b8a28c;
+    font-family: segoe ui,sans-serif;
+    line-height: 16px;
+    margin: 0 0 4px;
+    text-align: center;
+    width: 100%;
+}
+.hotelRates .standardButton {
+    color: #fff;
+    height: 28px;
+    line-height: 0;
+    margin-top: 10px;
+    padding: 0;
+    text-transform: uppercase;
+}
+.standardButton:hover {
+    background-position: 0 -28px;
+}
+.hotelDescription {
+    color: #777;
+    float: left;
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    font-size: 13px;
+    margin: 5px 10px 10px 14px !important;
+}
