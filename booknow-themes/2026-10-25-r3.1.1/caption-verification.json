@@ -1,0 +1,335 @@
+{
+  "scope": "Local browser rendering of exact shipping CSS. Empty fallback and supplied native caption; no application/backend/network.",
+  "checks": [
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/mainStyle.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/theme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 390,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "black-rhino2021/css/mobileTheme.css",
+      "width": 1440,
+      "empty": "\"Photo gallery\"",
+      "supplied": {
+        "text": "Native property caption",
+        "fallback": "none"
+      },
+      "pass": true
+    }
+  ]
+}

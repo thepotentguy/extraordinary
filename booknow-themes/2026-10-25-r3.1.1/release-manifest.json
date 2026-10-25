@@ -1,0 +1,152 @@
+{
+  "version": "R3.1.1",
+  "date": "2026-10-25",
+  "scope": "Caption copy only; not installed by design chat",
+  "themes": [
+    {
+      "property": "hamiltons",
+      "version": "R3.1.1",
+      "file": "hamiltons-Legacy-BookNow-R3.1.1.zip",
+      "sha256": "9701d063f3cfa24246d84c2176a5a44f8ee691a9eddbfa0bdfb4884d414bd707",
+      "bytes": 1013820,
+      "files": 131,
+      "explicitDirectories": 8,
+      "copyReplacements": [
+        {
+          "path": "black-rhino2021/css/mainStyle.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/mobileTheme.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/theme.css",
+          "replacements": 1
+        }
+      ],
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "onlyCaptionStringChanged": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "version": "R3.1.1",
+      "file": "hoyo-hoyo-Legacy-BookNow-R3.1.1.zip",
+      "sha256": "30ecaefe0385f117d070a1371a9deaf896ae2e986a316dde076a9a80fc835a4a",
+      "bytes": 902574,
+      "files": 131,
+      "explicitDirectories": 8,
+      "copyReplacements": [
+        {
+          "path": "black-rhino2021/css/mainStyle.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/mobileTheme.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/theme.css",
+          "replacements": 1
+        }
+      ],
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "onlyCaptionStringChanged": true
+    },
+    {
+      "property": "imbali",
+      "version": "R3.1.1",
+      "file": "imbali-Legacy-BookNow-R3.1.1.zip",
+      "sha256": "7e596fd13badb4da4a6c926cf6a114e2a72637202266b0141b6c254c560dbc72",
+      "bytes": 853963,
+      "files": 131,
+      "explicitDirectories": 8,
+      "copyReplacements": [
+        {
+          "path": "black-rhino2021/css/mainStyle.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/mobileTheme.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/theme.css",
+          "replacements": 1
+        }
+      ],
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "onlyCaptionStringChanged": true
+    },
+    {
+      "property": "kingfisher",
+      "version": "R3.1.1",
+      "file": "kingfisher-Legacy-BookNow-R3.1.1.zip",
+      "sha256": "25d0132794e59acdbc240d12f39b5f0c21d0562ae9afec78bba46cc09a39290e",
+      "bytes": 1252722,
+      "files": 131,
+      "explicitDirectories": 8,
+      "copyReplacements": [
+        {
+          "path": "black-rhino2021/css/mainStyle.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/mobileTheme.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/theme.css",
+          "replacements": 1
+        }
+      ],
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "onlyCaptionStringChanged": true
+    },
+    {
+      "property": "kwafubesi",
+      "version": "R3.1.1",
+      "file": "kwafubesi-Legacy-BookNow-R3.1.1.zip",
+      "sha256": "610c8bf765f566756d1cca7c5861dd8ddb0587080028967ab36aabdcec4f9ffb",
+      "bytes": 1016958,
+      "files": 131,
+      "explicitDirectories": 8,
+      "copyReplacements": [
+        {
+          "path": "black-rhino2021/css/mainStyle.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/mobileTheme.css",
+          "replacements": 1
+        },
+        {
+          "path": "black-rhino2021/css/theme.css",
+          "replacements": 1
+        }
+      ],
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "onlyCaptionStringChanged": true
+    }
+  ]
+}
