@@ -1,0 +1,72 @@
+{
+  "version": "R3.1",
+  "date": "2026-10-25",
+  "scope": "Mobile steps only; native input acceptance pending; not installed",
+  "themes": [
+    {
+      "property": "hamiltons",
+      "version": "R3.1",
+      "file": "hamiltons-Legacy-BookNow-R3.1.zip",
+      "sha256": "e2b31b9babb744edb4a22d9f4dc1564f1b168beca0d9c0f7b4eeeec271c753dc",
+      "bytes": 1013830,
+      "files": 131,
+      "explicitDirectories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "desktopThemeUnchanged": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "version": "R3.1",
+      "file": "hoyo-hoyo-Legacy-BookNow-R3.1.zip",
+      "sha256": "176c60907f44f6f5043e560bb6af6425baee02487df53d14b73605651839fb54",
+      "bytes": 902586,
+      "files": 131,
+      "explicitDirectories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "desktopThemeUnchanged": true
+    },
+    {
+      "property": "imbali",
+      "version": "R3.1",
+      "file": "imbali-Legacy-BookNow-R3.1.zip",
+      "sha256": "df6eca530540fa809c344e1148ff58131a39746c04e8b15c4227fc185017a4f1",
+      "bytes": 853974,
+      "files": 131,
+      "explicitDirectories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "desktopThemeUnchanged": true
+    },
+    {
+      "property": "kingfisher",
+      "version": "R3.1",
+      "file": "kingfisher-Legacy-BookNow-R3.1.zip",
+      "sha256": "856140d62571e76e75c4ced3ee38a6388c713e9da151102a645dd9e054508f78",
+      "bytes": 1252733,
+      "files": 131,
+      "explicitDirectories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "desktopThemeUnchanged": true
+    },
+    {
+      "property": "kwafubesi",
+      "version": "R3.1",
+      "file": "kwafubesi-Legacy-BookNow-R3.1.zip",
+      "sha256": "c15afecdc1d0f29689e2539fd92daddd4ae3e3cb96c559e0d8d0acb6ccca79fc",
+      "bytes": 1016968,
+      "files": 131,
+      "explicitDirectories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "desktopThemeUnchanged": true
+    }
+  ]
+}

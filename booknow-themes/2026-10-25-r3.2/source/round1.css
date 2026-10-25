@@ -1,0 +1,50 @@
+/* R3.2 round one: native result structure, proportional assets, step geometry. */
+#content .hotelResult>.hotelNoRatesResult:has(>.leftColumn){display:flex;grid-template-columns:none;flex-wrap:wrap;align-items:center;gap:16px;order:0}
+#content .hotelResult>.hotelNoRatesResult>.leftColumn{flex:1 1 20rem;min-width:0;width:auto!important;max-width:100%;padding:0;grid-column:auto}
+#content .hotelResult>.hotelNoRatesResult>.rightColumn{flex:0 1 auto;min-width:0;width:auto!important;max-width:100%;padding:0;grid-column:auto}
+#content .hotelNoRatesResult #message,#content .hotelNoRatesResult .info{float:none;min-width:0;max-width:100%!important;width:auto!important;box-sizing:border-box;white-space:normal;overflow-wrap:anywhere;margin-left:0;margin-right:0}
+#content .hotelDescription,#content .roomDescription,#content .roomOptions,#content .paymentTerms{min-width:0;max-width:100%;overflow-wrap:anywhere}
+#content .hotelDescription p{float:none;width:auto!important;max-width:100%!important;box-sizing:border-box;margin-left:0;margin-right:0;white-space:normal}
+#content .hotelImage{float:none;margin:0!important;padding:0;box-sizing:border-box;width:133px;max-width:100%;min-width:0}
+#content .hotelImage a{display:block;max-width:100%}
+#content .hotelImage img,#content .hotelResultRoom .roomImage img{display:block;float:none;width:auto!important;height:auto!important;max-width:min(100%,133px)!important;max-height:99px;object-fit:contain;box-sizing:border-box;padding:0!important;margin:0!important;background:none!important}
+#content .hotelFeatures{float:none;max-width:100%;box-sizing:border-box;overflow-wrap:anywhere}
+#content .hotelInfo{box-sizing:border-box;min-width:0}
+#content .hotelInfo a,#content button.standardButton,#content .viewAlternativeDatesLink,#content .hotelResultRoom .roomRates button.smallButton{box-sizing:border-box;min-width:0;max-width:100%;white-space:normal;overflow-wrap:anywhere}
+#content .hotelResultRoom .roomRates button.smallButton{min-width:0!important}
+/* Published home frames are 670x300 derivatives; do not stretch them into heroes. */
+#content .imageCarousel{width:100%!important;max-width:670px!important;min-width:0;justify-self:center;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box}
+#content .imageCarousel #main{width:100%!important;max-width:670px!important;height:auto!important;max-height:none!important;min-height:0;aspect-ratio:670/300!important;box-sizing:border-box;margin-left:auto!important;margin-right:auto!important}
+#content .imageCarousel #main .gallerylayer{width:100%!important;height:100%!important}
+#content .imageCarousel #main .gallerylayer img{display:block;width:100%!important;height:100%!important;max-height:none!important;object-fit:contain;box-sizing:border-box}
+/* Empty native animation nodes and divider sprites are decorative. Labels remain native. */
+#bookingSteps .steps{align-items:stretch}
+#bookingSteps .steps>.gwt-Label,#bookingSteps .steps>div[class*="stepsName"]>div{display:none!important}
+#bookingSteps .steps>div[class*="stepsName"]{background-image:none!important;position:relative;inset:auto;padding:0!important;height:auto!important;min-width:0;box-sizing:border-box}
+#bookingSteps .steps>div[class*="stepsName"]>a{position:static;float:none;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;max-width:100%;height:auto;box-sizing:border-box;white-space:normal;margin:0}
+#bookingSteps .steps>div[class*="stepsName"]>a::before{content:var(--step-number);display:inline-flex;flex:0 0 24px;align-items:center;justify-content:center;width:24px;height:24px;box-sizing:border-box;border:1px solid currentColor;border-radius:50%;font:600 12px/1 var(--brand-body);background:transparent}
+#bookingSteps .steps>.stepsName1{--step-number:"1"}
+#bookingSteps .steps>.stepsName2{--step-number:"2"}
+#bookingSteps .steps>.stepsName3{--step-number:"3"}
+#bookingSteps .steps>.stepsName4{--step-number:"4"}
+/* The CMS supplies the actual mark. No recolouring, cropping or forced old JPEG ratio. */
+#header{height:auto!important}
+#client_logo{height:auto!important;max-width:100%;box-sizing:border-box}
+#client_logo img{display:block;width:auto!important;height:auto!important;max-width:100%;max-height:none;aspect-ratio:auto!important;object-fit:contain;filter:none!important;margin:0 auto}
+/* Native message dialogs also contain inline-width legacy tables. */
+.gwt-DialogBox:not(:has(#gallery)){width:fit-content!important;max-width:calc(100vw - 28px);box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery))>div,.gwt-DialogBox:not(:has(#gallery))>div>table{max-width:100%!important;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) .dialogMiddleCenterInner,.gwt-DialogBox:not(:has(#gallery)) #formDetails{min-width:0;width:auto!important;max-width:100%;box-sizing:border-box;overflow-wrap:anywhere}
+.gwt-DialogBox:not(:has(#gallery)) #formDetails p{width:auto!important;max-width:100%;box-sizing:border-box;white-space:normal}
+.gwt-DialogBox:not(:has(#gallery)) #formButtons{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;max-width:100%;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) #formButtons button{min-width:44px;min-height:44px;height:auto;max-width:100%;white-space:normal;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) :is(.dialogTopLeft,.dialogTopRight,.dialogMiddleLeft,.dialogMiddleRight,.dialogBottomLeft,.dialogBottomRight){width:1px!important;min-width:0!important;max-width:1px!important;padding:0}
+.gwt-DialogBox:not(:has(#gallery)) :is(.dialogTopCenter,.dialogMiddleCenter,.dialogBottomCenter){width:auto!important;min-width:0;padding:0}
+@media(max-width:640px){
+ .gwt-DialogBox:not(:has(#gallery)){width:calc(100vw - 28px)!important;left:14px!important;right:auto!important;position:fixed!important;top:50%!important;transform:translateY(-50%);max-height:calc(100dvh - 28px);overflow:auto!important}
+ .gwt-DialogBox:not(:has(#gallery))>div>table{width:100%!important;table-layout:fixed}
+}
+@media(max-width:960px){
+ #bookingSteps .steps>div[class*="stepsName"].unselected{display:none!important}
+ #content .hotelResult>.hotelNoRatesResult>.leftColumn,#content .hotelResult>.hotelNoRatesResult>.rightColumn{flex-basis:100%;width:100%!important}
+}

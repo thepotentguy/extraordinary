@@ -1,0 +1,1324 @@
+{
+  "scope": "Every CSS member in all five shipping ZIPs; CSS content declarations, including literal text and nonliteral value categories. No application JS/CMS/private content reviewed.",
+  "inventory": [
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "''",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "none",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hamiltons",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "''",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "none",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .imageCarousel .navimages[title=Prev],.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .imageCarousel .navimages[title=Next],.gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .imageCarousel .navimages[title=Pause],.gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .imageCarousel .navimages[title=Play],.gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "''",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "none",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .imageCarousel .navimages[title=Prev],.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .imageCarousel .navimages[title=Next],.gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .imageCarousel .navimages[title=Pause],.gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "imbali",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .imageCarousel .navimages[title=Play],.gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "''",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "none",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kingfisher",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mainStyle.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "''",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/reset.css",
+      "selector": "blockquote:before,blockquote:after,q:before,q:after",
+      "value": "none",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".imageCarousel .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelInfoContent-open .header::after",
+      "value": "\"Close details \\00d7\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .Caption:empty::before",
+      "value": "\"Photo gallery\"",
+      "literal": true
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "/* Same vector controls as the landing gallery. */\n.gwt-DialogBox:has(#gallery) .navimages[title=Prev]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Next]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Pause]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": ".gwt-DialogBox:has(#gallery) .navimages[title=Play]",
+      "value": "url(...)",
+      "literal": false
+    },
+    {
+      "property": "kwafubesi",
+      "path": "black-rhino2021/css/theme.css",
+      "selector": "#content .hotelLocation.content::before",
+      "value": "\"For a detailed view of the reserve, choose Satellite on the map.\"",
+      "literal": true
+    }
+  ],
+  "findings": [],
+  "checks": [
+    {
+      "property": "hamiltons",
+      "cssFilesReviewed": 10,
+      "copyReplacements": 3,
+      "otherFilesUnchanged": 128,
+      "r31StepsSuffixIdentical": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "cssFilesReviewed": 10,
+      "copyReplacements": 3,
+      "otherFilesUnchanged": 128,
+      "r31StepsSuffixIdentical": true
+    },
+    {
+      "property": "imbali",
+      "cssFilesReviewed": 10,
+      "copyReplacements": 3,
+      "otherFilesUnchanged": 128,
+      "r31StepsSuffixIdentical": true
+    },
+    {
+      "property": "kingfisher",
+      "cssFilesReviewed": 10,
+      "copyReplacements": 3,
+      "otherFilesUnchanged": 128,
+      "r31StepsSuffixIdentical": true
+    },
+    {
+      "property": "kwafubesi",
+      "cssFilesReviewed": 10,
+      "copyReplacements": 3,
+      "otherFilesUnchanged": 128,
+      "r31StepsSuffixIdentical": true
+    }
+  ]
+}

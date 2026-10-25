@@ -1,0 +1,12 @@
+
+/* Native pixel offsets become stale when a message dialog's viewport resizes. */
+.gwt-DialogBox:not(:has(#gallery)) {
+ position: fixed !important;
+ left: 50% !important;
+ right: auto !important;
+ top: 50% !important;
+ transform: translate(-50%, -50%);
+ max-height: calc(100vh - 28px);
+ max-height: calc(100dvh - 28px);
+ overflow: auto !important;
+}

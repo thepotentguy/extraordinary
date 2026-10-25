@@ -1,0 +1,140 @@
+{
+  "method": "Computed geometry/border signature excludes colour/labels; icon contrast computed from actual CSS SVG stroke/background, normal state; not a complete accessibility audit.",
+  "rows": [
+    {
+      "property": "kingfisher",
+      "home": {
+        "signature": "48|48|14px 2px|solid",
+        "width": 48,
+        "height": 48,
+        "background": "rgb(216, 188, 111)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "native-gallery": {
+        "signature": "48|48|14px 2px|solid",
+        "width": 48,
+        "height": 48,
+        "background": "rgb(216, 188, 111)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "sameHomeDialogGeometry": true,
+      "iconContrast": 6.64
+    },
+    {
+      "property": "kwafubesi",
+      "home": {
+        "signature": "56|44|24px|dashed",
+        "width": 56,
+        "height": 44,
+        "background": "rgb(255, 249, 237)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "native-gallery": {
+        "signature": "56|44|24px|dashed",
+        "width": 56,
+        "height": 44,
+        "background": "rgb(255, 249, 237)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "sameHomeDialogGeometry": true,
+      "iconContrast": 11.73
+    },
+    {
+      "property": "hoyo-hoyo",
+      "home": {
+        "signature": "52|52|50%|solid",
+        "width": 52,
+        "height": 52,
+        "background": "rgb(255, 242, 222)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "native-gallery": {
+        "signature": "52|52|50%|solid",
+        "width": 52,
+        "height": 52,
+        "background": "rgb(255, 242, 222)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "sameHomeDialogGeometry": true,
+      "iconContrast": 11.13
+    },
+    {
+      "property": "hamiltons",
+      "home": {
+        "signature": "48|48|0px|double",
+        "width": 48,
+        "height": 48,
+        "background": "rgb(251, 248, 237)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "native-gallery": {
+        "signature": "48|48|0px|double",
+        "width": 48,
+        "height": 48,
+        "background": "rgb(251, 248, 237)",
+        "stroke": "#42321f",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "sameHomeDialogGeometry": true,
+      "iconContrast": 11.57
+    },
+    {
+      "property": "imbali",
+      "home": {
+        "signature": "56|44|0px|solid",
+        "width": 56,
+        "height": 44,
+        "background": "rgb(25, 28, 21)",
+        "stroke": "#e7d9b2",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "native-gallery": {
+        "signature": "56|44|0px|solid",
+        "width": 56,
+        "height": 44,
+        "background": "rgb(25, 28, 21)",
+        "stroke": "#e7d9b2",
+        "title": "Prev",
+        "tag": "IMG",
+        "role": null,
+        "tabindex": null
+      },
+      "sameHomeDialogGeometry": true,
+      "iconContrast": 12.28
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+/* R3.2.1 round two: keep native recovery/rate buttons inside their parent boxes. */
+#content .hotelResult>.hotelNoRatesResult>.rightColumn>button.viewAlternativeDatesLink,
+#content .hotelResult .hotelRates>button.standardButton,
+#content button.viewRatesLink,
+#content .hotelResultRoom .roomRates>button.smallButton{margin:0!important}

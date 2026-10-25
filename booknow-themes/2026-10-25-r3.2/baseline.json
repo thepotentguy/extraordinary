@@ -1,0 +1,104 @@
+{
+  "method": "Exact R3.1.1 shipping CSS, obtained by removing the appended R3.2 layer from identical retained prefix; exact native result/idle/steps fixtures. No backend.",
+  "rows": [
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 1440,
+      "page": 1440,
+      "left": {
+        "width": 133,
+        "height": 68.375,
+        "client": 133,
+        "scroll": 364
+      },
+      "image": {
+        "width": 125,
+        "height": 106.03125,
+        "client": 125,
+        "scroll": 137
+      },
+      "thumbnail": {
+        "width": 137,
+        "height": 106.03125,
+        "client": 137,
+        "scroll": 137
+      },
+      "marker": {
+        "width": 84,
+        "height": 38,
+        "client": 84,
+        "scroll": 84
+      },
+      "step": {
+        "width": 72,
+        "height": 44,
+        "client": 72,
+        "scroll": 78
+      },
+      "home": null,
+      "idle": null
+    },
+    {
+      "property": "imbali",
+      "state": "idle",
+      "width": 320,
+      "page": 377,
+      "left": {
+        "width": 256,
+        "height": 220,
+        "client": 256,
+        "scroll": 256
+      },
+      "image": {
+        "width": 115.1875,
+        "height": 98.734375,
+        "client": 115,
+        "scroll": 127
+      },
+      "thumbnail": {
+        "width": 127.1875,
+        "height": 98.734375,
+        "client": 127,
+        "scroll": 127
+      },
+      "marker": {
+        "width": 0,
+        "height": 0,
+        "client": 0,
+        "scroll": 0
+      },
+      "step": {
+        "width": 256,
+        "height": 44,
+        "client": 256,
+        "scroll": 256
+      },
+      "home": null,
+      "idle": {
+        "width": 318.796875,
+        "height": 187,
+        "client": 317,
+        "scroll": 375
+      }
+    },
+    {
+      "property": "imbali",
+      "state": "home",
+      "width": 1440,
+      "page": 1440,
+      "left": null,
+      "image": null,
+      "thumbnail": null,
+      "marker": null,
+      "step": null,
+      "home": {
+        "width": 1260,
+        "height": 488.953125,
+        "client": 1260,
+        "scroll": 1260
+      },
+      "idle": null
+    }
+  ]
+}

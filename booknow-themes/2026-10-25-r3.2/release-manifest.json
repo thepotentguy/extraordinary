@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-25",
+  "version": "R3.2",
+  "round": 1,
+  "status": "Local repair evidence; origin native review pending; not installed by design chat",
+  "themes": [
+    {
+      "property": "hamiltons",
+      "version": "R3.2",
+      "file": "hamiltons-Legacy-BookNow-R3.2.zip",
+      "sha256": "3447147d848ba62d5ed22b30a6d4650e080dddc84cc34678bdbaea47a26737ab",
+      "bytes": 1016921,
+      "files": 131,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedMembers": 128
+    },
+    {
+      "property": "hoyo-hoyo",
+      "version": "R3.2",
+      "file": "hoyo-hoyo-Legacy-BookNow-R3.2.zip",
+      "sha256": "3354bc0c4054a074dba59d8366f6115a3e99100a23fe87099cbae38e27207e62",
+      "bytes": 905656,
+      "files": 131,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedMembers": 128
+    },
+    {
+      "property": "imbali",
+      "version": "R3.2",
+      "file": "imbali-Legacy-BookNow-R3.2.zip",
+      "sha256": "cd344ae89e67212cf1cf26fe702579dff4fb88b37649cf253ff6fb66a12ad2ae",
+      "bytes": 857091,
+      "files": 131,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedMembers": 128
+    },
+    {
+      "property": "kingfisher",
+      "version": "R3.2",
+      "file": "kingfisher-Legacy-BookNow-R3.2.zip",
+      "sha256": "2e262707d9113dd07c5bc2b8916fd18e1e547ae1cc7b857cd4432e93fdabce36",
+      "bytes": 1255782,
+      "files": 131,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedMembers": 128
+    },
+    {
+      "property": "kwafubesi",
+      "version": "R3.2",
+      "file": "kwafubesi-Legacy-BookNow-R3.2.zip",
+      "sha256": "505fcbf4cec9bbdb1ee1cfb7299aec3c4fa12453e6e298a0438bbc3f73f5ee3d",
+      "bytes": 1020027,
+      "files": 131,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedMembers": 128
+    }
+  ]
+}

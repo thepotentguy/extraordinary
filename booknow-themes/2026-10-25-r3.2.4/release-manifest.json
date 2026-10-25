@@ -1,0 +1,75 @@
+{
+  "version": "R3.2.4",
+  "round": 3,
+  "date": "2026-10-25",
+  "status": "Published all five; ten changed live CSS entries match. Partial acceptance only: Kwa desktop-state320/390overflow, malformed upstream GPS, cropper/parser warning and mobileColor404 remain.",
+  "scope": "Keep non-gallery message dialogs centered after viewport resize; preserve dimensions/text and all R3.2.3 detail-panel repairs. No timeout or booking-state change. Known map data, mobileColor404 and CMS editing limitations remain.",
+  "patchSha256": "c999d02a53a6e37bde11edb521beec90b43c330155794e2c4f2a1d6ace920f20",
+  "themes": [
+    {
+      "property": "hamiltons",
+      "file": "hamiltons-Legacy-BookNow-R3.2.4.zip",
+      "sha256": "c51f1d8effbc51f3b3350241c10d045fc5bb24346d8c9c8aadee311877120131",
+      "baseSha256": "3bb5390128cc7fa2671978cf4e5ba471d3b92838ae43a2ef7be34cb6b3979019",
+      "files": 132,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "hoyo-hoyo-Legacy-BookNow-R3.2.4.zip",
+      "sha256": "383b02631afa12fd5cfa6022579b4a72d648a2dbf11437376c5404c7ec936acd",
+      "baseSha256": "17f86f09b4100ee5d42acfbfcf9038ab251a2d3b83ed9b5c4f3b2800c31b2ad2",
+      "files": 132,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true
+    },
+    {
+      "property": "imbali",
+      "file": "imbali-Legacy-BookNow-R3.2.4.zip",
+      "sha256": "fc5c127fef0ac75491500a33c949d4468e809dc76114ef8a3a955674f293f9f0",
+      "baseSha256": "cd34b6d96418d3dd93bc10b80858a8d35c0f83f935264ec43f3e4174563f9d1e",
+      "files": 132,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "kingfisher-Legacy-BookNow-R3.2.4.zip",
+      "sha256": "8ea8ef5f765b14c19394b095c67769c18bc68562c069ca732299aaa354e7757a",
+      "baseSha256": "ce8a1b8bdd4aff7e4786cc4265c6898b44bd7dafbcd8c824830ab89f65a9b6d5",
+      "files": 132,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "kwafubesi-Legacy-BookNow-R3.2.4.zip",
+      "sha256": "6c14429b0b5abbe41d5672b8c27a9a99518c03e751cb8e3a3a954a32388c08eb",
+      "baseSha256": "7864ecdf32521b06d9721da3ff34dae255b96852ea2c57912792a69b90e3e738",
+      "files": 132,
+      "directories": 8,
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true
+    }
+  ]
+}

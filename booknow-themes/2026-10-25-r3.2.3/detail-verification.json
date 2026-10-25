@@ -1,0 +1,5555 @@
+{
+  "scope": "Captured native table structure, map replaced offline; fixture Pictures close then native details; close event mocked locally, actual GWT close requires coordinator native preview.",
+  "checks": [
+    {
+      "brand": "hamiltons",
+      "width": 320,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1167.21875,
+          "w": 250,
+          "h": 1712.03125,
+          "b": 2879.25
+        },
+        "header": {
+          "x": 41,
+          "y": 1170.21875,
+          "w": 244,
+          "h": 44,
+          "b": 1214.21875
+        },
+        "first": {
+          "x": 67,
+          "y": 2546.25,
+          "w": 192,
+          "h": 260,
+          "b": 2806.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 1712,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 290,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 41,
+          "y": 183.375,
+          "w": 238,
+          "h": 260,
+          "b": 443.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 814,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 320,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1167.21875,
+          "w": 250,
+          "h": 2874.734375,
+          "b": 4041.953125
+        },
+        "header": {
+          "x": 41,
+          "y": 1170.21875,
+          "w": 244,
+          "h": 44,
+          "b": 1214.21875
+        },
+        "first": {
+          "x": 41,
+          "y": 1214.21875,
+          "w": 244,
+          "h": 2824.734375,
+          "b": 4038.953125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2869,
+        "clientHeight": 2875,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 290,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 15,
+          "y": 59,
+          "w": 290,
+          "h": 2824.734375,
+          "b": 2883.734375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2869,
+        "clientHeight": 814,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1140.1875,
+          "w": 320,
+          "h": 1712.03125,
+          "b": 2852.21875
+        },
+        "header": {
+          "x": 41,
+          "y": 1143.1875,
+          "w": 314,
+          "h": 44,
+          "b": 1187.1875
+        },
+        "first": {
+          "x": 67,
+          "y": 2519.21875,
+          "w": 262,
+          "h": 260,
+          "b": 2779.21875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 1712,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 360,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 41,
+          "y": 183.375,
+          "w": 308,
+          "h": 260,
+          "b": 443.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 814,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "height": 390,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1140.1875,
+          "w": 320,
+          "h": 1712.03125,
+          "b": 2852.21875
+        },
+        "header": {
+          "x": 41,
+          "y": 1143.1875,
+          "w": 314,
+          "h": 44,
+          "b": 1187.1875
+        },
+        "first": {
+          "x": 67,
+          "y": 2519.21875,
+          "w": 262,
+          "h": 260,
+          "b": 2779.21875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 1712,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 360,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 41,
+          "y": 183.375,
+          "w": 308,
+          "h": 260,
+          "b": 443.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1706,
+        "clientHeight": 360,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1140.1875,
+          "w": 320,
+          "h": 2841.140625,
+          "b": 3981.328125
+        },
+        "header": {
+          "x": 41,
+          "y": 1143.1875,
+          "w": 314,
+          "h": 44,
+          "b": 1187.1875
+        },
+        "first": {
+          "x": 41,
+          "y": 1187.1875,
+          "w": 314,
+          "h": 2791.140625,
+          "b": 3978.328125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2835,
+        "clientHeight": 2841,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 360,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 15,
+          "y": 59,
+          "w": 360,
+          "h": 2557.234375,
+          "b": 2616.234375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2601,
+        "clientHeight": 814,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "height": 390,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1140.1875,
+          "w": 320,
+          "h": 2841.140625,
+          "b": 3981.328125
+        },
+        "header": {
+          "x": 41,
+          "y": 1143.1875,
+          "w": 314,
+          "h": 44,
+          "b": 1187.1875
+        },
+        "first": {
+          "x": 41,
+          "y": 1187.1875,
+          "w": 314,
+          "h": 2791.140625,
+          "b": 3978.328125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2835,
+        "clientHeight": 2841,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 360,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 15,
+          "y": 59,
+          "w": 360,
+          "h": 2557.234375,
+          "b": 2616.234375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2601,
+        "clientHeight": 360,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 768,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1053.296875,
+          "w": 698,
+          "h": 1692.84375,
+          "b": 2746.140625
+        },
+        "header": {
+          "x": 41,
+          "y": 1056.296875,
+          "w": 692,
+          "h": 44,
+          "b": 1100.296875
+        },
+        "first": {
+          "x": 67,
+          "y": 2413.140625,
+          "w": 640,
+          "h": 260,
+          "b": 2673.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1687,
+        "clientHeight": 1693,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 738,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 41,
+          "y": 164.1875,
+          "w": 686,
+          "h": 260,
+          "b": 424.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1687,
+        "clientHeight": 814,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 768,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 38,
+          "y": 1053.296875,
+          "w": 698,
+          "h": 1788.5625,
+          "b": 2841.859375
+        },
+        "header": {
+          "x": 41,
+          "y": 1056.296875,
+          "w": 692,
+          "h": 44,
+          "b": 1100.296875
+        },
+        "first": {
+          "x": 41,
+          "y": 1100.296875,
+          "w": 692,
+          "h": 1738.5625,
+          "b": 2838.859375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1783,
+        "clientHeight": 1789,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 15,
+          "y": 15,
+          "w": 738,
+          "h": 44,
+          "b": 59
+        },
+        "first": {
+          "x": 15,
+          "y": 59,
+          "w": 738,
+          "h": 1738.5625,
+          "b": 1797.5625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1783,
+        "clientHeight": 814,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1024,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 51,
+          "y": 741.46875,
+          "w": 594,
+          "h": 1388.84375,
+          "b": 2130.3125
+        },
+        "header": {
+          "x": 54,
+          "y": 744.46875,
+          "w": 588,
+          "h": 44,
+          "b": 788.46875
+        },
+        "first": {
+          "x": 385.078125,
+          "y": 893.65625,
+          "w": 230.921875,
+          "h": 260,
+          "b": 1153.65625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 51,
+          "y": 741.46875,
+          "w": 594,
+          "h": 1388.84375,
+          "b": 2130.3125
+        },
+        "header": {
+          "x": 54,
+          "y": 744.46875,
+          "w": 588,
+          "h": 44,
+          "b": 788.46875
+        },
+        "first": {
+          "x": 385.078125,
+          "y": 893.65625,
+          "w": 230.921875,
+          "h": 260,
+          "b": 1153.65625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1024,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 51,
+          "y": 741.46875,
+          "w": 594,
+          "h": 862.5,
+          "b": 1603.96875
+        },
+        "header": {
+          "x": 54,
+          "y": 744.46875,
+          "w": 588,
+          "h": 44,
+          "b": 788.46875
+        },
+        "first": {
+          "x": 54,
+          "y": 788.46875,
+          "w": 588,
+          "h": 812.5,
+          "b": 1600.96875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 51,
+          "y": 741.46875,
+          "w": 594,
+          "h": 862.5,
+          "b": 1603.96875
+        },
+        "header": {
+          "x": 54,
+          "y": 744.46875,
+          "w": 588,
+          "h": 44,
+          "b": 788.46875
+        },
+        "first": {
+          "x": 54,
+          "y": 788.46875,
+          "w": 588,
+          "h": 812.5,
+          "b": 1600.96875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1440,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 147,
+          "y": 739.296875,
+          "w": 818,
+          "h": 1388.84375,
+          "b": 2128.140625
+        },
+        "header": {
+          "x": 150,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 603.265625,
+          "y": 891.484375,
+          "w": 332.734375,
+          "h": 260,
+          "b": 1151.484375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 147,
+          "y": 739.296875,
+          "w": 818,
+          "h": 1388.84375,
+          "b": 2128.140625
+        },
+        "header": {
+          "x": 150,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 603.265625,
+          "y": 891.484375,
+          "w": 332.734375,
+          "h": 260,
+          "b": 1151.484375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1440,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 147,
+          "y": 739.296875,
+          "w": 818,
+          "h": 862.5,
+          "b": 1601.796875
+        },
+        "header": {
+          "x": 150,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 150,
+          "y": 786.296875,
+          "w": 812,
+          "h": 812.5,
+          "b": 1598.796875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 147,
+          "y": 739.296875,
+          "w": 818,
+          "h": 862.5,
+          "b": 1601.796875
+        },
+        "header": {
+          "x": 150,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 150,
+          "y": 786.296875,
+          "w": 812,
+          "h": 812.5,
+          "b": 1598.796875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1920,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 387,
+          "y": 739.296875,
+          "w": 818,
+          "h": 1388.84375,
+          "b": 2128.140625
+        },
+        "header": {
+          "x": 390,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 843.265625,
+          "y": 891.484375,
+          "w": 332.734375,
+          "h": 260,
+          "b": 1151.484375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 387,
+          "y": 739.296875,
+          "w": 818,
+          "h": 1388.84375,
+          "b": 2128.140625
+        },
+        "header": {
+          "x": 390,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 843.265625,
+          "y": 891.484375,
+          "w": 332.734375,
+          "h": 260,
+          "b": 1151.484375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1383,
+        "clientHeight": 1389,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1920,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 387,
+          "y": 739.296875,
+          "w": 818,
+          "h": 862.5,
+          "b": 1601.796875
+        },
+        "header": {
+          "x": 390,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 390,
+          "y": 786.296875,
+          "w": 812,
+          "h": 812.5,
+          "b": 1598.796875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 387,
+          "y": 739.296875,
+          "w": 818,
+          "h": 862.5,
+          "b": 1601.796875
+        },
+        "header": {
+          "x": 390,
+          "y": 742.296875,
+          "w": 812,
+          "h": 44,
+          "b": 786.296875
+        },
+        "first": {
+          "x": 390,
+          "y": 786.296875,
+          "w": 812,
+          "h": 812.5,
+          "b": 1598.796875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 857,
+        "clientHeight": 863,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 320,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1102.3125,
+          "w": 292,
+          "h": 1692.03125,
+          "b": 2794.34375
+        },
+        "header": {
+          "x": 23,
+          "y": 1102.3125,
+          "w": 286,
+          "h": 44,
+          "b": 1146.3125
+        },
+        "first": {
+          "x": 48,
+          "y": 1265.6875,
+          "w": 236,
+          "h": 260,
+          "b": 1525.6875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1692,
+        "clientHeight": 1692,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 290,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 43,
+          "y": 175.375,
+          "w": 240,
+          "h": 260,
+          "b": 435.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1692,
+        "clientHeight": 820,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 320,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1102.3125,
+          "w": 292,
+          "h": 2831.9375,
+          "b": 3934.25
+        },
+        "header": {
+          "x": 23,
+          "y": 1102.3125,
+          "w": 286,
+          "h": 44,
+          "b": 1146.3125
+        },
+        "first": {
+          "x": 23,
+          "y": 1146.3125,
+          "w": 286,
+          "h": 2787.9375,
+          "b": 3934.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2832,
+        "clientHeight": 2832,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 290,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 18,
+          "y": 56,
+          "w": 290,
+          "h": 2787.9375,
+          "b": 2843.9375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2832,
+        "clientHeight": 820,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1114.234375,
+          "w": 362,
+          "h": 1672.84375,
+          "b": 2787.078125
+        },
+        "header": {
+          "x": 23,
+          "y": 1114.234375,
+          "w": 356,
+          "h": 44,
+          "b": 1158.234375
+        },
+        "first": {
+          "x": 48,
+          "y": 1258.421875,
+          "w": 306,
+          "h": 260,
+          "b": 1518.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 360,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 43,
+          "y": 156.1875,
+          "w": 310,
+          "h": 260,
+          "b": 416.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 820,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "height": 390,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1114.234375,
+          "w": 362,
+          "h": 1672.84375,
+          "b": 2787.078125
+        },
+        "header": {
+          "x": 23,
+          "y": 1114.234375,
+          "w": 356,
+          "h": 44,
+          "b": 1158.234375
+        },
+        "first": {
+          "x": 48,
+          "y": 1258.421875,
+          "w": 306,
+          "h": 260,
+          "b": 1518.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 360,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 43,
+          "y": 156.1875,
+          "w": 310,
+          "h": 260,
+          "b": 416.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 366,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1114.234375,
+          "w": 362,
+          "h": 1779.359375,
+          "b": 2893.59375
+        },
+        "header": {
+          "x": 23,
+          "y": 1114.234375,
+          "w": 356,
+          "h": 44,
+          "b": 1158.234375
+        },
+        "first": {
+          "x": 23,
+          "y": 1158.234375,
+          "w": 356,
+          "h": 1735.359375,
+          "b": 2893.59375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 1779,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 360,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 18,
+          "y": 56,
+          "w": 360,
+          "h": 1735.359375,
+          "b": 1791.359375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 820,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "height": 390,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1114.234375,
+          "w": 362,
+          "h": 1779.359375,
+          "b": 2893.59375
+        },
+        "header": {
+          "x": 23,
+          "y": 1114.234375,
+          "w": 356,
+          "h": 44,
+          "b": 1158.234375
+        },
+        "first": {
+          "x": 23,
+          "y": 1158.234375,
+          "w": 356,
+          "h": 1735.359375,
+          "b": 2893.59375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 1779,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 360,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 18,
+          "y": 56,
+          "w": 360,
+          "h": 1735.359375,
+          "b": 1791.359375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 366,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 768,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1006.34375,
+          "w": 740,
+          "h": 1672.84375,
+          "b": 2679.1875
+        },
+        "header": {
+          "x": 23,
+          "y": 1006.34375,
+          "w": 734,
+          "h": 44,
+          "b": 1050.34375
+        },
+        "first": {
+          "x": 48,
+          "y": 1150.53125,
+          "w": 684,
+          "h": 260,
+          "b": 1410.53125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 738,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 43,
+          "y": 156.1875,
+          "w": 688,
+          "h": 260,
+          "b": 416.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 820,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 768,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1006.34375,
+          "w": 740,
+          "h": 1779.359375,
+          "b": 2785.703125
+        },
+        "header": {
+          "x": 23,
+          "y": 1006.34375,
+          "w": 734,
+          "h": 44,
+          "b": 1050.34375
+        },
+        "first": {
+          "x": 23,
+          "y": 1050.34375,
+          "w": 734,
+          "h": 1735.359375,
+          "b": 2785.703125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 1779,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 18,
+          "y": 12,
+          "w": 738,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 18,
+          "y": 56,
+          "w": 738,
+          "h": 1735.359375,
+          "b": 1791.359375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1779,
+        "clientHeight": 820,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1024,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 372,
+          "y": 913.234375,
+          "w": 628,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 378,
+          "y": 913.234375,
+          "w": 622,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 403,
+          "y": 1057.421875,
+          "w": 572,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 372,
+          "y": 913.234375,
+          "w": 628,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 378,
+          "y": 913.234375,
+          "w": 622,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 403,
+          "y": 1057.421875,
+          "w": 572,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1024,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 372,
+          "y": 913.234375,
+          "w": 628,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 378,
+          "y": 913.234375,
+          "w": 622,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 378,
+          "y": 957.234375,
+          "w": 622,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 372,
+          "y": 913.234375,
+          "w": 628,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 378,
+          "y": 913.234375,
+          "w": 622,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 378,
+          "y": 957.234375,
+          "w": 622,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1440,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 448,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 454,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 479,
+          "y": 1057.421875,
+          "w": 836,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 448,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 454,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 479,
+          "y": 1057.421875,
+          "w": 836,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1440,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 448,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 454,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 454,
+          "y": 957.234375,
+          "w": 886,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 448,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 454,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 454,
+          "y": 957.234375,
+          "w": 886,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1920,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 688,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 694,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 719,
+          "y": 1057.421875,
+          "w": 836,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 688,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1672.84375,
+          "b": 2586.078125
+        },
+        "header": {
+          "x": 694,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 719,
+          "y": 1057.421875,
+          "w": 836,
+          "h": 260,
+          "b": 1317.421875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1673,
+        "clientHeight": 1673,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1920,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 688,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 694,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 694,
+          "y": 957.234375,
+          "w": 886,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 688,
+          "y": 913.234375,
+          "w": 892,
+          "h": 1088.40625,
+          "b": 2001.640625
+        },
+        "header": {
+          "x": 694,
+          "y": 913.234375,
+          "w": 886,
+          "h": 44,
+          "b": 957.234375
+        },
+        "first": {
+          "x": 694,
+          "y": 957.234375,
+          "w": 886,
+          "h": 1044.40625,
+          "b": 2001.640625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1088,
+        "clientHeight": 1088,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 320,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1057.59375,
+          "w": 292,
+          "h": 1738.03125,
+          "b": 2795.625
+        },
+        "header": {
+          "x": 17,
+          "y": 1057.59375,
+          "w": 292,
+          "h": 44,
+          "b": 1101.59375
+        },
+        "first": {
+          "x": 45,
+          "y": 2467.625,
+          "w": 236,
+          "h": 260,
+          "b": 2727.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1738,
+        "clientHeight": 1738,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 40,
+          "y": 178.375,
+          "w": 240,
+          "h": 260,
+          "b": 438.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1738,
+        "clientHeight": 820,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 320,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1057.59375,
+          "w": 292,
+          "h": 2853.34375,
+          "b": 3910.9375
+        },
+        "header": {
+          "x": 17,
+          "y": 1057.59375,
+          "w": 292,
+          "h": 44,
+          "b": 1101.59375
+        },
+        "first": {
+          "x": 17,
+          "y": 1101.59375,
+          "w": 292,
+          "h": 2809.34375,
+          "b": 3910.9375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2853,
+        "clientHeight": 2853,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 12,
+          "y": 56,
+          "w": 296,
+          "h": 2809.34375,
+          "b": 2865.34375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2853,
+        "clientHeight": 820,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 1718.84375,
+          "b": 2789.703125
+        },
+        "header": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 44,
+          "b": 1114.859375
+        },
+        "first": {
+          "x": 45,
+          "y": 2461.703125,
+          "w": 306,
+          "h": 260,
+          "b": 2721.703125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 1719,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 40,
+          "y": 159.1875,
+          "w": 310,
+          "h": 260,
+          "b": 419.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 820,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "height": 390,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 1718.84375,
+          "b": 2789.703125
+        },
+        "header": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 44,
+          "b": 1114.859375
+        },
+        "first": {
+          "x": 45,
+          "y": 2461.703125,
+          "w": 306,
+          "h": 260,
+          "b": 2721.703125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 1719,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 40,
+          "y": 159.1875,
+          "w": 310,
+          "h": 260,
+          "b": 419.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 366,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 1800.765625,
+          "b": 2871.625
+        },
+        "header": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 44,
+          "b": 1114.859375
+        },
+        "first": {
+          "x": 17,
+          "y": 1114.859375,
+          "w": 362,
+          "h": 1756.765625,
+          "b": 2871.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 12,
+          "y": 56,
+          "w": 366,
+          "h": 1756.765625,
+          "b": 1812.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 820,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "height": 390,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 1800.765625,
+          "b": 2871.625
+        },
+        "header": {
+          "x": 17,
+          "y": 1070.859375,
+          "w": 362,
+          "h": 44,
+          "b": 1114.859375
+        },
+        "first": {
+          "x": 17,
+          "y": 1114.859375,
+          "w": 362,
+          "h": 1756.765625,
+          "b": 2871.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 12,
+          "y": 56,
+          "w": 366,
+          "h": 1756.765625,
+          "b": 1812.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 366,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 768,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1005.46875,
+          "w": 740,
+          "h": 1718.84375,
+          "b": 2724.3125
+        },
+        "header": {
+          "x": 17,
+          "y": 1005.46875,
+          "w": 740,
+          "h": 44,
+          "b": 1049.46875
+        },
+        "first": {
+          "x": 45,
+          "y": 2396.3125,
+          "w": 684,
+          "h": 260,
+          "b": 2656.3125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 1719,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 40,
+          "y": 159.1875,
+          "w": 688,
+          "h": 260,
+          "b": 419.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1719,
+        "clientHeight": 820,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 768,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 17,
+          "y": 1005.46875,
+          "w": 740,
+          "h": 1800.765625,
+          "b": 2806.234375
+        },
+        "header": {
+          "x": 17,
+          "y": 1005.46875,
+          "w": 740,
+          "h": 44,
+          "b": 1049.46875
+        },
+        "first": {
+          "x": 17,
+          "y": 1049.46875,
+          "w": 740,
+          "h": 1756.765625,
+          "b": 2806.234375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 44,
+          "b": 56
+        },
+        "first": {
+          "x": 12,
+          "y": 56,
+          "w": 744,
+          "h": 1756.765625,
+          "b": 1812.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 820,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "imbali",
+      "width": 1024,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 734.484375,
+          "y": 1159.625,
+          "w": 237.5,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 734.484375,
+          "y": 1159.625,
+          "w": 237.5,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 1024,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 350,
+          "y": 1056.4375,
+          "w": 650,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 350,
+          "y": 1012.4375,
+          "w": 650,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 350,
+          "y": 1056.4375,
+          "w": 650,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 1440,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 966.15625,
+          "y": 1159.625,
+          "w": 355.828125,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 966.15625,
+          "y": 1159.625,
+          "w": 355.828125,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 1440,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 416,
+          "y": 1056.4375,
+          "w": 934,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 416,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 416,
+          "y": 1056.4375,
+          "w": 934,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 1920,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 1206.15625,
+          "y": 1159.625,
+          "w": 355.828125,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1418.84375,
+          "b": 2431.28125
+        },
+        "header": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 1206.15625,
+          "y": 1159.625,
+          "w": 355.828125,
+          "h": 260,
+          "b": 1419.625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1419,
+        "clientHeight": 1419,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "imbali",
+      "width": 1920,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 656,
+          "y": 1056.4375,
+          "w": 934,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 1800.765625,
+          "b": 2813.203125
+        },
+        "header": {
+          "x": 656,
+          "y": 1012.4375,
+          "w": 934,
+          "h": 44,
+          "b": 1056.4375
+        },
+        "first": {
+          "x": 656,
+          "y": 1056.4375,
+          "w": 934,
+          "h": 1756.765625,
+          "b": 2813.203125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1801,
+        "clientHeight": 1801,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 320,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1146.40625,
+          "w": 258,
+          "h": 1706.03125,
+          "b": 2852.4375
+        },
+        "header": {
+          "x": 35,
+          "y": 1147.40625,
+          "w": 256,
+          "h": 44,
+          "b": 1191.40625
+        },
+        "first": {
+          "x": 60,
+          "y": 2522.4375,
+          "w": 206,
+          "h": 260,
+          "b": 2782.4375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 1706,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 294,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 38,
+          "y": 180.375,
+          "w": 244,
+          "h": 260,
+          "b": 440.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 818,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 320,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1146.40625,
+          "w": 258,
+          "h": 2864.734375,
+          "b": 4011.140625
+        },
+        "header": {
+          "x": 35,
+          "y": 1147.40625,
+          "w": 256,
+          "h": 44,
+          "b": 1191.40625
+        },
+        "first": {
+          "x": 35,
+          "y": 1191.40625,
+          "w": 256,
+          "h": 2818.734375,
+          "b": 4010.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2863,
+        "clientHeight": 2865,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 294,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 13,
+          "y": 57,
+          "w": 294,
+          "h": 2785.140625,
+          "b": 2842.140625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2829,
+        "clientHeight": 818,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1114.3125,
+          "w": 328,
+          "h": 1706.03125,
+          "b": 2820.34375
+        },
+        "header": {
+          "x": 35,
+          "y": 1115.3125,
+          "w": 326,
+          "h": 44,
+          "b": 1159.3125
+        },
+        "first": {
+          "x": 60,
+          "y": 2490.34375,
+          "w": 276,
+          "h": 260,
+          "b": 2750.34375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 1706,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 364,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 38,
+          "y": 180.375,
+          "w": 314,
+          "h": 260,
+          "b": 440.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 818,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "height": 390,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1114.3125,
+          "w": 328,
+          "h": 1706.03125,
+          "b": 2820.34375
+        },
+        "header": {
+          "x": 35,
+          "y": 1115.3125,
+          "w": 326,
+          "h": 44,
+          "b": 1159.3125
+        },
+        "first": {
+          "x": 60,
+          "y": 2490.34375,
+          "w": 276,
+          "h": 260,
+          "b": 2750.34375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 1706,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 364,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 38,
+          "y": 180.375,
+          "w": 314,
+          "h": 260,
+          "b": 440.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1704,
+        "clientHeight": 364,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1114.3125,
+          "w": 328,
+          "h": 2831.140625,
+          "b": 3945.453125
+        },
+        "header": {
+          "x": 35,
+          "y": 1115.3125,
+          "w": 326,
+          "h": 44,
+          "b": 1159.3125
+        },
+        "first": {
+          "x": 35,
+          "y": 1159.3125,
+          "w": 326,
+          "h": 2785.140625,
+          "b": 3944.453125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2829,
+        "clientHeight": 2831,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 364,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 13,
+          "y": 57,
+          "w": 364,
+          "h": 2785.140625,
+          "b": 2842.140625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2829,
+        "clientHeight": 818,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "height": 390,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1114.3125,
+          "w": 328,
+          "h": 2831.140625,
+          "b": 3945.453125
+        },
+        "header": {
+          "x": 35,
+          "y": 1115.3125,
+          "w": 326,
+          "h": 44,
+          "b": 1159.3125
+        },
+        "first": {
+          "x": 35,
+          "y": 1159.3125,
+          "w": 326,
+          "h": 2785.140625,
+          "b": 3944.453125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2829,
+        "clientHeight": 2831,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 364,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 13,
+          "y": 57,
+          "w": 364,
+          "h": 2785.140625,
+          "b": 2842.140625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2829,
+        "clientHeight": 364,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 768,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1048.921875,
+          "w": 706,
+          "h": 1686.84375,
+          "b": 2735.765625
+        },
+        "header": {
+          "x": 35,
+          "y": 1049.921875,
+          "w": 704,
+          "h": 44,
+          "b": 1093.921875
+        },
+        "first": {
+          "x": 60,
+          "y": 2405.765625,
+          "w": 654,
+          "h": 260,
+          "b": 2665.765625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1685,
+        "clientHeight": 1687,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 742,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 38,
+          "y": 161.1875,
+          "w": 692,
+          "h": 260,
+          "b": 421.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1685,
+        "clientHeight": 818,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 768,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 34,
+          "y": 1048.921875,
+          "w": 706,
+          "h": 1778.5625,
+          "b": 2827.484375
+        },
+        "header": {
+          "x": 35,
+          "y": 1049.921875,
+          "w": 704,
+          "h": 44,
+          "b": 1093.921875
+        },
+        "first": {
+          "x": 35,
+          "y": 1093.921875,
+          "w": 704,
+          "h": 1732.5625,
+          "b": 2826.484375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 13,
+          "y": 13,
+          "w": 742,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 13,
+          "y": 57,
+          "w": 742,
+          "h": 1732.5625,
+          "b": 1789.5625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 818,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1024,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 49,
+          "y": 794.75,
+          "w": 570,
+          "h": 1382.84375,
+          "b": 2177.59375
+        },
+        "header": {
+          "x": 50,
+          "y": 795.75,
+          "w": 568,
+          "h": 44,
+          "b": 839.75
+        },
+        "first": {
+          "x": 370.265625,
+          "y": 943.9375,
+          "w": 222.734375,
+          "h": 260,
+          "b": 1203.9375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 49,
+          "y": 794.75,
+          "w": 570,
+          "h": 1382.84375,
+          "b": 2177.59375
+        },
+        "header": {
+          "x": 50,
+          "y": 795.75,
+          "w": 568,
+          "h": 44,
+          "b": 839.75
+        },
+        "first": {
+          "x": 370.265625,
+          "y": 943.9375,
+          "w": 222.734375,
+          "h": 260,
+          "b": 1203.9375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1024,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 49,
+          "y": 794.75,
+          "w": 570,
+          "h": 1778.5625,
+          "b": 2573.3125
+        },
+        "header": {
+          "x": 50,
+          "y": 795.75,
+          "w": 568,
+          "h": 44,
+          "b": 839.75
+        },
+        "first": {
+          "x": 50,
+          "y": 839.75,
+          "w": 568,
+          "h": 1732.5625,
+          "b": 2572.3125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 49,
+          "y": 794.75,
+          "w": 570,
+          "h": 1778.5625,
+          "b": 2573.3125
+        },
+        "header": {
+          "x": 50,
+          "y": 795.75,
+          "w": 568,
+          "h": 44,
+          "b": 839.75
+        },
+        "first": {
+          "x": 50,
+          "y": 839.75,
+          "w": 568,
+          "h": 1732.5625,
+          "b": 2572.3125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1440,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 125,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1382.84375,
+          "b": 2175.421875
+        },
+        "header": {
+          "x": 126,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 590.265625,
+          "y": 941.765625,
+          "w": 342.734375,
+          "h": 260,
+          "b": 1201.765625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 125,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1382.84375,
+          "b": 2175.421875
+        },
+        "header": {
+          "x": 126,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 590.265625,
+          "y": 941.765625,
+          "w": 342.734375,
+          "h": 260,
+          "b": 1201.765625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1440,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 125,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1778.5625,
+          "b": 2571.140625
+        },
+        "header": {
+          "x": 126,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 126,
+          "y": 837.578125,
+          "w": 832,
+          "h": 1732.5625,
+          "b": 2570.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 125,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1778.5625,
+          "b": 2571.140625
+        },
+        "header": {
+          "x": 126,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 126,
+          "y": 837.578125,
+          "w": 832,
+          "h": 1732.5625,
+          "b": 2570.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1920,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 365,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1382.84375,
+          "b": 2175.421875
+        },
+        "header": {
+          "x": 366,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 830.265625,
+          "y": 941.765625,
+          "w": 342.734375,
+          "h": 260,
+          "b": 1201.765625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 365,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1382.84375,
+          "b": 2175.421875
+        },
+        "header": {
+          "x": 366,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 830.265625,
+          "y": 941.765625,
+          "w": 342.734375,
+          "h": 260,
+          "b": 1201.765625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1381,
+        "clientHeight": 1383,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1920,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": false,
+      "before": {
+        "table": {
+          "x": 365,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1778.5625,
+          "b": 2571.140625
+        },
+        "header": {
+          "x": 366,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 366,
+          "y": 837.578125,
+          "w": 832,
+          "h": 1732.5625,
+          "b": 2570.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "after": {
+        "table": {
+          "x": 365,
+          "y": 792.578125,
+          "w": 834,
+          "h": 1778.5625,
+          "b": 2571.140625
+        },
+        "header": {
+          "x": 366,
+          "y": 793.578125,
+          "w": 832,
+          "h": 44,
+          "b": 837.578125
+        },
+        "first": {
+          "x": 366,
+          "y": 837.578125,
+          "w": 832,
+          "h": 1732.5625,
+          "b": 2570.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1777,
+        "clientHeight": 1779,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 320,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1126.34375,
+          "w": 254,
+          "h": 1686.03125,
+          "b": 2812.375
+        },
+        "header": {
+          "x": 36,
+          "y": 1127.34375,
+          "w": 254,
+          "h": 44,
+          "b": 1171.34375
+        },
+        "first": {
+          "x": 40,
+          "y": 1287.71875,
+          "w": 246,
+          "h": 260,
+          "b": 1547.71875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 1686,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 296,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 16,
+          "y": 173.375,
+          "w": 288,
+          "h": 260,
+          "b": 433.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 818,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 320,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1126.34375,
+          "w": 254,
+          "h": 2813.34375,
+          "b": 3939.6875
+        },
+        "header": {
+          "x": 36,
+          "y": 1127.34375,
+          "w": 254,
+          "h": 44,
+          "b": 1171.34375
+        },
+        "first": {
+          "x": 36,
+          "y": 1171.34375,
+          "w": 254,
+          "h": 2767.34375,
+          "b": 3938.6875
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2811,
+        "clientHeight": 2813,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 296,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 296,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 12,
+          "y": 57,
+          "w": 296,
+          "h": 2767.34375,
+          "b": 2824.34375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 2811,
+        "clientHeight": 818,
+        "page": 320,
+        "viewport": {
+          "w": 320,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1078.015625,
+          "w": 324,
+          "h": 1686.03125,
+          "b": 2764.046875
+        },
+        "header": {
+          "x": 36,
+          "y": 1079.015625,
+          "w": 324,
+          "h": 44,
+          "b": 1123.015625
+        },
+        "first": {
+          "x": 40,
+          "y": 1239.390625,
+          "w": 316,
+          "h": 260,
+          "b": 1499.390625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 1686,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 366,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 16,
+          "y": 173.375,
+          "w": 358,
+          "h": 260,
+          "b": 433.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 818,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "height": 390,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1078.015625,
+          "w": 324,
+          "h": 1686.03125,
+          "b": 2764.046875
+        },
+        "header": {
+          "x": 36,
+          "y": 1079.015625,
+          "w": 324,
+          "h": 44,
+          "b": 1123.015625
+        },
+        "first": {
+          "x": 40,
+          "y": 1239.390625,
+          "w": 316,
+          "h": 260,
+          "b": 1499.390625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 1686,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 366,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 16,
+          "y": 173.375,
+          "w": 358,
+          "h": 260,
+          "b": 433.375
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1684,
+        "clientHeight": 364,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1078.015625,
+          "w": 324,
+          "h": 2813.34375,
+          "b": 3891.359375
+        },
+        "header": {
+          "x": 36,
+          "y": 1079.015625,
+          "w": 324,
+          "h": 44,
+          "b": 1123.015625
+        },
+        "first": {
+          "x": 36,
+          "y": 1123.015625,
+          "w": 324,
+          "h": 2767.34375,
+          "b": 3890.359375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2811,
+        "clientHeight": 2813,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 366,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 12,
+          "y": 57,
+          "w": 366,
+          "h": 1714.765625,
+          "b": 1771.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 818,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "height": 390,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 1078.015625,
+          "w": 324,
+          "h": 2813.34375,
+          "b": 3891.359375
+        },
+        "header": {
+          "x": 36,
+          "y": 1079.015625,
+          "w": 324,
+          "h": 44,
+          "b": 1123.015625
+        },
+        "first": {
+          "x": 36,
+          "y": 1123.015625,
+          "w": 324,
+          "h": 2767.34375,
+          "b": 3890.359375
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 2811,
+        "clientHeight": 2813,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 366,
+          "h": 366,
+          "b": 378
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 366,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 12,
+          "y": 57,
+          "w": 366,
+          "h": 1714.765625,
+          "b": 1771.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 364,
+        "page": 390,
+        "viewport": {
+          "w": 390,
+          "h": 390
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 768,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 971.375,
+          "w": 702,
+          "h": 1666.84375,
+          "b": 2638.21875
+        },
+        "header": {
+          "x": 36,
+          "y": 972.375,
+          "w": 702,
+          "h": 44,
+          "b": 1016.375
+        },
+        "first": {
+          "x": 40,
+          "y": 1113.5625,
+          "w": 694,
+          "h": 260,
+          "b": 1373.5625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 744,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 16,
+          "y": 154.1875,
+          "w": 736,
+          "h": 260,
+          "b": 414.1875
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 818,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 768,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 36,
+          "y": 971.375,
+          "w": 702,
+          "h": 1760.765625,
+          "b": 2732.140625
+        },
+        "header": {
+          "x": 36,
+          "y": 972.375,
+          "w": 702,
+          "h": 44,
+          "b": 1016.375
+        },
+        "first": {
+          "x": 36,
+          "y": 1016.375,
+          "w": 702,
+          "h": 1714.765625,
+          "b": 2731.140625
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 12,
+          "y": 12,
+          "w": 744,
+          "h": 820,
+          "b": 832
+        },
+        "header": {
+          "x": 12,
+          "y": 13,
+          "w": 744,
+          "h": 44,
+          "b": 57
+        },
+        "first": {
+          "x": 12,
+          "y": 57,
+          "w": 744,
+          "h": 1714.765625,
+          "b": 1771.765625
+        },
+        "position": "fixed",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 818,
+        "page": 768,
+        "viewport": {
+          "w": 768,
+          "h": 844
+        },
+        "headerHit": true
+      },
+      "scrollResult": {
+        "endVisible": true,
+        "closeVisible": true,
+        "scrolled": true
+      },
+      "closeWorks": true,
+      "desktopUnchanged": false
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1024,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 367,
+          "y": 901.0625,
+          "w": 604,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 367,
+          "y": 902.0625,
+          "w": 604,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 371,
+          "y": 1043.25,
+          "w": 596,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 367,
+          "y": 901.0625,
+          "w": 604,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 367,
+          "y": 902.0625,
+          "w": 604,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 371,
+          "y": 1043.25,
+          "w": 596,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1024,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 367,
+          "y": 901.0625,
+          "w": 604,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 367,
+          "y": 902.0625,
+          "w": 604,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 367,
+          "y": 946.0625,
+          "w": 604,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 367,
+          "y": 901.0625,
+          "w": 604,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 367,
+          "y": 902.0625,
+          "w": 604,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 367,
+          "y": 946.0625,
+          "w": 604,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1024,
+        "viewport": {
+          "w": 1024,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1440,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 463,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 463,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 467,
+          "y": 1043.25,
+          "w": 820,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 463,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 463,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 467,
+          "y": 1043.25,
+          "w": 820,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1440,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 463,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 463,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 463,
+          "y": 946.0625,
+          "w": 828,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 463,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 463,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 463,
+          "y": 946.0625,
+          "w": 828,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1440,
+        "viewport": {
+          "w": 1440,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1920,
+      "height": 844,
+      "state": "location",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 703,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 703,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 707,
+          "y": 1043.25,
+          "w": 820,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 703,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1666.84375,
+          "b": 2567.90625
+        },
+        "header": {
+          "x": 703,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 707,
+          "y": 1043.25,
+          "w": 820,
+          "h": 260,
+          "b": 1303.25
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1665,
+        "clientHeight": 1667,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1920,
+      "height": 844,
+      "state": "terms",
+      "pass": true,
+      "baselineBelowViewport": true,
+      "before": {
+        "table": {
+          "x": 703,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 703,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 703,
+          "y": 946.0625,
+          "w": 828,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "after": {
+        "table": {
+          "x": 703,
+          "y": 901.0625,
+          "w": 828,
+          "h": 1760.765625,
+          "b": 2661.828125
+        },
+        "header": {
+          "x": 703,
+          "y": 902.0625,
+          "w": 828,
+          "h": 44,
+          "b": 946.0625
+        },
+        "first": {
+          "x": 703,
+          "y": 946.0625,
+          "w": 828,
+          "h": 1714.765625,
+          "b": 2660.828125
+        },
+        "position": "static",
+        "scroll": 0,
+        "scrollHeight": 1759,
+        "clientHeight": 1761,
+        "page": 1920,
+        "viewport": {
+          "w": 1920,
+          "h": 844
+        },
+        "headerHit": false
+      },
+      "scrollResult": null,
+      "closeWorks": null,
+      "desktopUnchanged": true
+    }
+  ]
+}

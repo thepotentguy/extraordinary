@@ -1,0 +1,124 @@
+/* CMS news-feed uses only the native title/description fields; no new template. */
+#newsFeeds{padding:0!important;margin:0!important}#newsFeeds table{width:100%;border-spacing:0}#newsFeeds td{padding:0}#content #newsFeeds .newsFeedItemPanel{min-width:0;box-sizing:border-box;background:transparent;border:0;box-shadow:none;border-radius:0}#newsFeeds .newsFeedItemPanelIcon{display:none!important}
+/* Shared finishing rules; property compositions below are separate designs. */
+body{background:var(--brand-surface)!important;color:var(--brand-ink)}
+#searchBar button,#searchBar button:hover{background:var(--brand-ink);color:#fff}
+#content .hotelHeading h1,#content .hotelResultRoom h3,#content .paymentTerms h3{color:var(--brand-ink)}
+#client_logo img{aspect-ratio:auto!important;object-fit:contain;max-width:100%;height:96px;width:250px}
+#content #newsFeeds .newsFeedItemPanel{padding:28px 24px 30px}
+#content #newsFeeds .newsFeedItemPanelIcon{font:500 11px/1.5 var(--brand-body);letter-spacing:.15em;text-transform:uppercase;margin:0 0 10px;color:var(--brand-ink)}
+#content #newsFeeds .newsItemAnchor{display:block;text-decoration:none;text-transform:none;letter-spacing:normal;font:500 36px/1.1 var(--brand-heading);margin:0 0 16px;color:var(--brand-ink);max-width:22ch}
+#content #newsFeeds .newsFeedItemDescription{font:400 15px/1.8 var(--brand-body);margin:0;max-width:60ch;color:var(--brand-ink)}
+#content #newsFeeds .newsItemAnchor{color:inherit;text-underline-offset:4px}
+#client_logo,#client_logo img{float:none}
+#content .imageCarousel .gallerylayer img{object-fit:cover}
+#content .imageCarousel #main{max-width:none;background:transparent!important}
+#content .imageCarousel{max-width:none}
+#searchBar button:focus-visible,#nav a:focus-visible{outline:3px solid var(--brand-accent);outline-offset:4px}
+@media(max-width:960px){
+ #client_logo{margin:16px!important;width:180px!important}
+ #client_logo img{width:180px!important;height:76px!important}
+ #content #newsFeeds .newsFeedItemPanel{padding:22px 16px}
+ #content #newsFeeds .newsItemAnchor{font-size:30px}
+ #contentWrapper{width:calc(100% - 28px);margin:18px auto}
+}
+
+/* @property kingfisher */
+#header{border-top:5px solid #9e8959;align-items:stretch}
+#client_logo{margin:20px max(24px,calc((100vw - 1160px)/2));width:290px}
+#client_logo img{width:290px;height:108px}
+#nav{background:#143727;border-bottom:1px solid #9e8959;justify-content:flex-start;padding-left:max(24px,calc((100vw - 1160px)/2))}
+#searchBar{border:1px solid #d8dfd6;border-top:3px solid #9e8959;border-radius:0;padding:28px}
+#content{padding:12px;border:1px solid #cbd4c9;border-radius:0;background:#fff}
+#content .imageCarousel #main{outline:1px solid #cbd4c9;outline-offset:5px}
+#content #newsFeeds .newsFeedItemPanel{padding:28px 18px 24px}
+#content #newsFeeds .newsItemAnchor{font-size:44px;letter-spacing:-.02em}
+@media(min-width:961px){#contentWrapper{grid-template-columns:330px minmax(0,1fr);gap:38px;margin-top:36px}}
+@media(max-width:960px){#content #newsFeeds .newsItemAnchor{font-size:34px}}
+
+/* @property kwafubesi */
+#header{border-top:0;border-bottom:1px solid #d4bea2;background:#fffaf3}
+#client_logo{margin:24px auto;width:245px}
+#client_logo img{width:245px;height:110px}
+#nav{background:#fffaf3;border-top:1px solid #d4bea2;border-bottom:1px solid #d4bea2}
+#nav ul li a,#nav ul li a:visited{color:#603913!important}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#ece0cf;color:#603913!important}
+#nav #agentLogin{border-color:#b39a7c}
+#content{background:transparent;padding:0;border-radius:0}
+.contentBorder{background:transparent!important}
+#searchBar{background:#fffdf8;border:1px solid #d4bea2;border-radius:24px 24px 3px 3px;padding:30px 24px;border-top:6px solid #603913}
+#searchBar h4{font-size:30px;line-height:1.25}
+#content .imageCarousel #main{border-radius:80px 3px 3px 3px;overflow:hidden}
+#content #newsFeeds .newsFeedItemPanel{border-left:2px solid #b39a7c;margin:22px 0 0;padding:2px 0 8px 24px}
+#content #newsFeeds .newsItemAnchor{font-size:36px}
+@media(min-width:961px){#contentWrapper{grid-template-columns:minmax(0,1fr) 340px;gap:34px;margin-top:40px}#contentWrapper>#content{grid-column:1!important}#contentWrapper>#sideBar{grid-column:2!important;padding-top:35px}}
+@media(max-width:960px){#content .imageCarousel #main{border-radius:44px 2px 2px 2px}#content #newsFeeds .newsFeedItemPanel{margin-top:12px;padding-left:18px}}
+
+/* @property hoyo-hoyo */
+#header{border-top:0;align-items:stretch;background:#fff}
+#client_logo{margin:16px 36px;width:220px}
+#client_logo img{width:220px;height:95px}
+#nav{background:#8c3b19;justify-content:flex-end;padding-right:36px}
+#nav ul li a{font-family:var(--brand-heading)!important;font-size:15px;letter-spacing:.06em}
+#contentWrapper{gap:0;background:#fff;border-bottom:5px solid #8c3b19}
+#searchBar{border:0;border-left:7px solid #8c3b19;border-radius:0;background:#f6e9db;padding:30px 24px}
+#searchBar h4{text-transform:uppercase;font-size:32px;line-height:1.2}
+#searchBar button{border-radius:0;text-transform:uppercase;letter-spacing:.06em}
+#content{border-radius:0;padding:0}
+#content #newsFeeds .newsFeedItemPanel{background:#8c3b19;padding:24px 30px}
+#content #newsFeeds .newsItemAnchor,#content #newsFeeds .newsFeedItemDescription,#content #newsFeeds .newsFeedItemPanelIcon{color:#fffaf4}
+#content #newsFeeds .newsItemAnchor{text-transform:uppercase;letter-spacing:.01em;font-size:36px}
+@media(min-width:961px){#contentWrapper{grid-template-columns:330px minmax(0,1fr);margin-top:28px}#sideBar{background:#f6e9db}}
+@media(max-width:960px){#contentWrapper{background:transparent;border:0}#content #newsFeeds .newsFeedItemPanel{padding:24px 18px}#searchBar{border-left-width:5px}}
+
+/* @property hamiltons */
+#header{background:#f9f7ef;border-top:8px solid #332e1f}
+#client_logo{margin:26px auto;width:300px}
+#client_logo img{width:300px;height:120px}
+#nav{background:transparent;border-top:1px solid #c3ba98;border-bottom:3px double #c3ba98;min-height:58px}
+#nav ul li a,#nav ul li a:visited{color:#332e1f!important;font-size:11px;letter-spacing:.12em}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#e5dfc9;color:#332e1f!important}
+#nav #agentLogin{border-color:#8e8566}
+#content{background:transparent;padding:10px;border:3px double #a89c78;border-radius:0}
+.contentBorder{background:transparent!important}
+#searchBar{background:#faf8f1;border:1px solid #a89c78;border-top:5px double #a89c78;border-radius:0;padding:30px 24px}
+#searchBar h4{font-size:29px;line-height:1.25}
+#searchBar button{border-radius:0;letter-spacing:.06em}
+#content #newsFeeds .newsFeedItemPanel{padding:28px 12px;text-align:center}
+#content #newsFeeds .newsItemAnchor{font-size:36px;margin:0 auto 16px}
+#content #newsFeeds .newsFeedItemDescription{margin:auto}
+#content #newsFeeds .newsFeedItemPanelIcon{letter-spacing:.2em}
+@media(min-width:961px){#contentWrapper{grid-template-columns:minmax(0,1fr) 330px;gap:36px;margin-top:36px}#contentWrapper>#content{grid-column:1!important}#contentWrapper>#sideBar{grid-column:2!important}}
+@media(max-width:960px){#header #client_logo{margin:18px auto!important}#content #newsFeeds .newsItemAnchor{font-size:30px}}
+
+/* @property imbali */
+#header{border-top:0;background:#fff}
+#client_logo{margin:22px auto;width:245px}
+#client_logo img{width:245px;height:105px}
+#nav{background:#85754e}
+#nav ul li a{font-family:var(--brand-heading)!important;font-size:16px;letter-spacing:.09em}
+#contentWrapper{max-width:1160px;gap:24px}
+#content{background:transparent;padding:0;border-radius:0}
+.contentBorder{background:transparent!important}
+#content #newsFeeds .newsFeedItemPanel{padding:28px 0 16px}
+#content #newsFeeds .newsItemAnchor{font-size:46px;text-transform:uppercase;letter-spacing:.02em;max-width:none}
+#content #newsFeeds .newsFeedItemPanelIcon{color:#85754e}
+#searchBar{border:0;border-top:4px solid #85754e;border-radius:0;background:#fff;padding:26px}
+#searchBar h4{font-size:30px;text-transform:uppercase}
+#searchBar button{border-radius:0;text-transform:uppercase;letter-spacing:.08em}
+@media(min-width:961px){
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{display:contents}
+ body:has(#content .imageCarousel #main) #content>div,body:has(#content .imageCarousel #main) #content .contentBorder{display:contents}
+ body:has(#content .imageCarousel #main) .imageCarousel{order:-3;width:100%}
+ body:has(#content .imageCarousel #main) .imageCarousel #main{aspect-ratio:670/260}
+ body:has(#content .imageCarousel #main) #sideBar{order:-2;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #newsFeeds{order:-1}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1.1fr) minmax(0,1fr) minmax(0,1fr);align-items:end;gap:20px}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:90px minmax(0,1fr);gap:8px}
+ body:has(#content .imageCarousel #main) #unitBreakdown{margin:0}
+ body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
+}
+@media(max-width:960px){#content #newsFeeds .newsItemAnchor{font-size:36px}}

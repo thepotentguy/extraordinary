@@ -1,0 +1,755 @@
+{
+  "scope": "Screenshot timing correction only: wait for ALL original native image ancestors to finish fading before capture; no shipping photo/colour adjustment.",
+  "rows": [
+    {
+      "property": "kingfisher",
+      "width": 362,
+      "opacity": "1",
+      "height": 162.078125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "kingfisher",
+      "width": 608,
+      "opacity": "0.999645",
+      "height": 271.125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "0.999645",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "kwafubesi",
+      "width": 362,
+      "opacity": "0.999753",
+      "height": 162.078125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "0.999753",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "kwafubesi",
+      "width": 668,
+      "opacity": "0.999753",
+      "height": 298,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "0.999753",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 362,
+      "opacity": "1",
+      "height": 162.078125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 668,
+      "opacity": "1",
+      "height": 298,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "hamiltons",
+      "width": 362,
+      "opacity": "1",
+      "height": 162.078125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "hamiltons",
+      "width": 668,
+      "opacity": "1",
+      "height": 298,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "imbali",
+      "width": 362,
+      "opacity": "1",
+      "height": 162.078125,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    },
+    {
+      "property": "imbali",
+      "width": 670,
+      "opacity": "1",
+      "height": 300,
+      "natural": [
+        670,
+        300
+      ],
+      "ancestors": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "gallerylayer",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "main",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "imageCarousel",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "contentBorder",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "content",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "contentWrapper",
+          "cls": "",
+          "opacity": "1",
+          "filter": "none"
+        }
+      ]
+    }
+  ]
+}

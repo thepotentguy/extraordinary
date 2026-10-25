@@ -1,0 +1,1165 @@
+{
+  "date": "2026-10-25",
+  "version": "R2",
+  "stage": "Local review fixtures only; not installed",
+  "layoutChecks": 150,
+  "fixtureNavigationAndReducedMotionChecks": 5,
+  "failures": 0,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "screens": [
+    "home",
+    "results",
+    "rates",
+    "terms",
+    "photos",
+    "location"
+  ],
+  "method": "Local Chromium desktop viewport simulation, actual package CSS; existing local home fixture and authored neutral later-screen fixtures. No availability query or native transaction.",
+  "checks": [
+    {
+      "property": "kingfisher",
+      "screen": "home",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "home",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "home",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "home",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "home",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "results",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "results",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "results",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "results",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "results",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "rates",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "rates",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "rates",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "rates",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "rates",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "terms",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "terms",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "terms",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "terms",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "terms",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "photos",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "photos",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "photos",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "photos",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "photos",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "location",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "location",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "location",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "location",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": "location",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "screen": null,
+      "width": null,
+      "check": "fixture-navigation-and-reduced-motion",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "home",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "home",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "home",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "home",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "home",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "results",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "results",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "results",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "results",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "results",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "rates",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "rates",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "rates",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "rates",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "rates",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "terms",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "terms",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "terms",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "terms",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "terms",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "photos",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "photos",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "photos",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "photos",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "photos",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "location",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "location",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "location",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "location",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": "location",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "screen": null,
+      "width": null,
+      "check": "fixture-navigation-and-reduced-motion",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "home",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "home",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "home",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "home",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "home",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "results",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "results",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "results",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "results",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "results",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "rates",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "rates",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "rates",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "rates",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "rates",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "terms",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "terms",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "terms",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "terms",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "terms",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "photos",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "photos",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "photos",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "photos",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "photos",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "location",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "location",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "location",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "location",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": "location",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "screen": null,
+      "width": null,
+      "check": "fixture-navigation-and-reduced-motion",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "home",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "home",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "home",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "home",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "home",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "results",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "results",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "results",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "results",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "results",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "rates",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "rates",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "rates",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "rates",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "rates",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "terms",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "terms",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "terms",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "terms",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "terms",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "photos",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "photos",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "photos",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "photos",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "photos",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "location",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "location",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "location",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "location",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": "location",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "screen": null,
+      "width": null,
+      "check": "fixture-navigation-and-reduced-motion",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "home",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "home",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "home",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "home",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "home",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "results",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "results",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "results",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "results",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "results",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "rates",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "rates",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "rates",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "rates",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "rates",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "terms",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "terms",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "terms",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "terms",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "terms",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "photos",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "photos",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "photos",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "photos",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "photos",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "location",
+      "width": 1440,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "location",
+      "width": 1024,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "location",
+      "width": 768,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "location",
+      "width": 390,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": "location",
+      "width": 320,
+      "check": "layout",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "screen": null,
+      "width": null,
+      "check": "fixture-navigation-and-reduced-motion",
+      "pass": true
+    }
+  ],
+  "packageComparison": [
+    {
+      "property": "kingfisher",
+      "changedMembersFromR1": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "r1Sha256": "d9873dc17eaf0e3309ff4d7355105bb6518737577f171ad1201564f284e22ba6",
+      "r2Sha256": "18f5b9741760e43322ce87171ccbed4a69b2c18cbea0dd710df05a7bec4dd4bc"
+    },
+    {
+      "property": "kwafubesi",
+      "changedMembersFromR1": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "r1Sha256": "b99076d227d84ff5fa4e945dea45a4f85c34b47e7d059e081d52bc01551960a2",
+      "r2Sha256": "e0de00c14fdd5e31f3a9b35acefafbad82b45aac3d0e62bd647d439d2a2ca020"
+    },
+    {
+      "property": "hoyo-hoyo",
+      "changedMembersFromR1": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "r1Sha256": "c39c8902dd585d0d95a85d3c55fa3171e45c649cc1ab64dd9656b5e128f07948",
+      "r2Sha256": "93c2b3d27c6d672e2c21a79c9ecd427df9e6cd6d2aa72dab5161740c25590a8f"
+    },
+    {
+      "property": "hamiltons",
+      "changedMembersFromR1": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "r1Sha256": "e7c2d61dfc7bbe750237f3cdd091138f522b5482bb610d56aa831c33b2c01cbc",
+      "r2Sha256": "c033a675cd9288fe80291032ecccda457e8926db73c1bbc031703ca5a24d9c1e"
+    },
+    {
+      "property": "imbali",
+      "changedMembersFromR1": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "r1Sha256": "eccb25501ed3cee14c075d34d3538b3282ce0e8754c67f8b0a0f045058073da6",
+      "r2Sha256": "c38f354a97ca95a49194f5442c1621c200a3d486370c2f2ab96f7b989385c7f2"
+    }
+  ],
+  "limits": [
+    "No native installation/import/transaction/physical-device certification",
+    "No rate, availability, policy, room-image or inclusions claim",
+    "Native gallery timing/loading/keyboard behaviour unchanged",
+    "Native map initialization and checkout remain open",
+    "Sponsor acceptance pending"
+  ]
+}

@@ -1,0 +1,49 @@
+
+/* Native detail tables must open inside the mobile viewport, including after Pictures closes. */
+@media (max-width: 960px) {
+ #content .hotelInfoContent.hotelInfoContent-open {
+  display: block !important;
+  position: fixed !important;
+  inset: 12px 12px auto !important;
+  width: calc(100vw - 24px) !important;
+  max-width: calc(100vw - 24px) !important;
+  max-height: calc(100vh - 24px);
+  max-height: calc(100dvh - 24px);
+  margin: 0 !important;
+  box-sizing: border-box;
+  overflow: auto !important;
+  overscroll-behavior: contain;
+  z-index: 15000;
+  background: var(--brand-surface, #fff) !important;
+  box-shadow: 0 12px 40px #0004;
+ }
+ #content .hotelInfoContent-open > tbody,
+ #content .hotelInfoContent-open > tbody > tr,
+ #content .hotelInfoContent-open > tbody > tr > td {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+ }
+ #content .hotelInfoContent-open > tbody > tr:first-child {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--brand-surface, #fff);
+ }
+ #content .hotelInfoContent-open .header {
+  min-height: 44px;
+  margin: 0;
+ }
+ #content .hotelInfoContent-open > tbody > tr > td > div {
+  height: auto !important;
+  overflow: visible !important;
+ }
+ #content .hotelInfoContent-open .hotelLocation.content {
+  display: flex !important;
+  flex-direction: column !important;
+ }
+ #content .hotelInfoContent-open .hotelLocation > .locationMap {
+  order: -1 !important;
+  flex: none;
+ }
+}

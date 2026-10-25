@@ -1,0 +1,134 @@
+/* R3 package-owned UX support. No customer-selector rescue rules in proofs. */
+#content .hotelImage img{max-width:100%;height:auto}
+#content .ratesText p,#content .roomOptions p{font:13px/1.7 var(--brand-body);margin:8px 0}
+#content button:disabled{cursor:default;opacity:.72}
+.gwt-DialogBox:has(#gallery) #gallery .gallerylayer img{display:block;width:100%;height:100%;object-fit:contain}
+.gwt-DialogBox:has(#gallery) .navpanellayer{position:absolute;z-index:1001;height:76px!important}
+.gwt-DialogBox:has(#gallery) #gallery{margin-bottom:108px!important}
+.gwt-DialogBox:has(#gallery) .gallerystatus{position:absolute!important;top:calc(100% + 8px)!important;left:auto!important;right:0!important;width:auto!important;margin:0!important;min-width:0;font:12px/1.4 var(--brand-body);color:var(--brand-ink)}
+.gwt-DialogBox:has(#gallery) #formButtons button{min-height:44px;min-width:110px;height:auto;padding:12px 22px;font:14px/1.5 var(--brand-body);cursor:pointer}
+.gwt-DialogBox:has(#gallery) #formButtons button:focus-visible{outline:3px solid var(--brand-accent);outline-offset:4px}
+#content .viewAlternativeDatesLink,#content button.viewRatesLink,#bookingSteps .backButton{display:inline-flex;align-items:center;justify-content:center;min-height:44px;height:auto;max-width:100%;box-sizing:border-box;padding:12px 18px;white-space:normal;font:14px/1.5 var(--brand-body)}
+#content .hotelNoRatesResult{display:flex;flex-wrap:wrap;gap:20px;align-items:center;width:100%;max-width:100%;box-sizing:border-box;padding:20px}
+#content .hotelNoRatesResult .leftColumn{flex:1 1 220px;float:none;width:auto;margin:0}
+#content .hotelNoRatesResult .rightColumn{float:none;width:auto;margin:0}
+#content .hotelNoRatesResult #message{max-width:100%;width:auto;float:none;box-sizing:border-box}
+#content #formDetails{width:100%;max-width:100%;box-sizing:border-box;padding:24px}
+#content #formDetails fieldset{min-width:0;width:100%;max-width:100%;box-sizing:border-box;border:1px solid currentColor;padding:20px;margin:0 0 22px}
+#content #formDetails .gwt-CheckBox{display:flex;gap:12px;align-items:flex-start;max-width:100%}
+#content #formDetails .gwt-CheckBox label{float:none!important;position:static!important;display:flex!important;align-items:center;min-height:44px;width:auto!important;max-width:100%;margin:0;padding:8px;line-height:1.6;box-sizing:border-box}
+#content #formDetails .gwt-CheckBox input[type=checkbox]{position:static!important;float:none!important;appearance:auto!important;width:22px!important;height:22px!important;min-width:22px;min-height:22px;margin:11px 0 0!important;opacity:1}
+#content #formDetails .haveReadAndAccept{position:static;display:block;width:100%;max-width:100%;box-sizing:border-box;margin:12px 0}
+#content #formDetails .haveReadAndAccept a{min-height:44px;display:inline-flex;align-items:center}
+#content #formDetails input:not([type=checkbox]):not([type=radio]),#content #formDetails select,#content #formDetails textarea{max-width:100%;box-sizing:border-box;min-height:44px;font:16px/1.5 var(--brand-body)}
+#content #formDetails label{overflow-wrap:anywhere}
+#content #formButtons{float:none;position:static;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:flex-end;width:100%;max-width:100%;box-sizing:border-box}
+#content #formButtons button{min-height:48px;height:auto;max-width:100%;padding:12px 20px;box-sizing:border-box;font:14px/1.5 var(--brand-body)}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{min-width:44px;min-height:44px;box-sizing:border-box;object-fit:contain;cursor:pointer}
+#content .imageCarousel .navimages:focus-visible,.gwt-DialogBox:has(#gallery) .navimages:focus-visible{outline:3px solid var(--brand-accent);outline-offset:4px}
+#content .imageCarousel .navimages:hover,.gwt-DialogBox:has(#gallery) .navimages:hover{filter:brightness(.92)}
+#content .imageCarousel .navimages:active,.gwt-DialogBox:has(#gallery) .navimages:active{outline:2px solid currentColor;outline-offset:-5px}
+@media(min-width:961px){#content #formDetails .detailsColumn{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px 24px}#content #formDetails .detailsColumn label{display:block;float:none;width:auto}#content #formDetails .detailsColumn input,#content #formDetails .detailsColumn select{width:100%}}
+@media(max-width:960px){#content #formDetails{padding:16px}#content #formDetails fieldset{padding:16px}#content #formDetails .detailsColumn{display:flex;flex-direction:column;gap:10px}#content #formDetails .detailsColumn label,#content #formDetails .detailsColumn input,#content #formDetails .detailsColumn select{float:none;width:100%!important;max-width:100%}#content #formButtons button{width:100%}}
+
+/* @property kingfisher */
+body{--brand-accent:#a68a42}
+#header{border-top:6px solid #a68a42}
+#nav{background:#103b28;border-bottom:3px double #b69b56}
+#nav ul li a,#nav ul li a:visited{color:#f5e7be!important;border-bottom:2px solid transparent;border-radius:10px 0 10px 0}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#245a3c;color:#fff7dc!important;border-bottom-color:#d9b85d}
+#nav ul li a#agentLogin{border:1px solid #b69b56}
+#searchBar{border-top:5px solid #a68a42}
+#searchBar button{background:#103b28;border:2px solid #a68a42;border-radius:10px 0 10px 0}
+#content .hotelInfo a,#bookingSteps .backButton,#content .viewAlternativeDatesLink,#content button.standardButton{border:1px solid #a68a42;border-radius:10px 0 10px 0;padding:11px 15px}
+#content .hotelInfo a{background:#f9f4e6;color:#103b28}
+#content .hotelInfo a:hover,#content .hotelInfo a:focus-visible,#content .hotelInfo a.selected{background:#103b28!important;color:#f5e7be!important}
+#bookingSteps .steps a{border-bottom:2px solid #a68a42}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{width:48px!important;height:48px!important;padding:12px!important;background:#d8bc6f!important;border:2px solid #103b28!important;border-radius:14px 2px 14px 2px!important;box-shadow:inset 0 0 0 2px #f4e3af}
+#content .imageCarousel .navpanellayer{width:52px!important;height:198px!important}
+.gwt-DialogBox:has(#gallery) .navpanelfg{display:flex;justify-content:center;gap:12px}
+.gwt-DialogBox:has(#gallery) #formButtons button{background:#103b28;color:#f5e7be;border:2px solid #a68a42;border-radius:14px 2px 14px 2px}
+@media(max-width:960px){#content .imageCarousel .navpanellayer{width:164px!important;height:52px!important}#content .imageCarousel .gallerystatus{top:58px!important}}
+
+/* @property kwafubesi */
+/* Preserve the camp/field-guide direction; distinguish its image index tabs. */
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{width:56px!important;height:44px!important;padding:11px 17px!important;border:1px dashed #78532c!important;border-radius:24px!important;background:#fff9ed!important;box-shadow:none}
+#content .imageCarousel .navpanellayer{width:184px!important}
+#content .imageCarousel .gallerydesc{width:calc(100% - 205px)!important}
+.gwt-DialogBox:has(#gallery) .navpanelfg{display:flex;justify-content:flex-start;gap:8px;padding-left:14px!important}
+.gwt-DialogBox:has(#gallery) #formButtons button{background:#fff9ed;color:#603913;border:1px dashed #78532c;border-radius:24px}
+@media(max-width:960px){#content .imageCarousel .gallerydesc{width:100%!important}#content .imageCarousel .gallerystatus{right:198px!important}}
+
+/* @property hoyo-hoyo */
+#nav ul li a,#nav ul li a:visited{border-radius:25px;border:1px solid transparent;letter-spacing:.04em}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#f4d8b2;color:#74300f!important;border-color:#f4d8b2}
+#nav ul li a#agentLogin{border-radius:25px;border:1px solid #e4ba83}
+#content .hotelInfo a,#bookingSteps .backButton,#content .viewAlternativeDatesLink,#content button.standardButton{border-radius:24px;border:2px solid #8c3b19}
+#content .hotelInfo{gap:8px}
+#bookingSteps .steps a{border-radius:24px;border:1px solid #bb7842}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{width:52px!important;height:52px!important;padding:15px!important;border-radius:50%!important;background:#fff2de!important;border:2px solid #8c3b19!important;box-shadow:none}
+#content .imageCarousel .navpanellayer{width:196px!important;height:64px!important;background:#fff2de}
+#content .imageCarousel .gallerydesc{width:calc(100% - 196px)!important;min-height:64px}
+#content .imageCarousel .navpanelfg{gap:9px!important;justify-content:center}
+.gwt-DialogBox:has(#gallery) .navpanelfg{display:flex;justify-content:center;gap:14px}
+.gwt-DialogBox:has(#gallery) #formButtons button{border-radius:26px;background:#8c3b19;color:#fff2de;border:2px solid #e4ba83}
+@media(max-width:960px){#content .imageCarousel .gallerydesc{width:100%!important}#content .imageCarousel .gallerystatus{right:207px!important}}
+
+/* @property hamiltons */
+#content .imageCarousel .gallerydesc{width:calc(100% - 190px)!important;padding:0 12px}
+@media(max-width:960px){#content .imageCarousel .gallerydesc{width:100%!important}}
+#nav ul li a,#nav ul li a:visited{border-radius:0;border-top:1px solid transparent;border-bottom:1px solid transparent;letter-spacing:.12em}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#eee7d1;border-top-color:#887a4f;border-bottom-color:#887a4f;color:#332e1f!important}
+#nav ul li a#agentLogin{border:3px double #887a4f;border-radius:0}
+#content .hotelInfo a,#bookingSteps .backButton,#content .viewAlternativeDatesLink,#content button.standardButton{border:3px double #887a4f;border-radius:0;background:#fbf8ed;color:#332e1f;letter-spacing:.04em}
+#content .hotelInfo a:hover,#content .hotelInfo a:focus-visible{background:#e8dfc3}
+#bookingSteps .steps a{border-top:1px solid #b6a77b;border-bottom:3px double #887a4f}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{width:48px!important;height:48px!important;padding:12px!important;border:3px double #645937!important;border-radius:0!important;background:#fbf8ed!important;box-shadow:0 0 0 2px #fbf8ed,0 0 0 3px #b6a77b}
+#content .imageCarousel .navpanellayer{width:164px!important;height:54px!important}
+#content .imageCarousel .navpanelfg{gap:9px!important}
+.gwt-DialogBox:has(#gallery) .navpanelfg{display:flex;justify-content:center;gap:18px;border-top:3px double #b6a77b;border-bottom:1px solid #b6a77b;padding:14px!important}
+.gwt-DialogBox:has(#gallery) #formButtons button{border:3px double #887a4f;border-radius:0;background:#fbf8ed;color:#332e1f;letter-spacing:.07em}
+
+/* @property imbali */
+body{--brand-ink:#292b20;--brand-surface:#d8d5c6;background:#d8d5c6!important}
+#header{background:#e8e4d5;border-top:5px solid #24271e}
+#nav{background:#24271e;border-bottom:2px solid #a58d53}
+#nav ul li a,#nav ul li a:visited{border-radius:0;color:#e7d9b2!important;border-right:1px solid #6b6245}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#403e2e;color:#fff4cf!important}
+#nav ul li a#agentLogin{border:1px solid #9e8955;border-radius:0}
+#content .hotelInfo a,#bookingSteps .backButton,#content .viewAlternativeDatesLink,#content button.standardButton{background:#24271e;color:#f0e4c2;border:1px solid #9e8955;border-radius:0}
+#content .hotelInfo a:hover,#content .hotelInfo a:focus-visible{background:#403e2e;color:#fff4cf}
+#searchBar,#bookingSteps,#content .hotelHeading,#content #newsFeeds .newsFeedItemPanel{background:#24271e}
+#content .hotelInfoContent-open{background:#eeebdf}
+/* Remove the actual negative margin and border overshoot, not just overflow. */
+#newsFeeds .newsFeedFlexTable,#newsFeeds .newsFeedItemPanel{margin:0!important;left:auto!important;right:auto!important;transform:none!important;width:100%!important;box-sizing:border-box}
+#newsFeeds table,#newsFeeds tbody,#newsFeeds tr,#newsFeeds td{padding:0!important;border-spacing:0!important;box-sizing:border-box}
+#content .imageCarousel #main{box-sizing:border-box!important;border:0!important;width:100%!important;max-width:100%!important}
+#content .imageCarousel .gallerylayer{box-sizing:border-box;left:0!important;width:100%!important}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{width:56px!important;height:44px!important;padding:11px 17px!important;border:1px solid #8c7b4b!important;border-radius:0!important;background:#191c15!important;box-shadow:none}
+#content .imageCarousel .navpanelfg,.gwt-DialogBox:has(#gallery) .navpanelfg{display:flex;justify-content:flex-end;gap:0!important;background:#191c15;padding:0!important}
+#content .imageCarousel .navpanellayer{width:168px!important;background:#191c15}
+.gwt-DialogBox:has(#gallery) .navpanelfg{justify-content:center}
+#content .imageCarousel .navimages[title=Prev],.gwt-DialogBox:has(#gallery) .navimages[title=Prev]{content:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='m14 6-6 6 6 6' fill='none' stroke='%23e7d9b2' stroke-width='1.7'/%3E%3C/svg%3E")}
+#content .imageCarousel .navimages[title=Next],.gwt-DialogBox:has(#gallery) .navimages[title=Next]{content:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='m10 6 6 6-6 6' fill='none' stroke='%23e7d9b2' stroke-width='1.7'/%3E%3C/svg%3E")}
+#content .imageCarousel .navimages[title=Pause],.gwt-DialogBox:has(#gallery) .navimages[title=Pause]{content:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='M9 6v12M15 6v12' fill='none' stroke='%23e7d9b2' stroke-width='1.7'/%3E%3C/svg%3E")}
+#content .imageCarousel .navimages[title=Play],.gwt-DialogBox:has(#gallery) .navimages[title=Play]{content:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='22' height='22' viewBox='0 0 24 24'%3E%3Cpath d='m9 5 10 7-10 7Z' fill='none' stroke='%23e7d9b2' stroke-width='1.7'/%3E%3C/svg%3E")}
+.gwt-DialogBox:has(#gallery) #formButtons button{background:#191c15;color:#e7d9b2;border:1px solid #9e8955;border-radius:0}
+.gwt-DialogBox:has(#gallery) .gallerystatus{color:#e7d9b2!important}
+@media(min-width:961px){
+ body:has(#content .imageCarousel #main) #searchBar{display:block}
+ body:has(#content .imageCarousel #main) #searchBar h4{margin:0 0 18px}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:minmax(0,2fr) minmax(150px,1fr) minmax(150px,1fr);gap:20px;align-items:start}
+ body:has(#content .imageCarousel #main) #stayCriteria{display:grid;grid-template-columns:1fr 70px 1fr;gap:8px 14px;align-items:start}
+ body:has(#content .imageCarousel #main) #stayCriteria label{grid-row:1;margin:0;min-height:20px}
+ body:has(#content .imageCarousel #main) #arrivalDateLabel{grid-column:1}
+ body:has(#content .imageCarousel #main) #nightsLabel{grid-column:2}
+ body:has(#content .imageCarousel #main) #departureDateLabel{grid-column:3}
+ body:has(#content .imageCarousel #main) #stayCriteria input{grid-row:2;width:100%!important}
+ body:has(#content .imageCarousel #main) #arrivalDateBox{grid-column:1}
+ body:has(#content .imageCarousel #main) #nightBox{grid-column:2}
+ body:has(#content .imageCarousel #main) #departureDateBox{grid-column:3}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #promoCriteria{gap:8px}
+ body:has(#content .imageCarousel #main) .submitBtnContainer{grid-column:1/-1;justify-self:end;width:230px!important;margin-top:0!important}
+}

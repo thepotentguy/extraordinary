@@ -1,0 +1,6449 @@
+{
+  "scope": "Native DOM replay; later labels/action visibility are synthetic layout permutations, not native navigation or touch certification.",
+  "baseline": [
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "height": 170,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 80
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 130
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 164
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 44,
+          "right": 320,
+          "bottom": 198
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "height": 176,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 81.1875
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 131.1875
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 165.1875
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 199.1875
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "height": 176,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 81.1875
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 131.1875
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 165.1875
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 199.1875
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "height": 176,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 36,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 81.1875
+        },
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 86,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 131.1875
+        },
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 120,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 165.1875
+        },
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 154,
+          "width": 306,
+          "height": 45.1875,
+          "right": 320,
+          "bottom": 199.1875
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "height": 166,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 34,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 78
+        },
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 84,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 128
+        },
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 118,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 162
+        },
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 152,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 196
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "height": 166,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 34,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 78
+        },
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 84,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 128
+        },
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 118,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 162
+        },
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 152,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 196
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "height": 166,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 34,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 78
+        },
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 84,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 128
+        },
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 118,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 162
+        },
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 152,
+          "width": 306,
+          "height": 44,
+          "right": 338,
+          "bottom": 196
+        }
+      ],
+      "inactive": 3,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    }
+  ],
+  "checks": [
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 214.65625,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 116.875,
+          "height": 44,
+          "right": 130.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 142.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 284.65625,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 186.875,
+          "height": 44,
+          "right": 200.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 212.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 91.34375,
+          "y": 30,
+          "width": 662.65625,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 65.34375,
+          "height": 44,
+          "right": 79.34375,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 564.875,
+          "height": 44,
+          "right": 578.875,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 590.875,
+          "y": 30,
+          "width": 163.125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 85.1875,
+          "y": 30,
+          "width": 220.8125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 145.3125,
+          "height": 44,
+          "right": 159.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 171.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 85.1875,
+          "y": 30,
+          "width": 220.8125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 145.3125,
+          "height": 44,
+          "right": 159.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 171.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 85.1875,
+          "y": 30,
+          "width": 220.8125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 145.3125,
+          "height": 44,
+          "right": 159.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 171.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 85.1875,
+          "y": 30,
+          "width": 220.8125,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 145.3125,
+          "height": 44,
+          "right": 159.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 171.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 85.1875,
+          "y": 30,
+          "width": 290.8125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 215.3125,
+          "height": 44,
+          "right": 229.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 241.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 85.1875,
+          "y": 30,
+          "width": 290.8125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 215.3125,
+          "height": 44,
+          "right": 229.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 241.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 85.1875,
+          "y": 30,
+          "width": 290.8125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 215.3125,
+          "height": 44,
+          "right": 229.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 241.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 85.1875,
+          "y": 30,
+          "width": 290.8125,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 215.3125,
+          "height": 44,
+          "right": 229.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 241.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 85.1875,
+          "y": 30,
+          "width": 668.8125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 593.3125,
+          "height": 44,
+          "right": 607.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 619.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 85.1875,
+          "y": 30,
+          "width": 668.8125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 593.3125,
+          "height": 44,
+          "right": 607.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 619.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 85.1875,
+          "y": 30,
+          "width": 668.8125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 593.3125,
+          "height": 44,
+          "right": 607.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 619.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 85.1875,
+          "y": 30,
+          "width": 668.8125,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 59.1875,
+          "height": 44,
+          "right": 73.1875,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 68,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 593.3125,
+          "height": 44,
+          "right": 607.3125,
+          "bottom": 74
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 619.3125,
+          "y": 30,
+          "width": 134.6875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 90.765625,
+          "y": 30,
+          "width": 215.234375,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 124.78125,
+          "height": 45.1875,
+          "right": 138.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 150.78125,
+          "y": 30,
+          "width": 155.21875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 90.765625,
+          "y": 30,
+          "width": 215.234375,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 124.78125,
+          "height": 45.1875,
+          "right": 138.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 150.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 90.765625,
+          "y": 30,
+          "width": 215.234375,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 124.78125,
+          "height": 45.1875,
+          "right": 138.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 150.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 292,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 90.765625,
+          "y": 30,
+          "width": 215.234375,
+          "height": 45.1875,
+          "right": 306,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 124.78125,
+          "height": 45.1875,
+          "right": 138.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 150.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 306,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 90.765625,
+          "y": 30,
+          "width": 285.234375,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 194.78125,
+          "height": 45.1875,
+          "right": 208.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 220.78125,
+          "y": 30,
+          "width": 155.21875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 90.765625,
+          "y": 30,
+          "width": 285.234375,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 194.78125,
+          "height": 45.1875,
+          "right": 208.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 220.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 90.765625,
+          "y": 30,
+          "width": 285.234375,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 194.78125,
+          "height": 45.1875,
+          "right": 208.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 220.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 362,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 90.765625,
+          "y": 30,
+          "width": 285.234375,
+          "height": 45.1875,
+          "right": 376,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 194.78125,
+          "height": 45.1875,
+          "right": 208.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 220.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 376,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 90.765625,
+          "y": 30,
+          "width": 663.234375,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 74,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 14,
+          "y": 30,
+          "width": 572.78125,
+          "height": 45.1875,
+          "right": 586.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 598.78125,
+          "y": 30,
+          "width": 155.21875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 90.765625,
+          "y": 30,
+          "width": 663.234375,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 14,
+          "y": 30,
+          "width": 572.78125,
+          "height": 45.1875,
+          "right": 586.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 598.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 90.765625,
+          "y": 30,
+          "width": 663.234375,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 14,
+          "y": 30,
+          "width": 572.78125,
+          "height": 45.1875,
+          "right": 586.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 598.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 740,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 90.765625,
+          "y": 30,
+          "width": 663.234375,
+          "height": 45.1875,
+          "right": 754,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 14,
+          "y": 30.59375,
+          "width": 64.765625,
+          "height": 44,
+          "right": 78.765625,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 75.1875,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 14,
+          "y": 30,
+          "width": 572.78125,
+          "height": 45.1875,
+          "right": 586.78125,
+          "bottom": 75.1875
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 598.78125,
+          "y": 30.59375,
+          "width": 155.21875,
+          "height": 44,
+          "right": 754,
+          "bottom": 74.59375
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 103.1875,
+          "y": 28,
+          "width": 184.8125,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 109.3125,
+          "height": 44,
+          "right": 141.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 153.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 103.1875,
+          "y": 28,
+          "width": 184.8125,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 109.3125,
+          "height": 44,
+          "right": 141.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 153.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 103.1875,
+          "y": 28,
+          "width": 184.8125,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 109.3125,
+          "height": 44,
+          "right": 141.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 153.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 256,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 103.1875,
+          "y": 28,
+          "width": 184.8125,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 109.3125,
+          "height": 44,
+          "right": 141.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 153.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 288,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 320
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 326,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 103.1875,
+          "y": 28,
+          "width": 254.8125,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 179.3125,
+          "height": 44,
+          "right": 211.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 223.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 326,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 103.1875,
+          "y": 28,
+          "width": 254.8125,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 179.3125,
+          "height": 44,
+          "right": 211.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 223.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 326,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 103.1875,
+          "y": 28,
+          "width": 254.8125,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 179.3125,
+          "height": 44,
+          "right": 211.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 223.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 326,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 103.1875,
+          "y": 28,
+          "width": 254.8125,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 179.3125,
+          "height": 44,
+          "right": 211.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 223.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 358,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 390
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 1,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 704,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 1,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 103.1875,
+          "y": 28,
+          "width": 632.8125,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 1,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Hotels",
+          "x": 32,
+          "y": 28,
+          "width": 557.3125,
+          "height": 44,
+          "right": 589.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 601.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 2,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 704,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 2,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 103.1875,
+          "y": 28,
+          "width": 632.8125,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 2,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Rates",
+          "x": 32,
+          "y": 28,
+          "width": 557.3125,
+          "height": 44,
+          "right": 589.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 601.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 3,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 704,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 3,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 103.1875,
+          "y": 28,
+          "width": 632.8125,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 3,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Services",
+          "x": 32,
+          "y": 28,
+          "width": 557.3125,
+          "height": 44,
+          "right": 589.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 601.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 4,
+      "action": "none",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 704,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 4,
+      "action": "back",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 103.1875,
+          "y": 28,
+          "width": 632.8125,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Back",
+          "x": 32,
+          "y": 28,
+          "width": 59.1875,
+          "height": 44,
+          "right": 91.1875,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "step": 4,
+      "action": "forward",
+      "pass": true,
+      "overlap": false,
+      "height": 64,
+      "labels": [
+        {
+          "text": "Details",
+          "x": 32,
+          "y": 28,
+          "width": 557.3125,
+          "height": 44,
+          "right": 589.3125,
+          "bottom": 72
+        }
+      ],
+      "inactive": 0,
+      "dividers": 0,
+      "hidden": 0,
+      "actions": [
+        {
+          "text": "Confirm reservation",
+          "x": 601.3125,
+          "y": 28,
+          "width": 134.6875,
+          "height": 44,
+          "right": 736,
+          "bottom": 72
+        }
+      ],
+      "scrollWidth": 768
+    }
+  ],
+  "desktop": [
+    {
+      "property": "kingfisher",
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "pass": true
+    }
+  ]
+}

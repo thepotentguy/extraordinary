@@ -1,0 +1,539 @@
+{
+  "property": "kwafubesi",
+  "version": "R2",
+  "file": "kwafubesi-Legacy-BookNow-R2.zip",
+  "sha256": "e0de00c14fdd5e31f3a9b35acefafbad82b45aac3d0e62bd647d439d2a2ca020",
+  "bytes": 1015086,
+  "files": 131,
+  "explicitDirectories": 8,
+  "javascriptIncluded": false,
+  "htmlIncluded": false,
+  "cmsAssetsSeparate": true,
+  "status": "Awaiting sponsor review; no installation",
+  "members": [
+    {
+      "path": "black-rhino2021/css/brand-fonts.css",
+      "sha256": "935630341b1c91cd2a55c2274f1e4cfc99d8eed72229d1be720e7305cfcc2722"
+    },
+    {
+      "path": "black-rhino2021/css/colourSchemes/custom.css",
+      "sha256": "07dcf0ba7ca4eba025196c86674bb6e62ab3c157c231a04e112a86f24101ecee"
+    },
+    {
+      "path": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+      "sha256": "caf10e9db77293140a572759ce171f082db283e2a6f4cd514afcac9c672b3054"
+    },
+    {
+      "path": "black-rhino2021/css/facebook.css",
+      "sha256": "1a8c7fdc27d08c6f807ebdcafb0e8f75ce2f2553fd9c60f003ce27dc9e4e7714"
+    },
+    {
+      "path": "black-rhino2021/css/mainStyle.css",
+      "sha256": "9a453fdcd549255433982955733eb98837aa16796a22213e6cb6addb57ca44fd"
+    },
+    {
+      "path": "black-rhino2021/css/mobile.css",
+      "sha256": "d9e8a999e4087937a083da1cc6e08ba5431a6735f8ff06b1ca620068b707b33b"
+    },
+    {
+      "path": "black-rhino2021/css/mobileTheme.css",
+      "sha256": "e175b08146fb07b9b7508b68b8ab81a1461ea10a5e2b7d73405c3167d9b25070"
+    },
+    {
+      "path": "black-rhino2021/css/reset.css",
+      "sha256": "4dd488dae98075f2d47dbaf00c778c927835c4fad3eb6cb5e31f348461b1b293"
+    },
+    {
+      "path": "black-rhino2021/css/searchwidget.css",
+      "sha256": "102de677dd917c68d2da8bd8101787d56199a46f70b18afa7a21ccfa20f00158"
+    },
+    {
+      "path": "black-rhino2021/css/theme.css",
+      "sha256": "dc46331f383719eb3aee8ad5cef79e56c2020413e91c3fc370d22a8161516d73"
+    },
+    {
+      "path": "black-rhino2021/images/Hotel.png",
+      "sha256": "42f5082670d0c2923127de887cb73b58fc0be50a6161b354407568ce1afa9427"
+    },
+    {
+      "path": "black-rhino2021/images/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3"
+    },
+    {
+      "path": "black-rhino2021/images/bigl_divider.gif",
+      "sha256": "e22a1c343586f521238d1d0522b97e70d95557a5d0192463e8e901627397661a"
+    },
+    {
+      "path": "black-rhino2021/images/caption.png",
+      "sha256": "76f2a9c1e0e6fe8f6f0fe94675b8219548c21bda693a02a25ada31e20d30ae37"
+    },
+    {
+      "path": "black-rhino2021/images/check_box.png",
+      "sha256": "be05dccd5150920beb05438695830e94b629f634147cff81d227a9f9738c5e06"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/back-arrow-charcoal.png",
+      "sha256": "5c6f3867040bb9617a528ffc2522f048b7b8f9855aa3c575fef11b39043eec97"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/background_gradient.gif",
+      "sha256": "e0c9f96263215ebe7db0ab117bf82fdcdc4041a4715817c5f2b4d3a703f2c8fa"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/banner.png",
+      "sha256": "9e1bd7cfcc37d0be8564be9ca44d6db395f82875b084bcaab3a330f3f6cd95d7"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/bigArrowEast.png",
+      "sha256": "f64ae5def45d241c046851e514d6bcdd7da5999e366f4f6088f8484813215d37"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/calendar-icon.png",
+      "sha256": "6b338c7ae7c7ac6eeafd8670e173e08d96a0a0dce9f1d303dbdc55f6513254ea"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/confirmationLinksGrad.gif",
+      "sha256": "1da3afc76e9ee5385758368e1d6416e7aebd17eabbb7e0b470846edb1a42572c"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/confirmationRewardsGrad.gif",
+      "sha256": "6163f1a5ed0e25b0db41d4df3fafcf60a5baf55f2ba3815d9ce86c9c3ab3e523"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/cv_bg.png",
+      "sha256": "53cfb68652792aba914a0237b8ef4b6593fddc0b043d475450eef6449d61b65a"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/doors_bg.gif",
+      "sha256": "6b646f277e5e5eb6ca5e3b94ce3b6f6abb7f42d01ce42cb945b6233b3b6233af"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/form_but_sprite.png",
+      "sha256": "b816eca78b8a97a775beda6f2b1da8e9b93ef19e57a3bbe2247a2e265c1f6256"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/forward-arrow-charcoal.png",
+      "sha256": "f6452519ddc9940da01a59a3aa9447df883031a3118e4a208fe7feee5c5ea033"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/forward-small.png",
+      "sha256": "9be56d48be354134e0e81088175ed68527a3fa115654ca943f340880779829dc"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/heading-bg.png",
+      "sha256": "0d795dfc7cf16589e990d682a736f7100522e5a178af8145bdd7be812340aa52"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/icons.png",
+      "sha256": "1c28a99d876c752193f2d3c6d9f5c382b03e37096ce06144fe60f4f99d388d70"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/intineraryBg.gif",
+      "sha256": "093e06482eaa81fcb14e59c997bbe13abab5be8f2caa38c8d3148c610cea9209"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/itineraryMoreEnd.gif",
+      "sha256": "44ddb295c5149ad2ec4cb0ee4f528495d96f930b4c8c236cc17ad89b44807d58"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/itineraryMoreGRad.gif",
+      "sha256": "d02c0f7b0ff2a6e8033d28c6f29c5e7c24bfaf0abbcc9eba3b3a9b0f816400ff"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/loginPanelBg.gif",
+      "sha256": "d5681a7d0229bda0eb2ec0f0a2b92d339911bb99a6974982abe0dcf2729ee20a"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/login_but_sprite.png",
+      "sha256": "6242b58c4c228af0c5de84eaa941f8e73ea443f5afe4cd53aa921b975afa8126"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/logo.png",
+      "sha256": "78cf41e48cf38e823b92d8d15816be3ac360ce537b27a8504973104fb8cefe98"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/med_but_sprite.png",
+      "sha256": "258e2957a840b5d61e840d54dcb9e0221b8a32932619b156e30290bb358e3623"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/newsItem.png",
+      "sha256": "46a9248079a58cadf4ab8297aa68e68bdd29387a43a59e0f0be6ccd3f4b2fa0f"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/ratesLeft.png",
+      "sha256": "d7cdb61bc4b58b1aa5657fe7a0ae018ee258582fc22cedeef64bcda4a5a84d18"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/ratesRight.png",
+      "sha256": "05742d0edd2d30ec3da037817e82eb0ea725e4b6031242a536371596834314a1"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/redcross.png",
+      "sha256": "3dbb5f285c5c9e79fa180f694b83fcf1cfbc4d347b182a1777706622e1411f91"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/reservations.png",
+      "sha256": "bd2864c85df0afd89194ea1ee0b86b97230c8b679b1824ac06c1c07183e8e090"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/result_name_bg.png",
+      "sha256": "3141fa34a5e90bbe7c142fba4c734fdd0993b354afc7fae1e6b4cd3573cffed7"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/searchBarHeading.gif",
+      "sha256": "fd3b6beecca49f4d7bed2867c029ee11ef2664cb8fd76d130c9fef85f0a966e3"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/steps_numbers.png",
+      "sha256": "613d3198ebada933caa3ffa5049f409665974f908ac72973375f3606ccc3bd2f"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/steps_numbers2.png",
+      "sha256": "7434252bbc619fd7f00b67d793c851223a1ac2f547b2d0108dd83f7c7c44af31"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/steps_numbers_2019.png",
+      "sha256": "2dabb6d509fab8cb9a3d49996f6d78c519069c11d57a38c52bce39c294df4f59"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/steps_selected.png",
+      "sha256": "3d15aa9c59b9b520fa6a139b12ee0c68c64c67c7771d24be5a8cd2da67c3378f"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/steps_selected2.png",
+      "sha256": "c9b8b0078b66978ae5cf0d955eeb2b20472292f8152eacefd4339b9ddec130d0"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/suggestHotelSelectItem.gif",
+      "sha256": "c296e086158dabd5b70d9404504900343d53018608bc2016dcc152190844f35b"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/tab_sprite.gif",
+      "sha256": "fc3dd8203c183fea98ccba34195a2f185bfb028c0d70da59c9f70dd96406199d"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/thumbsUp.png",
+      "sha256": "e28712b2b3d96118603e5867a880cb1b3dc837473c506ee9e206f5dc732822c0"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/view.png",
+      "sha256": "023618e7e102f3b3f5faa1690c3fcc4ebb77dac4ca61fd07266167b4b7f242cf"
+    },
+    {
+      "path": "black-rhino2021/images/colourSchemes/custom/xsmall_but_sprite.png",
+      "sha256": "abdabced74e084498574ff076036c7a24cf04aadf47a4ed24158ab33cae39e41"
+    },
+    {
+      "path": "black-rhino2021/images/compass.png",
+      "sha256": "5c1bcd51b44ead94d454e42365b89a60fcae95fd37acdd2843218405225bfdbd"
+    },
+    {
+      "path": "black-rhino2021/images/dividerGrad.gif",
+      "sha256": "059f4d656725d54327e8c4fc9353ad7bc71e9f039639325b704f5e83b287c33f"
+    },
+    {
+      "path": "black-rhino2021/images/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e"
+    },
+    {
+      "path": "black-rhino2021/images/dropdown_down_arrow.gif",
+      "sha256": "452a9365dd3cca720ffbe80fe322b3cd7e4cad701e12b513acfae56851818d7d"
+    },
+    {
+      "path": "black-rhino2021/images/features.gif",
+      "sha256": "5df924f8f16d8cf51d009ee5f108068203179143b8205723341119ed990304e3"
+    },
+    {
+      "path": "black-rhino2021/images/features/Bar.gif",
+      "sha256": "f545bff272abb8bded56697e11dc4459101bd468272c8d2fded9d783debed6e5"
+    },
+    {
+      "path": "black-rhino2021/images/features/Beach.gif",
+      "sha256": "e2ec71cc8ac9126cdcbe7c327915a391fcc0cc521f288075447a6cf8e6ab0be3"
+    },
+    {
+      "path": "black-rhino2021/images/features/BusService.gif",
+      "sha256": "e54997551d9ca590545ea635a0e895b511e91591945a3ce533e9bf55688c37df"
+    },
+    {
+      "path": "black-rhino2021/images/features/Catamaran.gif",
+      "sha256": "b66249d0083b07f32d67523fa8fff75fc59fa6fa6a1f2c9358094ff8cbf90766"
+    },
+    {
+      "path": "black-rhino2021/images/features/ChildrenWelcome.gif",
+      "sha256": "8862152dda6b1201591386cd97006afc642854c310e91817f22991d3df2601a9"
+    },
+    {
+      "path": "black-rhino2021/images/features/ConferenceFacilities.gif",
+      "sha256": "ce44c51403e70181edaf74ef98eaa5234b8f52b43e0cd5781d4ad51115900a54"
+    },
+    {
+      "path": "black-rhino2021/images/features/DisabledAccess.gif",
+      "sha256": "8f74c01b0446969895e9f89f93c4021f5ee94c2eda9bf1c1918f194325433ad8"
+    },
+    {
+      "path": "black-rhino2021/images/features/Fishing.gif",
+      "sha256": "1346a60d30cf9743c5c7cfed0e658a0b244a021f9c60f49b1b83e111e641a413"
+    },
+    {
+      "path": "black-rhino2021/images/features/Game.gif",
+      "sha256": "2008320eef1116c8923480d6c0628897fbfc7382fcd4de2f11f43bc6e95fd266"
+    },
+    {
+      "path": "black-rhino2021/images/features/Golf.gif",
+      "sha256": "f8114e25ba30fb09d61a0dd87aaf76e8dbe7d7ee9912cd85a82d60f714f88f9c"
+    },
+    {
+      "path": "black-rhino2021/images/features/Gym.gif",
+      "sha256": "5ff9d140c5344666f2d26fd7b81b81269eefae12ba79835ab237e0bd8c96b60e"
+    },
+    {
+      "path": "black-rhino2021/images/features/Hiking.gif",
+      "sha256": "eaadd4e1df7fa04cbd9ef4d1fe362265930fc8c75c5c8e12a75714cc1ae7d942"
+    },
+    {
+      "path": "black-rhino2021/images/features/HorseRiding.gif",
+      "sha256": "e657c27ce735cfa8f7226525aefe2a56b5b0d6d05f7284f7a28dcca48d4f3d79"
+    },
+    {
+      "path": "black-rhino2021/images/features/InternetAccess.gif",
+      "sha256": "0d6bc1d2bd182b8a024d5f5346dc497e780783cf5a93aca78563129dcef5ce4f"
+    },
+    {
+      "path": "black-rhino2021/images/features/Pool.gif",
+      "sha256": "9e27ad05b2aa51df4e01bdaf31a82a6ac5d8c67b6f860e7398068140940bca08"
+    },
+    {
+      "path": "black-rhino2021/images/features/QuadBikes.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6"
+    },
+    {
+      "path": "black-rhino2021/images/features/QuadBiking.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6"
+    },
+    {
+      "path": "black-rhino2021/images/features/Restaurant.gif",
+      "sha256": "0b37412bf552ad8a423e9a562f48b95a68e2ee8c955c7c17bc46411bb15203c0"
+    },
+    {
+      "path": "black-rhino2021/images/features/RoomService.gif",
+      "sha256": "56ec42fbbd6474c88926e73cddf7abbfafd353a57a3c394ed9c1f3fcc4a35fea"
+    },
+    {
+      "path": "black-rhino2021/images/features/SatelliteTV.gif",
+      "sha256": "6ae90012cdf743dcc88a4ff66f13d7aa38e4b48359c0b6fa94c69b4384f364c4"
+    },
+    {
+      "path": "black-rhino2021/images/features/ScubaDiving.gif",
+      "sha256": "23f923bf930866ddb6a77c6e2d3a8cb45fae244fcc5333b0b535317f55c88ccb"
+    },
+    {
+      "path": "black-rhino2021/images/features/SightSeeing.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2"
+    },
+    {
+      "path": "black-rhino2021/images/features/SightSeeingTours.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2"
+    },
+    {
+      "path": "black-rhino2021/images/features/Snorkeling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc"
+    },
+    {
+      "path": "black-rhino2021/images/features/Snorkling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc"
+    },
+    {
+      "path": "black-rhino2021/images/features/Spa.gif",
+      "sha256": "81a577ed6ed79899bd629b36ab2d889845f09ad0402d72fc65da260f7dd2b41a"
+    },
+    {
+      "path": "black-rhino2021/images/features/Squash.gif",
+      "sha256": "9103d5c70dea0742dbc9e9116c095bd59252f4a266218ecbc522570d13e48897"
+    },
+    {
+      "path": "black-rhino2021/images/features/Tennis.gif",
+      "sha256": "2fac53cabb083408f2923925887148f06560ec00c796d5a96f23be529e89123d"
+    },
+    {
+      "path": "black-rhino2021/images/features/WirelessInternetAccess.gif",
+      "sha256": "d4e2f7454711a73c8d2885a84344f22680769679a99705f6b3c8e39da7697d06"
+    },
+    {
+      "path": "black-rhino2021/images/fieldset_bg_grad.gif",
+      "sha256": "18de5cc4a28750b57619e5379183f3a68e43b68f0979bcda30f94531aaaf5698"
+    },
+    {
+      "path": "black-rhino2021/images/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a"
+    },
+    {
+      "path": "black-rhino2021/images/forward.png",
+      "sha256": "410fa86dacebd9e52d8e1a3305fb6f1d2a93624575513e299a578076cbda0581"
+    },
+    {
+      "path": "black-rhino2021/images/icon_sprite.gif",
+      "sha256": "c30c7dc4599018d412ab99350ddc2640c927c855bd9d280ea25f52860f63fa56"
+    },
+    {
+      "path": "black-rhino2021/images/icon_sprite.png",
+      "sha256": "e9988eb0e5b7e66b4ed330431b56f48a94910a0024f3915db24f8622e7f3f073"
+    },
+    {
+      "path": "black-rhino2021/images/image_shadow_bg.gif",
+      "sha256": "6d61332e6dcf49be36c6d4683726667313ea1b009db98f43a1243ae8e8315fd6"
+    },
+    {
+      "path": "black-rhino2021/images/image_shadow_bg.png",
+      "sha256": "03d200b69d1afef4729b739f4edaa4a825979a6f819a8602e02e5dbebc9a0778"
+    },
+    {
+      "path": "black-rhino2021/images/input_bg_grad.gif",
+      "sha256": "e4987c74bdf84555c06905ae49a0fec56f1089bfe95843f5e6156ac3ca06e7d6"
+    },
+    {
+      "path": "black-rhino2021/images/itineraryDivider.gif",
+      "sha256": "4e5179cf1b3950dd7fabb29e26580e01e19951ffc7954334955ec7ee94e7bcd0"
+    },
+    {
+      "path": "black-rhino2021/images/loading.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851"
+    },
+    {
+      "path": "black-rhino2021/images/loadingsmall.gif",
+      "sha256": "fd29b3b084cf11160bfc4e99d98a261f2b36bff29113b07367c5204563c5d355"
+    },
+    {
+      "path": "black-rhino2021/images/login_input_bg.gif",
+      "sha256": "644433ce831ef982eb9eefe121807b9dbb8601821935dc26c2758a3daf9d7e08"
+    },
+    {
+      "path": "black-rhino2021/images/login_input_bg.png",
+      "sha256": "2f4e37790506d7d6be6c66b44b8e379c2798a3f8b937e4447d32d66295b95d5b"
+    },
+    {
+      "path": "black-rhino2021/images/logo_bg.gif",
+      "sha256": "4615bc19f9f557d0932d866fafb76b8e64f415e3596965a200e8201a2969f9b1"
+    },
+    {
+      "path": "black-rhino2021/images/logo_bg.png",
+      "sha256": "5a609669d83ee27f3ee23b4d2e9a860a8501055751f31f90f789eb0ccf59759f"
+    },
+    {
+      "path": "black-rhino2021/images/logo_bg2.png",
+      "sha256": "ab10a148b7eece9afc593b19badbcd9ed85e0c5ea24ed4f02abbd49049bc4b65"
+    },
+    {
+      "path": "black-rhino2021/images/medium_divider.gif",
+      "sha256": "b351da896b627571061ced02d53b1b50a0f9461665a1078fafa999f9033e0e6b"
+    },
+    {
+      "path": "black-rhino2021/images/medium_divider.png",
+      "sha256": "2dd52f62d0e11d1c5c6f8a48d89a5d05b1230f20d3dd986266584a79068f14cd"
+    },
+    {
+      "path": "black-rhino2021/images/payment_terms.png",
+      "sha256": "c1bbd6452aa9c8c0016a641f153a887fa48caf56b9cd81eff1e69cff87987b73"
+    },
+    {
+      "path": "black-rhino2021/images/pictures.png",
+      "sha256": "c9e053dcf0bf77b2125cb7eb2d8de43c3f4a6470e273a4c9623a5ce95d0bb0df"
+    },
+    {
+      "path": "black-rhino2021/images/pleaseWait.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851"
+    },
+    {
+      "path": "black-rhino2021/images/ratesGrad.gif",
+      "sha256": "c3622bef3e75841d2f7d002766a8599d96f8e20fe19044794293f2c1d8dbf249"
+    },
+    {
+      "path": "black-rhino2021/images/room.png",
+      "sha256": "033d67d15f248396e4164b43da30ec870bc44b507eb9bdcafa04def9979f29cd"
+    },
+    {
+      "path": "black-rhino2021/images/room_pictures_grad.gif",
+      "sha256": "98f3bc199b723840c7d6708b9ab135f3ab54ef48caaf96a67c25a25d7ba70961"
+    },
+    {
+      "path": "black-rhino2021/images/rooms.png",
+      "sha256": "1014650ecb251864d070c3758ad173c532762b395b2b644e5b863e2b5c29b197"
+    },
+    {
+      "path": "black-rhino2021/images/searchBg.png",
+      "sha256": "91840423c258e73afc794bc1a850e8eb6d44c092418f63d6b7432d008be25809"
+    },
+    {
+      "path": "black-rhino2021/images/selectedNumberBg.png",
+      "sha256": "dd100aa4f6614b0eb178005afac895cb699d1f36381a1621167a8fc3c622c212"
+    },
+    {
+      "path": "black-rhino2021/images/smallLoadingTransparent.gif",
+      "sha256": "aebc793d0064383ee6b1625bf3bb32532ec30a5c12bf9117066107d412119123"
+    },
+    {
+      "path": "black-rhino2021/images/small_divider.gif",
+      "sha256": "7c781b504a0751224205db1ec255f1e122b32c5ea7c8f6e0a1dc1b179da1c45e"
+    },
+    {
+      "path": "black-rhino2021/images/small_image_shadow_bg.gif",
+      "sha256": "b39f47ec328058d5812e835c1c87cf7472990769d09db25978f72ec080f3ba5a"
+    },
+    {
+      "path": "black-rhino2021/images/special_big.png",
+      "sha256": "d8c2b3b9401b4be107ee5e0cff9130423d18e1cc754b757d890ff1a61e48efc8"
+    },
+    {
+      "path": "black-rhino2021/images/steps.png",
+      "sha256": "b780469f57a57b408523d1c19225c04c8f3da247e21085de0415c359d668919e"
+    },
+    {
+      "path": "black-rhino2021/images/steps_selected.png",
+      "sha256": "2e062abe020cbe22670abb3a9f3a1e356f55d7d31902575d9c1ce16ceacc456d"
+    },
+    {
+      "path": "black-rhino2021/images/tabBg.gif",
+      "sha256": "9bf37bcdc8e68558d11c15a649e13795eef88705bec94091fd0a796f172aabdf"
+    },
+    {
+      "path": "black-rhino2021/images/tabNumberBg.png",
+      "sha256": "9d30ae289375c117cb9d312bdbd8983965521e80378366192a1aaefcf5352407"
+    },
+    {
+      "path": "black-rhino2021/images/tableGrad.gif",
+      "sha256": "570b73c42b9f6b3299c127746687ef49604ff62fcf6db523fc88e5ea3119111c"
+    },
+    {
+      "path": "black-rhino2021/images/tableGradBottom.gif",
+      "sha256": "03a7ae5c9537324eb56640569a9aca91b4e6c99b03a25b89101ccddbbf87a4ea"
+    },
+    {
+      "path": "black-rhino2021/images/tableGradTop.png",
+      "sha256": "9a8e858d339cd1dc718b87ceefa2e03fc24c817a92c3aacd18c4ce5cfe3a3bc1"
+    },
+    {
+      "path": "black-rhino2021/images/transparent.gif",
+      "sha256": "a192ecd692934ab2022bf2c8e006d6906b9e30c284afa42f22daa5d17b1a604f"
+    },
+    {
+      "path": "black-rhino2021/licenses/playfairdisplay-OFL.txt",
+      "sha256": "566be814f8e96e93dfa16101331557eb6b5467e9e03f627c0910fe93ca12300e"
+    },
+    {
+      "path": "black-rhino2021/licenses/poppins-OFL.txt",
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+    }
+  ]
+}

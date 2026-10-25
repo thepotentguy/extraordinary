@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-25",
+  "version": "R2",
+  "status": "Consolidated creative revision; awaiting inspection; NOT installed",
+  "themes": [
+    {
+      "property": "kingfisher",
+      "version": "R2",
+      "file": "kingfisher-Legacy-BookNow-R2.zip",
+      "sha256": "18f5b9741760e43322ce87171ccbed4a69b2c18cbea0dd710df05a7bec4dd4bc",
+      "bytes": 1250538,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "htmlIncluded": false,
+      "cmsAssetsSeparate": true,
+      "status": "Awaiting sponsor review; no installation"
+    },
+    {
+      "property": "kwafubesi",
+      "version": "R2",
+      "file": "kwafubesi-Legacy-BookNow-R2.zip",
+      "sha256": "e0de00c14fdd5e31f3a9b35acefafbad82b45aac3d0e62bd647d439d2a2ca020",
+      "bytes": 1015086,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "htmlIncluded": false,
+      "cmsAssetsSeparate": true,
+      "status": "Awaiting sponsor review; no installation"
+    },
+    {
+      "property": "hoyo-hoyo",
+      "version": "R2",
+      "file": "hoyo-hoyo-Legacy-BookNow-R2.zip",
+      "sha256": "93c2b3d27c6d672e2c21a79c9ecd427df9e6cd6d2aa72dab5161740c25590a8f",
+      "bytes": 900552,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "htmlIncluded": false,
+      "cmsAssetsSeparate": true,
+      "status": "Awaiting sponsor review; no installation"
+    },
+    {
+      "property": "hamiltons",
+      "version": "R2",
+      "file": "hamiltons-Legacy-BookNow-R2.zip",
+      "sha256": "c033a675cd9288fe80291032ecccda457e8926db73c1bbc031703ca5a24d9c1e",
+      "bytes": 1011775,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "htmlIncluded": false,
+      "cmsAssetsSeparate": true,
+      "status": "Awaiting sponsor review; no installation"
+    },
+    {
+      "property": "imbali",
+      "version": "R2",
+      "file": "imbali-Legacy-BookNow-R2.zip",
+      "sha256": "c38f354a97ca95a49194f5442c1621c200a3d486370c2f2ab96f7b989385c7f2",
+      "bytes": 850867,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "htmlIncluded": false,
+      "cmsAssetsSeparate": true,
+      "status": "Awaiting sponsor review; no installation"
+    }
+  ]
+}

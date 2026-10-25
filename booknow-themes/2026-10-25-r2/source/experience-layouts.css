@@ -1,0 +1,359 @@
+/* R2 common safeguards: only existing native selectors; no sequence changes. */
+#content .hotelResults,#content .hotelResult{width:100%;max-width:100%;float:none}
+#content .hotelHeading{height:auto!important;min-height:0;overflow:visible;display:block}
+#content .hotelHeading h1,#content .hotelHeading h2{position:static!important;float:none!important;width:auto!important;max-width:100%;height:auto!important;white-space:normal;overflow-wrap:anywhere;line-height:1.25;margin:0 0 10px}
+#content .hotelResultRoom .roomRates button.smallButton{width:auto!important;min-width:135px;max-width:100%;height:auto!important;min-height:48px;padding:12px 18px!important;line-height:1.5!important;white-space:normal}
+#content .hotelLocation.content::before{grid-column:1/-1}
+#content .hotelInfo{width:100%;max-width:100%;float:none;height:auto;margin-left:0;margin-right:0;left:auto;right:auto;clear:both}
+#content .ratesResult,#content .resultWrapper,#content .roomsAndRates,#content .roomsAndFeatures,#content .ratesDetails{box-sizing:border-box;width:100%;max-width:100%;min-width:0;margin-left:0;margin-right:0;padding:0;float:none}
+#content button.standardButton,#content button.smallButton,#content .hotelInfo a{animation:none!important;transform:none!important}
+#content .hotelResult,#content .hotelResultRoom{box-sizing:border-box;min-width:0}
+#content .hotelRates{width:100%;max-width:100%;box-sizing:border-box;float:none}
+#content .hotelResult>div:has(>.leftColumn){min-width:0}
+#content .hotelResult .leftColumn,#content .hotelResult .centerColumn,#content .hotelResult .rightColumn{box-sizing:border-box;min-width:0;border:0}
+#content .hotelInfo a{min-height:44px;text-decoration:none}
+#content .hotelResultRoom .roomRates button.smallButton,#content button.standardButton{min-height:48px}
+#content .hotelResultRoom .roomImage img{width:133px!important;height:99px!important;object-fit:contain}
+#content .hotelInfoContent .content{min-width:0}
+#content .ratesDetails{overflow:auto;overscroll-behavior-inline:contain}
+#content .ratesDetails table{border-collapse:collapse;min-width:720px;width:100%;font:13px/1.6 var(--brand-body)}
+#content .ratesDetails th,#content .ratesDetails td{padding:13px 15px;white-space:nowrap;border-bottom:1px solid #c7c7b8;text-align:left}
+#content .hotelDescription,#content .roomDescription,#content .ratesText{overflow-wrap:anywhere}
+#bookingSteps{box-sizing:border-box;background:transparent;border:0;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:12px 0}
+#bookingSteps>div{width:100%;display:flex;flex-wrap:wrap;gap:12px;align-items:center;min-width:0}
+#bookingSteps .steps{float:none;position:static;display:flex;flex-wrap:wrap;gap:8px;height:auto;width:auto;min-width:0;margin:0!important;padding:0;top:auto;left:auto;right:auto}
+#bookingSteps .steps>div{float:none;position:static;background-image:none;width:auto;height:auto;min-width:0;margin:0!important;display:block!important}
+#bookingSteps .steps>div>a{display:inline-flex!important}
+#bookingSteps .steps a{display:inline-flex;align-items:center;min-height:44px;padding:8px 12px;font:13px/1.4 var(--brand-body);color:var(--brand-ink);box-sizing:border-box}
+#bookingSteps .steps .unselected a{opacity:.78}
+#bookingSteps .steps>div:not(.unselected) a{font-weight:700;text-decoration:underline;text-underline-offset:6px}
+#content .imageCarousel .gallerydesc{box-sizing:border-box;max-width:100%}
+#content .imageCarousel #main{margin-bottom:0!important}
+#content .imageCarousel .gallerydesctext{line-height:1.3!important}
+#content .imageCarousel .navpanellayer{box-sizing:border-box}
+#content .imageCarousel .navpanelfg{box-sizing:border-box}
+#content .imageCarousel .navimages:focus-visible{outline:3px solid var(--brand-accent);outline-offset:3px}
+.gwt-DialogBox:has(#gallery){box-sizing:border-box}
+#content .hotelInfoContent-open .header{min-height:44px}
+#content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{box-sizing:border-box}
+#content .hotelLocation.content{min-width:0}
+#content .hotelDetailMap,#content .locationMap{min-height:260px}
+#content .hotelHeading h2{font:13px/1.6 var(--brand-body)}
+#content .hotelResultRoom h3{line-height:1.25}
+@media(max-width:960px){
+ #contentWrapper>#bookingSteps{order:-2;width:100%}
+ #contentWrapper>#content{order:-1;width:100%;min-width:0}
+ #contentWrapper>#sideBar{order:0;width:100%;min-width:0}
+ #content .hotelResult>div:has(>.leftColumn){display:flex!important;flex-direction:column!important;gap:16px!important}
+ #content .hotelResult .leftColumn,#content .hotelResult .centerColumn,#content .hotelResult .rightColumn{float:none!important;width:100%!important;margin:0!important;padding:0!important}
+ #content .hotelResultRoom{display:flex!important;flex-direction:column!important;gap:14px!important}
+ #content .hotelResultRoom .roomImage,#content .hotelResultRoom .roomDescription,#content .hotelResultRoom .roomOptions,#content .hotelResultRoom .roomRates{float:none!important;width:100%!important;max-width:100%;margin:0!important;min-width:0;box-sizing:border-box}
+ #content .paymentTerms{display:block!important}
+ #content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{width:100%!important}
+ #content .hotelLocation.content{display:flex!important;flex-direction:column!important;gap:18px}
+ #content .hotelLocation .locationMap{width:100%!important;order:-1}
+ #content #locationDetails{width:100%!important}
+ #bookingSteps .steps{gap:3px}
+ #bookingSteps .steps a{font-size:12px;padding:8px 7px}
+}
+@media(prefers-reduced-motion:reduce){#content.animated,#content.animated *{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* @property kingfisher */
+body{background:linear-gradient(90deg,#edf2e9 0 18%,#f9faf5 18% 100%)!important}
+#contentWrapper{max-width:1240px;gap:36px}
+#content{background:#fff;padding:24px;border:1px solid #c7d4c4;border-radius:0}
+#searchBar{padding:25px;background:#fff;border:1px solid #c7d4c4;border-top:3px solid #9e8959}
+#searchBar h4{font-size:30px}
+#content .imageCarousel #main{aspect-ratio:670/340;outline:1px solid #9e8959;outline-offset:7px;border-radius:0;overflow:hidden}
+#content .imageCarousel{position:relative;padding-right:60px!important;margin-bottom:28px!important}
+#content .imageCarousel .gallerydesc{top:auto!important;bottom:14px!important;left:14px!important;width:calc(100% - 84px)!important;min-height:0!important;padding:10px 15px;background:#fffffff0;z-index:1001}
+#content .imageCarousel .gallerydesctext{font-size:21px!important;color:#143727!important;padding:0!important}
+#content .imageCarousel .gallerydescbg{background:transparent!important}
+#content .imageCarousel .navpanellayer{top:12px!important;bottom:auto!important;right:0!important;left:auto!important;width:48px!important;height:180px!important}
+#content .imageCarousel .navpanelfg{display:flex!important;flex-direction:column;gap:8px;align-items:center;justify-content:flex-start;padding:0!important}
+#content .imageCarousel .navimages{border-radius:0;background:#fff;border-color:#9e8959!important}
+#content .imageCarousel .gallerystatus{position:static!important;font:12px var(--brand-body)!important;width:48px!important;margin:3px 0!important}
+#content #newsFeeds .newsFeedItemPanel{padding:24px 0 2px;border-top:1px solid #c7d4c4}
+#content .hotelHeading{border-bottom:1px solid #9e8959;padding-bottom:20px;margin-bottom:24px}
+#content .hotelHeading h1{font-size:36px}
+#content .hotelResult .hotelRates{border-left:1px solid #c7d4c4;padding:0 0 0 20px}
+#content .hotelInfo{border-top:1px solid #c7d4c4;margin-top:18px;padding-top:18px}
+#content .hotelInfo a{border:0;border-bottom:1px solid #9e8959;background:transparent;border-radius:0;padding:7px 4px;margin-right:18px}
+#content .hotelResultRoom{border-top:1px solid #9e8959;padding:28px 0;margin-top:24px}
+#content .hotelResultRoom .roomRates{padding:18px;border:1px solid #c7d4c4;background:#f5f8f0}
+#content .hotelInfoContent-open{border:1px solid #c7d4c4;background:#f5f8f0;border-radius:0}
+#content .hotelInfoContent .content{padding:25px}
+#content .paymentTerms h3{font-size:28px;border-bottom:1px solid #c7d4c4;padding-bottom:10px}
+#content .hotelLocation.content{display:grid;grid-template-columns:1.2fr 1fr;gap:28px}
+#content .hotelLocation .locationMap{order:0;width:100%!important}
+#content #locationDetails{width:100%}
+.gwt-DialogBox:has(#gallery){background:#fff;border:10px solid #fff;outline:1px solid #9e8959;border-radius:0}
+#bookingSteps .steps a{border-bottom:1px solid #c7d4c4;border-radius:0}
+#content.animated{animation:kfReveal .18s ease-out both}
+@keyframes kfReveal{from{opacity:.2}to{opacity:1}}
+@media(min-width:961px){
+ #contentWrapper{grid-template-columns:minmax(0,1fr) 320px}
+ #contentWrapper>#content{grid-column:1!important;grid-row:2}
+ #contentWrapper>#sideBar{grid-column:2!important;grid-row:2}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content,body:has(#content .imageCarousel #main) #contentWrapper>#sideBar{grid-row:1}
+ #content .hotelResult>div:has(>.leftColumn){display:grid;grid-template-columns:133px minmax(0,1fr) 175px;gap:20px}
+ #content .hotelResult .leftColumn,#content .hotelResult .centerColumn,#content .hotelResult .rightColumn{float:none;width:auto;margin:0;padding:0}
+ #content .hotelResultRoom{display:grid;grid-template-columns:133px minmax(0,1fr) 210px;gap:24px}
+ #content .hotelResultRoom .roomImage,#content .hotelResultRoom .roomDescription,#content .hotelResultRoom .roomRates{float:none;width:auto;margin:0}
+ #content .hotelResultRoom .roomOptions{grid-column:2;grid-row:2}
+ #content .hotelResultRoom .roomRates{grid-column:3;grid-row:1/3}
+}
+@media(max-width:960px){#content{padding:16px}#content .imageCarousel{padding-right:0!important;margin-bottom:95px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 12px)!important;left:auto!important;right:0!important;width:156px!important;height:50px!important}#content .imageCarousel .navpanelfg{flex-direction:row;gap:6px}#content .imageCarousel .gallerydesc{bottom:10px!important;left:10px!important;width:calc(100% - 20px)!important}#content .imageCarousel .gallerydesctext{font-size:16px!important}#content .imageCarousel .gallerystatus{position:absolute!important;top:52px!important;right:0!important}#content .hotelResult .hotelRates{border-left:0;border-top:1px solid #c7d4c4;padding:18px 0}#content .hotelHeading h1{font-size:29px}}
+
+/* @property kwafubesi */
+body{background:repeating-linear-gradient(0deg,#f4eddf 0px,#f4eddf 3px,#f5eee1 3px,#f5eee1 6px)!important}
+#header{background:#fffaf0;border-bottom:0}
+#client_logo{margin:18px auto;width:230px}
+#client_logo img{height:96px;width:230px}
+#contentWrapper{max-width:1200px;gap:24px}
+#content{padding:28px;background:#fcf8ef;border:1px solid #d2bfa4;border-radius:0}
+#content .imageCarousel #main{aspect-ratio:670/345;border-radius:90px 90px 0 0;outline:none;overflow:hidden}
+#content .imageCarousel{margin-bottom:90px!important}
+#content .imageCarousel .gallerydesc{top:calc(100% + 12px)!important;bottom:auto!important;width:calc(100% - 160px)!important;left:0!important;padding:0;background:transparent}
+#content .imageCarousel .gallerydesctext{font:italic 20px/1.4 var(--brand-heading)!important;color:#603913!important}
+#content .imageCarousel .navpanellayer{top:calc(100% + 12px)!important;left:auto!important;right:0!important;width:148px!important;height:48px!important}
+#content .imageCarousel .navpanelfg{gap:4px;justify-content:flex-end}
+#content .imageCarousel .navimages{border-radius:50%;background:#fcf8ef;border:1px solid #9d8060!important}
+#content .imageCarousel .gallerystatus{position:absolute!important;top:52px!important;right:0!important;left:auto!important;width:auto!important}
+#content #newsFeeds .newsFeedItemPanel{border-left:0;border-top:1px dashed #9d8060;margin:0;padding:24px 4px}
+#searchBar{border:1px solid #b59b77;border-top:5px solid #603913;border-radius:0;padding:25px;background:#fffaf0}
+#searchBar h4{font-size:28px}
+#searchBar button{border-radius:24px}
+#content .hotelHeading{padding:8px 0 24px;border-bottom:1px dashed #9d8060;margin-bottom:20px}
+#content .hotelHeading h1{font-size:33px}
+#content .hotelResult>div:has(>.leftColumn){display:flex;flex-wrap:wrap;gap:20px}
+#content .hotelResult .leftColumn{float:none;width:133px;margin:0;padding:0}
+#content .hotelResult .centerColumn{float:none;flex:1;min-width:180px;width:auto;margin:0;padding:0}
+#content .hotelResult .rightColumn{float:none;width:100%;padding:18px 0 0;border-top:1px dashed #b59b77}
+#content .hotelRates{display:flex;flex-wrap:wrap;align-items:center;gap:14px}
+#content .hotelRates h4,#content .hotelRates h5{margin:0}
+#content .hotelRates button{margin-left:auto}
+#content .hotelInfo a{border:0;border-bottom:1px dashed #9d8060;border-radius:0;background:transparent}
+#content .hotelResultRoom{padding:28px 0;margin:18px 0;border-top:1px dashed #9d8060;display:flex;flex-wrap:wrap;gap:22px}
+#content .hotelResultRoom .roomImage{float:none;width:133px;margin:0}
+#content .hotelResultRoom .roomDescription{float:none;flex:1;min-width:180px;width:auto;margin:0}
+#content .hotelResultRoom .roomOptions{float:none;width:100%;margin:0}
+#content .hotelResultRoom .roomRates{float:none;width:100%;padding:18px 22px;background:#efe2cd;border-radius:0 0 28px 0;display:flex;align-items:center;justify-content:space-between;gap:20px}
+#content .ratesDetails th{background:#efe2cd}
+#content .hotelInfoContent-open{border:0;border-top:1px dashed #9d8060;border-bottom:1px dashed #9d8060;background:transparent;border-radius:0}
+#content .hotelInfoContent .content{padding:24px 4px}
+#content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{padding:20px 0;border-bottom:1px dashed #b59b77}
+#content .hotelLocation.content{display:flex;flex-direction:column;gap:22px}
+.gwt-DialogBox:has(#gallery){background:#fcf8ef;border:12px solid #fcf8ef;border-radius:44px 0 0 0}
+#bookingSteps .steps a{border:1px dashed #b59b77;border-radius:18px}
+#content.animated{animation:kwReveal .22s ease-out both}
+@keyframes kwReveal{from{opacity:.3;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media(min-width:961px){
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{display:contents}
+ body:has(#content .imageCarousel #main) #content>div,body:has(#content .imageCarousel #main) #content .contentBorder{display:contents}
+ body:has(#content .imageCarousel #main) .imageCarousel{order:-3;width:100%}
+ body:has(#content .imageCarousel #main) #sideBar{order:-2;padding:0;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #newsFeeds{order:-1}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.7fr 1.1fr 1fr 1.1fr;gap:20px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:90px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
+ body:not(:has(.imageCarousel #main)) #contentWrapper{grid-template-columns:290px minmax(0,1fr)}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#content{grid-column:2!important}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#sideBar{grid-column:1!important;padding:0}
+}
+@media(max-width:960px){body:has(#content .imageCarousel #main) .imageCarousel{order:-3}body:has(#content .imageCarousel #main) #newsFeeds{order:-2}body:has(#content .imageCarousel #main) #sideBar{order:-1}#content{padding:18px}#content .imageCarousel #main{border-radius:45px 45px 0 0}#content .imageCarousel{margin-bottom:130px!important}#content .imageCarousel .gallerydesc{width:100%!important}#content .imageCarousel .gallerydesctext{font-size:18px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 65px)!important}#content .imageCarousel .gallerystatus{top:13px!important;right:160px!important}#content .hotelRates{display:block}#content .hotelResultRoom .roomRates{display:block}}
+
+/* @property hoyo-hoyo */
+body{background:linear-gradient(90deg,#8c3b19 0 12px,#faf0e0 12px 100%)!important}
+#header{border-top:8px solid #8c3b19}
+#client_logo{margin:14px 32px;width:205px}
+#client_logo img{width:205px;height:88px}
+#contentWrapper{max-width:1240px;gap:28px;background:transparent;border:0}
+#content{border:0;padding:0;background:#fffaf3;border-radius:0}
+#searchBar{padding:0 24px 24px;border:0;border-left:6px solid #8c3b19;background:#f1dfc7}
+#searchBar h4{margin:0 -24px 25px;padding:20px 24px;background:#8c3b19;color:#fffaf3;font-size:30px}
+#searchBar button{background:#8c3b19;border-radius:0}
+#content .imageCarousel #main{aspect-ratio:670/325;outline:none;border-radius:0;overflow:hidden}
+#content .imageCarousel{margin-bottom:76px!important}
+#content .imageCarousel .gallerydesc{top:auto!important;bottom:0!important;left:0!important;width:calc(100% - 166px)!important;padding:14px 18px;background:#8c3b19;min-height:56px}
+#content .imageCarousel .gallerydesctext{font:500 20px/1.3 var(--brand-heading)!important;color:#fffaf3!important;text-transform:uppercase}
+#content .imageCarousel .navpanellayer{top:auto!important;bottom:0!important;right:0!important;left:auto!important;width:166px!important;height:56px!important;background:#fffaf3}
+#content .imageCarousel .navpanelfg{gap:5px;justify-content:center;padding:6px 0!important}
+#content .imageCarousel .navimages{border-radius:0;background:#fffaf3;border-color:#8c3b19!important}
+#content .imageCarousel .gallerystatus{position:absolute!important;top:65px!important;right:5px!important;left:auto!important;width:auto!important}
+#content #newsFeeds .newsFeedItemPanel{background:#8c3b19;padding:24px 28px;border:0}
+#content #newsFeeds .newsFeedItemPanel .newsItemAnchor,#content #newsFeeds .newsFeedItemDescription{color:#fffaf3}
+#content .hotelHeading{padding:22px 25px;background:#8c3b19;margin-bottom:25px}
+#content .hotelHeading h1,#content .hotelHeading h2{color:#fffaf3}
+#content .hotelHeading h1{font-size:34px;text-transform:uppercase}
+#content .hotelResult>div:has(>.leftColumn){padding:0 25px}
+#content .hotelRates{padding:18px;background:#f1dfc7;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+#content .hotelInfo{gap:0;padding:18px 0}
+#content .hotelInfo a{border:1px solid #8c3b19;border-radius:0;flex:1;text-transform:uppercase;font-family:var(--brand-heading);font-size:15px;background:transparent}
+#content .hotelResultRoom{padding:25px;border-left:6px solid #8c3b19;background:#fcf4e7;margin-top:22px;display:flex;flex-wrap:wrap;gap:20px}
+#content .hotelResultRoom h3{font-size:31px;text-transform:uppercase}
+#content .hotelResultRoom .roomImage{float:none;width:133px;margin:0}
+#content .hotelResultRoom .roomDescription{float:none;flex:1;min-width:180px;width:auto;margin:0}
+#content .hotelResultRoom .roomOptions{float:none;width:100%;margin:0}
+#content .hotelResultRoom .roomRates{float:none;width:100%;margin:0;padding:18px;background:#f1dfc7;border-top:3px solid #8c3b19}
+#content .ratesDetails th{background:#8c3b19;color:#fffaf3;text-transform:uppercase;font-family:var(--brand-heading);font-size:17px}
+#content .hotelInfoContent-open{border:0;background:#fcf4e7;border-left:6px solid #8c3b19;border-radius:0}
+#content .hotelInfoContent-open .header{background:#8c3b19;color:#fffaf3}
+#content .hotelInfoContent .content{padding:25px}
+#content .paymentTerms{display:flex;gap:24px}
+#content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{width:50%;border:0;padding:16px;background:#f1dfc7}
+#content .paymentTerms h3{font-size:27px;text-transform:uppercase;border-bottom:3px solid #8c3b19;padding-bottom:12px}
+#content .hotelLocation.content{gap:24px}
+.gwt-DialogBox:has(#gallery){border:0;border-radius:0;background:#fffaf3}
+.gwt-DialogBox:has(#gallery) .dialogTopCenterInner{background:#8c3b19;color:#fffaf3;text-transform:uppercase;font-family:var(--brand-heading)}
+#bookingSteps .steps a{border-bottom:4px solid #d6b792;border-radius:0;text-transform:uppercase;font-family:var(--brand-heading);font-size:16px}
+#bookingSteps .steps>div:not(.unselected) a{border-color:#8c3b19}
+#content.animated{animation:hhReveal .17s ease-out both}
+@keyframes hhReveal{from{opacity:.3;transform:translateX(6px)}to{opacity:1;transform:none}}
+@media(min-width:961px){#contentWrapper{grid-template-columns:320px minmax(0,1fr)}#contentWrapper>#sideBar{grid-column:1!important}#contentWrapper>#content{grid-column:2!important}#content .hotelResult>div:has(>.leftColumn){display:grid;grid-template-columns:133px minmax(0,1fr);gap:22px}#content .hotelResult .leftColumn,#content .hotelResult .centerColumn{float:none;width:auto;margin:0;padding:0}#content .hotelResult .rightColumn{grid-column:1/-1;float:none;width:100%}}
+@media(max-width:960px){#content .imageCarousel{margin-bottom:95px!important}#content .imageCarousel .gallerydesc{width:100%!important;padding:10px;bottom:0!important}#content .imageCarousel .gallerydesctext{font-size:17px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 12px)!important;bottom:auto!important;width:166px!important}#content .imageCarousel .gallerystatus{top:17px!important;right:180px!important}#content .hotelResult>div:has(>.leftColumn){padding:0 16px}#content .hotelHeading{padding:18px}#content .hotelResultRoom{padding:18px}#content .paymentTerms .cancelPolicy{margin-top:16px}}
+
+/* @property hamiltons */
+body{background:repeating-linear-gradient(90deg,#f0ecdd 0,#f0ecdd 22px,#f1eddf 22px,#f1eddf 23px)!important}
+#header{border-top:5px double #645937;background:#fbf9f0}
+#client_logo{margin:18px auto;width:265px}
+#client_logo img{width:265px;height:105px}
+#contentWrapper{max-width:1200px;gap:28px}
+#content{padding:22px;background:#fbf9f0;border:5px double #a99c74;border-radius:0}
+#searchBar{padding:22px;background:#fbf9f0;border:1px solid #a99c74;border-top:4px double #645937;border-radius:0}
+#searchBar h4{font-size:26px}
+#searchBar button{background:#332e1f;border-radius:0}
+#content .imageCarousel #main{aspect-ratio:670/270;border-radius:0;outline:4px double #a99c74;outline-offset:6px;overflow:hidden}
+#content .imageCarousel{margin-bottom:92px!important}
+#content .imageCarousel .gallerydesc{top:calc(100% + 18px)!important;bottom:auto!important;left:0!important;width:100%!important;text-align:center;background:transparent;padding:0 150px}
+#content .imageCarousel .gallerydesctext{font:italic 18px/1.4 var(--brand-heading)!important;text-align:center;color:#332e1f!important}
+#content .imageCarousel .navpanellayer{top:calc(100% + 15px)!important;right:0!important;left:auto!important;width:145px!important;height:48px!important}
+#content .imageCarousel .navpanelfg{gap:3px;justify-content:flex-end;padding:0!important}
+#content .imageCarousel .navimages{border-radius:0;border:1px solid #a99c74!important;background:#fbf9f0}
+#content .imageCarousel .gallerystatus{position:absolute!important;top:50px!important;right:0!important;left:auto!important;width:auto!important;font-family:var(--brand-body)!important}
+#content #newsFeeds .newsFeedItemPanel{border-top:3px double #a99c74;padding:24px 10px 8px;text-align:center}
+#content .hotelHeading{border-top:3px double #a99c74;border-bottom:1px solid #a99c74;padding:24px 0;margin-bottom:22px;text-align:center}
+#content .hotelHeading h1{font-size:34px}
+#content .hotelInfo{border-top:1px solid #a99c74;padding-top:16px}
+#content .hotelInfo a{border:0;border-right:1px solid #a99c74;background:transparent;border-radius:0;letter-spacing:.04em;text-decoration:underline;text-underline-offset:5px}
+#content .hotelRates{border-left:3px double #a99c74;padding-left:18px}
+#content .hotelResultRoom{border-top:3px double #a99c74;border-bottom:1px solid #a99c74;padding:24px 0;display:grid;grid-template-columns:133px minmax(0,1fr) 215px;gap:24px;margin-top:26px}
+#content .hotelResultRoom .roomImage,#content .hotelResultRoom .roomDescription,#content .hotelResultRoom .roomRates{float:none;width:auto;margin:0}
+#content .hotelResultRoom .roomOptions{grid-column:2;grid-row:2}
+#content .hotelResultRoom .roomRates{grid-column:3;grid-row:1/3;border-left:3px double #a99c74;padding-left:18px}
+#content .ratesDetails th{background:#e8e1cb;border-top:3px double #a99c74}
+#content .ratesDetails td{background:transparent;border-bottom:1px solid #a99c74}
+#content .hotelInfoContent-open{border:3px double #a99c74;background:#fbf9f0;border-radius:0}
+#content .hotelInfoContent .content{padding:26px}
+#content .paymentTerms{display:flex;gap:28px}
+#content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{width:50%;border:0;padding:0 12px}
+#content .paymentTerms .cancelPolicy{border-left:1px solid #a99c74}
+#content .paymentTerms h3{font-size:28px;border-bottom:3px double #a99c74;padding-bottom:12px}
+#content .hotelLocation.content{display:grid;grid-template-columns:1.2fr 1fr;gap:28px}
+#content .hotelLocation .locationMap{order:0;width:100%!important;border:4px double #a99c74;border-radius:0}
+#content #locationDetails{width:100%}
+.gwt-DialogBox:has(#gallery){border:5px double #a99c74;background:#fbf9f0;border-radius:0}
+#bookingSteps{border-bottom:3px double #a99c74;padding-bottom:15px}
+#bookingSteps .steps a{border-right:1px solid #a99c74;border-radius:0;font-family:var(--brand-heading);font-size:18px}
+#content.animated{animation:haReveal .25s ease-out both}
+@keyframes haReveal{from{opacity:.45}to{opacity:1}}
+@media(min-width:961px){
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #sideBar{order:-3;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #content{order:-2;width:100%}
+ body:has(#content .imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:24px;align-items:center}
+ body:has(#content .imageCarousel #main) #searchBar h4{margin:0}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.8fr 1.2fr 1fr 1.1fr;gap:18px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
+ body:not(:has(.imageCarousel #main)) #contentWrapper{grid-template-columns:minmax(0,1fr) 300px}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#content{grid-column:1!important}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#sideBar{grid-column:2!important}
+ #content .hotelResult>div:has(>.leftColumn){display:grid;grid-template-columns:133px minmax(0,1fr) 175px;gap:20px}
+ #content .hotelResult .leftColumn,#content .hotelResult .centerColumn,#content .hotelResult .rightColumn{float:none;width:auto;padding:0;margin:0}
+}
+@media(max-width:960px){body:has(#content .imageCarousel #main) #sideBar{order:-3}body:has(#content .imageCarousel #main) .imageCarousel{order:-2}body:has(#content .imageCarousel #main) #newsFeeds{order:-1}#content{padding:16px}#content .imageCarousel{margin-bottom:130px!important}#content .imageCarousel .gallerydesc{padding:0 4px;text-align:left}#content .imageCarousel .gallerydesctext{text-align:left;font-size:17px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 65px)!important}#content .hotelRates,#content .hotelResultRoom .roomRates{border-left:0;border-top:3px double #a99c74;padding:18px 0 0}#content .paymentTerms .cancelPolicy{border-left:0;border-top:1px solid #a99c74;padding-top:20px}}
+
+@media(max-width:960px){#header #languagePanel{position:static!important;flex:0 0 100%;width:100%;max-width:100%;margin:0 auto 8px!important;justify-content:center}#nav{padding-top:12px}}
+
+/* @property imbali */
+body{background:#eae5d7!important}
+#contentWrapper{max-width:1260px;gap:26px}
+#content{padding:0;background:#faf8f0;border:0;border-radius:0}
+#searchBar{background:#302d22;border:0;border-top:5px solid #a18a55;padding:25px;border-radius:0}
+#searchBar h4,#searchBar label{color:#faf8f0}
+#searchBar h4{font-size:32px}
+#searchBar input[type=text],#searchBar select,#searchBar #nightBox,#searchBar #promoCode{background:#fff!important;color:#302d22!important;border-color:#b7a87f;border-radius:0}
+#searchBar button{background:#e1d4ad;color:#302d22;border-radius:0;font-family:var(--brand-heading);font-size:20px}
+#content .imageCarousel #main{aspect-ratio:670/300;border-radius:0;outline:none;overflow:hidden}
+#content .imageCarousel{margin-bottom:24px!important;background:#302d22;padding-bottom:82px!important}
+#content .imageCarousel .gallerydesc{top:calc(100% + 18px)!important;bottom:auto!important;left:24px!important;width:calc(100% - 220px)!important;background:transparent;padding:0}
+#content .imageCarousel .gallerydesctext{font:500 24px/1.2 var(--brand-heading)!important;color:#faf8f0!important;text-transform:uppercase}
+#content .imageCarousel .navpanellayer{top:calc(100% + 18px)!important;bottom:auto!important;left:auto!important;right:22px!important;width:155px!important;height:50px!important}
+#content .imageCarousel .navpanelfg{justify-content:flex-end;gap:6px;padding:0!important}
+#content .imageCarousel .navimages{border-radius:0;background:#e1d4ad;border:0!important}
+#content .imageCarousel .gallerystatus{color:#e1d4ad!important;position:absolute!important;top:51px!important;right:0!important;left:auto!important;width:auto!important}
+#content #newsFeeds .newsFeedItemPanel{padding:30px;background:#302d22;border:0}
+#content #newsFeeds .newsItemAnchor,#content #newsFeeds .newsFeedItemDescription{color:#faf8f0}
+#content #newsFeeds .newsItemAnchor{font-size:44px}
+#content .hotelHeading{padding:24px 28px;background:#302d22;margin-bottom:24px}
+#content .hotelHeading h1,#content .hotelHeading h2{color:#faf8f0}
+#content .hotelHeading h1{font-size:39px;text-transform:uppercase}
+#content .hotelResult>div:has(>.leftColumn){padding:0 28px}
+#content .hotelInfo{padding:18px 0;gap:0}
+#content .hotelInfo a{background:#e8e1cd;border:0;border-right:2px solid #faf8f0;border-radius:0;font-family:var(--brand-heading);font-size:20px;text-transform:uppercase;flex:1}
+#content .hotelRates{background:#302d22;color:#faf8f0;padding:20px 24px;display:flex;flex-wrap:wrap;align-items:center;gap:18px}
+#content .hotelRates h4,#content .hotelRates h5{color:#faf8f0;margin:0}
+#content .hotelRates button.standardButton{margin-left:auto;background:#e1d4ad;color:#302d22;border-radius:0}
+#content .hotelResultRoom{padding:28px;background:#f6f2e5;margin-top:22px;border-top:5px solid #85754e;display:grid;grid-template-columns:133px minmax(0,1fr);gap:24px}
+#content .hotelResultRoom h3{font-size:35px;text-transform:uppercase}
+#content .hotelResultRoom .roomImage,#content .hotelResultRoom .roomDescription,#content .hotelResultRoom .roomRates{float:none;width:auto;margin:0}
+#content .hotelResultRoom .roomOptions{grid-column:2;width:100%;margin:0}
+#content .hotelResultRoom .roomRates{grid-column:1/-1;width:100%;padding:20px;background:#302d22;color:#faf8f0;display:flex;align-items:center;justify-content:space-between;gap:20px}
+#content .hotelResultRoom .roomRates h4,#content .hotelResultRoom .roomRates h5{color:#faf8f0}
+#content .hotelResultRoom .roomRates button.smallButton{background:#e1d4ad;color:#302d22;border-radius:0}
+#content .ratesDetails th{background:#302d22;color:#faf8f0;font-family:var(--brand-heading);font-size:20px;text-transform:uppercase}
+#content .hotelInfoContent-open{border:0;background:#faf8f0;border-radius:0}
+#content .hotelInfoContent-open .header{background:#85754e;color:#fff}
+#content .hotelInfoContent .content{padding:28px}
+#content .paymentTerms h3{padding:14px 18px;background:#302d22;color:#faf8f0;font-family:var(--brand-heading);font-size:29px;text-transform:uppercase}
+#content .paymentTerms .depositPolicy,#content .paymentTerms .cancelPolicy{border:0;padding:0 0 20px}
+#content .hotelLocation.content{display:grid;grid-template-columns:1.4fr 1fr;gap:24px}
+#content .hotelLocation .locationMap{width:100%!important;order:0;border-radius:0}
+#content #locationDetails{width:100%;background:#e8e1cd;padding:20px}
+.gwt-DialogBox:has(#gallery){background:#302d22;color:#faf8f0;border:0;border-radius:0;padding:14px}
+.gwt-DialogBox:has(#gallery) .dialogTopCenterInner{background:#302d22;color:#faf8f0;font-family:var(--brand-heading);font-size:28px}
+#bookingSteps{background:#302d22;padding:10px 18px}
+#bookingSteps .steps a{color:#e1d4ad;font-family:var(--brand-heading);font-size:20px;text-transform:uppercase}
+#bookingSteps .steps>div:not(.unselected) a{background:#e1d4ad;color:#302d22;text-decoration:none}
+#content.animated{animation:imReveal .2s ease-out both}
+@keyframes imReveal{from{opacity:.4;transform:translateY(4px)}to{opacity:1;transform:none}}
+@media(min-width:961px){
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{display:contents}
+ body:has(#content .imageCarousel #main) #content>div,body:has(#content .imageCarousel #main) #content .contentBorder{display:contents}
+ body:has(#content .imageCarousel #main) .imageCarousel{order:-3;width:100%}
+ body:has(#content .imageCarousel #main) #sideBar{order:-2;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #newsFeeds{order:-1}
+ body:has(#content .imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:25px;align-items:center}
+ body:has(#content .imageCarousel #main) #searchBar h4{margin:0}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.5fr 1.1fr 1fr 1.1fr;gap:20px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
+ body:not(:has(.imageCarousel #main)) #contentWrapper{display:grid;grid-template-columns:300px minmax(0,1fr)}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#content{display:block;grid-column:2!important;grid-row:2}
+ body:not(:has(.imageCarousel #main)) #contentWrapper>#sideBar{grid-column:1!important;grid-row:2}
+ #content .hotelResult>div:has(>.leftColumn){display:grid;grid-template-columns:133px minmax(0,1fr);gap:22px}
+ #content .hotelResult .leftColumn,#content .hotelResult .centerColumn{float:none;width:auto;margin:0;padding:0}
+ #content .hotelResult .rightColumn{grid-column:1/-1;float:none;width:100%}
+}
+@media(max-width:960px){#content .imageCarousel{padding-bottom:125px!important;margin-bottom:16px!important}#content .imageCarousel .gallerydesc{top:calc(100% + 12px)!important;left:15px!important;width:calc(100% - 30px)!important}#content .imageCarousel .gallerydesctext{font-size:21px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 62px)!important;right:15px!important}#content .imageCarousel .gallerystatus{top:14px!important;right:172px!important}#content .hotelRates{display:block}#content .hotelResultRoom .roomRates{display:block}#content .hotelHeading{padding:20px}#content .hotelResult>div:has(>.leftColumn){padding:0 18px}#content .hotelHeading h1{font-size:31px}}
+
+

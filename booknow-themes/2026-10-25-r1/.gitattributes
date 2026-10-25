@@ -1,0 +1,2 @@
+# Preserve exact package-member bytes on Windows and Unix.
+* -text

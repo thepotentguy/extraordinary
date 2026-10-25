@@ -1,0 +1,72 @@
+body {
+	background-color: #FFF;
+}
+
+#siteWrapper {
+	width: 100%;
+}
+
+#header {
+	display: none;
+}
+#client_logo {
+	background-image: none;
+	height: 100px;
+}
+
+#content {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: #fff 0px 0px 0px;
+	-moz-box-shadow: #fff 0px 0px 0px;
+	box-shadow: #fff 0px 0px 0px;
+
+	width:100%;
+	border: none;
+	margin: 0px;
+}
+
+#searchBar {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: 10px 100px;
+}
+
+.hotelResult {
+	padding: 0px 6px;
+}
+
+.hotelHeading h3 {
+	font-size: 1.5em;
+}
+
+.hotelHeading h4 {
+	float: right;
+	margin-top: 8px;
+}
+
+.hotelDescription p {
+	width: 100%;
+	font-size: 0.9em;
+}
+
+.hotelInfo {	
+	width: 99%;
+	margin-left: 0px;
+	padding-left: 5px;
+}
+
+
+.hotelRates {
+	margin-top: 10px;
+}
+
+.hotelFeatures {
+	display: none;
+}
+
+#locationMap {
+	width: 480px;
+}
