@@ -2,8 +2,8 @@
   "property": "kwafubesi",
   "version": "R2",
   "file": "kwafubesi-Legacy-BookNow-R2.zip",
-  "sha256": "164e642cbee94d579f595aa031cc27c0ccd3065a7f0bd38cf4db865daddd6c7f",
-  "bytes": 1015065,
+  "sha256": "e0de00c14fdd5e31f3a9b35acefafbad82b45aac3d0e62bd647d439d2a2ca020",
+  "bytes": 1015086,
   "files": 131,
   "explicitDirectories": 8,
   "javascriptIncluded": false,
@@ -37,7 +37,7 @@
     },
     {
       "path": "black-rhino2021/css/mobileTheme.css",
-      "sha256": "86f013ec7317e19af2f4a9cbeacb5b416ae0caddd10b4b7b65c0e8a8b5f45134"
+      "sha256": "e175b08146fb07b9b7508b68b8ab81a1461ea10a5e2b7d73405c3167d9b25070"
     },
     {
       "path": "black-rhino2021/css/reset.css",
@@ -49,7 +49,7 @@
     },
     {
       "path": "black-rhino2021/css/theme.css",
-      "sha256": "0d511e2b24a02796fc93e97c1e21399bcab11eadec8a478b5cfaaab396e5a156"
+      "sha256": "dc46331f383719eb3aee8ad5cef79e56c2020413e91c3fc370d22a8161516d73"
     },
     {
       "path": "black-rhino2021/images/Hotel.png",

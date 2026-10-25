@@ -2301,7 +2301,8 @@ body{background:var(--brand-surface)!important;color:var(--brand-ink)}
 #bookingSteps{box-sizing:border-box;background:transparent;border:0;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:12px 0}
 #bookingSteps>div{width:100%;display:flex;flex-wrap:wrap;gap:12px;align-items:center;min-width:0}
 #bookingSteps .steps{float:none;position:static;display:flex;flex-wrap:wrap;gap:8px;height:auto;width:auto;min-width:0;margin:0!important;padding:0;top:auto;left:auto;right:auto}
-#bookingSteps .steps>div{float:none;position:static;background-image:none;width:auto;height:auto;min-width:0;margin:0!important}
+#bookingSteps .steps>div{float:none;position:static;background-image:none;width:auto;height:auto;min-width:0;margin:0!important;display:block!important}
+#bookingSteps .steps>div>a{display:inline-flex!important}
 #bookingSteps .steps a{display:inline-flex;align-items:center;min-height:44px;padding:8px 12px;font:13px/1.4 var(--brand-body);color:var(--brand-ink);box-sizing:border-box}
 #bookingSteps .steps .unselected a{opacity:.78}
 #bookingSteps .steps>div:not(.unselected) a{font-weight:700;text-decoration:underline;text-underline-offset:6px}
@@ -2389,19 +2390,19 @@ body{background:#eae5d7!important}
 #content.animated{animation:imReveal .2s ease-out both}
 @keyframes imReveal{from{opacity:.4;transform:translateY(4px)}to{opacity:1;transform:none}}
 @media(min-width:961px){
- body:has(.imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
- body:has(.imageCarousel #main) #contentWrapper>#content{display:contents}
- body:has(.imageCarousel #main) #content>div,body:has(.imageCarousel #main) #content .contentBorder{display:contents}
- body:has(.imageCarousel #main) .imageCarousel{order:-3;width:100%}
- body:has(.imageCarousel #main) #sideBar{order:-2;width:100%;position:static}
- body:has(.imageCarousel #main) #newsFeeds{order:-1}
- body:has(.imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:25px;align-items:center}
- body:has(.imageCarousel #main) #searchBar h4{margin:0}
- body:has(.imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.5fr 1.1fr 1fr 1.1fr;gap:20px;align-items:end}
- body:has(.imageCarousel #main) #searchBarContent>.smallDivider,body:has(.imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
- body:has(.imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
- body:has(.imageCarousel #main) #unitBreakdown,body:has(.imageCarousel #main) #promoCriteria{margin:0!important}
- body:has(.imageCarousel #main) #searchBar button{margin:0}
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{display:contents}
+ body:has(#content .imageCarousel #main) #content>div,body:has(#content .imageCarousel #main) #content .contentBorder{display:contents}
+ body:has(#content .imageCarousel #main) .imageCarousel{order:-3;width:100%}
+ body:has(#content .imageCarousel #main) #sideBar{order:-2;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #newsFeeds{order:-1}
+ body:has(#content .imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:25px;align-items:center}
+ body:has(#content .imageCarousel #main) #searchBar h4{margin:0}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.5fr 1.1fr 1fr 1.1fr;gap:20px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
  body:not(:has(.imageCarousel #main)) #contentWrapper{display:grid;grid-template-columns:300px minmax(0,1fr)}
  body:not(:has(.imageCarousel #main)) #contentWrapper>#content{display:block;grid-column:2!important;grid-row:2}
  body:not(:has(.imageCarousel #main)) #contentWrapper>#sideBar{grid-column:1!important;grid-row:2}
@@ -2410,4 +2411,5 @@ body{background:#eae5d7!important}
  #content .hotelResult .rightColumn{grid-column:1/-1;float:none;width:100%}
 }
 @media(max-width:960px){#content .imageCarousel{padding-bottom:125px!important;margin-bottom:16px!important}#content .imageCarousel .gallerydesc{top:calc(100% + 12px)!important;left:15px!important;width:calc(100% - 30px)!important}#content .imageCarousel .gallerydesctext{font-size:21px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 62px)!important;right:15px!important}#content .imageCarousel .gallerystatus{top:14px!important;right:172px!important}#content .hotelRates{display:block}#content .hotelResultRoom .roomRates{display:block}#content .hotelHeading{padding:20px}#content .hotelResult>div:has(>.leftColumn){padding:0 18px}#content .hotelHeading h1{font-size:31px}}
+
 

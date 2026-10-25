@@ -2,8 +2,8 @@
   "property": "imbali",
   "version": "R2",
   "file": "imbali-Legacy-BookNow-R2.zip",
-  "sha256": "b4738fa1bc363b69388c6ef1a0d4bbf2cdd742c2b1e1f41a493eeeb452e24c9a",
-  "bytes": 850883,
+  "sha256": "c38f354a97ca95a49194f5442c1621c200a3d486370c2f2ab96f7b989385c7f2",
+  "bytes": 850867,
   "files": 131,
   "explicitDirectories": 8,
   "javascriptIncluded": false,
@@ -37,7 +37,7 @@
     },
     {
       "path": "black-rhino2021/css/mobileTheme.css",
-      "sha256": "956c10fac184410282bd5988d518e9fa89385f3ecc63a27e5795d021cb3bc138"
+      "sha256": "1e195e08953534b7f0c7ec7603ca84065d502f16e18da25b059bc44eadaac8c3"
     },
     {
       "path": "black-rhino2021/css/reset.css",
@@ -49,7 +49,7 @@
     },
     {
       "path": "black-rhino2021/css/theme.css",
-      "sha256": "f8c88fe7059099133a65411453481518a890ef5e623083b17ed534b3e67d4c0f"
+      "sha256": "9c5d7097c5d64b9f445b793faf810e0abb92a0a451d73291010226f1a937c52c"
     },
     {
       "path": "black-rhino2021/images/Hotel.png",

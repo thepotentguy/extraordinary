@@ -2,8 +2,8 @@
   "property": "hamiltons",
   "version": "R2",
   "file": "hamiltons-Legacy-BookNow-R2.zip",
-  "sha256": "bac6bfbdb837aad889b060867471366a37beeaed3b5604a07bdfec60302cbef8",
-  "bytes": 1011676,
+  "sha256": "c033a675cd9288fe80291032ecccda457e8926db73c1bbc031703ca5a24d9c1e",
+  "bytes": 1011775,
   "files": 131,
   "explicitDirectories": 8,
   "javascriptIncluded": false,
@@ -37,7 +37,7 @@
     },
     {
       "path": "black-rhino2021/css/mobileTheme.css",
-      "sha256": "df3a6b93c5e721a60f12fa3c8bc9c1d55353d2d980c6d54be31a851393791eb0"
+      "sha256": "c50827ce6e4339ed88303292e3990edc3e17144411f5a59cabb98c6c07c1ad35"
     },
     {
       "path": "black-rhino2021/css/reset.css",
@@ -49,7 +49,7 @@
     },
     {
       "path": "black-rhino2021/css/theme.css",
-      "sha256": "c2fd7232b46f64257a59941e31d4e6dcf444177099af74bf58b71a1fc57bcfc9"
+      "sha256": "40755d75b06fa0732337b6a43fca527587daf644fdf1a59c9c873777be429c3c"
     },
     {
       "path": "black-rhino2021/images/Hotel.png",

@@ -2,8 +2,8 @@
   "property": "kingfisher",
   "version": "R2",
   "file": "kingfisher-Legacy-BookNow-R2.zip",
-  "sha256": "c4690f30ce2d28b629781f38b9934cb3bd7251b7f6ede9c072bb84ef2ccea78f",
-  "bytes": 1250514,
+  "sha256": "18f5b9741760e43322ce87171ccbed4a69b2c18cbea0dd710df05a7bec4dd4bc",
+  "bytes": 1250538,
   "files": 131,
   "explicitDirectories": 8,
   "javascriptIncluded": false,
@@ -37,7 +37,7 @@
     },
     {
       "path": "black-rhino2021/css/mobileTheme.css",
-      "sha256": "9679d0c7985e6b05fe17a79e6ecc3a4dc3f5038d30d53b50d223fc3a067f6412"
+      "sha256": "6efec5de0da82a0059eda18f96b3c9fa87079c538413cad37ba39b09bc672c3d"
     },
     {
       "path": "black-rhino2021/css/reset.css",
@@ -49,7 +49,7 @@
     },
     {
       "path": "black-rhino2021/css/theme.css",
-      "sha256": "e81c01614200b22c3a90e09c2323139df0745d7e2cc6a13a964f3a8cf6ee53aa"
+      "sha256": "b9eac74b6ca0882fd9b1011ed33f4ed7524ca7018092ef1c754130dd23e0c92e"
     },
     {
       "path": "black-rhino2021/images/Hotel.png",

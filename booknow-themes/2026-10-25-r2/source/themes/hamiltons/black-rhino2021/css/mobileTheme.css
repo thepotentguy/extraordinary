@@ -1487,7 +1487,8 @@ body{background:var(--brand-surface)!important;color:var(--brand-ink)}
 #bookingSteps{box-sizing:border-box;background:transparent;border:0;display:flex;flex-wrap:wrap;gap:12px;align-items:center;padding:12px 0}
 #bookingSteps>div{width:100%;display:flex;flex-wrap:wrap;gap:12px;align-items:center;min-width:0}
 #bookingSteps .steps{float:none;position:static;display:flex;flex-wrap:wrap;gap:8px;height:auto;width:auto;min-width:0;margin:0!important;padding:0;top:auto;left:auto;right:auto}
-#bookingSteps .steps>div{float:none;position:static;background-image:none;width:auto;height:auto;min-width:0;margin:0!important}
+#bookingSteps .steps>div{float:none;position:static;background-image:none;width:auto;height:auto;min-width:0;margin:0!important;display:block!important}
+#bookingSteps .steps>div>a{display:inline-flex!important}
 #bookingSteps .steps a{display:inline-flex;align-items:center;min-height:44px;padding:8px 12px;font:13px/1.4 var(--brand-body);color:var(--brand-ink);box-sizing:border-box}
 #bookingSteps .steps .unselected a{opacity:.78}
 #bookingSteps .steps>div:not(.unselected) a{font-weight:700;text-decoration:underline;text-underline-offset:6px}
@@ -1567,21 +1568,23 @@ body{background:repeating-linear-gradient(90deg,#f0ecdd 0,#f0ecdd 22px,#f1eddf 2
 #content.animated{animation:haReveal .25s ease-out both}
 @keyframes haReveal{from{opacity:.45}to{opacity:1}}
 @media(min-width:961px){
- body:has(.imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
- body:has(.imageCarousel #main) #sideBar{order:-3;width:100%;position:static}
- body:has(.imageCarousel #main) #content{order:-2;width:100%}
- body:has(.imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:24px;align-items:center}
- body:has(.imageCarousel #main) #searchBar h4{margin:0}
- body:has(.imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.8fr 1.2fr 1fr 1.1fr;gap:18px;align-items:end}
- body:has(.imageCarousel #main) #searchBarContent>.smallDivider,body:has(.imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
- body:has(.imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
- body:has(.imageCarousel #main) #unitBreakdown,body:has(.imageCarousel #main) #promoCriteria{margin:0!important}
- body:has(.imageCarousel #main) #searchBar button{margin:0}
+ body:has(#content .imageCarousel #main) #contentWrapper{display:flex;flex-direction:column}
+ body:has(#content .imageCarousel #main) #sideBar{order:-3;width:100%;position:static}
+ body:has(#content .imageCarousel #main) #content{order:-2;width:100%}
+ body:has(#content .imageCarousel #main) #searchBar{display:grid;grid-template-columns:180px minmax(0,1fr);gap:24px;align-items:center}
+ body:has(#content .imageCarousel #main) #searchBar h4{margin:0}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.8fr 1.2fr 1fr 1.1fr;gap:18px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-template-columns:80px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #unitBreakdown,body:has(#content .imageCarousel #main) #promoCriteria{margin:0!important}
+ body:has(#content .imageCarousel #main) #searchBar button{margin:0}
  body:not(:has(.imageCarousel #main)) #contentWrapper{grid-template-columns:minmax(0,1fr) 300px}
  body:not(:has(.imageCarousel #main)) #contentWrapper>#content{grid-column:1!important}
  body:not(:has(.imageCarousel #main)) #contentWrapper>#sideBar{grid-column:2!important}
  #content .hotelResult>div:has(>.leftColumn){display:grid;grid-template-columns:133px minmax(0,1fr) 175px;gap:20px}
  #content .hotelResult .leftColumn,#content .hotelResult .centerColumn,#content .hotelResult .rightColumn{float:none;width:auto;padding:0;margin:0}
 }
-@media(max-width:960px){body:has(.imageCarousel #main) #sideBar{order:-3}body:has(.imageCarousel #main) .imageCarousel{order:-2}body:has(.imageCarousel #main) #newsFeeds{order:-1}#content{padding:16px}#content .imageCarousel{margin-bottom:130px!important}#content .imageCarousel .gallerydesc{padding:0 4px;text-align:left}#content .imageCarousel .gallerydesctext{text-align:left;font-size:17px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 65px)!important}#content .hotelRates,#content .hotelResultRoom .roomRates{border-left:0;border-top:3px double #a99c74;padding:18px 0 0}#content .paymentTerms .cancelPolicy{border-left:0;border-top:1px solid #a99c74;padding-top:20px}}
+@media(max-width:960px){body:has(#content .imageCarousel #main) #sideBar{order:-3}body:has(#content .imageCarousel #main) .imageCarousel{order:-2}body:has(#content .imageCarousel #main) #newsFeeds{order:-1}#content{padding:16px}#content .imageCarousel{margin-bottom:130px!important}#content .imageCarousel .gallerydesc{padding:0 4px;text-align:left}#content .imageCarousel .gallerydesctext{text-align:left;font-size:17px!important}#content .imageCarousel .navpanellayer{top:calc(100% + 65px)!important}#content .hotelRates,#content .hotelResultRoom .roomRates{border-left:0;border-top:3px double #a99c74;padding:18px 0 0}#content .paymentTerms .cancelPolicy{border-left:0;border-top:1px solid #a99c74;padding-top:20px}}
+
+@media(max-width:960px){#header #languagePanel{position:static!important;flex:0 0 100%;width:100%;max-width:100%;margin:0 auto 8px!important;justify-content:center}#nav{padding-top:12px}}
 

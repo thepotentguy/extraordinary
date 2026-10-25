@@ -2,8 +2,8 @@
   "property": "hoyo-hoyo",
   "version": "R2",
   "file": "hoyo-hoyo-Legacy-BookNow-R2.zip",
-  "sha256": "f67e5d1d2806381fb6bb3e966c582e128a43b7061f991f7fe0c5f35f81641141",
-  "bytes": 900524,
+  "sha256": "93c2b3d27c6d672e2c21a79c9ecd427df9e6cd6d2aa72dab5161740c25590a8f",
+  "bytes": 900552,
   "files": 131,
   "explicitDirectories": 8,
   "javascriptIncluded": false,
@@ -37,7 +37,7 @@
     },
     {
       "path": "black-rhino2021/css/mobileTheme.css",
-      "sha256": "ceaafa44da4765b5ebfef4257575438fd9d5a2f541364f27ff6658409a9585e4"
+      "sha256": "fbf9ae98e39588cabab5c81dce1201ccfca2be11ef80b9cc1f9707f409982947"
     },
     {
       "path": "black-rhino2021/css/reset.css",
@@ -49,7 +49,7 @@
     },
     {
       "path": "black-rhino2021/css/theme.css",
-      "sha256": "6a89e08702dea0182c04aee29623d812c803f870700f00494d29d138cff528b6"
+      "sha256": "f5950b3feb3300e231a8e75fc32e99f40524c71efbb1ce33284ec082f9988789"
     },
     {
       "path": "black-rhino2021/images/Hotel.png",
