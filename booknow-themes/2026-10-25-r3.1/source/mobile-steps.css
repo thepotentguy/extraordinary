@@ -1,0 +1,15 @@
+/* R3.1: preserve the native mobile current-step model and action visibility. */
+@media (max-width:960px) {
+  #bookingSteps .steps>div.unselected,
+  #bookingSteps .steps>.gwt-Label {display:none!important}
+  #bookingSteps .steps>div[class*="stepsName"]>div {display:none!important}
+  #bookingSteps .steps {flex:1 1 auto;gap:0;min-width:0}
+  #bookingSteps .steps>div[class*="stepsName"] {flex:1 1 auto;min-width:0}
+  #bookingSteps .steps a {position:static;float:none;margin:0;max-width:100%;white-space:normal}
+  #bookingSteps .backButton,
+  #bookingSteps .homeButton,
+  #bookingSteps .myBookingsButton,
+  #bookingSteps .forwardButtonWide,
+  #bookingSteps .forwardButton {position:static;float:none;inset:auto;margin:0;box-sizing:border-box;max-width:100%;min-height:44px;height:auto}
+  #bookingSteps [aria-hidden="true"] {display:none!important}
+}
