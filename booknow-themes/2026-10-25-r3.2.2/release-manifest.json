@@ -2,7 +2,7 @@
   "version": "R3.2.2",
   "date": "2026-10-25",
   "round": 3,
-  "status": "LOCAL verified package candidate; native installation/public missing-resource confirmation pending.",
+  "status": "Coordinator reports upload/publication successful; missing mobileColor.css remains404. Added-file hypothesis failed live. Existing appearance preserved.",
   "scope": "One missing compatibility stylesheet added, with no style rules; all original members unchanged. Map data and native CMS parser limitation remain separate.",
   "themes": [
     {

@@ -1,0 +1,13 @@
+# R3.2.3 — visible mobile detail panels
+
+At 390px, opening Location after closing Pictures left the native detail table in ordinary page flow, below the visible screen. The table had `.hotelInfoContent.hotelInfoContent-open` and `position:static`; width-only checks did not catch this visibility defect.
+
+This release appends the same mobile-only patch to mainStyle.css and root mobileTheme.css, both known public stylesheet paths. At widths up to 960px, the native open detail table stays 12px inside the viewport, long content scrolls internally, the existing Close row stays visible, and the Location map comes before its directions. The theme's surface colour remains in use. No JavaScript or native event handler changes. Desktop rules are untouched by the media query.
+
+Each package preserves the R3.2.2 member list (132 files/eight directories). Exactly two CSS files change, each retaining its entire prior byte prefix plus the frozen patch. All other members remain byte-identical. Exact package/member hashes are in the manifests.
+
+Seventy local checks replay the captured native table structure with offline map content and neutral long text. Five properties × six widths × Location/Terms gives 60 cases; ten additional 390×390 cases check a short viewport. Forty mobile baselines reproduced panels below the viewport. The patch passes initial visibility, Close hit-testing, internal scrolling to the final paragraph, sticky Close visibility and document-width checks. All desktop comparisons remain identical. Fixture Pictures Close is exercised; the table's close event is simulated locally and requires actual native verification. Initial failures and the later corrections are retained privately: explicit map ordering was needed for consistent property behavior, and the authored fixture toolbar was removed because it does not exist in the native page.
+
+The coordinator's initial native preview passes four existing open panels at 390px: Kwa, Hamiltons, Imbali and Hoyo. Actual native Close succeeds, and Kwa Pictures → Close → Location opens visibly. Remaining native width/Terms checks and publication are pending at this receipt. No new availability searches were performed by the design chat.
+
+Known limitations remain separate: the native CMS editing compatibility dependency, stale/other-source Hamiltons/Hoyo GPS in rate responses, and the mobileColor.css 404. R3.2.2's added-file hypothesis failed live because the publisher selects/renames scheme files; the unchanged compatibility member remains in these packages. This release does not claim those issues repaired, full accessibility certification or sponsor acceptance.
