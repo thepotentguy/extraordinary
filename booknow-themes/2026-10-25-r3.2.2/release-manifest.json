@@ -1,0 +1,69 @@
+{
+  "version": "R3.2.2",
+  "date": "2026-10-25",
+  "round": 3,
+  "status": "LOCAL verified package candidate; native installation/public missing-resource confirmation pending.",
+  "scope": "One missing compatibility stylesheet added, with no style rules; all original members unchanged. Map data and native CMS parser limitation remain separate.",
+  "themes": [
+    {
+      "property": "hamiltons",
+      "file": "hamiltons-Legacy-BookNow-R3.2.2.zip",
+      "sha256": "24d237497267f865126667ad540844541ed432c91295cac9733111d3e7256f38",
+      "bytes": 1017495,
+      "baseSha256": "ad87be4a9ee68bed2740ee169a60ee28f240ebc04994eb466cf41a5ce130fcb0",
+      "files": 132,
+      "directories": 8,
+      "addedMember": "black-rhino2021/css/colourSchemes/mobileColor.css",
+      "addedMemberSha256": "a769446683da5879a1dbadd9eada49c95ca8f90e4ff17fea844854b457d0d9fd",
+      "originalMembersUnchanged": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "hoyo-hoyo-Legacy-BookNow-R3.2.2.zip",
+      "sha256": "5d23554bc3833335a361d545c6d5d9efc3425ff4a771581477cf3e76bc83870e",
+      "bytes": 906234,
+      "baseSha256": "a3ef71eea7ce46ec504ebe63a83f3472738c0a610a04f919c02319f8dc6afcc5",
+      "files": 132,
+      "directories": 8,
+      "addedMember": "black-rhino2021/css/colourSchemes/mobileColor.css",
+      "addedMemberSha256": "a769446683da5879a1dbadd9eada49c95ca8f90e4ff17fea844854b457d0d9fd",
+      "originalMembersUnchanged": true
+    },
+    {
+      "property": "imbali",
+      "file": "imbali-Legacy-BookNow-R3.2.2.zip",
+      "sha256": "2309ea03188ce228a24402c5f66efc28b8c021114527495742e50d2c72ebd4c1",
+      "bytes": 857667,
+      "baseSha256": "533cfcb2eff0cdc399134fb8bead485fea0a2d65d14b28695e8965a59a643a3b",
+      "files": 132,
+      "directories": 8,
+      "addedMember": "black-rhino2021/css/colourSchemes/mobileColor.css",
+      "addedMemberSha256": "a769446683da5879a1dbadd9eada49c95ca8f90e4ff17fea844854b457d0d9fd",
+      "originalMembersUnchanged": true
+    },
+    {
+      "property": "kingfisher",
+      "file": "kingfisher-Legacy-BookNow-R3.2.2.zip",
+      "sha256": "0a4e3a7f27936c8e04b960c40385b833950be81aaf0b67ab7ebd8250a443f68e",
+      "bytes": 1256353,
+      "baseSha256": "4d89886d293cb1e185fec549ec37df44dee364bff94b2f8880772d6a8387d48b",
+      "files": 132,
+      "directories": 8,
+      "addedMember": "black-rhino2021/css/colourSchemes/mobileColor.css",
+      "addedMemberSha256": "a769446683da5879a1dbadd9eada49c95ca8f90e4ff17fea844854b457d0d9fd",
+      "originalMembersUnchanged": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "kwafubesi-Legacy-BookNow-R3.2.2.zip",
+      "sha256": "c7ef13c20b19c2bc7010b3e2f368536296be7157cd11b160192c67adb558644e",
+      "bytes": 1020603,
+      "baseSha256": "615f344763d9854e12078964ed034c0807e411f1b4c3a2874e8fd08a685b782d",
+      "files": 132,
+      "directories": 8,
+      "addedMember": "black-rhino2021/css/colourSchemes/mobileColor.css",
+      "addedMemberSha256": "a769446683da5879a1dbadd9eada49c95ca8f90e4ff17fea844854b457d0d9fd",
+      "originalMembersUnchanged": true
+    }
+  ]
+}

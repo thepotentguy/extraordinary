@@ -1,0 +1,5 @@
+/* Native mobile shell compatibility resource.
+ * Shared colours are already loaded from colourSchemes/color.css.
+ * Property-specific responsive styles remain in mobile.css and mobileTheme.css.
+ * No duplicate colour rules: preserve the accepted R3.2.1 appearance.
+ */

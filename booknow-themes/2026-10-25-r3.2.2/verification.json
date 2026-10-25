@@ -1,0 +1,305 @@
+{
+  "scope": "Local existing native-shaped no-availability fixture, authentic230x100logo, six widths each. Actual new CSS served through local intercepted request. Native deployment/404 recovery pending.",
+  "checks": [
+    {
+      "brand": "hamiltons",
+      "width": 320,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 320,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 390,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hamiltons",
+      "width": 768,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 768,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1024,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1024,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1440,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1440,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1920,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1920,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 320,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 320,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 390,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 768,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 768,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1024,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1024,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1440,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1440,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1920,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1920,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 320,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 320,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 390,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 768,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 768,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 1024,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1024,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 1440,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1440,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "imbali",
+      "width": 1920,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1920,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 320,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 320,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 390,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 768,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 768,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1024,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1024,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1440,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1440,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1920,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1920,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 320,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 320,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 390,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 768,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 768,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1024,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1024,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1440,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1440,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1920,
+      "pass": true,
+      "elements": 149,
+      "allMeasuredGeometryAndStylesIdentical": true,
+      "scroll": 1920,
+      "resourceStatus": 200,
+      "cssRuleCount": 0
+    }
+  ]
+}
