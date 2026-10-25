@@ -1,0 +1,379 @@
+
+
+body {
+    background-color: transparent;
+    background-image: none;
+}
+
+#siteWrapper {
+    width: 970px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    min-height: 54px;
+    background-color: transparent !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header {
+	display: none;
+}
+
+#client_logo {
+	background-image: none;
+	display: none;
+}
+
+#content {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    width: 100%;
+    border: none;
+    margin: 0px;
+    background-color: transparent !important;
+}
+
+#searchBar {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    margin: 0px;
+    background-image: none !important;
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+#sideBar {
+	display: none;
+}
+.gwt-DatePicker {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    border: 1px solid #fff;
+    -webkit-box-shadow: #000 0px 0px 30px;
+    -moz-box-shadow: #000 0px 0px 30px;
+    box-shadow: #999 0px 0px 10px;
+    color: #666666;
+    text-align: center;
+    width: 220px;
+}
+
+.datePickerMonthSelector {
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    background-image: none;
+    border: none;
+    height: 32px;
+    background-color: #EFEFEF;
+    color: #383838;
+    font-size: 12px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    width: 100%;
+    line-height: 32px;
+}
+.datePickerMonth{
+	line-height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.datePickerPreviousButton { /*the previous month button*/
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.datePickerNextButton { /*the next month button*/
+	cursor: pointer;
+	font-size: 20px;
+}
+.datePickerDays{
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	background-color:#FFFFFF;
+	background: #FFF;
+	font-size: 12px;
+	padding: 5px;
+	width: 100%;
+	line-height: 24px;
+}
+.datePickerDays td { /*the portion of the picker that shows the days*/
+	padding: 4px 3px 4px 3px;
+	text-align: center;
+	line-height: 18px;
+}
+.datePickerWeekdayLabel { /*the label over weekdays*/
+	background-color: #EFEFEF;;
+	font-weight: bold;
+}
+.datePickerWeekendLabel { /*the label over weekends*/
+	background-color: #EFEFEF;
+	font-weight: bold;
+}
+.datePickerDay { /*a single day*/
+	cursor: pointer;
+	height: 26px;
+	line-height: 26px;
+	width: 26px;
+}
+.datePickerDayIsToday { /*today's date*/
+	border: 1px solid #c1c1c1;
+}
+.datePickerDayIsValue { /*the selected day*/
+	background-color: #e5e5e5;
+	line-height: 26px;
+	height: 26px;
+	width: 26px;
+	font-weight: bold;
+}
+.datePickerDayIsHighlighted { /*the currently highlighted day*/
+	background-color: #D6D6D6;
+}
+#contentWrapper {
+    width: 100%;
+    margin: 0 auto !important;
+    background-color: transparent !important;
+}
+#searchBar button {
+    height: 46px;
+    border: none;
+    font-size: 15px;
+    width: 185px;
+    line-height: 32px;
+    background-color: #383838 !important;
+    text-align: center;
+    padding: 0px 16px !important;
+    color: #f4f4f4;
+    border-radius: 6px;
+    float: right;
+    background-image: none;
+    position: absolute;
+    top: 24px;
+    right: 0;
+    text-transform: uppercase;
+}
+#searchBar button:hover {
+    height: 46px;
+    border: none;
+    font-size: 15px;
+    width: 185px;
+    line-height: 32px;
+    background-color: #555555 !important;
+    text-align: center;
+    padding: 0px 16px !important;
+    color: #ffffff;
+    border-radius: 6px;
+    float: right;
+    background-image: none;
+    position: absolute;
+    top: 24px;
+    right: 0;
+}
+#searchBar select {
+    float: right;
+    height: 42px;
+    width: 130px;
+    border: 1px solid #dddddd;
+    padding: 2px;
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+    color: #999999;
+    font-family: "Open Sans", "Helvetica", Arial, sans-serif;
+}
+#searchBar input[type="text"] {
+    float: left !important;
+    font-size: 15px;
+    color: #999;
+    padding: 2px;
+    margin: 8px 0px 6px 0px;
+    width: 130px;
+    height: 40px;
+    border: 1px solid #dddddd;
+    font-family: "Open Sans", "Helvetica", "DejaVu Sans Condensed", Arial, sans-serif;
+    padding-left: 8px;
+}
+.smallDivider {
+    height: 0px;
+    margin: 0px 0px 10px 0px;
+    display: none;
+}
+#searchBar h4 {
+    display: none;
+}
+.dividerStripe {
+    display: none;
+}
+#searchCriteria {
+    width: 365px !important;
+    position: absolute;
+    display: none;
+}
+#areaList {
+    position: absolute;
+    top: 24px;
+    left: 0px;
+    background-color: white;
+    border: 1px solid #dddddd;
+    width: 115px !important;
+}
+#cityLabel {
+    position: absolute !important;
+    top: 0px;
+    left: 120px;
+}
+#cityList {
+    position: absolute !important;
+    left: 120px;
+    background-color: white;
+    width: 115px !important;
+    top: 24px;
+}
+#hotelLabel {
+    position: absolute !important;
+    top: 0px;
+    left: 240px;
+}
+#hotelList {
+    position: absolute !important;
+    left: 240px;
+    top: 16px;
+}
+input.gwt-SuggestBox {
+    width: 115px !important;
+    padding-left: 6px !important;
+}
+#stayCriteria {
+    float: left;
+    width: 380px;
+    position: absolute !important;
+    top: 0px;
+    left: 0px;
+}
+#arrivalDateBox {
+    position: absolute !important;
+    top: 16px;
+    left: 0px;
+}
+#nightsLabel {
+    position: absolute !important;
+    top: 0px;
+    left: 155px;
+}
+#nightBox {
+    width: 50px !important;
+    position: absolute;
+    left: 155px !important;
+    top: 16px;
+}
+#departureDateLabel {
+    position: absolute !important;
+    top: 0px;
+    left: 230px;
+    width: 120px;
+}
+#departureDateBox {
+    position: absolute;
+    left: 230px;
+    top: 16px;
+}
+#unitBreakDown {
+    float: right;
+    margin-top: 0px;
+}
+#unitBreakdown {
+	position: absolute;
+	right: 340px;
+	width: 205px;
+	top: -1px;
+	}
+#unitBreakDown select {
+    float: right;
+    height: 46px;
+    width: 55px;
+    border: 1px solid #ccc;
+    padding: 2px;
+    margin: -2px 4px 5px 0px;
+    font-size: 15px;
+    color: #666;
+}
+#promoCriteria {
+    position: absolute !important;
+    top: 0px;
+    float: left;
+    width: 150px;
+    right: 180px;
+}
+#promoCodeLabel {
+    position: absolute !important;
+    top: 1px;
+    width: 110px;
+}
+#promoCode {
+    position: absolute !important;
+    top: 16px;
+    width: 120px !important;
+}
+.gwt-SuggestBoxPopup {
+	border-radius: 0px !important;
+    color: #333;
+    cursor: pointer;
+    background-image: none;
+    background-color: #f4f4f4;
+    font-size: 0.8rem;
+    padding: 1px;
+}
+.gwt-SuggestBoxPopup .item {
+    font-family: "Open Sans",Verdana,Arial,sans-serif;
+    padding: 4px;
+    border-radius: 0px !important;
+    min-width: 200px;
+    height: 25px;
+    line-height: 25px;
+}
+.gwt-SuggestBoxPopup .item-selected {
+    background-image: none;
+    background-color: #383838;
+    color: #fff;
+    border-radius: 0px;
+}
+#kidsSelector {
+    margin-left: 2px !important;
+}
+#arrivalDateLabel {
+    margin-left: 0px;
+}
+#searchBar label {
+    position: relative;
+    float: left;
+    color: #d5d5d5;
+    clear: both;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 7px;
+}
+#bookingSteps {
+    margin: 0 auto;
+    width: 695px;
+    float: right;
+}
+#arrivalDateLabel {
+    position: relative;
+    top: 0px;
+}
+table {
+    background: none;
+    border: none;
+}

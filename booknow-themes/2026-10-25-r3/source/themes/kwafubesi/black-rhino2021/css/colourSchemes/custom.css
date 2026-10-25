@@ -1,0 +1,166 @@
+body{ background: url(../../images/colourSchemes/background_gradient.gif) repeat-x 0px 0px; }
+body {background-color: #FFF;}
+hr {#ccc;}
+h1 {color: #333;}
+h2 {color: #06F;}
+h3 {color: #333;}
+h4 {color: #333;} 
+h5 {color: #333;}
+h6 {color: #565976;}
+
+#tabContentWrapper { }
+
+
+.dividerStripeRates { background-color: #ddd; }
+.dividerStripe {  }
+
+#nav { background-image: url(../../images/colourSchemes/navGrad.gif); }
+
+#login_input button {
+	background-image: url(../../images/colourSchemes/login_but_sprite.png);
+	color:#fff;
+}
+.roomRates a {
+	color: #006e5d;
+}
+#login_input button:hover {
+	color:#fff;
+}
+#login_input h3{
+	color:#999;
+}
+
+#login_links a{
+	color:#175f94;
+}
+#login_input input[type="text"]:focus, #login_input input[type="password"]:focus {
+	color:#04457c;
+}
+#member_login {
+	background-image: url(../../images/colourSchemes/loginPanelBg.gif);	
+}
+
+#searchBar h4{
+	background-image: url(../../images/colourSchemes/searchBarHeading.gif);
+	color: #333;
+}
+
+.hotelInfo a {
+	color: #999;
+}
+.hotelInfo a:hover {
+	color: #666;
+}
+
+.hotelRooms td { background-color: #ddd; }
+.hotelRooms table { border: 2px solid #ddd; }
+
+.packageItems td { background-color: #ddd; }
+.packageItems table { border: 2px solid #ddd; }
+
+.ratesDetails tr .selectedRateContent { color: black; }
+.ratesDetailsHeading td { color: #000; }
+.ratesDetailsHeading td.weekend { color: #000; }
+.ratesDetailsRoomCategory td { background-color: #ddd; }
+.ratesDetailsRoomCategory td.weekend { background-color: #eee; }
+.ratesDetailsContent td { background-color: #ddd; }
+.ratesDetailsContent td.weekend { background-color: #eee; }
+.ratesDetailsContent button { background: url(../../images/colourSchemes/small_button.png) no-repeat #ddd; color:#fbe7d3; }
+.ratesDetailsContent .ratesDetailsContentButton { background: url(../../images/colourSchemes/xsmall_but_sprite.png) no-repeat #ddd; color:#fbe7d3; }
+
+.ratesResult h4 { }
+.hotelDetail h1 { color: #467FAB; }
+.ratesRoomsInfo h1 {  color: #467FAB; }
+.ratesRoomInfoDescription { background-color: #F3F3F3; }
+.ratesRoomInfoDescription h2 { color: #8DC8E8; }
+
+#searchBar{
+	background-image: url(../../images/colourSchemes/searchBarCurve.gif);
+	border-color: #999;
+	background-color:#e2e4e6;
+}
+
+#itineraryBar {
+	background-color:#edeef1;
+	background-image: url(../../images/colourSchemes/itineraryBarCurve.gif);
+}
+#itineraryBar h4 {	
+	background-image: url(../../images/colourSchemes/intineraryBg.gif);
+	color: #fff;
+	text-shadow: 1px 1px #666;
+}
+
+#searchBar button {
+	background-image: url(../../images/colourSchemes/search_but_sprite.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	color: #fff;
+}
+#searchBar button:hover {
+	background-image: url(../../images/colourSchemes/search_but_sprite.png);
+	background-position: 0px -49px;
+	color: #333;
+}
+
+#tabContainer li.selectedTab, #tabContainer li.selectedTab:hover {
+	background-image: url(../../images/colourSchemes/selectedTabBg.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+}
+#tabContainer li {}
+#tabContainer li:hover {}
+
+.selectedNumber { color: #fdab5b; }
+.itineraryMoreLink a { color:#467FAB; }
+
+#formDetails fieldset legend { color:#04457C; }
+#formDetails button:hover { background: url(../../images/colourSchemes/form_but_sprite.png)  0px 50px; color:#fff;}
+#formDetails button { background: #fff url(../../images/colourSchemes/form_but_sprite.png) no-repeat 0px -1px; color:#fff;}
+
+#confirmBookingForm button:hover { background: url(../../images/colourSchemes/form_but_sprite.png)  0px 50px; color:#fff;}
+#confirmBookingForm button { background: #fff url(../../images/colourSchemes/form_but_sprite.png) no-repeat 0px -1px; color:#053660;}
+
+.leftLink{ background: url(../../images/colourSchemes/ratesLeft.png); height: 20px; }
+.rightLink{ background: url(../../images/colourSchemes/ratesRight.png); height: 20px; }
+
+.standardButton { color:#fff; }
+.mediumButton { color:#fff; }
+.smallButton { color:#fff; }
+
+.hotelHeading h2 {
+	color: #999;
+}
+
+.servicesContent td { background-color:#ddd; }
+
+.gwt-DialogBox .dialogTopCenterInner {	background-image: url(../../images/colourSchemes/intineraryBg.gif); }
+
+.registrationPanel h1{
+        color: #333; 
+}
+.registrationPanel h3{
+        color: #13598f;
+}
+
+.newsItemAnchor{
+	color:#04457C;
+}
+.newsItemAnchor:hover{
+	color:#ffac5c;
+}
+
+.reservationRewards{	
+	background-image: url(../../images/colourSchemes/confirmationRewardsGrad.gif);
+}
+
+#confirmBooking .stayLabel {
+	color: #333;
+}
+/* Suggestbox */
+.gwt-SuggestBoxPopup { /*the suggestion popup*/
+	background-image: url("../../images/colourSchemes/itineraryMoreGRad.gif");	
+	color: #333;
+}
+.gwt-SuggestBoxPopup .item-selected { /*a selected suggestion*/	
+	background-image: url("../../images/colourSchemes/suggestHotelSelectItem.gif");		 
+}

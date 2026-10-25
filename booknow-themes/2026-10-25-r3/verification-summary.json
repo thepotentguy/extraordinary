@@ -1,0 +1,550 @@
+{
+  "version": "R3",
+  "date": "2026-10-25",
+  "status": "Local correction/package candidate; independent and sponsor acceptance pending; no installation recommendation",
+  "authoredFixtureLayoutChecks": 200,
+  "authoredInteractionChecks": 5,
+  "nativeMouseRuntimeChecks": 50,
+  "alignmentRegressionWidths": 5,
+  "servedCssZipSourceHashChecks": 25,
+  "failures": 0,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "phoneHeights": {
+    "320": 740,
+    "390": 844
+  },
+  "fixtureStates": [
+    "home",
+    "results",
+    "rates",
+    "noavailability",
+    "terms",
+    "photos",
+    "location",
+    "guest"
+  ],
+  "alignment": [
+    {
+      "width": 1440,
+      "search": [
+        90,
+        1350
+      ],
+      "intro": [
+        90,
+        1350
+      ],
+      "hero": [
+        90,
+        1350
+      ],
+      "bookingGroupTops": [
+        1026.828125,
+        1026.828125,
+        1026.828125,
+        1132.625
+      ],
+      "pass": true
+    },
+    {
+      "width": 1024,
+      "search": [
+        24,
+        1000
+      ],
+      "intro": [
+        24,
+        1000
+      ],
+      "hero": [
+        24,
+        1000
+      ],
+      "bookingGroupTops": [
+        916.609375,
+        916.609375,
+        916.609375,
+        1022.40625
+      ],
+      "pass": true
+    },
+    {
+      "width": 768,
+      "search": [
+        14,
+        754
+      ],
+      "intro": [
+        14,
+        754
+      ],
+      "hero": [
+        14,
+        754
+      ],
+      "bookingGroupTops": [
+        814.203125,
+        1001.796875,
+        1108.796875,
+        1181.59375
+      ],
+      "pass": true
+    },
+    {
+      "width": 390,
+      "search": [
+        14,
+        376
+      ],
+      "intro": [
+        14,
+        376
+      ],
+      "hero": [
+        14,
+        376
+      ],
+      "bookingGroupTops": [
+        663.640625,
+        851.234375,
+        958.234375,
+        1031.03125
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "search": [
+        14,
+        306
+      ],
+      "intro": [
+        14,
+        306
+      ],
+      "hero": [
+        14,
+        306
+      ],
+      "bookingGroupTops": [
+        650.984375,
+        838.578125,
+        945.578125,
+        1018.375
+      ],
+      "pass": true
+    }
+  ],
+  "controls": {
+    "method": "Computed geometry/border signature excludes colour/labels; icon contrast computed from actual CSS SVG stroke/background, normal state; not a complete accessibility audit.",
+    "rows": [
+      {
+        "property": "kingfisher",
+        "home": {
+          "signature": "48|48|14px 2px|solid",
+          "width": 48,
+          "height": 48,
+          "background": "rgb(216, 188, 111)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "native-gallery": {
+          "signature": "48|48|14px 2px|solid",
+          "width": 48,
+          "height": 48,
+          "background": "rgb(216, 188, 111)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "sameHomeDialogGeometry": true,
+        "iconContrast": 6.64
+      },
+      {
+        "property": "kwafubesi",
+        "home": {
+          "signature": "56|44|24px|dashed",
+          "width": 56,
+          "height": 44,
+          "background": "rgb(255, 249, 237)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "native-gallery": {
+          "signature": "56|44|24px|dashed",
+          "width": 56,
+          "height": 44,
+          "background": "rgb(255, 249, 237)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "sameHomeDialogGeometry": true,
+        "iconContrast": 11.73
+      },
+      {
+        "property": "hoyo-hoyo",
+        "home": {
+          "signature": "52|52|50%|solid",
+          "width": 52,
+          "height": 52,
+          "background": "rgb(255, 242, 222)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "native-gallery": {
+          "signature": "52|52|50%|solid",
+          "width": 52,
+          "height": 52,
+          "background": "rgb(255, 242, 222)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "sameHomeDialogGeometry": true,
+        "iconContrast": 11.13
+      },
+      {
+        "property": "hamiltons",
+        "home": {
+          "signature": "48|48|0px|double",
+          "width": 48,
+          "height": 48,
+          "background": "rgb(251, 248, 237)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "native-gallery": {
+          "signature": "48|48|0px|double",
+          "width": 48,
+          "height": 48,
+          "background": "rgb(251, 248, 237)",
+          "stroke": "#42321f",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "sameHomeDialogGeometry": true,
+        "iconContrast": 11.57
+      },
+      {
+        "property": "imbali",
+        "home": {
+          "signature": "56|44|0px|solid",
+          "width": 56,
+          "height": 44,
+          "background": "rgb(25, 28, 21)",
+          "stroke": "#e7d9b2",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "native-gallery": {
+          "signature": "56|44|0px|solid",
+          "width": 56,
+          "height": 44,
+          "background": "rgb(25, 28, 21)",
+          "stroke": "#e7d9b2",
+          "title": "Prev",
+          "tag": "IMG",
+          "role": null,
+          "tabindex": null
+        },
+        "sameHomeDialogGeometry": true,
+        "iconContrast": 12.28
+      }
+    ]
+  },
+  "packages": [
+    {
+      "property": "kingfisher",
+      "sha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "changedFromR2": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedFileMembers": 129
+    },
+    {
+      "property": "kwafubesi",
+      "sha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "changedFromR2": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedFileMembers": 129
+    },
+    {
+      "property": "hoyo-hoyo",
+      "sha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "changedFromR2": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedFileMembers": 129
+    },
+    {
+      "property": "hamiltons",
+      "sha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "changedFromR2": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedFileMembers": 129
+    },
+    {
+      "property": "imbali",
+      "sha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "changedFromR2": [
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "unchangedFileMembers": 129
+    }
+  ],
+  "previewCssAudit": [
+    {
+      "property": "hamiltons",
+      "nativeSelectorInlineRescueRules": [],
+      "reviewOnlyInlineSelectorCount": 12,
+      "styleSource": "Extracted final ZIP CSS. Preserved native inline geometry/hidden states are fixture state, not design rescue CSS."
+    },
+    {
+      "property": "hoyo-hoyo",
+      "nativeSelectorInlineRescueRules": [],
+      "reviewOnlyInlineSelectorCount": 12,
+      "styleSource": "Extracted final ZIP CSS. Preserved native inline geometry/hidden states are fixture state, not design rescue CSS."
+    },
+    {
+      "property": "imbali",
+      "nativeSelectorInlineRescueRules": [],
+      "reviewOnlyInlineSelectorCount": 12,
+      "styleSource": "Extracted final ZIP CSS. Preserved native inline geometry/hidden states are fixture state, not design rescue CSS."
+    },
+    {
+      "property": "kingfisher",
+      "nativeSelectorInlineRescueRules": [],
+      "reviewOnlyInlineSelectorCount": 12,
+      "styleSource": "Extracted final ZIP CSS. Preserved native inline geometry/hidden states are fixture state, not design rescue CSS."
+    },
+    {
+      "property": "kwafubesi",
+      "nativeSelectorInlineRescueRules": [],
+      "reviewOnlyInlineSelectorCount": 12,
+      "styleSource": "Extracted final ZIP CSS. Preserved native inline geometry/hidden states are fixture state, not design rescue CSS."
+    }
+  ],
+  "stylesheetHashEvidence": [
+    {
+      "property": "kingfisher",
+      "member": "black-rhino2021/css/mainStyle.css",
+      "zipSha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "memberSha256": "adaddc340923b2d8b8b3d46fea3478882dfb36afc36655e4db7308cecb5528cd",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kingfisher",
+      "member": "black-rhino2021/css/mobile.css",
+      "zipSha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "memberSha256": "d784b5c4cad6b983c8a348382d428acd061c7a188c92beda10e71ab12bb7ed0f",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kingfisher",
+      "member": "black-rhino2021/css/theme.css",
+      "zipSha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "memberSha256": "64f6f3a5a916f1b581c350fb24c86ac68f0e456c88246f0db09d58123be924b9",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kingfisher",
+      "member": "black-rhino2021/css/mobileTheme.css",
+      "zipSha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "memberSha256": "626c60d4d34905c6e6fcb2f89c02d2347d9b209e2bf9d3f2733733ed7fdbaa1a",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kingfisher",
+      "member": "black-rhino2021/css/brand-fonts.css",
+      "zipSha256": "c00fb47ac74b7143a5d84021847cca3db354e7838c300faed3b43613d548f311",
+      "memberSha256": "d33b92ada2ee25070872b7abc3250ca50d8aa4c24c040f06f4901dea1d103646",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kwafubesi",
+      "member": "black-rhino2021/css/mainStyle.css",
+      "zipSha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "memberSha256": "9a453fdcd549255433982955733eb98837aa16796a22213e6cb6addb57ca44fd",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kwafubesi",
+      "member": "black-rhino2021/css/mobile.css",
+      "zipSha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "memberSha256": "d9e8a999e4087937a083da1cc6e08ba5431a6735f8ff06b1ca620068b707b33b",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kwafubesi",
+      "member": "black-rhino2021/css/theme.css",
+      "zipSha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "memberSha256": "d89b5d032c8f71ef424ebe4e93958b585d5731ebde960ed2d42f2508fff2cc67",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kwafubesi",
+      "member": "black-rhino2021/css/mobileTheme.css",
+      "zipSha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "memberSha256": "9b7c51e0e010e08d5efa64400efb53203fec7258433fabacd394334a343f3cfb",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "kwafubesi",
+      "member": "black-rhino2021/css/brand-fonts.css",
+      "zipSha256": "8a1d37757f73a48f1863dd05818c664e0cde8f3659c3fc7102e0f1166436ec55",
+      "memberSha256": "935630341b1c91cd2a55c2274f1e4cfc99d8eed72229d1be720e7305cfcc2722",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "member": "black-rhino2021/css/mainStyle.css",
+      "zipSha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "memberSha256": "efde9b69b921b58f92de01b47a491619aef9b187318dd68d990b9e8263757b52",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "member": "black-rhino2021/css/mobile.css",
+      "zipSha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "memberSha256": "bf8c2b92958842e399fe357246d62bda61613887a705a8208cda23b0682f3eeb",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "member": "black-rhino2021/css/theme.css",
+      "zipSha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "memberSha256": "f1fa4bff8e06400e97ed50f58b3e4c43601144bbb3bd4576c7c452f3afe31b6d",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "member": "black-rhino2021/css/mobileTheme.css",
+      "zipSha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "memberSha256": "6adb245f6ebce7dc0638f2dd0cceda809b92fd4838419782266ec76c13a7a953",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "member": "black-rhino2021/css/brand-fonts.css",
+      "zipSha256": "208185e7e00f85bfa1174ec21bedd45b6209af2a30d1bbf79d51edddc5860702",
+      "memberSha256": "97bb5f572176606b630a74195b990e5817e4381655bf2ef10560be8a37303c48",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hamiltons",
+      "member": "black-rhino2021/css/mainStyle.css",
+      "zipSha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "memberSha256": "52bfe57793393b86d644848a2bc7d0f0a72d15b2c4a35b5090777695fdbf24e5",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hamiltons",
+      "member": "black-rhino2021/css/mobile.css",
+      "zipSha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "memberSha256": "bc675c9ad7760a221166c884aa111301c3fa5ef007aee86ec80ff79c235d1a9d",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hamiltons",
+      "member": "black-rhino2021/css/theme.css",
+      "zipSha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "memberSha256": "4e256378de1b7b31193352474ee27a2f068978df9de413813e31b525cca848f2",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hamiltons",
+      "member": "black-rhino2021/css/mobileTheme.css",
+      "zipSha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "memberSha256": "9b59cc3479fb7928d1e32fcb26cfc8767a8bb2d6c118096dbcaba2601e72a66a",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "hamiltons",
+      "member": "black-rhino2021/css/brand-fonts.css",
+      "zipSha256": "cdaf4013082c60f831c997a53eb81142e6b83f5a30810efaec6d8c99e95ca2cf",
+      "memberSha256": "91aaf737cda709159615f0a9d1b34a42a978aed939f89c979bd44080f4ccce63",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "imbali",
+      "member": "black-rhino2021/css/mainStyle.css",
+      "zipSha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "memberSha256": "e11f5944ee4e29b36ed48521d41f4ef4ed73c57ea7b554b71bfa4bcff221fecb",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "imbali",
+      "member": "black-rhino2021/css/mobile.css",
+      "zipSha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "memberSha256": "0d78738a38916fbd23f22938212886c2bc3f8b0f1d8d86e7e4cada5ba09e523a",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "imbali",
+      "member": "black-rhino2021/css/theme.css",
+      "zipSha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "memberSha256": "fc3ddb955940e8e0c9b9698ffc0c4257520ef68450f40086bb55a07eabd4daff",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "imbali",
+      "member": "black-rhino2021/css/mobileTheme.css",
+      "zipSha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "memberSha256": "3be61e7d9358e54fc5af74ce10daa35b4390c000ec617b29aae649507beaca03",
+      "zipSourceResponseEqual": true
+    },
+    {
+      "property": "imbali",
+      "member": "black-rhino2021/css/brand-fonts.css",
+      "zipSha256": "f3ad5ce530f85624f455176f41da52ab85c05dee32c5f14a57f1d6ed8dbab98f",
+      "memberSha256": "1616b7241295d24f7b91623bc9b992ef63777da23c3043f68f79a96bce38ad91",
+      "zipSourceResponseEqual": true
+    }
+  ],
+  "nativeKeyboard": "Not repaired: original runtime IMG/title/mouse controls have no demonstrated button/tab/key semantics. Authored keyboard fixture is separate.",
+  "openItems": [
+    "Native gallery keyboard and reduced-motion/autoplay behavior",
+    "Native Google Maps initialization",
+    "Native GWT dialog lifecycle/focus trap/escape",
+    "Property import/backup/rollback/public cache verification",
+    "Native validation/terms/gateway/payment/confirmation",
+    "Physical devices/soft keyboard and screen-reader tasks",
+    "Independent review and sponsor acceptance"
+  ]
+}
