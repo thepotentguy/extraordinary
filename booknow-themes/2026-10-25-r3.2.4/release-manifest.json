@@ -2,7 +2,7 @@
   "version": "R3.2.4",
   "round": 3,
   "date": "2026-10-25",
-  "status": "FROZEN: local and30actualnativepreviewchecks pass; nativeOKcloses; finalallfivepublicationpending.",
+  "status": "Published all five; ten changed live CSS entries match. Partial acceptance only: Kwa desktop-state320/390overflow, malformed upstream GPS, cropper/parser warning and mobileColor404 remain.",
   "scope": "Keep non-gallery message dialogs centered after viewport resize; preserve dimensions/text and all R3.2.3 detail-panel repairs. No timeout or booking-state change. Known map data, mobileColor404 and CMS editing limitations remain.",
   "patchSha256": "c999d02a53a6e37bde11edb521beec90b43c330155794e2c4f2a1d6ace920f20",
   "themes": [
