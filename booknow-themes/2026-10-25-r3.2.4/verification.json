@@ -1,0 +1,1710 @@
+{
+  "scope": "Original native inactivity fixture with stale left774px, created at1920 then resized without rerender; five properties/six widths. Native event requires coordinator verification.",
+  "checks": [
+    {
+      "brand": "hamiltons",
+      "width": 320,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "width": 390,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "width": 768,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 372,
+          "h": 191,
+          "right": 1146,
+          "bottom": 529
+        },
+        "button": {
+          "x": 895,
+          "y": 459,
+          "w": 130,
+          "h": 44,
+          "right": 1025,
+          "bottom": 503
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1146,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 198,
+          "y": 326.5,
+          "w": 372,
+          "h": 191,
+          "right": 570,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 319,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 449,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 768,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1024,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1144,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 327,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 697,
+          "bottom": 506
+        },
+        "button": {
+          "x": 447,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 567,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1024,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1440,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 535,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 905,
+          "bottom": 506
+        },
+        "button": {
+          "x": 655,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 775,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "width": 1920,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 775,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1145,
+          "bottom": 506
+        },
+        "button": {
+          "x": 895,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1015,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hamiltons",
+      "fixtureClose": true,
+      "pass": true
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 320,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 390,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 768,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 372,
+          "h": 191,
+          "right": 1146,
+          "bottom": 529
+        },
+        "button": {
+          "x": 895,
+          "y": 459,
+          "w": 130,
+          "h": 44,
+          "right": 1025,
+          "bottom": 503
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1146,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 198,
+          "y": 326.5,
+          "w": 372,
+          "h": 191,
+          "right": 570,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 319,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 449,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 768,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1024,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1144,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 327,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 697,
+          "bottom": 506
+        },
+        "button": {
+          "x": 447,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 567,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1024,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1440,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 535,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 905,
+          "bottom": 506
+        },
+        "button": {
+          "x": 655,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 775,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "width": 1920,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 775,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1145,
+          "bottom": 506
+        },
+        "button": {
+          "x": 895,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1015,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "hoyo-hoyo",
+      "fixtureClose": true,
+      "pass": true
+    },
+    {
+      "brand": "imbali",
+      "width": 320,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "width": 390,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "width": 768,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 372,
+          "h": 191,
+          "right": 1146,
+          "bottom": 529
+        },
+        "button": {
+          "x": 895,
+          "y": 459,
+          "w": 130,
+          "h": 44,
+          "right": 1025,
+          "bottom": 503
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1146,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 198,
+          "y": 326.5,
+          "w": 372,
+          "h": 191,
+          "right": 570,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 319,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 449,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 768,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "width": 1024,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1144,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 327,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 697,
+          "bottom": 506
+        },
+        "button": {
+          "x": 447,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 567,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1024,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "width": 1440,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 535,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 905,
+          "bottom": 506
+        },
+        "button": {
+          "x": 655,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 775,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "width": 1920,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 775,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1145,
+          "bottom": 506
+        },
+        "button": {
+          "x": 895,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1015,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "imbali",
+      "fixtureClose": true,
+      "pass": true
+    },
+    {
+      "brand": "kingfisher",
+      "width": 320,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "width": 390,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "width": 768,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 372,
+          "h": 191,
+          "right": 1146,
+          "bottom": 529
+        },
+        "button": {
+          "x": 895,
+          "y": 459,
+          "w": 130,
+          "h": 44,
+          "right": 1025,
+          "bottom": 503
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1146,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 198,
+          "y": 326.5,
+          "w": 372,
+          "h": 191,
+          "right": 570,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 319,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 449,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 768,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1024,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1144,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 327,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 697,
+          "bottom": 506
+        },
+        "button": {
+          "x": 447,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 567,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1024,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1440,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 535,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 905,
+          "bottom": 506
+        },
+        "button": {
+          "x": 655,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 775,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "width": 1920,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 775,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1145,
+          "bottom": 506
+        },
+        "button": {
+          "x": 895,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1015,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kingfisher",
+      "fixtureClose": true,
+      "pass": true
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 320,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 316.75,
+          "w": 292,
+          "h": 210.5,
+          "right": 306,
+          "bottom": 527.25
+        },
+        "button": {
+          "x": 95,
+          "y": 457.25,
+          "w": 130,
+          "h": 44,
+          "right": 225,
+          "bottom": 501.25
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 320,
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 390,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      },
+      "after": {
+        "dialog": {
+          "x": 14,
+          "y": 326.5,
+          "w": 362,
+          "h": 191,
+          "right": 376,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 130,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 260,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 390,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 768,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 372,
+          "h": 191,
+          "right": 1146,
+          "bottom": 529
+        },
+        "button": {
+          "x": 895,
+          "y": 459,
+          "w": 130,
+          "h": 44,
+          "right": 1025,
+          "bottom": 503
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1146,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 198,
+          "y": 326.5,
+          "w": 372,
+          "h": 191,
+          "right": 570,
+          "bottom": 517.5
+        },
+        "button": {
+          "x": 319,
+          "y": 447.5,
+          "w": 130,
+          "h": 44,
+          "right": 449,
+          "bottom": 491.5
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 768,
+        "viewport": {
+          "width": 768,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1024,
+      "pass": true,
+      "baselineOverflow": true,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1144,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 327,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 697,
+          "bottom": 506
+        },
+        "button": {
+          "x": 447,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 567,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1024,
+        "viewport": {
+          "width": 1024,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1440,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 535,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 905,
+          "bottom": 506
+        },
+        "button": {
+          "x": 655,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 775,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1440,
+        "viewport": {
+          "width": 1440,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "width": 1920,
+      "pass": true,
+      "baselineOverflow": false,
+      "before": {
+        "dialog": {
+          "x": 774,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1144,
+          "bottom": 506
+        },
+        "button": {
+          "x": 894,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1014,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "absolute"
+      },
+      "after": {
+        "dialog": {
+          "x": 775,
+          "y": 338,
+          "w": 370,
+          "h": 168,
+          "right": 1145,
+          "bottom": 506
+        },
+        "button": {
+          "x": 895,
+          "y": 442,
+          "w": 120,
+          "h": 44,
+          "right": 1015,
+          "bottom": 486
+        },
+        "text": "\t\nInactivity\n\t\n\n\n\t\n\nYou have been inactive for 20 minutes. To protect your privacy your details have been cleared.\n\nOK\n\t\n\n\n\t\n\t",
+        "scroll": 1920,
+        "viewport": {
+          "width": 1920,
+          "height": 844
+        },
+        "position": "fixed"
+      }
+    },
+    {
+      "brand": "kwafubesi",
+      "fixtureClose": true,
+      "pass": true
+    }
+  ]
+}
