@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-25",
+  "stage": "Design review; not installed",
+  "layoutMethod": "Local Chromium desktop viewport emulation; frozen property-specific native markup; actual packaged CSS. No network beyond loopback, no booking runtime.",
+  "checks": [
+    {
+      "property": "kingfisher",
+      "width": 1440,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kingfisher",
+      "width": 1024,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kingfisher",
+      "width": 768,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kingfisher",
+      "width": 390,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kingfisher",
+      "width": 320,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kwafubesi",
+      "width": 1440,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kwafubesi",
+      "width": 1024,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kwafubesi",
+      "width": 768,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kwafubesi",
+      "width": 390,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "kwafubesi",
+      "width": 320,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 1440,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 1024,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 768,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 390,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hoyo-hoyo",
+      "width": 320,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hamiltons",
+      "width": 1440,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hamiltons",
+      "width": 1024,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hamiltons",
+      "width": 768,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hamiltons",
+      "width": 390,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "hamiltons",
+      "width": 320,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "imbali",
+      "width": 1440,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "imbali",
+      "width": 1024,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "imbali",
+      "width": 768,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "imbali",
+      "width": 390,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    },
+    {
+      "property": "imbali",
+      "width": 320,
+      "pass": true,
+      "intendedFontsLoaded": true,
+      "overflow": false,
+      "visibleFieldMinimumHeight": 48,
+      "runtimeErrors": []
+    }
+  ],
+  "nativeReadback": "Each property public home inspected read-only: header, logo, nav, search, gallery and CMS-bound logo/image URLs. Private captured markup excluded.",
+  "unverified": [
+    "CMS upload acceptance for each new theme",
+    "physical devices",
+    "native date/search/results and later booking steps with new themes",
+    "payment and confirmation",
+    "native map initialization finding",
+    "complete accessibility",
+    "sponsor acceptance"
+  ],
+  "spendingZAR": 0,
+  "includedAllowance": "unknown"
+}

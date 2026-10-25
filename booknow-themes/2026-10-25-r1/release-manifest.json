@@ -1,0 +1,57 @@
+{
+  "version": "R1",
+  "date": "2026-10-25",
+  "status": "Awaiting design inspection; no installations",
+  "themes": [
+    {
+      "property": "kingfisher",
+      "file": "kingfisher-Legacy-BookNow-R1.zip",
+      "sha256": "d9873dc17eaf0e3309ff4d7355105bb6518737577f171ad1201564f284e22ba6",
+      "bytes": 1247474,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "cmsAssetsSeparate": true
+    },
+    {
+      "property": "kwafubesi",
+      "file": "kwafubesi-Legacy-BookNow-R1.zip",
+      "sha256": "b99076d227d84ff5fa4e945dea45a4f85c34b47e7d059e081d52bc01551960a2",
+      "bytes": 1011713,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "cmsAssetsSeparate": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "hoyo-hoyo-Legacy-BookNow-R1.zip",
+      "sha256": "c39c8902dd585d0d95a85d3c55fa3171e45c649cc1ab64dd9656b5e128f07948",
+      "bytes": 897374,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "cmsAssetsSeparate": true
+    },
+    {
+      "property": "hamiltons",
+      "file": "hamiltons-Legacy-BookNow-R1.zip",
+      "sha256": "e7c2d61dfc7bbe750237f3cdd091138f522b5482bb610d56aa831c33b2c01cbc",
+      "bytes": 1008272,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "cmsAssetsSeparate": true
+    },
+    {
+      "property": "imbali",
+      "file": "imbali-Legacy-BookNow-R1.zip",
+      "sha256": "eccb25501ed3cee14c075d34d3538b3282ce0e8754c67f8b0a0f045058073da6",
+      "bytes": 847364,
+      "files": 131,
+      "explicitDirectories": 8,
+      "javascriptIncluded": false,
+      "cmsAssetsSeparate": true
+    }
+  ]
+}
