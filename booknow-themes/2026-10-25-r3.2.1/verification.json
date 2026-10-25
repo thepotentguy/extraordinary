@@ -1,0 +1,5701 @@
+{
+  "version": "R3.2.1",
+  "round": 2,
+  "scope": "Native Imbali result nesting reused across five brand CSS variants; authored results/rates state data. Extra native-class viewRatesLink row is a local CSS margin fixture. No backend/search/native input certification.",
+  "before": [
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1001,
+            "y": 843.953125,
+            "right": 1137,
+            "bottom": 930.953125,
+            "width": 136,
+            "height": 87
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1043,
+            "y": 837.953125,
+            "right": 1179,
+            "bottom": 930.953125,
+            "width": 136,
+            "height": 93
+          },
+          "message": {
+            "x": 385,
+            "y": 850.265625,
+            "right": 1027,
+            "bottom": 918.640625,
+            "width": 642,
+            "height": 68.375
+          },
+          "margins": [
+            "6px",
+            "3px",
+            "0px",
+            "-42px"
+          ],
+          "contained": false,
+          "overlap": true,
+          "zeroMargins": false
+        }
+      ],
+      "pass": false
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1333,
+            "y": 796.34375,
+            "right": 1469,
+            "bottom": 885.34375,
+            "width": 136,
+            "height": 89
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1375,
+            "y": 789.34375,
+            "right": 1511,
+            "bottom": 885.34375,
+            "width": 136,
+            "height": 96
+          },
+          "message": {
+            "x": 723,
+            "y": 803.15625,
+            "right": 1359,
+            "bottom": 871.53125,
+            "width": 636,
+            "height": 68.375
+          },
+          "margins": [
+            "6px",
+            "3px",
+            "0px",
+            "-42px"
+          ],
+          "contained": false,
+          "overlap": true,
+          "zeroMargins": false
+        }
+      ],
+      "pass": false
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1383,
+            "y": 719.515625,
+            "right": 1519,
+            "bottom": 789.515625,
+            "width": 136,
+            "height": 70
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1425,
+            "y": 713.515625,
+            "right": 1561,
+            "bottom": 789.515625,
+            "width": 136,
+            "height": 76
+          },
+          "message": {
+            "x": 719,
+            "y": 726.921875,
+            "right": 1409,
+            "bottom": 776.109375,
+            "width": 690,
+            "height": 49.1875
+          },
+          "margins": [
+            "6px",
+            "3px",
+            "0px",
+            "-42px"
+          ],
+          "contained": false,
+          "overlap": true,
+          "zeroMargins": false
+        }
+      ],
+      "pass": false
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1007,
+            "y": 792.671875,
+            "right": 1143,
+            "bottom": 885.671875,
+            "width": 136,
+            "height": 93
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1049,
+            "y": 786.671875,
+            "right": 1185,
+            "bottom": 885.671875,
+            "width": 136,
+            "height": 99
+          },
+          "message": {
+            "x": 407,
+            "y": 801.984375,
+            "right": 1033,
+            "bottom": 870.359375,
+            "width": 626,
+            "height": 68.375
+          },
+          "margins": [
+            "6px",
+            "3px",
+            "0px",
+            "-42px"
+          ],
+          "contained": false,
+          "overlap": true,
+          "zeroMargins": false
+        }
+      ],
+      "pass": false
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1384,
+            "y": 844.71875,
+            "right": 1520,
+            "bottom": 912.71875,
+            "width": 136,
+            "height": 68
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1426,
+            "y": 838.71875,
+            "right": 1562,
+            "bottom": 912.71875,
+            "width": 136,
+            "height": 74
+          },
+          "message": {
+            "x": 684,
+            "y": 851.125,
+            "right": 1410,
+            "bottom": 900.3125,
+            "width": 726,
+            "height": 49.1875
+          },
+          "margins": [
+            "6px",
+            "3px",
+            "0px",
+            "-42px"
+          ],
+          "contained": false,
+          "overlap": true,
+          "zeroMargins": false
+        }
+      ],
+      "pass": false
+    }
+  ],
+  "checks": [
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 933.671875,
+            "right": 272,
+            "bottom": 981.671875,
+            "width": 218,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 933.671875,
+            "right": 272,
+            "bottom": 981.671875,
+            "width": 218,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 791.671875,
+            "right": 272,
+            "bottom": 917.671875,
+            "width": 218,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 893.1875,
+            "right": 342,
+            "bottom": 941.1875,
+            "width": 288,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 893.1875,
+            "right": 342,
+            "bottom": 941.1875,
+            "width": 288,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 772.1875,
+            "right": 342,
+            "bottom": 877.1875,
+            "width": 288,
+            "height": 105
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 752.8125,
+            "right": 720,
+            "bottom": 800.8125,
+            "width": 666,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 752.8125,
+            "right": 720,
+            "bottom": 800.8125,
+            "width": 666,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 673.8125,
+            "right": 720,
+            "bottom": 736.8125,
+            "width": 666,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 424,
+            "y": 848.734375,
+            "right": 599,
+            "bottom": 914.734375,
+            "width": 175,
+            "height": 66
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 424,
+            "y": 848.734375,
+            "right": 599,
+            "bottom": 914.734375,
+            "width": 175,
+            "height": 66
+          },
+          "message": {
+            "x": 69,
+            "y": 837.953125,
+            "right": 408,
+            "bottom": 925.515625,
+            "width": 339,
+            "height": 87.5625
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 764,
+            "y": 839.140625,
+            "right": 939,
+            "bottom": 905.140625,
+            "width": 175,
+            "height": 66
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 764,
+            "y": 839.140625,
+            "right": 939,
+            "bottom": 905.140625,
+            "width": 175,
+            "height": 66
+          },
+          "message": {
+            "x": 145,
+            "y": 837.953125,
+            "right": 748,
+            "bottom": 906.328125,
+            "width": 603,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1004,
+            "y": 839.140625,
+            "right": 1179,
+            "bottom": 905.140625,
+            "width": 175,
+            "height": 66
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1004,
+            "y": 839.140625,
+            "right": 1179,
+            "bottom": 905.140625,
+            "width": 175,
+            "height": 66
+          },
+          "message": {
+            "x": 385,
+            "y": 837.953125,
+            "right": 988,
+            "bottom": 906.328125,
+            "width": 603,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 933.671875,
+            "right": 272,
+            "bottom": 981.671875,
+            "width": 218,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 933.671875,
+            "right": 272,
+            "bottom": 981.671875,
+            "width": 218,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 791.671875,
+            "right": 272,
+            "bottom": 917.671875,
+            "width": 218,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 34,
+            "y": 1390.34375,
+            "right": 292,
+            "bottom": 1438.34375,
+            "width": 258,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 34,
+            "y": 1297.25,
+            "right": 292,
+            "bottom": 1456.34375,
+            "width": 258,
+            "height": 159.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 893.1875,
+            "right": 342,
+            "bottom": 941.1875,
+            "width": 288,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 893.1875,
+            "right": 342,
+            "bottom": 941.1875,
+            "width": 288,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 772.1875,
+            "right": 342,
+            "bottom": 877.1875,
+            "width": 288,
+            "height": 105
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 34,
+            "y": 1339.0625,
+            "right": 362,
+            "bottom": 1387.0625,
+            "width": 328,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 34,
+            "y": 1245.96875,
+            "right": 362,
+            "bottom": 1405.0625,
+            "width": 328,
+            "height": 159.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 54,
+            "y": 752.8125,
+            "right": 720,
+            "bottom": 800.8125,
+            "width": 666,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 54,
+            "y": 752.8125,
+            "right": 720,
+            "bottom": 800.8125,
+            "width": 666,
+            "height": 48
+          },
+          "message": {
+            "x": 54,
+            "y": 673.8125,
+            "right": 720,
+            "bottom": 736.8125,
+            "width": 666,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 34,
+            "y": 1175.296875,
+            "right": 740,
+            "bottom": 1223.296875,
+            "width": 706,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 34,
+            "y": 1082.203125,
+            "right": 740,
+            "bottom": 1241.296875,
+            "width": 706,
+            "height": 159.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 482,
+            "y": 929.640625,
+            "right": 602,
+            "bottom": 977.640625,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 444,
+            "y": 821.953125,
+            "right": 619,
+            "bottom": 977.640625,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 822,
+            "y": 929.640625,
+            "right": 942,
+            "bottom": 977.640625,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 784,
+            "y": 821.953125,
+            "right": 959,
+            "bottom": 977.640625,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "results",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 1062,
+            "y": 929.640625,
+            "right": 1182,
+            "bottom": 977.640625,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 1024,
+            "y": 821.953125,
+            "right": 1199,
+            "bottom": 977.640625,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 89,
+            "y": 903.671875,
+            "right": 284,
+            "bottom": 969.671875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 89,
+            "y": 903.671875,
+            "right": 284,
+            "bottom": 969.671875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 50,
+            "y": 1417,
+            "right": 270,
+            "bottom": 1465,
+            "width": 220,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 31,
+            "y": 1293.921875,
+            "right": 289,
+            "bottom": 1484,
+            "width": 258,
+            "height": 190.078125
+          },
+          "message": {
+            "x": 50,
+            "y": 1312.921875,
+            "right": 270,
+            "bottom": 1405,
+            "width": 220,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 159,
+            "y": 834.1875,
+            "right": 354,
+            "bottom": 900.1875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 159,
+            "y": 834.1875,
+            "right": 354,
+            "bottom": 900.1875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 50,
+            "y": 1324.125,
+            "right": 340,
+            "bottom": 1372.125,
+            "width": 290,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 31,
+            "y": 1201.046875,
+            "right": 359,
+            "bottom": 1391.125,
+            "width": 328,
+            "height": 190.078125
+          },
+          "message": {
+            "x": 50,
+            "y": 1220.046875,
+            "right": 340,
+            "bottom": 1312.125,
+            "width": 290,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 537,
+            "y": 735.8125,
+            "right": 732,
+            "bottom": 801.8125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 537,
+            "y": 735.8125,
+            "right": 732,
+            "bottom": 801.8125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 50,
+            "y": 1180.265625,
+            "right": 718,
+            "bottom": 1228.265625,
+            "width": 668,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 31,
+            "y": 1057.1875,
+            "right": 737,
+            "bottom": 1247.265625,
+            "width": 706,
+            "height": 190.078125
+          },
+          "message": {
+            "x": 50,
+            "y": 1076.1875,
+            "right": 718,
+            "bottom": 1168.265625,
+            "width": 668,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 419,
+            "y": 902.953125,
+            "right": 614,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 419,
+            "y": 902.953125,
+            "right": 614,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 428,
+            "y": 1081.671875,
+            "right": 600,
+            "bottom": 1144.671875,
+            "width": 172,
+            "height": 63
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 409,
+            "y": 945.953125,
+            "right": 619,
+            "bottom": 1207.6875,
+            "width": 210,
+            "height": 261.734375
+          },
+          "message": {
+            "x": 469.15625,
+            "y": 968.953125,
+            "right": 598,
+            "bottom": 1071.671875,
+            "width": 128.84375,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 759,
+            "y": 902.953125,
+            "right": 954,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 759,
+            "y": 902.953125,
+            "right": 954,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 768,
+            "y": 1081.671875,
+            "right": 940,
+            "bottom": 1144.671875,
+            "width": 172,
+            "height": 63
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 749,
+            "y": 945.953125,
+            "right": 959,
+            "bottom": 1163.671875,
+            "width": 210,
+            "height": 217.71875
+          },
+          "message": {
+            "x": 809.15625,
+            "y": 968.953125,
+            "right": 938,
+            "bottom": 1071.671875,
+            "width": 128.84375,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kingfisher",
+      "state": "rates",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 999,
+            "y": 902.953125,
+            "right": 1194,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 999,
+            "y": 902.953125,
+            "right": 1194,
+            "bottom": 968.953125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1008,
+            "y": 1081.671875,
+            "right": 1180,
+            "bottom": 1144.671875,
+            "width": 172,
+            "height": 63
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 989,
+            "y": 945.953125,
+            "right": 1199,
+            "bottom": 1163.671875,
+            "width": 210,
+            "height": 217.71875
+          },
+          "message": {
+            "x": 1049.15625,
+            "y": 968.953125,
+            "right": 1178,
+            "bottom": 1071.671875,
+            "width": 128.84375,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 1010.5903930664062,
+            "right": 270,
+            "bottom": 1058.59033203125,
+            "width": 214,
+            "height": 47.99993896484375
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 1009.5903930664062,
+            "right": 270,
+            "bottom": 1058.59033203125,
+            "width": 214,
+            "height": 48.99993896484375
+          },
+          "message": {
+            "x": 56,
+            "y": 867.5903930664062,
+            "right": 270,
+            "bottom": 993.5903930664062,
+            "width": 214,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 929.1512451171875,
+            "right": 340,
+            "bottom": 977.1512451171875,
+            "width": 284,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 928.1512451171875,
+            "right": 340,
+            "bottom": 977.1512451171875,
+            "width": 284,
+            "height": 49
+          },
+          "message": {
+            "x": 56,
+            "y": 807.1512451171875,
+            "right": 340,
+            "bottom": 912.1512451171875,
+            "width": 284,
+            "height": 105
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 747.5277099609375,
+            "right": 718,
+            "bottom": 795.5277099609375,
+            "width": 662,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 746.5277099609375,
+            "right": 718,
+            "bottom": 795.5277099609375,
+            "width": 662,
+            "height": 49
+          },
+          "message": {
+            "x": 56,
+            "y": 667.5277099609375,
+            "right": 718,
+            "bottom": 730.5277099609375,
+            "width": 662,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 776,
+            "y": 789.6088256835938,
+            "right": 951,
+            "bottom": 857.6088256835938,
+            "width": 175,
+            "height": 68
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 776,
+            "y": 788.6088256835938,
+            "right": 951,
+            "bottom": 857.6088256835938,
+            "width": 175,
+            "height": 69
+          },
+          "message": {
+            "x": 387,
+            "y": 788.9213256835938,
+            "right": 760,
+            "bottom": 857.2963256835938,
+            "width": 373,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1096,
+            "y": 789.6048583984375,
+            "right": 1271,
+            "bottom": 857.6048583984375,
+            "width": 175,
+            "height": 68
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1096,
+            "y": 788.6048583984375,
+            "right": 1271,
+            "bottom": 857.6048583984375,
+            "width": 175,
+            "height": 69
+          },
+          "message": {
+            "x": 483,
+            "y": 788.9173583984375,
+            "right": 1080,
+            "bottom": 857.2923583984375,
+            "width": 597,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1336,
+            "y": 788.90283203125,
+            "right": 1511,
+            "bottom": 856.90283203125,
+            "width": 175,
+            "height": 68
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1336,
+            "y": 787.90283203125,
+            "right": 1511,
+            "bottom": 856.90283203125,
+            "width": 175,
+            "height": 69
+          },
+          "message": {
+            "x": 723,
+            "y": 788.21533203125,
+            "right": 1320,
+            "bottom": 856.59033203125,
+            "width": 597,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 1010.5921020507812,
+            "right": 270,
+            "bottom": 1058.592041015625,
+            "width": 214,
+            "height": 47.99993896484375
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 1009.5921020507812,
+            "right": 270,
+            "bottom": 1058.592041015625,
+            "width": 214,
+            "height": 48.99993896484375
+          },
+          "message": {
+            "x": 56,
+            "y": 867.5921020507812,
+            "right": 270,
+            "bottom": 993.5921020507812,
+            "width": 214,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 36,
+            "y": 1393.545166015625,
+            "right": 290,
+            "bottom": 1441.545166015625,
+            "width": 254,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 36,
+            "y": 1343.451416015625,
+            "right": 290,
+            "bottom": 1441.545166015625,
+            "width": 254,
+            "height": 98.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 928.4710693359375,
+            "right": 340,
+            "bottom": 976.4710693359375,
+            "width": 284,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 927.4710693359375,
+            "right": 340,
+            "bottom": 976.4710693359375,
+            "width": 284,
+            "height": 49
+          },
+          "message": {
+            "x": 56,
+            "y": 806.4710693359375,
+            "right": 340,
+            "bottom": 911.4710693359375,
+            "width": 284,
+            "height": 105
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 36,
+            "y": 1325.3460693359375,
+            "right": 360,
+            "bottom": 1373.3460693359375,
+            "width": 324,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 36,
+            "y": 1275.2523193359375,
+            "right": 360,
+            "bottom": 1373.3460693359375,
+            "width": 324,
+            "height": 98.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 56,
+            "y": 747.5289306640625,
+            "right": 718,
+            "bottom": 795.5289306640625,
+            "width": 662,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 56,
+            "y": 746.5289306640625,
+            "right": 718,
+            "bottom": 795.5289306640625,
+            "width": 662,
+            "height": 49
+          },
+          "message": {
+            "x": 56,
+            "y": 667.5289306640625,
+            "right": 718,
+            "bottom": 730.5289306640625,
+            "width": 662,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 36,
+            "y": 1121.0133056640625,
+            "right": 738,
+            "bottom": 1169.0133056640625,
+            "width": 702,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 36,
+            "y": 1070.9195556640625,
+            "right": 738,
+            "bottom": 1169.0133056640625,
+            "width": 702,
+            "height": 98.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 367,
+            "y": 1050.69921875,
+            "right": 487,
+            "bottom": 1098.69921875,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 367,
+            "y": 972.60546875,
+            "right": 971,
+            "bottom": 1098.69921875,
+            "width": 604,
+            "height": 126.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 463,
+            "y": 1050.689697265625,
+            "right": 583,
+            "bottom": 1098.689697265625,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 463,
+            "y": 972.595947265625,
+            "right": 1291,
+            "bottom": 1098.689697265625,
+            "width": 828,
+            "height": 126.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "results",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 703,
+            "y": 1050.701904296875,
+            "right": 823,
+            "bottom": 1098.701904296875,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 703,
+            "y": 972.608154296875,
+            "right": 1531,
+            "bottom": 1098.701904296875,
+            "width": 828,
+            "height": 126.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 87,
+            "y": 916.568359375,
+            "right": 282,
+            "bottom": 982.568359375,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 87,
+            "y": 916.568359375,
+            "right": 282,
+            "bottom": 982.568359375,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 83.4375,
+            "y": 1454.396484375,
+            "right": 264,
+            "bottom": 1502.396484375,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 33,
+            "y": 1339.318359375,
+            "right": 287,
+            "bottom": 1521.396484375,
+            "width": 254,
+            "height": 182.078125
+          },
+          "message": {
+            "x": 56,
+            "y": 1358.318359375,
+            "right": 264,
+            "bottom": 1442.396484375,
+            "width": 208,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 157,
+            "y": 855.4581298828125,
+            "right": 352,
+            "bottom": 921.4581298828125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 157,
+            "y": 855.4581298828125,
+            "right": 352,
+            "bottom": 921.4581298828125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 153.4375,
+            "y": 1360.7861328125,
+            "right": 334,
+            "bottom": 1408.7861328125,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 33,
+            "y": 1245.7080078125,
+            "right": 357,
+            "bottom": 1427.7861328125,
+            "width": 324,
+            "height": 182.078125
+          },
+          "message": {
+            "x": 56,
+            "y": 1264.7080078125,
+            "right": 334,
+            "bottom": 1348.7861328125,
+            "width": 278,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 535,
+            "y": 716.5271606445312,
+            "right": 730,
+            "bottom": 782.5271606445312,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 535,
+            "y": 716.5271606445312,
+            "right": 730,
+            "bottom": 782.5271606445312,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 531.4375,
+            "y": 1152.980224609375,
+            "right": 712,
+            "bottom": 1200.980224609375,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 33,
+            "y": 1037.902099609375,
+            "right": 735,
+            "bottom": 1219.980224609375,
+            "width": 702,
+            "height": 182.078125
+          },
+          "message": {
+            "x": 56,
+            "y": 1056.902099609375,
+            "right": 712,
+            "bottom": 1140.980224609375,
+            "width": 656,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 771,
+            "y": 840.5987548828125,
+            "right": 966,
+            "bottom": 906.5987548828125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 771,
+            "y": 840.5987548828125,
+            "right": 966,
+            "bottom": 906.5987548828125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 768.4375,
+            "y": 1087.6300048828125,
+            "right": 949,
+            "bottom": 1135.6300048828125,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 367,
+            "y": 1035.2706298828125,
+            "right": 971,
+            "bottom": 1187.9893798828125,
+            "width": 604,
+            "height": 152.71875
+          },
+          "message": {
+            "x": 389,
+            "y": 1057.2706298828125,
+            "right": 522.90625,
+            "bottom": 1159.9893798828125,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1091,
+            "y": 840.60595703125,
+            "right": 1286,
+            "bottom": 906.60595703125,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1091,
+            "y": 840.60595703125,
+            "right": 1286,
+            "bottom": 906.60595703125,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1088.4375,
+            "y": 1067.24658203125,
+            "right": 1269,
+            "bottom": 1115.24658203125,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 463,
+            "y": 1014.88720703125,
+            "right": 1291,
+            "bottom": 1167.60595703125,
+            "width": 828,
+            "height": 152.71875
+          },
+          "message": {
+            "x": 485,
+            "y": 1036.88720703125,
+            "right": 618.90625,
+            "bottom": 1139.60595703125,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "kwafubesi",
+      "state": "rates",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1331,
+            "y": 840.58740234375,
+            "right": 1526,
+            "bottom": 906.58740234375,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1331,
+            "y": 840.58740234375,
+            "right": 1526,
+            "bottom": 906.58740234375,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1328.4375,
+            "y": 1067.22802734375,
+            "right": 1509,
+            "bottom": 1115.22802734375,
+            "width": 180.5625,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 703,
+            "y": 1014.86865234375,
+            "right": 1531,
+            "bottom": 1167.58740234375,
+            "width": 828,
+            "height": 152.71875
+          },
+          "message": {
+            "x": 725,
+            "y": 1036.86865234375,
+            "right": 858.90625,
+            "bottom": 1139.58740234375,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 38.04735565185547,
+            "y": 888.296875,
+            "right": 298.04735565185547,
+            "bottom": 936.296875,
+            "width": 260,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 38.04735565185547,
+            "y": 888.296875,
+            "right": 298.04735565185547,
+            "bottom": 936.296875,
+            "width": 260,
+            "height": 48
+          },
+          "message": {
+            "x": 38.04735565185547,
+            "y": 788.296875,
+            "right": 298.04735565185547,
+            "bottom": 872.296875,
+            "width": 260,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 37.186363220214844,
+            "y": 869.109375,
+            "right": 367.18636322021484,
+            "bottom": 917.109375,
+            "width": 330,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 37.186363220214844,
+            "y": 869.109375,
+            "right": 367.18636322021484,
+            "bottom": 917.109375,
+            "width": 330,
+            "height": 48
+          },
+          "message": {
+            "x": 37.186363220214844,
+            "y": 769.109375,
+            "right": 367.18636322021484,
+            "bottom": 853.109375,
+            "width": 330,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 38.055870056152344,
+            "y": 686.234375,
+            "right": 746.0558700561523,
+            "bottom": 734.234375,
+            "width": 708,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 38.055870056152344,
+            "y": 686.234375,
+            "right": 746.0558700561523,
+            "bottom": 734.234375,
+            "width": 708,
+            "height": 48
+          },
+          "message": {
+            "x": 38.055870056152344,
+            "y": 628.234375,
+            "right": 746.0558700561523,
+            "bottom": 670.234375,
+            "width": 708,
+            "height": 42
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 804.1790161132812,
+            "y": 723.203125,
+            "right": 979.1790161132812,
+            "bottom": 772.203125,
+            "width": 175,
+            "height": 49
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 804.1790161132812,
+            "y": 723.203125,
+            "right": 979.1790161132812,
+            "bottom": 772.203125,
+            "width": 175,
+            "height": 49
+          },
+          "message": {
+            "x": 401.17901611328125,
+            "y": 713.515625,
+            "right": 788.1790161132812,
+            "bottom": 781.890625,
+            "width": 387,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1145.0537109375,
+            "y": 713.609375,
+            "right": 1320.0537109375,
+            "bottom": 762.609375,
+            "width": 175,
+            "height": 49
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1145.0537109375,
+            "y": 713.609375,
+            "right": 1320.0537109375,
+            "bottom": 762.609375,
+            "width": 175,
+            "height": 49
+          },
+          "message": {
+            "x": 478.0537109375,
+            "y": 713.515625,
+            "right": 1129.0537109375,
+            "bottom": 762.703125,
+            "width": 651,
+            "height": 49.1875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1384.18115234375,
+            "y": 713.609375,
+            "right": 1559.18115234375,
+            "bottom": 762.609375,
+            "width": 175,
+            "height": 49
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1384.18115234375,
+            "y": 713.609375,
+            "right": 1559.18115234375,
+            "bottom": 762.609375,
+            "width": 175,
+            "height": 49
+          },
+          "message": {
+            "x": 717.18115234375,
+            "y": 713.515625,
+            "right": 1368.18115234375,
+            "bottom": 762.703125,
+            "width": 651,
+            "height": 49.1875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 38.05641174316406,
+            "y": 888.296875,
+            "right": 298.05641174316406,
+            "bottom": 936.296875,
+            "width": 260,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 38.05641174316406,
+            "y": 888.296875,
+            "right": 298.05641174316406,
+            "bottom": 936.296875,
+            "width": 260,
+            "height": 48
+          },
+          "message": {
+            "x": 38.05641174316406,
+            "y": 788.296875,
+            "right": 298.05641174316406,
+            "bottom": 872.296875,
+            "width": 260,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 56.05641174316406,
+            "y": 1346.25,
+            "right": 280.0564270019531,
+            "bottom": 1394.25,
+            "width": 224.00001525878906,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 38.05641174316406,
+            "y": 1214.15625,
+            "right": 298.05641174316406,
+            "bottom": 1412.25,
+            "width": 260,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 37.18052291870117,
+            "y": 869.109375,
+            "right": 367.1805229187012,
+            "bottom": 917.109375,
+            "width": 330,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 37.18052291870117,
+            "y": 869.109375,
+            "right": 367.1805229187012,
+            "bottom": 917.109375,
+            "width": 330,
+            "height": 48
+          },
+          "message": {
+            "x": 37.18052291870117,
+            "y": 769.109375,
+            "right": 367.1805229187012,
+            "bottom": 853.109375,
+            "width": 330,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 55.18052291870117,
+            "y": 1338.984375,
+            "right": 349.1805229187012,
+            "bottom": 1386.984375,
+            "width": 294,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 37.18052291870117,
+            "y": 1206.890625,
+            "right": 367.1805229187012,
+            "bottom": 1404.984375,
+            "width": 330,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 37.179115295410156,
+            "y": 686.234375,
+            "right": 745.1791152954102,
+            "bottom": 734.234375,
+            "width": 708,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 37.179115295410156,
+            "y": 686.234375,
+            "right": 745.1791152954102,
+            "bottom": 734.234375,
+            "width": 708,
+            "height": 48
+          },
+          "message": {
+            "x": 37.179115295410156,
+            "y": 628.234375,
+            "right": 745.1791152954102,
+            "bottom": 670.234375,
+            "width": 708,
+            "height": 42
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 55.179115295410156,
+            "y": 1132.71875,
+            "right": 727.1791152954102,
+            "bottom": 1180.71875,
+            "width": 672,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 37.179115295410156,
+            "y": 1000.625,
+            "right": 745.1791152954102,
+            "bottom": 1198.71875,
+            "width": 708,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 419.1807861328125,
+            "y": 1039.609375,
+            "right": 539.1807861328125,
+            "bottom": 1087.609375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 401.1807861328125,
+            "y": 907.515625,
+            "right": 979.1807861328125,
+            "bottom": 1105.609375,
+            "width": 578,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 495.17645263671875,
+            "y": 1039.609375,
+            "right": 615.1764526367188,
+            "bottom": 1087.609375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 477.17645263671875,
+            "y": 907.515625,
+            "right": 1319.176513671875,
+            "bottom": 1105.609375,
+            "width": 842.0000610351562,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "results",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 736.0384521484375,
+            "y": 1039.609375,
+            "right": 856.0384521484375,
+            "bottom": 1087.609375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 718.0384521484375,
+            "y": 907.515625,
+            "right": 1560.0384521484375,
+            "bottom": 1105.609375,
+            "width": 842,
+            "height": 198.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 110.17991638183594,
+            "y": 873.296875,
+            "right": 305.179931640625,
+            "bottom": 918.296875,
+            "width": 195.00001525878906,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 110.17991638183594,
+            "y": 873.296875,
+            "right": 305.179931640625,
+            "bottom": 918.296875,
+            "width": 195.00001525878906,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 61.1799201965332,
+            "y": 1423.625,
+            "right": 273.17993545532227,
+            "bottom": 1471.625,
+            "width": 212.00001525878906,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 42.1799201965332,
+            "y": 1298.546875,
+            "right": 292.17993545532227,
+            "bottom": 1490.625,
+            "width": 250.00001525878906,
+            "height": 192.078125
+          },
+          "message": {
+            "x": 61.1799201965332,
+            "y": 1319.546875,
+            "right": 273.17993545532227,
+            "bottom": 1411.625,
+            "width": 212.00001525878906,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 181.05348205566406,
+            "y": 854.109375,
+            "right": 376.0534973144531,
+            "bottom": 899.109375,
+            "width": 195.00001525878906,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 181.05348205566406,
+            "y": 854.109375,
+            "right": 376.0534973144531,
+            "bottom": 899.109375,
+            "width": 195.00001525878906,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 62.05348205566406,
+            "y": 1342.296875,
+            "right": 344.05348205566406,
+            "bottom": 1390.296875,
+            "width": 282,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 43.05348205566406,
+            "y": 1217.21875,
+            "right": 363.05348205566406,
+            "bottom": 1409.296875,
+            "width": 320,
+            "height": 192.078125
+          },
+          "message": {
+            "x": 62.05348205566406,
+            "y": 1238.21875,
+            "right": 344.05348205566406,
+            "bottom": 1330.296875,
+            "width": 282,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 558.1866455078125,
+            "y": 713.234375,
+            "right": 753.1866455078125,
+            "bottom": 758.234375,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 558.1866455078125,
+            "y": 713.234375,
+            "right": 753.1866455078125,
+            "bottom": 758.234375,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 61.186668395996094,
+            "y": 1155.9375,
+            "right": 721.1866683959961,
+            "bottom": 1203.9375,
+            "width": 660,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 42.186668395996094,
+            "y": 1030.859375,
+            "right": 740.1866683959961,
+            "bottom": 1222.9375,
+            "width": 698,
+            "height": 192.078125
+          },
+          "message": {
+            "x": 61.186668395996094,
+            "y": 1051.859375,
+            "right": 721.1866683959961,
+            "bottom": 1143.9375,
+            "width": 660,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 804.1943359375,
+            "y": 802.515625,
+            "right": 999.1943359375,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 804.1943359375,
+            "y": 802.515625,
+            "right": 999.1943359375,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 686.9443359375,
+            "y": 992.046875,
+            "right": 851.1630859375,
+            "bottom": 1040.046875,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 407.1943359375,
+            "y": 971.046875,
+            "right": 979.1943359375,
+            "bottom": 1126.765625,
+            "width": 572,
+            "height": 155.71875
+          },
+          "message": {
+            "x": 851.1630859375,
+            "y": 996.046875,
+            "right": 959.1943359375,
+            "bottom": 1098.765625,
+            "width": 108.03125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1144.18408203125,
+            "y": 802.515625,
+            "right": 1339.18408203125,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1144.18408203125,
+            "y": 802.515625,
+            "right": 1339.18408203125,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1026.93408203125,
+            "y": 992.046875,
+            "right": 1191.15283203125,
+            "bottom": 1040.046875,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 483.1841125488281,
+            "y": 971.046875,
+            "right": 1319.1841125488281,
+            "bottom": 1126.765625,
+            "width": 836,
+            "height": 155.71875
+          },
+          "message": {
+            "x": 1191.15283203125,
+            "y": 996.046875,
+            "right": 1299.18408203125,
+            "bottom": 1098.765625,
+            "width": 108.03125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hoyo-hoyo",
+      "state": "rates",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1385.054443359375,
+            "y": 802.515625,
+            "right": 1580.054443359375,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1385.054443359375,
+            "y": 802.515625,
+            "right": 1580.054443359375,
+            "bottom": 847.515625,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1267.804443359375,
+            "y": 992.046875,
+            "right": 1432.023193359375,
+            "bottom": 1040.046875,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 724.054443359375,
+            "y": 971.046875,
+            "right": 1560.054443359375,
+            "bottom": 1126.765625,
+            "width": 836,
+            "height": 155.71875
+          },
+          "message": {
+            "x": 1432.023193359375,
+            "y": 996.046875,
+            "right": 1540.054443359375,
+            "bottom": 1098.765625,
+            "width": 108.03125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 998.546875,
+            "right": 268,
+            "bottom": 1046.546875,
+            "width": 210,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 998.546875,
+            "right": 268,
+            "bottom": 1046.546875,
+            "width": 210,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 856.546875,
+            "right": 268,
+            "bottom": 982.546875,
+            "width": 210,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 937.0625,
+            "right": 338,
+            "bottom": 985.0625,
+            "width": 280,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 937.0625,
+            "right": 338,
+            "bottom": 985.0625,
+            "width": 280,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 837.0625,
+            "right": 338,
+            "bottom": 921.0625,
+            "width": 280,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 775.1875,
+            "right": 716,
+            "bottom": 823.1875,
+            "width": 658,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 775.1875,
+            "right": 716,
+            "bottom": 823.1875,
+            "width": 658,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 696.1875,
+            "right": 716,
+            "bottom": 759.1875,
+            "width": 658,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 450,
+            "y": 786.671875,
+            "right": 625,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 450,
+            "y": 786.671875,
+            "right": 625,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "message": {
+            "x": 71,
+            "y": 788.484375,
+            "right": 434,
+            "bottom": 856.859375,
+            "width": 363,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 770,
+            "y": 786.671875,
+            "right": 945,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 770,
+            "y": 786.671875,
+            "right": 945,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "message": {
+            "x": 167,
+            "y": 788.484375,
+            "right": 754,
+            "bottom": 856.859375,
+            "width": 587,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1010,
+            "y": 786.671875,
+            "right": 1185,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1010,
+            "y": 786.671875,
+            "right": 1185,
+            "bottom": 858.671875,
+            "width": 175,
+            "height": 72
+          },
+          "message": {
+            "x": 407,
+            "y": 788.484375,
+            "right": 994,
+            "bottom": 856.859375,
+            "width": 587,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 998.546875,
+            "right": 268,
+            "bottom": 1046.546875,
+            "width": 210,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 998.546875,
+            "right": 268,
+            "bottom": 1046.546875,
+            "width": 210,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 856.546875,
+            "right": 268,
+            "bottom": 982.546875,
+            "width": 210,
+            "height": 126
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 38,
+            "y": 1429.15625,
+            "right": 288,
+            "bottom": 1477.15625,
+            "width": 250,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 38,
+            "y": 1334.0625,
+            "right": 288,
+            "bottom": 1477.15625,
+            "width": 250,
+            "height": 143.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 937.0625,
+            "right": 338,
+            "bottom": 985.0625,
+            "width": 280,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 937.0625,
+            "right": 338,
+            "bottom": 985.0625,
+            "width": 280,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 837.0625,
+            "right": 338,
+            "bottom": 921.0625,
+            "width": 280,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 38,
+            "y": 1382.9375,
+            "right": 358,
+            "bottom": 1430.9375,
+            "width": 320,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 38,
+            "y": 1287.84375,
+            "right": 358,
+            "bottom": 1430.9375,
+            "width": 320,
+            "height": 143.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 58,
+            "y": 775.1875,
+            "right": 716,
+            "bottom": 823.1875,
+            "width": 658,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 58,
+            "y": 775.1875,
+            "right": 716,
+            "bottom": 823.1875,
+            "width": 658,
+            "height": 48
+          },
+          "message": {
+            "x": 58,
+            "y": 696.1875,
+            "right": 716,
+            "bottom": 759.1875,
+            "width": 658,
+            "height": 63
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 38,
+            "y": 1197.671875,
+            "right": 736,
+            "bottom": 1245.671875,
+            "width": 698,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 38,
+            "y": 1102.578125,
+            "right": 736,
+            "bottom": 1245.671875,
+            "width": 698,
+            "height": 143.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 508,
+            "y": 878.359375,
+            "right": 628,
+            "bottom": 926.359375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 470,
+            "y": 770.671875,
+            "right": 645,
+            "bottom": 926.359375,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 828,
+            "y": 878.359375,
+            "right": 948,
+            "bottom": 926.359375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 790,
+            "y": 770.671875,
+            "right": 965,
+            "bottom": 926.359375,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "results",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 1068,
+            "y": 878.359375,
+            "right": 1188,
+            "bottom": 926.359375,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 1030,
+            "y": 770.671875,
+            "right": 1205,
+            "bottom": 926.359375,
+            "width": 175,
+            "height": 155.6875
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 85,
+            "y": 918.546875,
+            "right": 280,
+            "bottom": 984.546875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 85,
+            "y": 918.546875,
+            "right": 280,
+            "bottom": 984.546875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 35,
+            "y": 1464.375,
+            "right": 284,
+            "bottom": 1512.375,
+            "width": 249,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 35,
+            "y": 1339.296875,
+            "right": 285,
+            "bottom": 1513.375,
+            "width": 250,
+            "height": 174.078125
+          },
+          "message": {
+            "x": 35,
+            "y": 1360.296875,
+            "right": 284,
+            "bottom": 1452.375,
+            "width": 249,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 155,
+            "y": 899.0625,
+            "right": 350,
+            "bottom": 965.0625,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 155,
+            "y": 899.0625,
+            "right": 350,
+            "bottom": 965.0625,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 35,
+            "y": 1389,
+            "right": 354,
+            "bottom": 1437,
+            "width": 319,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 35,
+            "y": 1263.921875,
+            "right": 355,
+            "bottom": 1438,
+            "width": 320,
+            "height": 174.078125
+          },
+          "message": {
+            "x": 35,
+            "y": 1284.921875,
+            "right": 354,
+            "bottom": 1377,
+            "width": 319,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 533,
+            "y": 758.1875,
+            "right": 728,
+            "bottom": 824.1875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 533,
+            "y": 758.1875,
+            "right": 728,
+            "bottom": 824.1875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 35,
+            "y": 1202.640625,
+            "right": 732,
+            "bottom": 1250.640625,
+            "width": 697,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 35,
+            "y": 1077.5625,
+            "right": 733,
+            "bottom": 1251.640625,
+            "width": 698,
+            "height": 174.078125
+          },
+          "message": {
+            "x": 35,
+            "y": 1098.5625,
+            "right": 732,
+            "bottom": 1190.640625,
+            "width": 697,
+            "height": 92.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 445,
+            "y": 854.671875,
+            "right": 640,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 445,
+            "y": 854.671875,
+            "right": 640,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 462.0625,
+            "y": 1012.390625,
+            "right": 645,
+            "bottom": 1060.390625,
+            "width": 182.9375,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 430,
+            "y": 895.671875,
+            "right": 645,
+            "bottom": 1137.015625,
+            "width": 215,
+            "height": 241.34375
+          },
+          "message": {
+            "x": 509.09375,
+            "y": 899.671875,
+            "right": 643,
+            "bottom": 1002.390625,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 765,
+            "y": 854.671875,
+            "right": 960,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 765,
+            "y": 854.671875,
+            "right": 960,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 782.0625,
+            "y": 1012.390625,
+            "right": 965,
+            "bottom": 1060.390625,
+            "width": 182.9375,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 750,
+            "y": 895.671875,
+            "right": 965,
+            "bottom": 1060.390625,
+            "width": 215,
+            "height": 164.71875
+          },
+          "message": {
+            "x": 829.09375,
+            "y": 899.671875,
+            "right": 963,
+            "bottom": 1002.390625,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "hamiltons",
+      "state": "rates",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1005,
+            "y": 854.671875,
+            "right": 1200,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1005,
+            "y": 854.671875,
+            "right": 1200,
+            "bottom": 920.671875,
+            "width": 195,
+            "height": 66
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1022.0625,
+            "y": 1012.390625,
+            "right": 1205,
+            "bottom": 1060.390625,
+            "width": 182.9375,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 990,
+            "y": 895.671875,
+            "right": 1205,
+            "bottom": 1060.390625,
+            "width": 215,
+            "height": 164.71875
+          },
+          "message": {
+            "x": 1069.09375,
+            "y": 899.671875,
+            "right": 1203,
+            "bottom": 1002.390625,
+            "width": 133.90625,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 905.880615234375,
+            "right": 291,
+            "bottom": 953.880615234375,
+            "width": 256,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 905.880615234375,
+            "right": 291,
+            "bottom": 953.880615234375,
+            "width": 256,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 805.880615234375,
+            "right": 291,
+            "bottom": 889.880615234375,
+            "width": 256,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 887.734375,
+            "right": 361,
+            "bottom": 935.734375,
+            "width": 326,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 887.734375,
+            "right": 361,
+            "bottom": 935.734375,
+            "width": 326,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 787.734375,
+            "right": 361,
+            "bottom": 871.734375,
+            "width": 326,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 746.318115234375,
+            "right": 739,
+            "bottom": 794.318115234375,
+            "width": 704,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 746.318115234375,
+            "right": 739,
+            "bottom": 794.318115234375,
+            "width": 704,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 688.318115234375,
+            "right": 739,
+            "bottom": 730.318115234375,
+            "width": 704,
+            "height": 42
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 797,
+            "y": 848.36328125,
+            "right": 972,
+            "bottom": 895.36328125,
+            "width": 175,
+            "height": 47
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 797,
+            "y": 848.36328125,
+            "right": 972,
+            "bottom": 895.36328125,
+            "width": 175,
+            "height": 47
+          },
+          "message": {
+            "x": 378,
+            "y": 837.67578125,
+            "right": 781,
+            "bottom": 906.05078125,
+            "width": 403,
+            "height": 68.375
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1147,
+            "y": 838.771240234375,
+            "right": 1322,
+            "bottom": 885.771240234375,
+            "width": 175,
+            "height": 47
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1147,
+            "y": 838.771240234375,
+            "right": 1322,
+            "bottom": 885.771240234375,
+            "width": 175,
+            "height": 47
+          },
+          "message": {
+            "x": 444,
+            "y": 837.677490234375,
+            "right": 1131,
+            "bottom": 886.864990234375,
+            "width": 687,
+            "height": 49.1875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "noavailability",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 1387,
+            "y": 838.771240234375,
+            "right": 1562,
+            "bottom": 885.771240234375,
+            "width": 175,
+            "height": 47
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 1387,
+            "y": 838.771240234375,
+            "right": 1562,
+            "bottom": 885.771240234375,
+            "width": 175,
+            "height": 47
+          },
+          "message": {
+            "x": 684,
+            "y": 837.677490234375,
+            "right": 1371,
+            "bottom": 886.864990234375,
+            "width": 687,
+            "height": 49.1875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 906.3829345703125,
+            "right": 291,
+            "bottom": 954.3829345703125,
+            "width": 256,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 906.3829345703125,
+            "right": 291,
+            "bottom": 954.3829345703125,
+            "width": 256,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 806.3829345703125,
+            "right": 291,
+            "bottom": 890.3829345703125,
+            "width": 256,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 59,
+            "y": 1302.9923095703125,
+            "right": 267,
+            "bottom": 1350.9923095703125,
+            "width": 208,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 35,
+            "y": 1232.8985595703125,
+            "right": 291,
+            "bottom": 1370.9923095703125,
+            "width": 256,
+            "height": 138.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 887.734375,
+            "right": 361,
+            "bottom": 935.734375,
+            "width": 326,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 887.734375,
+            "right": 361,
+            "bottom": 935.734375,
+            "width": 326,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 787.734375,
+            "right": 361,
+            "bottom": 871.734375,
+            "width": 326,
+            "height": 84
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 59,
+            "y": 1297.609375,
+            "right": 337,
+            "bottom": 1345.609375,
+            "width": 278,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 35,
+            "y": 1227.515625,
+            "right": 361,
+            "bottom": 1365.609375,
+            "width": 326,
+            "height": 138.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewAlternativeDatesLink",
+          "button": {
+            "x": 35,
+            "y": 746.8201293945312,
+            "right": 739,
+            "bottom": 794.8201293945312,
+            "width": 704,
+            "height": 48
+          },
+          "parent": {
+            "class": "rightColumn",
+            "x": 35,
+            "y": 746.8201293945312,
+            "right": 739,
+            "bottom": 794.8201293945312,
+            "width": 704,
+            "height": 48
+          },
+          "message": {
+            "x": 35,
+            "y": 688.8201293945312,
+            "right": 739,
+            "bottom": 730.8201293945312,
+            "width": 704,
+            "height": 42
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        },
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 59,
+            "y": 1133.304443359375,
+            "right": 715,
+            "bottom": 1181.304443359375,
+            "width": 656,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 35,
+            "y": 1063.210693359375,
+            "right": 739,
+            "bottom": 1201.304443359375,
+            "width": 704,
+            "height": 138.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 402,
+            "y": 1140.8125,
+            "right": 522,
+            "bottom": 1188.8125,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 378,
+            "y": 1034.71875,
+            "right": 972,
+            "bottom": 1208.8125,
+            "width": 594,
+            "height": 174.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 468,
+            "y": 1140.2744140625,
+            "right": 588,
+            "bottom": 1188.2744140625,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 444,
+            "y": 1034.1806640625,
+            "right": 1322,
+            "bottom": 1208.2744140625,
+            "width": 878,
+            "height": 174.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "results",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "standardButton",
+          "button": {
+            "x": 708,
+            "y": 1140.8125,
+            "right": 828,
+            "bottom": 1188.8125,
+            "width": 120,
+            "height": 48
+          },
+          "parent": {
+            "class": "hotelRates",
+            "x": 684,
+            "y": 1034.71875,
+            "right": 1562,
+            "bottom": 1208.8125,
+            "width": 878,
+            "height": 174.09375
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 320,
+      "pageWidth": 320,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 106,
+            "y": 893.3748168945312,
+            "right": 301,
+            "bottom": 938.3748168945312,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 106,
+            "y": 893.3748168945312,
+            "right": 301,
+            "bottom": 938.3748168945312,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 92.78125,
+            "y": 1415.952880859375,
+            "right": 257,
+            "bottom": 1463.952880859375,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 42,
+            "y": 1298.874755859375,
+            "right": 278,
+            "bottom": 1484.952880859375,
+            "width": 236,
+            "height": 186.078125
+          },
+          "message": {
+            "x": 63,
+            "y": 1319.874755859375,
+            "right": 257,
+            "bottom": 1403.952880859375,
+            "width": 194,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 390,
+      "pageWidth": 390,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 176,
+            "y": 874.1973876953125,
+            "right": 371,
+            "bottom": 919.1973876953125,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 176,
+            "y": 874.1973876953125,
+            "right": 371,
+            "bottom": 919.1973876953125,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 162.78125,
+            "y": 1373.3848876953125,
+            "right": 327,
+            "bottom": 1421.3848876953125,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 42,
+            "y": 1256.3067626953125,
+            "right": 348,
+            "bottom": 1442.3848876953125,
+            "width": 306,
+            "height": 186.078125
+          },
+          "message": {
+            "x": 63,
+            "y": 1277.3067626953125,
+            "right": 327,
+            "bottom": 1361.3848876953125,
+            "width": 264,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 768,
+      "pageWidth": 768,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 554,
+            "y": 776.359375,
+            "right": 749,
+            "bottom": 821.359375,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 554,
+            "y": 776.359375,
+            "right": 749,
+            "bottom": 821.359375,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 540.78125,
+            "y": 1230.0625,
+            "right": 705,
+            "bottom": 1278.0625,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 42,
+            "y": 1112.984375,
+            "right": 726,
+            "bottom": 1299.0625,
+            "width": 684,
+            "height": 186.078125
+          },
+          "message": {
+            "x": 63,
+            "y": 1133.984375,
+            "right": 705,
+            "bottom": 1218.0625,
+            "width": 642,
+            "height": 84.078125
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 1024,
+      "pageWidth": 1024,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 800,
+            "y": 927.672607421875,
+            "right": 995,
+            "bottom": 972.672607421875,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 800,
+            "y": 927.672607421875,
+            "right": 995,
+            "bottom": 972.672607421875,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 827.78125,
+            "y": 1167.563232421875,
+            "right": 992,
+            "bottom": 1215.563232421875,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 378,
+            "y": 1113.203857421875,
+            "right": 1012,
+            "bottom": 1269.922607421875,
+            "width": 634,
+            "height": 156.71875
+          },
+          "message": {
+            "x": 398,
+            "y": 1137.203857421875,
+            "right": 500.078125,
+            "bottom": 1239.922607421875,
+            "width": 102.078125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 1440,
+      "pageWidth": 1440,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1150,
+            "y": 928.1741943359375,
+            "right": 1345,
+            "bottom": 973.1741943359375,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1150,
+            "y": 928.1741943359375,
+            "right": 1345,
+            "bottom": 973.1741943359375,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1177.78125,
+            "y": 1168.0648193359375,
+            "right": 1342,
+            "bottom": 1216.0648193359375,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 444,
+            "y": 1113.7054443359375,
+            "right": 1362,
+            "bottom": 1270.4241943359375,
+            "width": 918,
+            "height": 156.71875
+          },
+          "message": {
+            "x": 464,
+            "y": 1137.7054443359375,
+            "right": 566.078125,
+            "bottom": 1240.4241943359375,
+            "width": 102.078125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "property": "imbali",
+      "state": "rates",
+      "width": 1920,
+      "pageWidth": 1920,
+      "controls": [
+        {
+          "class": "viewRatesLink",
+          "button": {
+            "x": 1390,
+            "y": 927.6766357421875,
+            "right": 1585,
+            "bottom": 972.6766357421875,
+            "width": 195,
+            "height": 45
+          },
+          "parent": {
+            "class": "viewRateGrid",
+            "x": 1390,
+            "y": 927.6766357421875,
+            "right": 1585,
+            "bottom": 972.6766357421875,
+            "width": 195,
+            "height": 45
+          },
+          "message": null,
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": null,
+          "zeroMargins": true
+        },
+        {
+          "class": "smallButton",
+          "button": {
+            "x": 1417.78125,
+            "y": 1167.5672607421875,
+            "right": 1582,
+            "bottom": 1215.5672607421875,
+            "width": 164.21875,
+            "height": 48
+          },
+          "parent": {
+            "class": "roomRates",
+            "x": 684,
+            "y": 1113.2078857421875,
+            "right": 1602,
+            "bottom": 1269.9266357421875,
+            "width": 918,
+            "height": 156.71875
+          },
+          "message": {
+            "x": 704,
+            "y": 1137.2078857421875,
+            "right": 806.078125,
+            "bottom": 1239.9266357421875,
+            "width": 102.078125,
+            "height": 102.71875
+          },
+          "margins": [
+            "0px",
+            "0px",
+            "0px",
+            "0px"
+          ],
+          "contained": true,
+          "overlap": false,
+          "zeroMargins": true
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "shipping": [
+    {
+      "property": "kingfisher",
+      "file": "mainStyle.css",
+      "hash": "a5857830923b807315d6900eb0cf2e8940a1cec2e895357cbfb79fee8903ebf0"
+    },
+    {
+      "property": "kingfisher",
+      "file": "theme.css",
+      "hash": "69db8085e570c93d89bc716ba617e9edfe778f4c863ec6d8e548993fe5d5f941"
+    },
+    {
+      "property": "kingfisher",
+      "file": "mobileTheme.css",
+      "hash": "1d34e3c57a3c1980a83f9296aacb27b8bae7aedda8e4789cb7ea4d87cfa9fd6f"
+    },
+    {
+      "property": "kwafubesi",
+      "file": "mainStyle.css",
+      "hash": "48c910ea1278851c125005988bc95a5454c33eb0a1bfcd4e47508cdf79958010"
+    },
+    {
+      "property": "kwafubesi",
+      "file": "theme.css",
+      "hash": "5c9136f5730629b483e3c92fc6bfcb68579f261603c45d3e5fc0801904d037ce"
+    },
+    {
+      "property": "kwafubesi",
+      "file": "mobileTheme.css",
+      "hash": "bd91965d4334ee8d708c479bdfc0ee21359dc1bb30e9c8934c0298356bb12d28"
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "mainStyle.css",
+      "hash": "aafebce1c8ec36e25a117541c36182ed730787e613a814c9560aa66fffc38186"
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "theme.css",
+      "hash": "7c372d3abeb3daec2ceac9e3091b4fa09e5cc85ed659cd455b693f0ae211c756"
+    },
+    {
+      "property": "hoyo-hoyo",
+      "file": "mobileTheme.css",
+      "hash": "4dd975f280c379fbab0442f6b468aec3640f5c3273a769b9513e4ee5728006fb"
+    },
+    {
+      "property": "hamiltons",
+      "file": "mainStyle.css",
+      "hash": "09650450223225af407abad1db87da46389887e7d8971836bdb04d6f5921c39b"
+    },
+    {
+      "property": "hamiltons",
+      "file": "theme.css",
+      "hash": "84ce2187f2defaab487696d0edcdd86abddb949903c78a3baef3d7a221d5251a"
+    },
+    {
+      "property": "hamiltons",
+      "file": "mobileTheme.css",
+      "hash": "f79bad8062f9ffa171e6287a585132182fdd8baa7a352847af4e0b3a391ade23"
+    },
+    {
+      "property": "imbali",
+      "file": "mainStyle.css",
+      "hash": "a521b5c409ba916ca23b44ea5f3629e32bb91a11595a957d358022fc91085ec1"
+    },
+    {
+      "property": "imbali",
+      "file": "theme.css",
+      "hash": "b444373162527f982db412f4788dfc272fb7857b4b1b037f4c42595e33f5ca2a"
+    },
+    {
+      "property": "imbali",
+      "file": "mobileTheme.css",
+      "hash": "e47d3893c84d7b6bad584791966539d989842a7a3436ecf77b04727c8f157a51"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "R3.2.1",
+  "round": 2,
+  "baselineReproductions": 5,
+  "baselineFailures": 5,
+  "targetedChecks": 90,
+  "failures": 0,
+  "shippingCssHashes": 15,
+  "unchangedOtherFiles": 640,
+  "patchSha256": "eb371b8914e4563de8574500ea80bf9effde28fc5ddd8bd908e2daa090bcfd8f",
+  "checkSha256": "5993d8f4734ceab3500fcc9e6f27e0d18b6a96da6bfcfecfb3d5325cd85ef4c4",
+  "archiveHashes": {
+    "hamiltons": "ad87be4a9ee68bed2740ee169a60ee28f240ebc04994eb466cf41a5ce130fcb0",
+    "hoyo-hoyo": "a3ef71eea7ce46ec504ebe63a83f3472738c0a610a04f919c02319f8dc6afcc5",
+    "imbali": "533cfcb2eff0cdc399134fb8bead485fea0a2d65d14b28695e8965a59a643a3b",
+    "kingfisher": "4d89886d293cb1e185fec549ec37df44dee364bff94b2f8880772d6a8387d48b",
+    "kwafubesi": "615f344763d9854e12078964ed034c0807e411f1b4c3a2874e8fd08a685b782d"
+  },
+  "status": "Frozen minimal follow-up; origin native installation/acceptance and ordinary-cache checks separate."
+}

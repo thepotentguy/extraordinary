@@ -1,0 +1,822 @@
+{
+  "scope": "Margin declarations on the four native recovery/rate button classes in all shipping CSS members. Positive, auto and negative legacy values retained in audit; shipping override resets their scoped margins only.",
+  "properties": [
+    {
+      "property": "hamiltons",
+      "matches": [
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "15px"
+        },
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0px 6px 4px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "-3px -2px 0 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-right",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "32px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin",
+          "value": "15px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "/* A no-availability result must offer a visible way to choose other dates. */\n  #content button.viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "0px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton:hover",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin-left",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "6px 3px 0 -42px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        }
+      ]
+    },
+    {
+      "property": "hoyo-hoyo",
+      "matches": [
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "15px"
+        },
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0px 6px 4px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "-3px -2px 0 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-right",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "32px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin",
+          "value": "15px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "/* A no-availability result must offer a visible way to choose other dates. */\n  #content button.viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "0px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton:hover",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin-left",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "6px 3px 0 -42px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        }
+      ]
+    },
+    {
+      "property": "imbali",
+      "matches": [
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "15px"
+        },
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0px 6px 4px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "-3px -2px 0 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-right",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "32px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin",
+          "value": "15px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "/* A no-availability result must offer a visible way to choose other dates. */\n  #content button.viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content .hotelRates button.standardButton",
+          "property": "margin-left",
+          "value": "auto"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "0px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton:hover",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin-left",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "6px 3px 0 -42px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content .hotelRates button.standardButton",
+          "property": "margin-left",
+          "value": "auto"
+        }
+      ]
+    },
+    {
+      "property": "kingfisher",
+      "matches": [
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "15px"
+        },
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0px 6px 4px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "-3px -2px 0 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-right",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "32px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin",
+          "value": "15px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "/* A no-availability result must offer a visible way to choose other dates. */\n  #content button.viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "0px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton:hover",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin-left",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "6px 3px 0 -42px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        }
+      ]
+    },
+    {
+      "property": "kwafubesi",
+      "matches": [
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "15px"
+        },
+        {
+          "file": "black-rhino2021/css/colourSchemes/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0px 6px 4px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "-3px -2px 0 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-right",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "32px"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mainStyle.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobile.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "10px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin",
+          "value": "15px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".smallButton",
+          "property": "margin",
+          "value": "6px 0 6px 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        },
+        {
+          "file": "black-rhino2021/css/mobileTheme.css",
+          "selector": "/* A no-availability result must offer a visible way to choose other dates. */\n  #content button.viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewRatesLink",
+          "property": "margin",
+          "value": "0px auto !important"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".hotelRates .standardButton:hover",
+          "property": "margin-top",
+          "value": "20px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin",
+          "value": "0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".standardButton",
+          "property": "margin-left",
+          "value": "8px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": ".viewAlternativeDatesLink",
+          "property": "margin",
+          "value": "6px 3px 0 -42px"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.standardButton,#content .roomOptions button",
+          "property": "margin",
+          "value": "8px 0"
+        },
+        {
+          "file": "black-rhino2021/css/theme.css",
+          "selector": "#content button.viewRatesLink",
+          "property": "margin",
+          "value": "0 0 8px"
+        }
+      ]
+    }
+  ]
+}
