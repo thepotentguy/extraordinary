@@ -1,0 +1,36 @@
+{
+  "version": "R3.2",
+  "round": 1,
+  "layoutCases": 270,
+  "layoutFailures": 0,
+  "nativeShapeStepPermutations": 120,
+  "localRecoveryAndKeyboardChecks": 10,
+  "previewOnlyOriginalPngChecks": 12,
+  "shippingCssHashes": 15,
+  "targetedFinalIdleRetest": 30,
+  "priorFailuresPreserved": "verification-before-tablet-dialog-fix.json",
+  "status": "Frozen review candidate; origin native acceptance pending. No installation by design chat.",
+  "sourceHashes": {
+    "round1.css": "c892aff7fd6ce95efb93e0207296f7174702da13dc080d881311ecd41aa433c4",
+    "check-round1.cjs": "371615add02e84baaf1298f47a0aadbd6fa921897f13681b9f5a7b6ac9ec0c7e",
+    "build.py": "52a071f14906cfbd27964c2d6ec234ab45106e47ac69e75ce949b3d378c5035c",
+    "prepare-fixtures.py": "8f897d119f589f9ff34a5e56e385baa6773e6fc2029640a00a04d55bb7d11cc1",
+    "baseline.cjs": "a6e19890d4355d0927c13007d29a4d8086e976d9cff943f4b8646faf0b08433f",
+    "capture-stable-homes.cjs": "71851e666dc89344dec296ee81234b0acbd9bf3ac68ef0c590327d892a7ef8f3"
+  },
+  "archiveHashes": {
+    "hamiltons": "3447147d848ba62d5ed22b30a6d4650e080dddc84cc34678bdbaea47a26737ab",
+    "hoyo-hoyo": "3354bc0c4054a074dba59d8366f6115a3e99100a23fe87099cbae38e27207e62",
+    "imbali": "cd344ae89e67212cf1cf26fe702579dff4fb88b37649cf253ff6fb66a12ad2ae",
+    "kingfisher": "2e262707d9113dd07c5bc2b8916fd18e1e547ae1cc7b857cd4432e93fdabce36",
+    "kwafubesi": "505fcbf4cec9bbdb1ee1cfb7299aec3c4fa12453e6e298a0438bbc3f73f5ee3d"
+  },
+  "limits": [
+    "No new availability searches by design chat.",
+    "Home source frames capped670x300; property thumbnails capped133x99; no new raster assets shipped.",
+    "Local state/keyboard/layout evidence is not native application, touchscreen, accessibility or complete checkout certification.",
+    "CMS cropper0x0 blocks original PNG/carousel asset updates; no bypass.",
+    "Native missing map/gallery data and missing mobileColor.css remain separate.",
+    "Canonical task identity/destination unavailable; local evidence retained and canonical update pending."
+  ]
+}
