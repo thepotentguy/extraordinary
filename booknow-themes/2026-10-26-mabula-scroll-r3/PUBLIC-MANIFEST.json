@@ -7,11 +7,6 @@
       "bytes": 3906
     },
     {
-      "file": "README.md",
-      "sha256": "9a858d263525f9c5f935f7e31f73f51298561820482abe539772d145c8e996b1",
-      "bytes": 3496
-    },
-    {
       "file": "release-manifest.json",
       "sha256": "3a2c3d8693251a3f98479b4d4c23b31b7ecb469e88f87d9b708673e7d39f37df",
       "bytes": 602
@@ -740,6 +735,11 @@
       "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/xsmall_but_sprite.png",
       "sha256": "abdabced74e084498574ff076036c7a24cf04aadf47a4ed24158ab33cae39e41",
       "bytes": 705
+    },
+    {
+      "file": "README.md",
+      "sha256": "e3212d9c4468ae42b158f109f3be3823ead9c5533163969099a7ef134c21f1dc",
+      "bytes": 3599
     }
   ]
 }

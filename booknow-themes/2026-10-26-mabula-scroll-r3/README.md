@@ -4,7 +4,7 @@ Mabula Scroll R3 corrects a reproduced full-width home search panel sticking ove
 
 The independently reviewed package is `packages/mabula-Legacy-BookNow-20261026-Scroll-R3.zip`, SHA256 `1fe8779b64a467aeabf2025fd49153a908cd822bcd9be5dad48aecb54d48c9ad`. Frozen R2 remains intact. Only mainStyle.css, theme.css and mobileTheme.css append the exact CSS patch; all other members remain byte-identical.131files and8directories, no HTML/JavaScript. Complete extracted shipping source is in package-css/mabula; per-member hashes are in the manifest. source/build-repair.py rebuilds deterministically from the prior R2 Mabula archive and checked patch; two builds produced identical ZIP bytes.
 
-Safari Plains and Angels View have no new package in this release. Their unchanged R2 source previews passed the focused tests; no extra edits were made for version consistency. Safari's ordinary visitor CSS delivery remains mismatched and is not called repaired by these offline checks. Angels' previous applied-R2 home parity remains qualified home evidence.
+Safari Plains and Angels View have no new package in this release. Their unchanged R2 source previews passed the focused tests; no extra edits were made for version consistency. Safari's earlier ordinary-style delivery mismatch was subsequently resolved in one measured fresh HOME view, with no source change; see LIVE-VERIFICATION.md. Global cache convergence is not claimed. Angels' applied-R2 home parity remains qualified home evidence.
 
 ## Verification
 
