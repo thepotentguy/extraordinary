@@ -1,0 +1,8365 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 323.703125,
+      "width": 261,
+      "height": 88,
+      "top": 323.703125,
+      "right": 285,
+      "bottom": 411.703125,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 324.703125,
+          "width": 82.890625,
+          "height": 29,
+          "top": 324.703125,
+          "right": 284,
+          "bottom": 353.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 353.703125,
+          "width": 82.890625,
+          "height": 57,
+          "top": 353.703125,
+          "right": 284,
+          "bottom": 410.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 609.703125,
+          "width": 262,
+          "height": 16.796875,
+          "top": 609.703125,
+          "right": 291,
+          "bottom": 626.5,
+          "left": 29
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 553.546875,
+          "width": 266,
+          "height": 28.59375,
+          "top": 553.546875,
+          "right": 293,
+          "bottom": 582.140625,
+          "left": 27
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 1195.78125,
+          "width": 266,
+          "height": 28.59375,
+          "top": 1195.78125,
+          "right": 293,
+          "bottom": 1224.375,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 638.5,
+          "width": 106,
+          "height": 68,
+          "top": 638.5,
+          "right": 135,
+          "bottom": 706.5,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 718.5,
+          "width": 262,
+          "height": 46,
+          "top": 718.5,
+          "right": 291,
+          "bottom": 764.5,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 618.140625,
+          "width": 266,
+          "height": 46,
+          "top": 618.140625,
+          "right": 293,
+          "bottom": 664.140625,
+          "left": 27
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 1260.375,
+          "width": 266,
+          "height": 46,
+          "top": 1260.375,
+          "right": 293,
+          "bottom": 1306.375,
+          "left": 27
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 876,
+        "top": 12,
+        "right": 308,
+        "bottom": 888,
+        "left": 12
+      },
+      "scrollHeight": 1371,
+      "clientHeight": 874,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 323.75,
+      "width": 331,
+      "height": 88,
+      "top": 323.75,
+      "right": 355,
+      "bottom": 411.75,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 324.75,
+          "width": 105.28125,
+          "height": 29,
+          "top": 324.75,
+          "right": 354,
+          "bottom": 353.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 353.75,
+          "width": 105.28125,
+          "height": 57,
+          "top": 353.75,
+          "right": 354,
+          "bottom": 410.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 609.75,
+          "width": 332,
+          "height": 16.796875,
+          "top": 609.75,
+          "right": 361,
+          "bottom": 626.546875,
+          "left": 29
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 529.765625,
+          "width": 336,
+          "height": 28.59375,
+          "top": 529.765625,
+          "right": 363,
+          "bottom": 558.359375,
+          "left": 27
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 1098.3125,
+          "width": 336,
+          "height": 28.59375,
+          "top": 1098.3125,
+          "right": 363,
+          "bottom": 1126.90625,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 638.546875,
+          "width": 106,
+          "height": 68,
+          "top": 638.546875,
+          "right": 135,
+          "bottom": 706.546875,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 718.546875,
+          "width": 332,
+          "height": 46,
+          "top": 718.546875,
+          "right": 361,
+          "bottom": 764.546875,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 594.359375,
+          "width": 336,
+          "height": 46,
+          "top": 594.359375,
+          "right": 363,
+          "bottom": 640.359375,
+          "left": 27
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 1162.90625,
+          "width": 336,
+          "height": 46,
+          "top": 1162.90625,
+          "right": 363,
+          "bottom": 1208.90625,
+          "left": 27
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 876,
+        "top": 12,
+        "right": 378,
+        "bottom": 888,
+        "left": 12
+      },
+      "scrollHeight": 1274,
+      "clientHeight": 874,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 401.796875,
+      "width": 709,
+      "height": 62,
+      "top": 401.796875,
+      "right": 733,
+      "bottom": 463.796875,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 402.796875,
+          "width": 226.25,
+          "height": 29,
+          "top": 402.796875,
+          "right": 732,
+          "bottom": 431.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 431.796875,
+          "width": 226.25,
+          "height": 31,
+          "top": 431.796875,
+          "right": 732,
+          "bottom": 462.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 609.796875,
+          "width": 710,
+          "height": 16.796875,
+          "top": 609.796875,
+          "right": 739,
+          "bottom": 626.59375,
+          "left": 29
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 434.640625,
+          "width": 714,
+          "height": 28.59375,
+          "top": 434.640625,
+          "right": 741,
+          "bottom": 463.234375,
+          "left": 27
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 27,
+          "y": 933.90625,
+          "width": 714,
+          "height": 28.59375,
+          "top": 933.90625,
+          "right": 741,
+          "bottom": 962.5,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 638.59375,
+          "width": 106,
+          "height": 68,
+          "top": 638.59375,
+          "right": 135,
+          "bottom": 706.59375,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 718.59375,
+          "width": 710,
+          "height": 46,
+          "top": 718.59375,
+          "right": 739,
+          "bottom": 764.59375,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 499.234375,
+          "width": 714,
+          "height": 46,
+          "top": 499.234375,
+          "right": 741,
+          "bottom": 545.234375,
+          "left": 27
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 27,
+          "y": 998.5,
+          "width": 714,
+          "height": 46,
+          "top": 998.5,
+          "right": 741,
+          "bottom": 1044.5,
+          "left": 27
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 876,
+        "top": 12,
+        "right": 756,
+        "bottom": 888,
+        "left": 12
+      },
+      "scrollHeight": 1110,
+      "clientHeight": 874,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 550.609375,
+      "y": 282.25,
+      "width": 296.421875,
+      "height": 139,
+      "top": 282.25,
+      "right": 847.03125,
+      "bottom": 421.25,
+      "left": 550.609375
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 283.25,
+          "width": 65.4375,
+          "height": 54,
+          "top": 283.25,
+          "right": 846.03125,
+          "bottom": 337.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 337.25,
+          "width": 65.4375,
+          "height": 83,
+          "top": 337.25,
+          "right": 846.03125,
+          "bottom": 420.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 708.03125,
+          "y": 571.25,
+          "width": 145,
+          "height": 16.796875,
+          "top": 571.25,
+          "right": 853.03125,
+          "bottom": 588.046875,
+          "left": 708.03125
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 746.515625,
+          "y": 333.640625,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 333.640625,
+          "right": 953,
+          "bottom": 362.234375,
+          "left": 746.515625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 746.515625,
+          "y": 646.8125,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 646.8125,
+          "right": 953,
+          "bottom": 675.40625,
+          "left": 746.515625
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 747.03125,
+          "y": 600.046875,
+          "width": 106,
+          "height": 68,
+          "top": 600.046875,
+          "right": 853.03125,
+          "bottom": 668.046875,
+          "left": 747.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 733.03125,
+          "y": 680.046875,
+          "width": 120,
+          "height": 46,
+          "top": 680.046875,
+          "right": 853.03125,
+          "bottom": 726.046875,
+          "left": 733.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 69,
+          "y": 321.53125,
+          "width": 58,
+          "height": 46,
+          "top": 321.53125,
+          "right": 127,
+          "bottom": 367.53125,
+          "left": 69
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 69,
+          "y": 634.703125,
+          "width": 58,
+          "height": 46,
+          "top": 634.703125,
+          "right": 127,
+          "bottom": 680.703125,
+          "left": 69
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 766.40625,
+        "top": 16,
+        "right": 972,
+        "bottom": 782.40625,
+        "left": 52
+      },
+      "scrollHeight": 764,
+      "clientHeight": 764,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 666.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1157.03125,
+      "bottom": 323.46875,
+      "left": 666.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1156.03125,
+          "bottom": 265.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1156.03125,
+          "bottom": 322.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1018.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1163.03125,
+          "bottom": 490.59375,
+          "left": 1018.03125
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 954.515625,
+          "y": 333.640625,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 333.640625,
+          "right": 1161,
+          "bottom": 362.234375,
+          "left": 954.515625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 954.515625,
+          "y": 646.8125,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 646.8125,
+          "right": 1161,
+          "bottom": 675.40625,
+          "left": 954.515625
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1057.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1163.03125,
+          "bottom": 570.59375,
+          "left": 1057.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1043.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1163.03125,
+          "bottom": 628.59375,
+          "left": 1043.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 277,
+          "y": 321.53125,
+          "width": 58,
+          "height": 46,
+          "top": 321.53125,
+          "right": 335,
+          "bottom": 367.53125,
+          "left": 277
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 277,
+          "y": 634.703125,
+          "width": 58,
+          "height": 46,
+          "top": 634.703125,
+          "right": 335,
+          "bottom": 680.703125,
+          "left": 277
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 766.40625,
+        "top": 16,
+        "right": 1180,
+        "bottom": 782.40625,
+        "left": 260
+      },
+      "scrollHeight": 764,
+      "clientHeight": 764,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Room Info",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 906.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1397.03125,
+      "bottom": 323.46875,
+      "left": 906.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1396.03125,
+          "bottom": 265.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1396.03125,
+          "bottom": 322.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1258.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1403.03125,
+          "bottom": 490.59375,
+          "left": 1258.03125
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1194.515625,
+          "y": 333.640625,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 333.640625,
+          "right": 1401,
+          "bottom": 362.234375,
+          "left": 1194.515625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1194.515625,
+          "y": 646.8125,
+          "width": 206.484375,
+          "height": 28.59375,
+          "top": 646.8125,
+          "right": 1401,
+          "bottom": 675.40625,
+          "left": 1194.515625
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1297.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1403.03125,
+          "bottom": 570.59375,
+          "left": 1297.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1283.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1403.03125,
+          "bottom": 628.59375,
+          "left": 1283.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 517,
+          "y": 321.53125,
+          "width": 58,
+          "height": 46,
+          "top": 321.53125,
+          "right": 575,
+          "bottom": 367.53125,
+          "left": 517
+        },
+        "visible": true
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 517,
+          "y": 634.703125,
+          "width": 58,
+          "height": 46,
+          "top": 634.703125,
+          "right": 575,
+          "bottom": 680.703125,
+          "left": 517
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 766.40625,
+        "top": 16,
+        "right": 1420,
+        "bottom": 782.40625,
+        "left": 500
+      },
+      "scrollHeight": 764,
+      "clientHeight": 764,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "closed-after-Room Info",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 528.703125,
+      "width": 261,
+      "height": 88,
+      "top": 528.703125,
+      "right": 285,
+      "bottom": 616.703125,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 529.703125,
+          "width": 82.890625,
+          "height": 29,
+          "top": 529.703125,
+          "right": 284,
+          "bottom": 558.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 558.703125,
+          "width": 82.890625,
+          "height": 57,
+          "top": 558.703125,
+          "right": 284,
+          "bottom": 615.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 814.703125,
+          "width": 262,
+          "height": 16.796875,
+          "top": 814.703125,
+          "right": 291,
+          "bottom": 831.5,
+          "left": 29
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 266,
+          "height": 28.59375,
+          "top": 467,
+          "right": 293,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 563.375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 563.375,
+          "right": 293,
+          "bottom": 591.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 636.359375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 636.359375,
+          "right": 293,
+          "bottom": 664.953125,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 709.34375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 709.34375,
+          "right": 293,
+          "bottom": 737.9375,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 843.5,
+          "width": 106,
+          "height": 68,
+          "top": 843.5,
+          "right": 135,
+          "bottom": 911.5,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 923.5,
+          "width": 262,
+          "height": 46,
+          "top": 923.5,
+          "right": 291,
+          "bottom": 969.5,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 767.1875,
+        "top": 12,
+        "right": 308,
+        "bottom": 779.1875,
+        "left": 12
+      },
+      "scrollHeight": 765,
+      "clientHeight": 765,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 2,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 535.75,
+      "width": 331,
+      "height": 88,
+      "top": 535.75,
+      "right": 355,
+      "bottom": 623.75,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 536.75,
+          "width": 105.28125,
+          "height": 29,
+          "top": 536.75,
+          "right": 354,
+          "bottom": 565.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 565.75,
+          "width": 105.28125,
+          "height": 57,
+          "top": 565.75,
+          "right": 354,
+          "bottom": 622.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 821.75,
+          "width": 332,
+          "height": 16.796875,
+          "top": 821.75,
+          "right": 361,
+          "bottom": 838.546875,
+          "left": 29
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 336,
+          "height": 28.59375,
+          "top": 467,
+          "right": 363,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 563.375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 563.375,
+          "right": 363,
+          "bottom": 591.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 636.359375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 636.359375,
+          "right": 363,
+          "bottom": 664.953125,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 709.34375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 709.34375,
+          "right": 363,
+          "bottom": 737.9375,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 850.546875,
+          "width": 106,
+          "height": 68,
+          "top": 850.546875,
+          "right": 135,
+          "bottom": 918.546875,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 930.546875,
+          "width": 332,
+          "height": 46,
+          "top": 930.546875,
+          "right": 361,
+          "bottom": 976.546875,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 767.1875,
+        "top": 12,
+        "right": 378,
+        "bottom": 779.1875,
+        "left": 12
+      },
+      "scrollHeight": 765,
+      "clientHeight": 765,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 2,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 478.796875,
+      "width": 709,
+      "height": 62,
+      "top": 478.796875,
+      "right": 733,
+      "bottom": 540.796875,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 479.796875,
+          "width": 226.25,
+          "height": 29,
+          "top": 479.796875,
+          "right": 732,
+          "bottom": 508.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 508.796875,
+          "width": 226.25,
+          "height": 31,
+          "top": 508.796875,
+          "right": 732,
+          "bottom": 539.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 686.796875,
+          "width": 710,
+          "height": 16.796875,
+          "top": 686.796875,
+          "right": 739,
+          "bottom": 703.59375,
+          "left": 29
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 714,
+          "height": 28.59375,
+          "top": 467,
+          "right": 741,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 539.984375,
+          "width": 714,
+          "height": 28.59375,
+          "top": 539.984375,
+          "right": 741,
+          "bottom": 568.578125,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 612.96875,
+          "width": 714,
+          "height": 28.59375,
+          "top": 612.96875,
+          "right": 741,
+          "bottom": 641.5625,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 685.953125,
+          "width": 714,
+          "height": 28.59375,
+          "top": 685.953125,
+          "right": 741,
+          "bottom": 714.546875,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 715.59375,
+          "width": 106,
+          "height": 68,
+          "top": 715.59375,
+          "right": 135,
+          "bottom": 783.59375,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 795.59375,
+          "width": 710,
+          "height": 46,
+          "top": 795.59375,
+          "right": 739,
+          "bottom": 841.59375,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 743.796875,
+        "top": 12,
+        "right": 756,
+        "bottom": 755.796875,
+        "left": 12
+      },
+      "scrollHeight": 742,
+      "clientHeight": 742,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 2,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 550.609375,
+      "y": 282.25,
+      "width": 296.421875,
+      "height": 139,
+      "top": 282.25,
+      "right": 847.03125,
+      "bottom": 421.25,
+      "left": 550.609375
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 283.25,
+          "width": 65.4375,
+          "height": 54,
+          "top": 283.25,
+          "right": 846.03125,
+          "bottom": 337.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 337.25,
+          "width": 65.4375,
+          "height": 83,
+          "top": 337.25,
+          "right": 846.03125,
+          "bottom": 420.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 708.03125,
+          "y": 571.25,
+          "width": 145,
+          "height": 16.796875,
+          "top": 571.25,
+          "right": 853.03125,
+          "bottom": 588.046875,
+          "left": 708.03125
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 69,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 955,
+          "bottom": 501.59375,
+          "left": 69
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 69,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 955,
+          "bottom": 574.578125,
+          "left": 69
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 69,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 955,
+          "bottom": 647.5625,
+          "left": 69
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 69,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 955,
+          "bottom": 720.546875,
+          "left": 69
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 747.03125,
+          "y": 600.046875,
+          "width": 106,
+          "height": 68,
+          "top": 600.046875,
+          "right": 853.03125,
+          "bottom": 668.046875,
+          "left": 747.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 733.03125,
+          "y": 680.046875,
+          "width": 120,
+          "height": 46,
+          "top": 680.046875,
+          "right": 853.03125,
+          "bottom": 726.046875,
+          "left": 733.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 747.796875,
+        "top": 16,
+        "right": 972,
+        "bottom": 763.796875,
+        "left": 52
+      },
+      "scrollHeight": 746,
+      "clientHeight": 746,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 10,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 666.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1157.03125,
+      "bottom": 323.46875,
+      "left": 666.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1156.03125,
+          "bottom": 265.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1156.03125,
+          "bottom": 322.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1018.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1163.03125,
+          "bottom": 490.59375,
+          "left": 1018.03125
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 277,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 1163,
+          "bottom": 501.59375,
+          "left": 277
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 277,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 1163,
+          "bottom": 574.578125,
+          "left": 277
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 277,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 1163,
+          "bottom": 647.5625,
+          "left": 277
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 277,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 1163,
+          "bottom": 720.546875,
+          "left": 277
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1057.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1163.03125,
+          "bottom": 570.59375,
+          "left": 1057.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1043.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1163.03125,
+          "bottom": 628.59375,
+          "left": 1043.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 747.796875,
+        "top": 16,
+        "right": 1180,
+        "bottom": 763.796875,
+        "left": 260
+      },
+      "scrollHeight": 746,
+      "clientHeight": 746,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 10,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Location",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 906.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1397.03125,
+      "bottom": 323.46875,
+      "left": 906.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1396.03125,
+          "bottom": 265.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1396.03125,
+          "bottom": 322.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1258.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1403.03125,
+          "bottom": 490.59375,
+          "left": 1258.03125
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 517,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 1403,
+          "bottom": 501.59375,
+          "left": 517
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 517,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 1403,
+          "bottom": 574.578125,
+          "left": 517
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 517,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 1403,
+          "bottom": 647.5625,
+          "left": 517
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 517,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 1403,
+          "bottom": 720.546875,
+          "left": 517
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1297.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1403.03125,
+          "bottom": 570.59375,
+          "left": 1297.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1283.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1403.03125,
+          "bottom": 628.59375,
+          "left": 1283.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 747.796875,
+        "top": 16,
+        "right": 1420,
+        "bottom": 763.796875,
+        "left": 500
+      },
+      "scrollHeight": 746,
+      "clientHeight": 746,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 10,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "closed-after-Location",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 528.703125,
+      "width": 261,
+      "height": 88,
+      "top": 528.703125,
+      "right": 285,
+      "bottom": 616.703125,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 529.703125,
+          "width": 82.890625,
+          "height": 29,
+          "top": 529.703125,
+          "right": 284,
+          "bottom": 558.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 558.703125,
+          "width": 82.890625,
+          "height": 57,
+          "top": 558.703125,
+          "right": 284,
+          "bottom": 615.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 814.703125,
+          "width": 262,
+          "height": 16.796875,
+          "top": 814.703125,
+          "right": 291,
+          "bottom": 831.5,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 843.5,
+          "width": 106,
+          "height": 68,
+          "top": 843.5,
+          "right": 135,
+          "bottom": 911.5,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 923.5,
+          "width": 262,
+          "height": 46,
+          "top": 923.5,
+          "right": 291,
+          "bottom": 969.5,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 302.15625,
+        "top": 12,
+        "right": 308,
+        "bottom": 314.15625,
+        "left": 12
+      },
+      "scrollHeight": 300,
+      "clientHeight": 300,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 535.75,
+      "width": 331,
+      "height": 88,
+      "top": 535.75,
+      "right": 355,
+      "bottom": 623.75,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 536.75,
+          "width": 105.28125,
+          "height": 29,
+          "top": 536.75,
+          "right": 354,
+          "bottom": 565.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 565.75,
+          "width": 105.28125,
+          "height": 57,
+          "top": 565.75,
+          "right": 354,
+          "bottom": 622.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 821.75,
+          "width": 332,
+          "height": 16.796875,
+          "top": 821.75,
+          "right": 361,
+          "bottom": 838.546875,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 850.546875,
+          "width": 106,
+          "height": 68,
+          "top": 850.546875,
+          "right": 135,
+          "bottom": 918.546875,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 930.546875,
+          "width": 332,
+          "height": 46,
+          "top": 930.546875,
+          "right": 361,
+          "bottom": 976.546875,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 278.765625,
+        "top": 12,
+        "right": 378,
+        "bottom": 290.765625,
+        "left": 12
+      },
+      "scrollHeight": 277,
+      "clientHeight": 277,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 478.796875,
+      "width": 709,
+      "height": 62,
+      "top": 478.796875,
+      "right": 733,
+      "bottom": 540.796875,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 479.796875,
+          "width": 226.25,
+          "height": 29,
+          "top": 479.796875,
+          "right": 732,
+          "bottom": 508.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 508.796875,
+          "width": 226.25,
+          "height": 31,
+          "top": 508.796875,
+          "right": 732,
+          "bottom": 539.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 686.796875,
+          "width": 710,
+          "height": 16.796875,
+          "top": 686.796875,
+          "right": 739,
+          "bottom": 703.59375,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 715.59375,
+          "width": 106,
+          "height": 68,
+          "top": 715.59375,
+          "right": 135,
+          "bottom": 783.59375,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 795.59375,
+          "width": 710,
+          "height": 46,
+          "top": 795.59375,
+          "right": 739,
+          "bottom": 841.59375,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 255.375,
+        "top": 12,
+        "right": 756,
+        "bottom": 267.375,
+        "left": 12
+      },
+      "scrollHeight": 253,
+      "clientHeight": 253,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 550.609375,
+      "y": 282.25,
+      "width": 296.421875,
+      "height": 139,
+      "top": 282.25,
+      "right": 847.03125,
+      "bottom": 421.25,
+      "left": 550.609375
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 283.25,
+          "width": 65.4375,
+          "height": 54,
+          "top": 283.25,
+          "right": 846.03125,
+          "bottom": 337.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 337.25,
+          "width": 65.4375,
+          "height": 83,
+          "top": 337.25,
+          "right": 846.03125,
+          "bottom": 420.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 708.03125,
+          "y": 571.25,
+          "width": 145,
+          "height": 16.796875,
+          "top": 571.25,
+          "right": 853.03125,
+          "bottom": 588.046875,
+          "left": 708.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 747.03125,
+          "y": 600.046875,
+          "width": 106,
+          "height": 68,
+          "top": 600.046875,
+          "right": 853.03125,
+          "bottom": 668.046875,
+          "left": 747.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 733.03125,
+          "y": 680.046875,
+          "width": 120,
+          "height": 46,
+          "top": 680.046875,
+          "right": 853.03125,
+          "bottom": 726.046875,
+          "left": 733.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 972,
+        "bottom": 275.375,
+        "left": 52
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 666.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1157.03125,
+      "bottom": 323.46875,
+      "left": 666.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1156.03125,
+          "bottom": 265.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1156.03125,
+          "bottom": 322.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1018.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1163.03125,
+          "bottom": 490.59375,
+          "left": 1018.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1057.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1163.03125,
+          "bottom": 570.59375,
+          "left": 1057.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1043.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1163.03125,
+          "bottom": 628.59375,
+          "left": 1043.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1180,
+        "bottom": 275.375,
+        "left": 260
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Terms",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 906.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1397.03125,
+      "bottom": 323.46875,
+      "left": 906.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1396.03125,
+          "bottom": 265.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1396.03125,
+          "bottom": 322.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1258.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1403.03125,
+          "bottom": 490.59375,
+          "left": 1258.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1297.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1403.03125,
+          "bottom": 570.59375,
+          "left": 1297.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1283.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1403.03125,
+          "bottom": 628.59375,
+          "left": 1283.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "closed-after-Terms",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 528.703125,
+      "width": 261,
+      "height": 88,
+      "top": 528.703125,
+      "right": 285,
+      "bottom": 616.703125,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 529.703125,
+          "width": 82.890625,
+          "height": 29,
+          "top": 529.703125,
+          "right": 284,
+          "bottom": 558.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 201.109375,
+          "y": 558.703125,
+          "width": 82.890625,
+          "height": 57,
+          "top": 558.703125,
+          "right": 284,
+          "bottom": 615.703125,
+          "left": 201.109375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 814.703125,
+          "width": 262,
+          "height": 16.796875,
+          "top": 814.703125,
+          "right": 291,
+          "bottom": 831.5,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 843.5,
+          "width": 106,
+          "height": 68,
+          "top": 843.5,
+          "right": 135,
+          "bottom": 911.5,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 923.5,
+          "width": 262,
+          "height": 46,
+          "top": 923.5,
+          "right": 291,
+          "bottom": 969.5,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 241.84375,
+        "width": 292,
+        "height": 416.3125,
+        "top": 241.84375,
+        "right": 306,
+        "bottom": 658.15625,
+        "left": 14
+      },
+      "scrollHeight": 414,
+      "clientHeight": 414,
+      "close": {
+        "x": 181,
+        "y": 598.15625,
+        "width": 110,
+        "height": 45,
+        "top": 598.15625,
+        "right": 291,
+        "bottom": 643.15625,
+        "left": 181
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 535.75,
+      "width": 331,
+      "height": 88,
+      "top": 535.75,
+      "right": 355,
+      "bottom": 623.75,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 536.75,
+          "width": 105.28125,
+          "height": 29,
+          "top": 536.75,
+          "right": 354,
+          "bottom": 565.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 248.71875,
+          "y": 565.75,
+          "width": 105.28125,
+          "height": 57,
+          "top": 565.75,
+          "right": 354,
+          "bottom": 622.75,
+          "left": 248.71875
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 821.75,
+          "width": 332,
+          "height": 16.796875,
+          "top": 821.75,
+          "right": 361,
+          "bottom": 838.546875,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 850.546875,
+          "width": 106,
+          "height": 68,
+          "top": 850.546875,
+          "right": 135,
+          "bottom": 918.546875,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 930.546875,
+          "width": 332,
+          "height": 46,
+          "top": 930.546875,
+          "right": 361,
+          "bottom": 976.546875,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 238.921875,
+        "width": 362,
+        "height": 422.15625,
+        "top": 238.921875,
+        "right": 376,
+        "bottom": 661.078125,
+        "left": 14
+      },
+      "scrollHeight": 420,
+      "clientHeight": 420,
+      "close": {
+        "x": 251,
+        "y": 601.078125,
+        "width": 110,
+        "height": 45,
+        "top": 601.078125,
+        "right": 361,
+        "bottom": 646.078125,
+        "left": 251
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 24,
+      "y": 478.796875,
+      "width": 709,
+      "height": 62,
+      "top": 478.796875,
+      "right": 733,
+      "bottom": 540.796875,
+      "left": 24
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 479.796875,
+          "width": 226.25,
+          "height": 29,
+          "top": 479.796875,
+          "right": 732,
+          "bottom": 508.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 505.75,
+          "y": 508.796875,
+          "width": 226.25,
+          "height": 31,
+          "top": 508.796875,
+          "right": 732,
+          "bottom": 539.796875,
+          "left": 505.75
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 29,
+          "y": 686.796875,
+          "width": 710,
+          "height": 16.796875,
+          "top": 686.796875,
+          "right": 739,
+          "bottom": 703.59375,
+          "left": 29
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 715.59375,
+          "width": 106,
+          "height": 68,
+          "top": 715.59375,
+          "right": 135,
+          "bottom": 783.59375,
+          "left": 29
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 795.59375,
+          "width": 710,
+          "height": 46,
+          "top": 795.59375,
+          "right": 739,
+          "bottom": 841.59375,
+          "left": 29
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 154.296875,
+        "width": 740,
+        "height": 591.40625,
+        "top": 154.296875,
+        "right": 754,
+        "bottom": 745.703125,
+        "left": 14
+      },
+      "scrollHeight": 589,
+      "clientHeight": 589,
+      "close": {
+        "x": 629,
+        "y": 685.703125,
+        "width": 110,
+        "height": 45,
+        "top": 685.703125,
+        "right": 739,
+        "bottom": 730.703125,
+        "left": 629
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 550.609375,
+      "y": 282.25,
+      "width": 296.421875,
+      "height": 139,
+      "top": 282.25,
+      "right": 847.03125,
+      "bottom": 421.25,
+      "left": 550.609375
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 283.25,
+          "width": 65.4375,
+          "height": 54,
+          "top": 283.25,
+          "right": 846.03125,
+          "bottom": 337.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 780.59375,
+          "y": 337.25,
+          "width": 65.4375,
+          "height": 83,
+          "top": 337.25,
+          "right": 846.03125,
+          "bottom": 420.25,
+          "left": 780.59375
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 708.03125,
+          "y": 571.25,
+          "width": 145,
+          "height": 16.796875,
+          "top": 571.25,
+          "right": 853.03125,
+          "bottom": 588.046875,
+          "left": 708.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 747.03125,
+          "y": 600.046875,
+          "width": 106,
+          "height": 68,
+          "top": 600.046875,
+          "right": 853.03125,
+          "bottom": 668.046875,
+          "left": 747.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 733.03125,
+          "y": 680.046875,
+          "width": 120,
+          "height": 46,
+          "top": 680.046875,
+          "right": 853.03125,
+          "bottom": 726.046875,
+          "left": 733.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 132,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 892,
+        "bottom": 758.2890625,
+        "left": 132
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 761,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 871,
+        "bottom": 737.2890625,
+        "left": 761
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 666.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1157.03125,
+      "bottom": 323.46875,
+      "left": 666.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1156.03125,
+          "bottom": 265.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1050.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1156.03125,
+          "bottom": 322.46875,
+          "left": 1050.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1018.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1163.03125,
+          "bottom": 490.59375,
+          "left": 1018.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1057.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1163.03125,
+          "bottom": 570.59375,
+          "left": 1057.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1043.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1163.03125,
+          "bottom": 628.59375,
+          "left": 1043.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 340,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1100,
+        "bottom": 758.2890625,
+        "left": 340
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 969,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1079,
+        "bottom": 737.2890625,
+        "left": 969
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "Pictures",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/desktop.html",
+    "table": {
+      "x": 906.8125,
+      "y": 235.46875,
+      "width": 490.21875,
+      "height": 88,
+      "top": 235.46875,
+      "right": 1397.03125,
+      "bottom": 323.46875,
+      "left": 906.8125
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 236.46875,
+          "width": 105.890625,
+          "height": 29,
+          "top": 236.46875,
+          "right": 1396.03125,
+          "bottom": 265.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1290.140625,
+          "y": 265.46875,
+          "width": 105.890625,
+          "height": 57,
+          "top": 265.46875,
+          "right": 1396.03125,
+          "bottom": 322.46875,
+          "left": 1290.140625
+        }
+      },
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1258.03125,
+          "y": 473.796875,
+          "width": 145,
+          "height": 16.796875,
+          "top": 473.796875,
+          "right": 1403.03125,
+          "bottom": 490.59375,
+          "left": 1258.03125
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1297.03125,
+          "y": 502.59375,
+          "width": 106,
+          "height": 68,
+          "top": 502.59375,
+          "right": 1403.03125,
+          "bottom": 570.59375,
+          "left": 1297.03125
+        },
+        "visible": true
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1283.03125,
+          "y": 582.59375,
+          "width": 120,
+          "height": 46,
+          "top": 582.59375,
+          "right": 1403.03125,
+          "bottom": 628.59375,
+          "left": 1283.03125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 580,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1340,
+        "bottom": 758.2890625,
+        "left": 580
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 1209,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1319,
+        "bottom": 737.2890625,
+        "left": 1209
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "closed-after-Pictures",
+    "width": 1920,
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    },
+    "closeSucceeded": false,
+    "strictNoPanelRemaining": false,
+    "galleryRemoved": true,
+    "detailRestored": true,
+    "qualification": "Gallery closes back to previously open Terms; panel:null is not the correct gallery postcondition. Strict initial check retained."
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 482.4375,
+          "width": 262,
+          "height": 16.796875,
+          "top": 482.4375,
+          "right": 294,
+          "bottom": 499.234375,
+          "left": 32
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 266,
+          "height": 28.59375,
+          "top": 467,
+          "right": 293,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 563.375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 563.375,
+          "right": 293,
+          "bottom": 591.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 636.359375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 636.359375,
+          "right": 293,
+          "bottom": 664.953125,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 709.34375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 709.34375,
+          "right": 293,
+          "bottom": 737.9375,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 511.234375,
+          "width": 262,
+          "height": 46,
+          "top": 511.234375,
+          "right": 294,
+          "bottom": 557.234375,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 772.1875,
+        "top": 12,
+        "right": 308,
+        "bottom": 784.1875,
+        "left": 12
+      },
+      "scrollHeight": 770,
+      "clientHeight": 770,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 332,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 364,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 336,
+          "height": 28.59375,
+          "top": 467,
+          "right": 363,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 563.375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 563.375,
+          "right": 363,
+          "bottom": 591.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 636.359375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 636.359375,
+          "right": 363,
+          "bottom": 664.953125,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 709.34375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 709.34375,
+          "right": 363,
+          "bottom": 737.9375,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 332,
+          "height": 46,
+          "top": 505.140625,
+          "right": 364,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 772.1875,
+        "top": 12,
+        "right": 378,
+        "bottom": 784.1875,
+        "left": 12
+      },
+      "scrollHeight": 770,
+      "clientHeight": 770,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 3,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 710,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 742,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 467,
+          "width": 714,
+          "height": 28.59375,
+          "top": 467,
+          "right": 741,
+          "bottom": 495.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 539.984375,
+          "width": 714,
+          "height": 28.59375,
+          "top": 539.984375,
+          "right": 741,
+          "bottom": 568.578125,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 612.96875,
+          "width": 714,
+          "height": 28.59375,
+          "top": 612.96875,
+          "right": 741,
+          "bottom": 641.5625,
+          "left": 27
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 27,
+          "y": 685.953125,
+          "width": 714,
+          "height": 28.59375,
+          "top": 685.953125,
+          "right": 741,
+          "bottom": 714.546875,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 710,
+          "height": 46,
+          "top": 505.140625,
+          "right": 742,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 748.796875,
+        "top": 12,
+        "right": 756,
+        "bottom": 760.796875,
+        "left": 12
+      },
+      "scrollHeight": 747,
+      "clientHeight": 747,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 3,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 681,
+          "y": 471.390625,
+          "width": 291,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 972,
+          "bottom": 488.1875,
+          "left": 681
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 69,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 955,
+          "bottom": 501.59375,
+          "left": 69
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 69,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 955,
+          "bottom": 574.578125,
+          "left": 69
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 69,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 955,
+          "bottom": 647.5625,
+          "left": 69
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 69,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 955,
+          "bottom": 720.546875,
+          "left": 69
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 739.203125,
+          "y": 500.1875,
+          "width": 232.796875,
+          "height": 46,
+          "top": 500.1875,
+          "right": 972,
+          "bottom": 546.1875,
+          "left": 739.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 752.796875,
+        "top": 16,
+        "right": 972,
+        "bottom": 768.796875,
+        "left": 52
+      },
+      "scrollHeight": 751,
+      "clientHeight": 751,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 3,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 889,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1282,
+          "bottom": 488.1875,
+          "left": 889
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 277,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 1163,
+          "bottom": 501.59375,
+          "left": 277
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 277,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 1163,
+          "bottom": 574.578125,
+          "left": 277
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 277,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 1163,
+          "bottom": 647.5625,
+          "left": 277
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 277,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 1163,
+          "bottom": 720.546875,
+          "left": 277
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 967.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1282,
+          "bottom": 546.1875,
+          "left": 967.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 752.796875,
+        "top": 16,
+        "right": 1180,
+        "bottom": 768.796875,
+        "left": 260
+      },
+      "scrollHeight": 751,
+      "clientHeight": 751,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 3,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1129,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1522,
+          "bottom": 488.1875,
+          "left": 1129
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 517,
+          "y": 473,
+          "width": 886,
+          "height": 28.59375,
+          "top": 473,
+          "right": 1403,
+          "bottom": 501.59375,
+          "left": 517
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 517,
+          "y": 545.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 545.984375,
+          "right": 1403,
+          "bottom": 574.578125,
+          "left": 517
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 517,
+          "y": 618.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 618.96875,
+          "right": 1403,
+          "bottom": 647.5625,
+          "left": 517
+        }
+      },
+      {
+        "text": "Get Directions From",
+        "rect": {
+          "x": 517,
+          "y": 691.953125,
+          "width": 886,
+          "height": 28.59375,
+          "top": 691.953125,
+          "right": 1403,
+          "bottom": 720.546875,
+          "left": 517
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1207.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1522,
+          "bottom": 546.1875,
+          "left": 1207.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 752.796875,
+        "top": 16,
+        "right": 1420,
+        "bottom": 768.796875,
+        "left": 500
+      },
+      "scrollHeight": 751,
+      "clientHeight": 751,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 3,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "closed-after-Location",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 482.4375,
+          "width": 262,
+          "height": 16.796875,
+          "top": 482.4375,
+          "right": 294,
+          "bottom": 499.234375,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 511.234375,
+          "width": 262,
+          "height": 46,
+          "top": 511.234375,
+          "right": 294,
+          "bottom": 557.234375,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 302.15625,
+        "top": 12,
+        "right": 308,
+        "bottom": 314.15625,
+        "left": 12
+      },
+      "scrollHeight": 300,
+      "clientHeight": 300,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 332,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 364,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 332,
+          "height": 46,
+          "top": 505.140625,
+          "right": 364,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 278.765625,
+        "top": 12,
+        "right": 378,
+        "bottom": 290.765625,
+        "left": 12
+      },
+      "scrollHeight": 277,
+      "clientHeight": 277,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 710,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 742,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 710,
+          "height": 46,
+          "top": 505.140625,
+          "right": 742,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 255.375,
+        "top": 12,
+        "right": 756,
+        "bottom": 267.375,
+        "left": 12
+      },
+      "scrollHeight": 253,
+      "clientHeight": 253,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 681,
+          "y": 471.390625,
+          "width": 291,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 972,
+          "bottom": 488.1875,
+          "left": 681
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 739.203125,
+          "y": 500.1875,
+          "width": 232.796875,
+          "height": 46,
+          "top": 500.1875,
+          "right": 972,
+          "bottom": 546.1875,
+          "left": 739.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 972,
+        "bottom": 275.375,
+        "left": 52
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 889,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1282,
+          "bottom": 488.1875,
+          "left": 889
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 967.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1282,
+          "bottom": 546.1875,
+          "left": 967.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1180,
+        "bottom": 275.375,
+        "left": 260
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1129,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1522,
+          "bottom": 488.1875,
+          "left": 1129
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1207.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1522,
+          "bottom": 546.1875,
+          "left": 1207.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "closed-after-Terms",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 482.4375,
+          "width": 262,
+          "height": 16.796875,
+          "top": 482.4375,
+          "right": 294,
+          "bottom": 499.234375,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 511.234375,
+          "width": 262,
+          "height": 46,
+          "top": 511.234375,
+          "right": 294,
+          "bottom": 557.234375,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 241.84375,
+        "width": 292,
+        "height": 416.3125,
+        "top": 241.84375,
+        "right": 306,
+        "bottom": 658.15625,
+        "left": 14
+      },
+      "scrollHeight": 414,
+      "clientHeight": 414,
+      "close": {
+        "x": 181,
+        "y": 598.15625,
+        "width": 110,
+        "height": 45,
+        "top": 598.15625,
+        "right": 291,
+        "bottom": 643.15625,
+        "left": 181
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 332,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 364,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 332,
+          "height": 46,
+          "top": 505.140625,
+          "right": 364,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 238.921875,
+        "width": 362,
+        "height": 422.15625,
+        "top": 238.921875,
+        "right": 376,
+        "bottom": 661.078125,
+        "left": 14
+      },
+      "scrollHeight": 420,
+      "clientHeight": 420,
+      "close": {
+        "x": 251,
+        "y": 601.078125,
+        "width": 110,
+        "height": 45,
+        "top": 601.078125,
+        "right": 361,
+        "bottom": 646.078125,
+        "left": 251
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 32,
+          "y": 476.34375,
+          "width": 710,
+          "height": 16.796875,
+          "top": 476.34375,
+          "right": 742,
+          "bottom": 493.140625,
+          "left": 32
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 505.140625,
+          "width": 710,
+          "height": 46,
+          "top": 505.140625,
+          "right": 742,
+          "bottom": 551.140625,
+          "left": 32
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 154.296875,
+        "width": 740,
+        "height": 591.40625,
+        "top": 154.296875,
+        "right": 754,
+        "bottom": 745.703125,
+        "left": 14
+      },
+      "scrollHeight": 589,
+      "clientHeight": 589,
+      "close": {
+        "x": 629,
+        "y": 685.703125,
+        "width": 110,
+        "height": 45,
+        "top": 685.703125,
+        "right": 739,
+        "bottom": 730.703125,
+        "left": 629
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 681,
+          "y": 471.390625,
+          "width": 291,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 972,
+          "bottom": 488.1875,
+          "left": 681
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 739.203125,
+          "y": 500.1875,
+          "width": 232.796875,
+          "height": 46,
+          "top": 500.1875,
+          "right": 972,
+          "bottom": 546.1875,
+          "left": 739.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 132,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 892,
+        "bottom": 758.2890625,
+        "left": 132
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 761,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 871,
+        "bottom": 737.2890625,
+        "left": 761
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 889,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1282,
+          "bottom": 488.1875,
+          "left": 889
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 967.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1282,
+          "bottom": 546.1875,
+          "left": 967.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 340,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1100,
+        "bottom": 758.2890625,
+        "left": 340
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 969,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1079,
+        "bottom": 737.2890625,
+        "left": 969
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/mabula/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 11 152",
+        "rect": {
+          "x": 1129,
+          "y": 471.390625,
+          "width": 393,
+          "height": 16.796875,
+          "top": 471.390625,
+          "right": 1522,
+          "bottom": 488.1875,
+          "left": 1129
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1207.609375,
+          "y": 500.1875,
+          "width": 314.390625,
+          "height": 46,
+          "top": 500.1875,
+          "right": 1522,
+          "bottom": 546.1875,
+          "left": 1207.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 580,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1340,
+        "bottom": 758.2890625,
+        "left": 580
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 1209,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1319,
+        "bottom": 737.2890625,
+        "left": 1209
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "closed-after-Pictures",
+    "width": 1920,
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    },
+    "closeSucceeded": false,
+    "strictNoPanelRemaining": false,
+    "galleryRemoved": true,
+    "detailRestored": true,
+    "qualification": "Gallery closes back to previously open Terms; panel:null is not the correct gallery postcondition. Strict initial check retained."
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 474.09375,
+          "width": 222,
+          "height": 16.796875,
+          "top": 474.09375,
+          "right": 274,
+          "bottom": 490.890625,
+          "left": 52
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 109,
+          "width": 266,
+          "height": 28.59375,
+          "top": 109,
+          "right": 293,
+          "bottom": 137.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 205.375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 205.375,
+          "right": 293,
+          "bottom": 233.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 278.359375,
+          "width": 266,
+          "height": 28.59375,
+          "top": 278.359375,
+          "right": 293,
+          "bottom": 306.953125,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 502.890625,
+          "width": 222,
+          "height": 46,
+          "top": 502.890625,
+          "right": 274,
+          "bottom": 548.890625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 371.734375,
+        "top": 12,
+        "right": 308,
+        "bottom": 383.734375,
+        "left": 12
+      },
+      "scrollHeight": 370,
+      "clientHeight": 370,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 292,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 344,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 109,
+          "width": 336,
+          "height": 28.59375,
+          "top": 109,
+          "right": 363,
+          "bottom": 137.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 205.375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 205.375,
+          "right": 363,
+          "bottom": 233.96875,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 278.359375,
+          "width": 336,
+          "height": 28.59375,
+          "top": 278.359375,
+          "right": 363,
+          "bottom": 306.953125,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 292,
+          "height": 46,
+          "top": 530.140625,
+          "right": 344,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 348.34375,
+        "top": 12,
+        "right": 378,
+        "bottom": 360.34375,
+        "left": 12
+      },
+      "scrollHeight": 346,
+      "clientHeight": 346,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 670,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 722,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 27,
+          "y": 109,
+          "width": 714,
+          "height": 28.59375,
+          "top": 109,
+          "right": 741,
+          "bottom": 137.59375,
+          "left": 27
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 27,
+          "y": 181.984375,
+          "width": 714,
+          "height": 28.59375,
+          "top": 181.984375,
+          "right": 741,
+          "bottom": 210.578125,
+          "left": 27
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 27,
+          "y": 254.96875,
+          "width": 714,
+          "height": 28.59375,
+          "top": 254.96875,
+          "right": 741,
+          "bottom": 283.5625,
+          "left": 27
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 670,
+          "height": 46,
+          "top": 530.140625,
+          "right": 722,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 324.953125,
+        "top": 12,
+        "right": 756,
+        "bottom": 336.953125,
+        "left": 12
+      },
+      "scrollHeight": 323,
+      "clientHeight": 323,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 315.5,
+          "y": 472.390625,
+          "width": 283.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 599,
+          "bottom": 489.1875,
+          "left": 315.5
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 69,
+          "y": 115,
+          "width": 886,
+          "height": 28.59375,
+          "top": 115,
+          "right": 955,
+          "bottom": 143.59375,
+          "left": 69
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 69,
+          "y": 187.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 187.984375,
+          "right": 955,
+          "bottom": 216.578125,
+          "left": 69
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 69,
+          "y": 260.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 260.96875,
+          "right": 955,
+          "bottom": 289.5625,
+          "left": 69
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 372.203125,
+          "y": 501.1875,
+          "width": 226.796875,
+          "height": 46,
+          "top": 501.1875,
+          "right": 599,
+          "bottom": 547.1875,
+          "left": 372.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 328.953125,
+        "top": 16,
+        "right": 972,
+        "bottom": 344.953125,
+        "left": 52
+      },
+      "scrollHeight": 327,
+      "clientHeight": 327,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 523.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 909,
+          "bottom": 489.1875,
+          "left": 523.5
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 277,
+          "y": 115,
+          "width": 886,
+          "height": 28.59375,
+          "top": 115,
+          "right": 1163,
+          "bottom": 143.59375,
+          "left": 277
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 277,
+          "y": 187.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 187.984375,
+          "right": 1163,
+          "bottom": 216.578125,
+          "left": 277
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 277,
+          "y": 260.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 260.96875,
+          "right": 1163,
+          "bottom": 289.5625,
+          "left": 277
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 600.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 909,
+          "bottom": 547.1875,
+          "left": 600.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 328.953125,
+        "top": 16,
+        "right": 1180,
+        "bottom": 344.953125,
+        "left": 260
+      },
+      "scrollHeight": 327,
+      "clientHeight": 327,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Location",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 763.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 1149,
+          "bottom": 489.1875,
+          "left": 763.5
+        }
+      },
+      {
+        "text": "Address:",
+        "rect": {
+          "x": 517,
+          "y": 115,
+          "width": 886,
+          "height": 28.59375,
+          "top": 115,
+          "right": 1403,
+          "bottom": 143.59375,
+          "left": 517
+        }
+      },
+      {
+        "text": "Telephone:",
+        "rect": {
+          "x": 517,
+          "y": 187.984375,
+          "width": 886,
+          "height": 28.59375,
+          "top": 187.984375,
+          "right": 1403,
+          "bottom": 216.578125,
+          "left": 517
+        }
+      },
+      {
+        "text": "GPS Coordinates:",
+        "rect": {
+          "x": 517,
+          "y": 260.96875,
+          "width": 886,
+          "height": 28.59375,
+          "top": 260.96875,
+          "right": 1403,
+          "bottom": 289.5625,
+          "left": 517
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 840.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 1149,
+          "bottom": 547.1875,
+          "left": 840.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 328.953125,
+        "top": 16,
+        "right": 1420,
+        "bottom": 344.953125,
+        "left": 500
+      },
+      "scrollHeight": 327,
+      "clientHeight": 327,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "closed-after-Location",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 474.09375,
+          "width": 222,
+          "height": 16.796875,
+          "top": 474.09375,
+          "right": 274,
+          "bottom": 490.890625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 502.890625,
+          "width": 222,
+          "height": 46,
+          "top": 502.890625,
+          "right": 274,
+          "bottom": 548.890625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 296,
+        "height": 302.15625,
+        "top": 12,
+        "right": 308,
+        "bottom": 314.15625,
+        "left": 12
+      },
+      "scrollHeight": 300,
+      "clientHeight": 300,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 294,
+        "height": 48,
+        "top": 13,
+        "right": 307,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 292,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 344,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 292,
+          "height": 46,
+          "top": 530.140625,
+          "right": 344,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 366,
+        "height": 278.765625,
+        "top": 12,
+        "right": 378,
+        "bottom": 290.765625,
+        "left": 12
+      },
+      "scrollHeight": 277,
+      "clientHeight": 277,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 364,
+        "height": 48,
+        "top": 13,
+        "right": 377,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 670,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 722,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 670,
+          "height": 46,
+          "top": 530.140625,
+          "right": 722,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 12,
+        "y": 12,
+        "width": 744,
+        "height": 255.375,
+        "top": 12,
+        "right": 756,
+        "bottom": 267.375,
+        "left": 12
+      },
+      "scrollHeight": 253,
+      "clientHeight": 253,
+      "close": {
+        "x": 13,
+        "y": 13,
+        "width": 742,
+        "height": 48,
+        "top": 13,
+        "right": 755,
+        "bottom": 61,
+        "left": 13
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 315.5,
+          "y": 472.390625,
+          "width": 283.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 599,
+          "bottom": 489.1875,
+          "left": 315.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 372.203125,
+          "y": 501.1875,
+          "width": 226.796875,
+          "height": 46,
+          "top": 501.1875,
+          "right": 599,
+          "bottom": 547.1875,
+          "left": 372.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 52,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 972,
+        "bottom": 275.375,
+        "left": 52
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 53,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 971,
+        "bottom": 65,
+        "left": 53
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 523.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 909,
+          "bottom": 489.1875,
+          "left": 523.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 600.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 909,
+          "bottom": 547.1875,
+          "left": 600.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 260,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1180,
+        "bottom": 275.375,
+        "left": 260
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 261,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1179,
+        "bottom": 65,
+        "left": 261
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Terms",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 763.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 1149,
+          "bottom": 489.1875,
+          "left": 763.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 840.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 1149,
+          "bottom": 547.1875,
+          "left": 840.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "closed-after-Terms",
+    "width": 1920,
+    "panel": null,
+    "closeSucceeded": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 320,
+    "height": 900,
+    "documentWidth": 320,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 474.09375,
+          "width": 222,
+          "height": 16.796875,
+          "top": 474.09375,
+          "right": 274,
+          "bottom": 490.890625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 502.890625,
+          "width": 222,
+          "height": 46,
+          "top": 502.890625,
+          "right": 274,
+          "bottom": 548.890625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 254.59375,
+        "width": 292,
+        "height": 390.8125,
+        "top": 254.59375,
+        "right": 306,
+        "bottom": 645.40625,
+        "left": 14
+      },
+      "scrollHeight": 389,
+      "clientHeight": 389,
+      "close": {
+        "x": 181,
+        "y": 585.40625,
+        "width": 110,
+        "height": 45,
+        "top": 585.40625,
+        "right": 291,
+        "bottom": 630.40625,
+        "left": 181
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 390,
+    "height": 900,
+    "documentWidth": 390,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 292,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 344,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 292,
+          "height": 46,
+          "top": 530.140625,
+          "right": 344,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 238.921875,
+        "width": 362,
+        "height": 422.15625,
+        "top": 238.921875,
+        "right": 376,
+        "bottom": 661.078125,
+        "left": 14
+      },
+      "scrollHeight": 420,
+      "clientHeight": 420,
+      "close": {
+        "x": 251,
+        "y": 601.078125,
+        "width": 110,
+        "height": 45,
+        "top": 601.078125,
+        "right": 361,
+        "bottom": 646.078125,
+        "left": 251
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 768,
+    "height": 900,
+    "documentWidth": 768,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 52,
+          "y": 501.34375,
+          "width": 670,
+          "height": 16.796875,
+          "top": 501.34375,
+          "right": 722,
+          "bottom": 518.140625,
+          "left": 52
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 530.140625,
+          "width": 670,
+          "height": 46,
+          "top": 530.140625,
+          "right": 722,
+          "bottom": 576.140625,
+          "left": 52
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 14,
+        "y": 154.296875,
+        "width": 740,
+        "height": 591.40625,
+        "top": 154.296875,
+        "right": 754,
+        "bottom": 745.703125,
+        "left": 14
+      },
+      "scrollHeight": 589,
+      "clientHeight": 589,
+      "close": {
+        "x": 629,
+        "y": 685.703125,
+        "width": 110,
+        "height": 45,
+        "top": 685.703125,
+        "right": 739,
+        "bottom": 730.703125,
+        "left": 629
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1024,
+    "height": 900,
+    "documentWidth": 1024,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 315.5,
+          "y": 472.390625,
+          "width": 283.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 599,
+          "bottom": 489.1875,
+          "left": 315.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 372.203125,
+          "y": 501.1875,
+          "width": 226.796875,
+          "height": 46,
+          "top": 501.1875,
+          "right": 599,
+          "bottom": 547.1875,
+          "left": 372.203125
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 132,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 892,
+        "bottom": 758.2890625,
+        "left": 132
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 761,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 871,
+        "bottom": 737.2890625,
+        "left": 761
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1440,
+    "height": 900,
+    "documentWidth": 1440,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 523.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 909,
+          "bottom": 489.1875,
+          "left": 523.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 600.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 909,
+          "bottom": 547.1875,
+          "left": 600.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 340,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1100,
+        "bottom": 758.2890625,
+        "left": 340
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 969,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1079,
+        "bottom": 737.2890625,
+        "left": 969
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "Pictures",
+    "width": 1920,
+    "height": 900,
+    "documentWidth": 1920,
+    "route": "/extraordinary/safari/mobile.html",
+    "table": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    },
+    "amounts": [
+      {
+        "text": "ZAR 14 970",
+        "rect": {
+          "x": 763.5,
+          "y": 472.390625,
+          "width": 385.5,
+          "height": 16.796875,
+          "top": 472.390625,
+          "right": 1149,
+          "bottom": 489.1875,
+          "left": 763.5
+        }
+      }
+    ],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 840.609375,
+          "y": 501.1875,
+          "width": 308.390625,
+          "height": 46,
+          "top": 501.1875,
+          "right": 1149,
+          "bottom": 547.1875,
+          "left": 840.609375
+        },
+        "visible": true
+      }
+    ],
+    "styles": [
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/reset.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/color.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobile.css",
+        "r4": false
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/colourSchemes/mobileColor.css",
+        "error": "SecurityError"
+      },
+      {
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "r4": true
+      }
+    ],
+    "panel": {
+      "rect": {
+        "x": 580,
+        "y": 141.7109375,
+        "width": 760,
+        "height": 616.578125,
+        "top": 141.7109375,
+        "right": 1340,
+        "bottom": 758.2890625,
+        "left": 580
+      },
+      "scrollHeight": 615,
+      "clientHeight": 615,
+      "close": {
+        "x": 1209,
+        "y": 692.2890625,
+        "width": 110,
+        "height": 45,
+        "top": 692.2890625,
+        "right": 1319,
+        "bottom": 737.2890625,
+        "left": 1209
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": true
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "closed-after-Pictures",
+    "width": 1920,
+    "panel": {
+      "rect": {
+        "x": 500,
+        "y": 16,
+        "width": 920,
+        "height": 259.375,
+        "top": 16,
+        "right": 1420,
+        "bottom": 275.375,
+        "left": 500
+      },
+      "scrollHeight": 257,
+      "clientHeight": 257,
+      "close": {
+        "x": 501,
+        "y": 17,
+        "width": 918,
+        "height": 48,
+        "top": 17,
+        "right": 1419,
+        "bottom": 65,
+        "left": 501
+      },
+      "closeHitTop": true,
+      "closeHitEnd": true,
+      "mapImages": 0,
+      "gallery": false
+    },
+    "closeSucceeded": false,
+    "strictNoPanelRemaining": false,
+    "galleryRemoved": true,
+    "detailRestored": true,
+    "qualification": "Gallery closes back to previously open Terms; panel:null is not the correct gallery postcondition. Strict initial check retained."
+  }
+]

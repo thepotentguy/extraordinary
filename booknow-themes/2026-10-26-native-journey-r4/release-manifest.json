@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-26",
+  "status": "Deterministic build artifact; publication and acceptance are recorded separately in LIVE-VERIFICATION.md",
+  "themes": [
+    {
+      "property": "mabula",
+      "version": "20261026-Journey-R4",
+      "file": "mabula-Legacy-BookNow-20261026-Journey-R4.zip",
+      "sha256": "a2751fa225dea691805c7f8ccd05186899443a8433db00eb5ca12749769cb52a",
+      "baseSha256": "1fe8779b64a467aeabf2025fd49153a908cd822bcd9be5dad48aecb54d48c9ad",
+      "patchSha256": "ee73fe9a7e8c86f9755ea770a697ee4c561f6634ac6a346c617800ab334fe363",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/theme.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true,
+      "files": 131,
+      "directories": 8
+    },
+    {
+      "property": "safari-plains",
+      "version": "20261026-Journey-R4",
+      "file": "safari-plains-Legacy-BookNow-20261026-Journey-R4.zip",
+      "sha256": "5bd435f85c3207ae75f7458ee97e38d4ac5001d6c124ef5a6b1241cc0ba11ecd",
+      "baseSha256": "3154d5b51011bac1a052e04b83582ec22a88053fea7553c5caa6a3b979227ddf",
+      "patchSha256": "ee73fe9a7e8c86f9755ea770a697ee4c561f6634ac6a346c617800ab334fe363",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/theme.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true,
+      "files": 131,
+      "directories": 8
+    },
+    {
+      "property": "angels-view",
+      "version": "20261026-Journey-R4",
+      "file": "angels-view-Legacy-BookNow-20261026-Journey-R4.zip",
+      "sha256": "6b14ff766b8e2bf4790a1fb81b74a2ed7cf13e9b5b6abd35493e492b2ef53389",
+      "baseSha256": "6b8a8225b566a7731e7fdaf1b0918788a497ee026107f821663fde6d870a6d9a",
+      "patchSha256": "ee73fe9a7e8c86f9755ea770a697ee4c561f6634ac6a346c617800ab334fe363",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/theme.css",
+        "black-rhino2021/css/mobileTheme.css"
+      ],
+      "allOtherMembersUnchanged": true,
+      "files": 130,
+      "directories": 8
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "desktop": [
+      "reset.css",
+      "mainStyle.css",
+      "colourSchemes/custom.css",
+      "theme.css"
+    ],
+    "mobile": [
+      "reset.css",
+      "mainStyle.css",
+      "colourSchemes/custom.css",
+      "mobile.css",
+      "colourSchemes/mobileColor.css",
+      "mobileTheme.css"
+    ]
+  },
+  "qualification": "Exact observed desktop/mobile CSS orders. MobileColor remains a known missing resource, not fabricated. Shared captured result/detail markup is reused locally; native mobile result handling requires live verification. Synthetic values, disabled transaction actions; not a quotation."
+}

@@ -1,0 +1,137 @@
+/* Native summary cells must fit the actual desktop route at phone widths. */
+@media (max-width: 960px) {
+ #content .hotelRooms table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+ }
+ #content .hotelRooms col { width: auto !important; }
+ #content .hotelRooms td {
+  min-width: 0 !important;
+  max-width: none !important;
+  width: auto !important;
+  box-sizing: border-box;
+  white-space: normal !important;
+  overflow-wrap: anywhere;
+ }
+ #content .hotelRooms td.name { width: 53% !important; padding-inline: 5px; }
+ #content .hotelRooms td.from:empty { width: 0 !important; padding-inline: 0 !important; }
+ #content .hotelRooms td.rateName { width: 15% !important; padding-inline: 2px !important; }
+ #content .hotelRooms td.rate { width: 32% !important; padding-inline: 4px !important; }
+ /* Whitespace/nonempty native spacer variants retain readable content. */
+ #content .hotelRooms table:has(td.from:not(:empty)) td.name { width: 45% !important; }
+ #content .hotelRooms table:has(td.from:not(:empty)) td.from { width: 12% !important; padding-inline: 1px !important; }
+ #content .hotelRooms table:has(td.from:not(:empty)) td.rateName { width: 12% !important; }
+ #content .hotelRooms table:has(td.from:not(:empty)) td.rate { width: 31% !important; }
+}
+
+/* Reuse the native detail table and Close handler, in a consistent in-view shell. */
+#content .hotelInfoContent.hotelInfoContent-open {
+ display: block !important;
+ position: fixed !important;
+ top: 16px !important;
+ left: 50% !important;
+ right: auto !important;
+ bottom: auto !important;
+ transform: translateX(-50%) !important;
+ width: min(920px, calc(100vw - 32px)) !important;
+ max-width: calc(100vw - 32px) !important;
+ min-width: 0 !important;
+ max-height: calc(100vh - 32px) !important;
+ max-height: calc(100dvh - 32px) !important;
+ margin: 0 !important;
+ box-sizing: border-box;
+ overflow: auto !important;
+ overscroll-behavior: contain;
+ z-index: 15000;
+ background: var(--brand-surface, #fff) !important;
+ border: 1px solid var(--brand-edge, #999);
+ box-shadow: 0 16px 54px #0004;
+}
+#content .hotelInfoContent-open > tbody,
+#content .hotelInfoContent-open > tbody > tr,
+#content .hotelInfoContent-open > tbody > tr > td {
+ display: block;
+ width: 100%;
+ max-width: 100%;
+ min-width: 0;
+ box-sizing: border-box;
+}
+#content .hotelInfoContent-open > tbody > tr:first-child {
+ position: sticky;
+ top: 0;
+ z-index: 3;
+ background: var(--brand-surface, #fff);
+}
+#content .hotelInfoContent-open .header {
+ display: flex !important;
+ align-items: center;
+ justify-content: flex-end;
+ min-height: 48px;
+ height: auto !important;
+ margin: 0;
+ padding: 10px 16px;
+ box-sizing: border-box;
+ background: var(--brand-ink, #333) !important;
+ color: #fff !important;
+ border-bottom: 3px solid var(--brand-accent, #999);
+}
+#content .hotelInfoContent-open .header::after { color: inherit !important; }
+#content .hotelInfoContent-open > tbody > tr > td > div {
+ height: auto !important;
+ max-height: none !important;
+ overflow: visible !important;
+ min-width: 0;
+ box-sizing: border-box;
+}
+#content .hotelInfoContent-open .hotelLocation.content {
+ display: flex !important;
+ flex-direction: column !important;
+ width: 100% !important;
+ min-width: 0 !important;
+ max-width: 100% !important;
+ box-sizing: border-box;
+}
+#content .hotelInfoContent-open .hotelLocation > .locationMap {
+ order: -1 !important;
+ flex: none;
+ float: none !important;
+ position: relative !important;
+ width: 100% !important;
+ max-width: 100% !important;
+ min-width: 0 !important;
+ height: clamp(200px, 38vh, 350px) !important;
+ box-sizing: border-box;
+ overflow: hidden !important; /* Contain native map tiles only, never the document. */
+}
+#content .hotelInfoContent-open .hotelLocation > #locationDetails {
+ float: none !important;
+ width: 100% !important;
+ max-width: 100% !important;
+ min-width: 0 !important;
+ box-sizing: border-box;
+}
+#content .hotelInfoContent-open .paymentTerms,
+#content .hotelInfoContent-open .roomsAndFeatures {
+ width: 100% !important;
+ max-width: 100% !important;
+ min-width: 0 !important;
+ box-sizing: border-box;
+ overflow-wrap: anywhere;
+}
+#content .hotelInfoContent-open h1 { font-size: 24px; line-height: 1.25; margin: 0 0 18px; }
+#content .hotelInfoContent-open .roomDescription h3 { font: 500 22px/1.25 var(--brand-heading); margin: 0 0 12px; }
+#content .hotelInfoContent-open .roomDescription .gwt-HTML { font-size: 14px; line-height: 1.65; }
+#content .hotelInfoContent-open .roomRates { gap: 12px; padding-top: 12px; }
+#content .hotelInfoContent-open .roomRates h4 { font: 500 14px/1.5 var(--brand-body); }
+#content .hotelInfoContent-open .roomRates h5 { font: 500 22px/1.3 var(--brand-body); }
+.gwt-DialogBox:has(#gallery) { z-index: 20000 !important; }
+@media (max-width: 960px) {
+ #content .hotelInfoContent.hotelInfoContent-open {
+  top: 12px !important;
+  width: calc(100vw - 24px) !important;
+  max-width: calc(100vw - 24px) !important;
+  max-height: calc(100vh - 24px) !important;
+  max-height: calc(100dvh - 24px) !important;
+ }
+}
