@@ -1,0 +1,455 @@
+{
+  "method": "Actual click handlers in local native-wrapper OFFLINE replay only; no installed/native event acceptance claim",
+  "rows": [
+    {
+      "property": "mabula",
+      "width": 320,
+      "viewport": 320,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 296,
+        "h": 549.15625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "mabula",
+      "width": 390,
+      "viewport": 390,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 366,
+        "h": 525.765625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "mabula",
+      "width": 768,
+      "viewport": 768,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 744,
+        "h": 502.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "mabula",
+      "width": 1024,
+      "viewport": 1024,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 387,
+        "y": 1290.609375,
+        "w": 588,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "mabula",
+      "width": 1440,
+      "viewport": 1440,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 493,
+        "y": 1152.765625,
+        "w": 792,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "mabula",
+      "width": 1920,
+      "viewport": 1920,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 733,
+        "y": 1152.765625,
+        "w": 792,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 320,
+      "viewport": 320,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 296,
+        "h": 549.15625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 390,
+      "viewport": 390,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 366,
+        "h": 525.765625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 768,
+      "viewport": 768,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 744,
+        "h": 502.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 1024,
+      "viewport": 1024,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 49,
+        "y": 1188.609375,
+        "w": 573,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 1440,
+      "viewport": 1440,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 155,
+        "y": 1101.4375,
+        "w": 777,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "safari-plains",
+      "width": 1920,
+      "viewport": 1920,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 395,
+        "y": 1101.4375,
+        "w": 777,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 320,
+      "viewport": 320,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 296,
+        "h": 549.15625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 390,
+      "viewport": 390,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 366,
+        "h": 525.765625,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 768,
+      "viewport": 768,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 12,
+        "y": 12,
+        "w": 744,
+        "h": 502.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 1024,
+      "viewport": 1024,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 349,
+        "y": 1362.21875,
+        "w": 626,
+        "h": 512.375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 1440,
+      "viewport": 1440,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 455,
+        "y": 1298.4375,
+        "w": 830,
+        "h": 488.984375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    },
+    {
+      "property": "angels-view",
+      "width": 1920,
+      "viewport": 1920,
+      "picturesOpened": true,
+      "picturesClosed": true,
+      "locationAfterPictures": {
+        "open": true,
+        "x": 695,
+        "y": 1298.4375,
+        "w": 830,
+        "h": 488.984375,
+        "withinX": true,
+        "withinY": true
+      },
+      "locationClosed": true,
+      "termsOpened": true,
+      "termsClosed": true,
+      "messageOKClosed": true,
+      "searchButtonFocus": {
+        "active": true,
+        "outline": "solid",
+        "outlineWidth": "3px"
+      }
+    }
+  ]
+}

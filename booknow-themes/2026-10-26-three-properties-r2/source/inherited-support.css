@@ -1,0 +1,169 @@
+/* R3 package-owned UX support. No customer-selector rescue rules in proofs. */
+#content .hotelImage img{max-width:100%;height:auto}
+#content .ratesText p,#content .roomOptions p{font:13px/1.7 var(--brand-body);margin:8px 0}
+#content button:disabled{cursor:default;opacity:.72}
+.gwt-DialogBox:has(#gallery) #gallery .gallerylayer img{display:block;width:100%;height:100%;object-fit:contain}
+.gwt-DialogBox:has(#gallery) .navpanellayer{position:absolute;z-index:1001;height:76px!important}
+.gwt-DialogBox:has(#gallery) #gallery{margin-bottom:108px!important}
+.gwt-DialogBox:has(#gallery) .gallerystatus{position:absolute!important;top:calc(100% + 8px)!important;left:auto!important;right:0!important;width:auto!important;margin:0!important;min-width:0;font:12px/1.4 var(--brand-body);color:var(--brand-ink)}
+.gwt-DialogBox:has(#gallery) #formButtons button{min-height:44px;min-width:110px;height:auto;padding:12px 22px;font:14px/1.5 var(--brand-body);cursor:pointer}
+.gwt-DialogBox:has(#gallery) #formButtons button:focus-visible{outline:3px solid var(--brand-accent);outline-offset:4px}
+#content .viewAlternativeDatesLink,#content button.viewRatesLink,#bookingSteps .backButton{display:inline-flex;align-items:center;justify-content:center;min-height:44px;height:auto;max-width:100%;box-sizing:border-box;padding:12px 18px;white-space:normal;font:14px/1.5 var(--brand-body)}
+#content .hotelNoRatesResult{display:flex;flex-wrap:wrap;gap:20px;align-items:center;width:100%;max-width:100%;box-sizing:border-box;padding:20px}
+#content .hotelNoRatesResult .leftColumn{flex:1 1 220px;float:none;width:auto;margin:0}
+#content .hotelNoRatesResult .rightColumn{float:none;width:auto;margin:0}
+#content .hotelNoRatesResult #message{max-width:100%;width:auto;float:none;box-sizing:border-box}
+#content #formDetails{width:100%;max-width:100%;box-sizing:border-box;padding:24px}
+#content #formDetails fieldset{min-width:0;width:100%;max-width:100%;box-sizing:border-box;border:1px solid currentColor;padding:20px;margin:0 0 22px}
+#content #formDetails .gwt-CheckBox{display:flex;gap:12px;align-items:flex-start;max-width:100%}
+#content #formDetails .gwt-CheckBox label{float:none!important;position:static!important;display:flex!important;align-items:center;min-height:44px;width:auto!important;max-width:100%;margin:0;padding:8px;line-height:1.6;box-sizing:border-box}
+#content #formDetails .gwt-CheckBox input[type=checkbox]{position:static!important;float:none!important;appearance:auto!important;width:22px!important;height:22px!important;min-width:22px;min-height:22px;margin:11px 0 0!important;opacity:1}
+#content #formDetails .haveReadAndAccept{position:static;display:block;width:100%;max-width:100%;box-sizing:border-box;margin:12px 0}
+#content #formDetails .haveReadAndAccept a{min-height:44px;display:inline-flex;align-items:center}
+#content #formDetails input:not([type=checkbox]):not([type=radio]),#content #formDetails select,#content #formDetails textarea{max-width:100%;box-sizing:border-box;min-height:44px;font:16px/1.5 var(--brand-body)}
+#content #formDetails label{overflow-wrap:anywhere}
+#content #formButtons{float:none;position:static;display:flex;flex-wrap:wrap;gap:16px;align-items:center;justify-content:flex-end;width:100%;max-width:100%;box-sizing:border-box}
+#content #formButtons button{min-height:48px;height:auto;max-width:100%;padding:12px 20px;box-sizing:border-box;font:14px/1.5 var(--brand-body)}
+#content .imageCarousel .navimages,.gwt-DialogBox:has(#gallery) .navimages{min-width:44px;min-height:44px;box-sizing:border-box;object-fit:contain;cursor:pointer}
+#content .imageCarousel .navimages:focus-visible,.gwt-DialogBox:has(#gallery) .navimages:focus-visible{outline:3px solid var(--brand-accent);outline-offset:4px}
+#content .imageCarousel .navimages:hover,.gwt-DialogBox:has(#gallery) .navimages:hover{filter:brightness(.92)}
+#content .imageCarousel .navimages:active,.gwt-DialogBox:has(#gallery) .navimages:active{outline:2px solid currentColor;outline-offset:-5px}
+@media(min-width:961px){#content #formDetails .detailsColumn{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px 24px}#content #formDetails .detailsColumn label{display:block;float:none;width:auto}#content #formDetails .detailsColumn input,#content #formDetails .detailsColumn select{width:100%}}
+@media(max-width:960px){#content #formDetails{padding:16px}#content #formDetails fieldset{padding:16px}#content #formDetails .detailsColumn{display:flex;flex-direction:column;gap:10px}#content #formDetails .detailsColumn label,#content #formDetails .detailsColumn input,#content #formDetails .detailsColumn select{float:none;width:100%!important;max-width:100%}#content #formButtons button{width:100%}}
+
+
+/* R3.1: preserve the native mobile current-step model and action visibility. */
+@media (max-width:960px) {
+  #bookingSteps .steps>div.unselected,
+  #bookingSteps .steps>.gwt-Label {display:none!important}
+  #bookingSteps .steps>div[class*="stepsName"]>div {display:none!important}
+  #bookingSteps .steps {flex:1 1 auto;gap:0;min-width:0}
+  #bookingSteps .steps>div[class*="stepsName"] {flex:1 1 auto;min-width:0}
+  #bookingSteps .steps a {position:static;float:none;margin:0;max-width:100%;white-space:normal}
+  #bookingSteps .backButton,
+  #bookingSteps .homeButton,
+  #bookingSteps .myBookingsButton,
+  #bookingSteps .forwardButtonWide,
+  #bookingSteps .forwardButton {position:static;float:none;inset:auto;margin:0;box-sizing:border-box;max-width:100%;min-height:44px;height:auto}
+  #bookingSteps [aria-hidden="true"] {display:none!important}
+}
+
+/* R3.2 round one: native result structure, proportional assets, step geometry. */
+#content .hotelResult>.hotelNoRatesResult:has(>.leftColumn){display:flex;grid-template-columns:none;flex-wrap:wrap;align-items:center;gap:16px;order:0}
+#content .hotelResult>.hotelNoRatesResult>.leftColumn{flex:1 1 20rem;min-width:0;width:auto!important;max-width:100%;padding:0;grid-column:auto}
+#content .hotelResult>.hotelNoRatesResult>.rightColumn{flex:0 1 auto;min-width:0;width:auto!important;max-width:100%;padding:0;grid-column:auto}
+#content .hotelNoRatesResult #message,#content .hotelNoRatesResult .info{float:none;min-width:0;max-width:100%!important;width:auto!important;box-sizing:border-box;white-space:normal;overflow-wrap:anywhere;margin-left:0;margin-right:0}
+#content .hotelDescription,#content .roomDescription,#content .roomOptions,#content .paymentTerms{min-width:0;max-width:100%;overflow-wrap:anywhere}
+#content .hotelDescription p{float:none;width:auto!important;max-width:100%!important;box-sizing:border-box;margin-left:0;margin-right:0;white-space:normal}
+#content .hotelImage{float:none;margin:0!important;padding:0;box-sizing:border-box;width:133px;max-width:100%;min-width:0}
+#content .hotelImage a{display:block;max-width:100%}
+#content .hotelImage img,#content .hotelResultRoom .roomImage img{display:block;float:none;width:auto!important;height:auto!important;max-width:min(100%,133px)!important;max-height:99px;object-fit:contain;box-sizing:border-box;padding:0!important;margin:0!important;background:none!important}
+#content .hotelFeatures{float:none;max-width:100%;box-sizing:border-box;overflow-wrap:anywhere}
+#content .hotelInfo{box-sizing:border-box;min-width:0}
+#content .hotelInfo a,#content button.standardButton,#content .viewAlternativeDatesLink,#content .hotelResultRoom .roomRates button.smallButton{box-sizing:border-box;min-width:0;max-width:100%;white-space:normal;overflow-wrap:anywhere}
+#content .hotelResultRoom .roomRates button.smallButton{min-width:0!important}
+/* Published home frames are 670x300 derivatives; do not stretch them into heroes. */
+#content .imageCarousel{width:100%!important;max-width:670px!important;min-width:0;justify-self:center;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box}
+#content .imageCarousel #main{width:100%!important;max-width:670px!important;height:auto!important;max-height:none!important;min-height:0;aspect-ratio:670/300!important;box-sizing:border-box;margin-left:auto!important;margin-right:auto!important}
+#content .imageCarousel #main .gallerylayer{width:100%!important;height:100%!important}
+#content .imageCarousel #main .gallerylayer img{display:block;width:100%!important;height:100%!important;max-height:none!important;object-fit:contain;box-sizing:border-box}
+/* Empty native animation nodes and divider sprites are decorative. Labels remain native. */
+#bookingSteps .steps{align-items:stretch}
+#bookingSteps .steps>.gwt-Label,#bookingSteps .steps>div[class*="stepsName"]>div{display:none!important}
+#bookingSteps .steps>div[class*="stepsName"]{background-image:none!important;position:relative;inset:auto;padding:0!important;height:auto!important;min-width:0;box-sizing:border-box}
+#bookingSteps .steps>div[class*="stepsName"]>a{position:static;float:none;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;max-width:100%;height:auto;box-sizing:border-box;white-space:normal;margin:0}
+#bookingSteps .steps>div[class*="stepsName"]>a::before{content:var(--step-number);display:inline-flex;flex:0 0 24px;align-items:center;justify-content:center;width:24px;height:24px;box-sizing:border-box;border:1px solid currentColor;border-radius:50%;font:600 12px/1 var(--brand-body);background:transparent}
+#bookingSteps .steps>.stepsName1{--step-number:"1"}
+#bookingSteps .steps>.stepsName2{--step-number:"2"}
+#bookingSteps .steps>.stepsName3{--step-number:"3"}
+#bookingSteps .steps>.stepsName4{--step-number:"4"}
+/* The CMS supplies the actual mark. No recolouring, cropping or forced old JPEG ratio. */
+#header{height:auto!important}
+#client_logo{height:auto!important;max-width:100%;box-sizing:border-box}
+#client_logo img{display:block;width:auto!important;height:auto!important;max-width:100%;max-height:none;aspect-ratio:auto!important;object-fit:contain;filter:none!important;margin:0 auto}
+/* Native message dialogs also contain inline-width legacy tables. */
+.gwt-DialogBox:not(:has(#gallery)){width:fit-content!important;max-width:calc(100vw - 28px);box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery))>div,.gwt-DialogBox:not(:has(#gallery))>div>table{max-width:100%!important;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) .dialogMiddleCenterInner,.gwt-DialogBox:not(:has(#gallery)) #formDetails{min-width:0;width:auto!important;max-width:100%;box-sizing:border-box;overflow-wrap:anywhere}
+.gwt-DialogBox:not(:has(#gallery)) #formDetails p{width:auto!important;max-width:100%;box-sizing:border-box;white-space:normal}
+.gwt-DialogBox:not(:has(#gallery)) #formButtons{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;max-width:100%;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) #formButtons button{min-width:44px;min-height:44px;height:auto;max-width:100%;white-space:normal;box-sizing:border-box}
+.gwt-DialogBox:not(:has(#gallery)) :is(.dialogTopLeft,.dialogTopRight,.dialogMiddleLeft,.dialogMiddleRight,.dialogBottomLeft,.dialogBottomRight){width:1px!important;min-width:0!important;max-width:1px!important;padding:0}
+.gwt-DialogBox:not(:has(#gallery)) :is(.dialogTopCenter,.dialogMiddleCenter,.dialogBottomCenter){width:auto!important;min-width:0;padding:0}
+@media(max-width:640px){
+ .gwt-DialogBox:not(:has(#gallery)){width:calc(100vw - 28px)!important;left:14px!important;right:auto!important;position:fixed!important;top:50%!important;transform:translateY(-50%);max-height:calc(100dvh - 28px);overflow:auto!important}
+ .gwt-DialogBox:not(:has(#gallery))>div>table{width:100%!important;table-layout:fixed}
+}
+@media(max-width:960px){
+ #bookingSteps .steps>div[class*="stepsName"].unselected{display:none!important}
+ #content .hotelResult>.hotelNoRatesResult>.leftColumn,#content .hotelResult>.hotelNoRatesResult>.rightColumn{flex-basis:100%;width:100%!important}
+}
+
+/* R3.2.1 round two: keep native recovery/rate buttons inside their parent boxes. */
+#content .hotelResult>.hotelNoRatesResult>.rightColumn>button.viewAlternativeDatesLink,
+#content .hotelResult .hotelRates>button.standardButton,
+#content button.viewRatesLink,
+#content .hotelResultRoom .roomRates>button.smallButton{margin:0!important}
+
+
+/* Native detail tables must open inside the mobile viewport, including after Pictures closes. */
+@media (max-width: 960px) {
+ #content .hotelInfoContent.hotelInfoContent-open {
+  display: block !important;
+  position: fixed !important;
+  inset: 12px 12px auto !important;
+  width: calc(100vw - 24px) !important;
+  max-width: calc(100vw - 24px) !important;
+  max-height: calc(100vh - 24px);
+  max-height: calc(100dvh - 24px);
+  margin: 0 !important;
+  box-sizing: border-box;
+  overflow: auto !important;
+  overscroll-behavior: contain;
+  z-index: 15000;
+  background: var(--brand-surface, #fff) !important;
+  box-shadow: 0 12px 40px #0004;
+ }
+ #content .hotelInfoContent-open > tbody,
+ #content .hotelInfoContent-open > tbody > tr,
+ #content .hotelInfoContent-open > tbody > tr > td {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+ }
+ #content .hotelInfoContent-open > tbody > tr:first-child {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--brand-surface, #fff);
+ }
+ #content .hotelInfoContent-open .header {
+  min-height: 44px;
+  margin: 0;
+ }
+ #content .hotelInfoContent-open > tbody > tr > td > div {
+  height: auto !important;
+  overflow: visible !important;
+ }
+ #content .hotelInfoContent-open .hotelLocation.content {
+  display: flex !important;
+  flex-direction: column !important;
+ }
+ #content .hotelInfoContent-open .hotelLocation > .locationMap {
+  order: -1 !important;
+  flex: none;
+ }
+}
+
+
+/* Native pixel offsets become stale when a message dialog's viewport resizes. */
+.gwt-DialogBox:not(:has(#gallery)) {
+ position: fixed !important;
+ left: 50% !important;
+ right: auto !important;
+ top: 50% !important;
+ transform: translate(-50%, -50%);
+ max-height: calc(100vh - 28px);
+ max-height: calc(100dvh - 28px);
+ overflow: auto !important;
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-26",
+  "status": "Local Stage2 review candidate; no installation",
+  "themes": [
+    {
+      "property": "mabula",
+      "version": "20261026-R2",
+      "file": "mabula-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "dd32677fda045e8a69891a659e40e54b0f11d3b5a0ef70b22b602411dfc966a2",
+      "bytes": 826548,
+      "files": 131,
+      "directories": 8,
+      "status": "Local review candidate; not installed or accepted",
+      "nativeBaseSha256": "2d4e519f21ca9ec64866a85303a3c177e42cc378c396e536fe2729632e43406e",
+      "javascriptIncluded": false,
+      "cmsImagesSeparate": true
+    },
+    {
+      "property": "safari-plains",
+      "version": "20261026-R2",
+      "file": "safari-plains-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "3154d5b51011bac1a052e04b83582ec22a88053fea7553c5caa6a3b979227ddf",
+      "bytes": 831348,
+      "files": 131,
+      "directories": 8,
+      "status": "Local review candidate; not installed or accepted",
+      "nativeBaseSha256": "2d4e519f21ca9ec64866a85303a3c177e42cc378c396e536fe2729632e43406e",
+      "javascriptIncluded": false,
+      "cmsImagesSeparate": true
+    },
+    {
+      "property": "angels-view",
+      "version": "20261026-R2",
+      "file": "angels-view-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "6b8a8225b566a7731e7fdaf1b0918788a497ee026107f821663fde6d870a6d9a",
+      "bytes": 453220,
+      "files": 130,
+      "directories": 8,
+      "status": "Local review candidate; not installed or accepted",
+      "nativeBaseSha256": "2d4e519f21ca9ec64866a85303a3c177e42cc378c396e536fe2729632e43406e",
+      "javascriptIncluded": false,
+      "cmsImagesSeparate": true
+    }
+  ]
+}

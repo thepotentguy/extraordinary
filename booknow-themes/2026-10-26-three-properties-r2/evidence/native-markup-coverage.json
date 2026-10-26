@@ -1,0 +1,142 @@
+[
+  {
+    "property": "mabula",
+    "observed": "2026-10-26",
+    "nativeSelectorCounts": {
+      "#header": 1,
+      "#searchBar": 1,
+      "#stayCriteria": 1,
+      "#unitBreakdown": 1,
+      "#unitBreakDown": 1,
+      "#promoCriteria": 1,
+      ".hotelResult": 1,
+      ".hotelHeading": 1,
+      ".hotelImage": 1,
+      ".hotelFeatures": 1,
+      ".centerColumn": 1,
+      ".rightColumn": 1,
+      ".hotelInfo": 1,
+      ".hotelInfoContent": 1
+    },
+    "searchControlCount": 10,
+    "searchLabelsAndAriaUnchanged": true,
+    "headerMarkupSignatureUnchanged": true,
+    "nativeFeatureLabelsRetained": [
+      "Golf",
+      "Restaurant",
+      "Children Welcome",
+      "Pool",
+      "Horse Riding",
+      "Tennis",
+      "Hiking",
+      "Quad Bikes",
+      "Wireless Internet Access",
+      "Bar",
+      "Conference Facilities",
+      "Game",
+      "Satellite TV",
+      "Spa"
+    ],
+    "noAddedAriaOrForAttributes": true,
+    "fixtureExceptions": [
+      "URLs localised or navigation neutralised; native unfocusable anchors stay unfocusable",
+      "Input display values from observed sample; no native validation/runtime connected",
+      "Prices/rate data redacted; buttons disabled for offline safety; third-party widget/scripts excluded",
+      "Gallery uses exact observed wrapper and unchanged public runtime with already-approved selected media",
+      "Room thumbnail image source uses explicitly generic property image for offline sizing; no native room binding or image identity claim"
+    ],
+    "unverified": [
+      "Guest/payment screens",
+      "Native live focus management",
+      "Backend rate selection/availability semantics"
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "observed": "2026-10-26",
+    "nativeSelectorCounts": {
+      "#header": 1,
+      "#searchBar": 1,
+      "#stayCriteria": 1,
+      "#unitBreakdown": 1,
+      "#unitBreakDown": 1,
+      "#promoCriteria": 1,
+      ".hotelResult": 1,
+      ".hotelHeading": 1,
+      ".hotelImage": 1,
+      ".hotelFeatures": 1,
+      ".centerColumn": 1,
+      ".rightColumn": 1,
+      ".hotelInfo": 1,
+      ".hotelInfoContent": 1
+    },
+    "searchControlCount": 11,
+    "searchLabelsAndAriaUnchanged": true,
+    "headerMarkupSignatureUnchanged": true,
+    "nativeFeatureLabelsRetained": [
+      "Children Welcome",
+      "Wireless Internet Access",
+      "Conference Facilities",
+      "Spa",
+      "Bar",
+      "Game",
+      "Pool"
+    ],
+    "noAddedAriaOrForAttributes": true,
+    "fixtureExceptions": [
+      "URLs localised or navigation neutralised; native unfocusable anchors stay unfocusable",
+      "Input display values from observed sample; no native validation/runtime connected",
+      "Prices/rate data redacted; buttons disabled for offline safety; third-party widget/scripts excluded",
+      "Gallery uses exact observed wrapper and unchanged public runtime with already-approved selected media",
+      "Room thumbnail image source uses explicitly generic property image for offline sizing; no native room binding or image identity claim"
+    ],
+    "unverified": [
+      "Guest/payment screens",
+      "Native live focus management",
+      "Backend rate selection/availability semantics"
+    ]
+  },
+  {
+    "property": "angels-view",
+    "observed": "2026-10-26",
+    "nativeSelectorCounts": {
+      "#header": 1,
+      "#searchBar": 1,
+      "#stayCriteria": 1,
+      "#unitBreakdown": 1,
+      "#unitBreakDown": 1,
+      "#promoCriteria": 1,
+      ".hotelResult": 1,
+      ".hotelHeading": 1,
+      ".hotelImage": 1,
+      ".hotelFeatures": 1,
+      ".centerColumn": 1,
+      ".rightColumn": 1,
+      ".hotelInfo": 1,
+      ".hotelInfoContent": 1
+    },
+    "searchControlCount": 10,
+    "searchLabelsAndAriaUnchanged": true,
+    "headerMarkupSignatureUnchanged": true,
+    "nativeFeatureLabelsRetained": [
+      "Restaurant",
+      "Wireless Internet Access",
+      "Spa",
+      "Conference Facilities",
+      "Pool"
+    ],
+    "noAddedAriaOrForAttributes": true,
+    "fixtureExceptions": [
+      "URLs localised or navigation neutralised; native unfocusable anchors stay unfocusable",
+      "Input display values from observed sample; no native validation/runtime connected",
+      "Prices/rate data redacted; buttons disabled for offline safety; third-party widget/scripts excluded",
+      "Gallery uses exact observed wrapper and unchanged public runtime with already-approved selected media",
+      "Room thumbnail image source uses explicitly generic property image for offline sizing; no native room binding or image identity claim"
+    ],
+    "unverified": [
+      "Guest/payment screens",
+      "Native live focus management",
+      "Backend rate selection/availability semantics"
+    ]
+  }
+]

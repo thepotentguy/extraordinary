@@ -1,0 +1,101 @@
+{
+  "method": "WCAG relative luminance formula for explicitly named shipped palette pairs; not every rendered text pair or full certification",
+  "pairs": [
+    {
+      "property": "mabula",
+      "pair": "Body/white",
+      "foreground": "#373f38",
+      "background": "#ffffff",
+      "contrast": 10.88,
+      "normalTextAA": true
+    },
+    {
+      "property": "mabula",
+      "pair": "Body/surface",
+      "foreground": "#373f38",
+      "background": "#f7f3ed",
+      "contrast": 9.84,
+      "normalTextAA": true
+    },
+    {
+      "property": "mabula",
+      "pair": "White/main action",
+      "foreground": "#ffffff",
+      "background": "#373f38",
+      "contrast": 10.88,
+      "normalTextAA": true
+    },
+    {
+      "property": "mabula",
+      "pair": "White/accent action",
+      "foreground": "#ffffff",
+      "background": "#9a593d",
+      "contrast": 5.43,
+      "normalTextAA": true
+    },
+    {
+      "property": "safari-plains",
+      "pair": "Body/white",
+      "foreground": "#334342",
+      "background": "#ffffff",
+      "contrast": 10.38,
+      "normalTextAA": true
+    },
+    {
+      "property": "safari-plains",
+      "pair": "Body/surface",
+      "foreground": "#334342",
+      "background": "#f6f6ef",
+      "contrast": 9.57,
+      "normalTextAA": true
+    },
+    {
+      "property": "safari-plains",
+      "pair": "White/main action",
+      "foreground": "#ffffff",
+      "background": "#334342",
+      "contrast": 10.38,
+      "normalTextAA": true
+    },
+    {
+      "property": "safari-plains",
+      "pair": "Gold action text",
+      "foreground": "#263938",
+      "background": "#e9d6a5",
+      "contrast": 8.48,
+      "normalTextAA": true
+    },
+    {
+      "property": "angels-view",
+      "pair": "Body/white",
+      "foreground": "#233b4b",
+      "background": "#ffffff",
+      "contrast": 11.68,
+      "normalTextAA": true
+    },
+    {
+      "property": "angels-view",
+      "pair": "Body/surface",
+      "foreground": "#233b4b",
+      "background": "#f5f7f8",
+      "contrast": 10.86,
+      "normalTextAA": true
+    },
+    {
+      "property": "angels-view",
+      "pair": "White/main action",
+      "foreground": "#ffffff",
+      "background": "#233b4b",
+      "contrast": 11.68,
+      "normalTextAA": true
+    },
+    {
+      "property": "angels-view",
+      "pair": "White/accent action",
+      "foreground": "#ffffff",
+      "background": "#b64c00",
+      "contrast": 5.22,
+      "normalTextAA": true
+    }
+  ]
+}

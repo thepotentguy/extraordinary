@@ -1,0 +1,44 @@
+[
+  {
+    "property": "mabula",
+    "observed": "2026-10-26",
+    "nativeAutoplay": [
+      true,
+      2500,
+      2
+    ],
+    "nativeFadeMs": 500,
+    "normalisedCreateCarouselFunctionMatchesLocal": true,
+    "localRuntimeSha256": "3d812b474e0e2e62cfc3c69e203178d1f50cdf5926d1e391196db66da283a60b",
+    "shippingThemeJavascript": false,
+    "reducedMotionLimit": "CSS rule scopes to theme-owned surfaces and does not stop native JavaScript auto-advance"
+  },
+  {
+    "property": "safari-plains",
+    "observed": "2026-10-26",
+    "nativeAutoplay": [
+      true,
+      2500,
+      2
+    ],
+    "nativeFadeMs": 500,
+    "normalisedCreateCarouselFunctionMatchesLocal": true,
+    "localRuntimeSha256": "3d812b474e0e2e62cfc3c69e203178d1f50cdf5926d1e391196db66da283a60b",
+    "shippingThemeJavascript": false,
+    "reducedMotionLimit": "CSS rule scopes to theme-owned surfaces and does not stop native JavaScript auto-advance"
+  },
+  {
+    "property": "angels-view",
+    "observed": "2026-10-26",
+    "nativeAutoplay": [
+      true,
+      2500,
+      2
+    ],
+    "nativeFadeMs": 500,
+    "normalisedCreateCarouselFunctionMatchesLocal": true,
+    "localRuntimeSha256": "3d812b474e0e2e62cfc3c69e203178d1f50cdf5926d1e391196db66da283a60b",
+    "shippingThemeJavascript": false,
+    "reducedMotionLimit": "CSS rule scopes to theme-owned surfaces and does not stop native JavaScript auto-advance"
+  }
+]

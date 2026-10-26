@@ -1,0 +1,31 @@
+/* Safari Plains: centred lodge masthead and green booking panel. */
+#header{border-top:9px solid #334342}
+#client_logo{margin:26px auto}
+#nav{background:#fff;border-top:1px solid #c8c9b7;border-bottom:1px solid #c8c9b7}
+#nav ul li a,#nav ul li a:visited{color:#334342!important;letter-spacing:.06em}
+#nav ul li a:hover,#nav ul li a:focus-visible{background:#334342;color:#fff!important}
+#searchBar{background:#334342;border:0;border-bottom:5px solid #a37c37;padding:28px}
+#searchBar h4,#searchBar label{color:#fff}
+#searchBar button{background:#e9d6a5;color:#263938;border:1px solid #e9d6a5}
+#content{border:1px solid #cbd0c3}
+#content .hotelResult{border:0}
+#content .hotelHeading{padding:20px;background:#eef1e8;margin-bottom:24px}
+#content .hotelRates{padding:20px;background:#334342;color:#fff}
+#content .hotelRates h4,#content .hotelRates h5{color:#fff}
+#content button.standardButton,#content button.viewRatesLink{background:#e9d6a5;color:#263938;border-color:#e9d6a5}
+#content .hotelResultRoom{border-top:5px solid #a37c37;background:#f6f7f0}
+#content .hotelInfo a{border-bottom:3px solid #a37c37}
+#content .imageCarousel .navpanellayer{left:50%!important;transform:translateX(-50%);width:186px!important}
+#content .imageCarousel .navpanelfg{justify-content:center;gap:14px}
+#content .imageCarousel .navimages{border-radius:5px!important;background:#e9d6a5!important;border:2px solid #334342!important}
+#content .imageCarousel .gallerydesctext{text-align:center!important}
+#content #newsFeeds .newsFeedItemPanel{text-align:center}
+#content #newsFeeds .newsItemAnchor,#content #newsFeeds .newsFeedItemDescription{margin-left:auto;margin-right:auto}
+#content .hotelInfoContent .header{background:#334342;color:#fff;border-bottom:3px solid #a37c37}
+@media(min-width:961px){
+ #contentWrapper{grid-template-columns:minmax(0,1fr) 325px}
+ #contentWrapper>#content{grid-column:1!important}
+ #contentWrapper>#sideBar{grid-column:2!important}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{grid-row:1}
+ body:has(#content .imageCarousel #main) #contentWrapper>#sideBar{grid-row:1;margin-top:28px}
+}

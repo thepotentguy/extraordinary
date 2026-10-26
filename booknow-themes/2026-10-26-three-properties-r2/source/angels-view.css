@@ -1,0 +1,26 @@
+/* Angels View: architectural frame, compact rail and squared detail grid. */
+#header{border-top:12px solid #233b4b}
+#client_logo{margin:18px auto}
+#nav{background:#233b4b;border-bottom:4px solid #b64c00}
+#nav ul li a{font-weight:600!important;letter-spacing:.03em}
+#searchBar{border:0;border-left:6px solid #b64c00;background:#e9eef1;padding:24px}
+#searchBar h4{font-size:26px;font-weight:600}
+#searchBar button{background:#b64c00;border-color:#b64c00;font-weight:700}
+#content{border-top:6px solid #233b4b}
+#content .hotelHeading{border-left:5px solid #b64c00;padding:0 0 0 18px;margin-bottom:26px}
+#content .hotelHeading h1{font-size:32px;font-weight:600}
+#content .hotelResult>div:has(>.leftColumn){grid-template-columns:150px minmax(0,1fr);border-bottom:1px solid #99a7b0;padding-bottom:20px}
+#content .hotelRates{justify-content:flex-start;background:#e9eef1;padding:18px}
+#content .hotelInfo{gap:0}
+#content .hotelInfo a{border:1px solid #233b4b;margin-right:-1px;border-radius:0}
+#content .hotelResultRoom{border:0;border-top:6px solid #233b4b;background:#f0f4f6}
+#content .hotelResultRoom .roomRates{border-top:2px solid #b64c00}
+#content .imageCarousel .navpanellayer{left:auto!important;right:0!important;width:176px!important}
+#content .imageCarousel .navpanelfg{justify-content:flex-end;gap:2px}
+#content .imageCarousel .navimages{width:52px!important;min-width:52px;border:0!important;border-bottom:4px solid #b64c00!important;background:#e9eef1!important}
+#content .imageCarousel .gallerydesc{border-left:4px solid #b64c00;padding-left:12px;box-sizing:border-box}
+#content #newsFeeds .newsFeedItemPanel{border-top:1px solid #99a7b0;padding:26px 0}
+#content #newsFeeds .newsItemAnchor{font-size:32px;font-weight:600}
+#content .hotelInfoContent .header{background:#233b4b;color:#fff;border-bottom:4px solid #b64c00}
+@media(min-width:961px){#contentWrapper{grid-template-columns:300px minmax(0,1fr);gap:0}#contentWrapper>#sideBar{padding-right:24px}}
+@media(max-width:960px){#content .hotelHeading h1{font-size:26px}#content .hotelResult>div:has(>.leftColumn){display:flex;flex-direction:column}}
