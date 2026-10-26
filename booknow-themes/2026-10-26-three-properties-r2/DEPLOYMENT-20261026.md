@@ -15,3 +15,8 @@ Mabula's ordinary asset fetches returned Cache-Control:max-age=14400 with older/
 The independent QA report therefore records **installation complete per origin, quality verification pending for the cache/delivery boundary**, with qualified Angels home evidence. Native debug-script404/MIME, mobile-colour404, Maps loading warnings, Triptease report-only CSP and headless Hotjar messages are recorded separately; no new-regression or live booking claim follows.
 
 No availability search, result reload/navigation, booking, hold, payment, rate/master-data change, admin mutation, vendor contact or scheduler was performed by this QA executor. Availability/view allowance remains11/12; image candidate bound90/90 closed; additional spendingR0. Later booking journeys and sponsor acceptance remain unverified. Private evidence/screenshots stay in the installation project folder; origin owns the publication and restoration evidence. Canonical persistence remains pending as previously recorded.
+
+
+## Later same-day focused repair
+
+This earlier delivery snapshot is superseded for the targeted scrolling issue by [Mabula Scroll R3 live verification](../2026-10-26-mabula-scroll-r3/LIVE-VERIFICATION.md). Mabula home overlap was repaired and published; six-width live scrolling passed through the applied repaired theme.css, while mainStyle remained cachedR2. A later ordinary Safari HOME check applied correct R2 main/colour styles and its earlier320px overflow was gone without code/republication. Angels remains unchanged R2. Global cache/mobile/journey/sponsor acceptance limits remain. Earlier failed observations are preserved.
