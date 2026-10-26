@@ -1,0 +1,42 @@
+{
+  "review": "Independent comparison against fresh CMS rollback archives",
+  "patchSha256": "bfdf6b9960bc946a824750e265eabac483fcbfde1cffccff09286cefa4708a88",
+  "themes": [
+    {
+      "property": "mabula",
+      "baseSha256": "a2751fa225dea691805c7f8ccd05186899443a8433db00eb5ca12749769cb52a",
+      "candidateSha256": "d2586ee5775e92cfa59bfcbea35112d4ed6f22c73d40eedbf1bc8db3556754a8",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "otherMembersByteIdentical": true,
+      "crcPass": true
+    },
+    {
+      "property": "safari-plains",
+      "baseSha256": "5bd435f85c3207ae75f7458ee97e38d4ac5001d6c124ef5a6b1241cc0ba11ecd",
+      "candidateSha256": "dc4054c03f3a9fdc574945ece1742c7bcb5ee71c66fef9f6c549c3295c57f594",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "otherMembersByteIdentical": true,
+      "crcPass": true
+    },
+    {
+      "property": "angels-view",
+      "baseSha256": "6b14ff766b8e2bf4790a1fb81b74a2ed7cf13e9b5b6abd35493e492b2ef53389",
+      "candidateSha256": "9a1cb3e577fca4b969bfb998837eeaf94e74283174946494bc5ed1c9f0209b6b",
+      "changedMembers": [
+        "black-rhino2021/css/mainStyle.css",
+        "black-rhino2021/css/mobileTheme.css",
+        "black-rhino2021/css/theme.css"
+      ],
+      "otherMembersByteIdentical": true,
+      "crcPass": true
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/mabula/black-rhino2021/css/mainStyle.css",
+        "rules": 1053,
+        "sha256": "549ec079475064959598073874abcd4f37610ca52490f3a0c95c60be99e148d9",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/mabula/black-rhino2021/css/theme.css",
+        "rules": 639,
+        "sha256": "2d8d55273e0ce803c4476d37216d4902a643ee76808a6f9bd2b03ec4ad4cd120",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/mabula/black-rhino2021/css/mainStyle.css",
+        "rules": 1053,
+        "sha256": "549ec079475064959598073874abcd4f37610ca52490f3a0c95c60be99e148d9",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/mabula/black-rhino2021/css/mobileTheme.css",
+        "rules": 547,
+        "sha256": "9c4c67999cc2eccea20b63f390af1663f4c8842e52326e08e10e4ec94e74ffb0",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/safari-plains/black-rhino2021/css/mainStyle.css",
+        "rules": 1064,
+        "sha256": "3d5f98cd83b7d4338457b61dcaa50243acd359102c39a4a697c81ec3c04ead26",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/safari-plains/black-rhino2021/css/theme.css",
+        "rules": 650,
+        "sha256": "b8ec50910fca2046976ae0031942c745d847b065c0a266d514d5e7f434bbec97",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/safari-plains/black-rhino2021/css/mainStyle.css",
+        "rules": 1064,
+        "sha256": "3d5f98cd83b7d4338457b61dcaa50243acd359102c39a4a697c81ec3c04ead26",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/safari-plains/black-rhino2021/css/mobileTheme.css",
+        "rules": 558,
+        "sha256": "9089f105ed9aea23a7b9a78c3c1014f9d7f097792b9f28e065be389f87a6e8f5",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "angels-view",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/angels-view/black-rhino2021/css/mainStyle.css",
+        "rules": 1065,
+        "sha256": "0cc4635d6246c0aceba18a47a3cf4b01bb904532d709819055a60515d8864e33",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/angels-view/black-rhino2021/css/theme.css",
+        "rules": 651,
+        "sha256": "ce69f97644c1fcb2390ce73239b00fbe527c457ceffe1fe5d787b9503ecba20b",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "angels-view",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/angels-view/black-rhino2021/css/mainStyle.css",
+        "rules": 1065,
+        "sha256": "0cc4635d6246c0aceba18a47a3cf4b01bb904532d709819055a60515d8864e33",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/cycle2-correction/package-css/angels-view/black-rhino2021/css/mobileTheme.css",
+        "rules": 559,
+        "sha256": "7a3f78729e3b3e45d67ea96d3f69630a4d947fe001170e85c701b41d2f2b64e0",
+        "r5": true
+      }
+    ]
+  }
+]

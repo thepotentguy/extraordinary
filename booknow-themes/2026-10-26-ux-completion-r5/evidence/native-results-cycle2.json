@@ -1,0 +1,2540 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 320,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 320,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 106.71875,
+        "y": 258.859375,
+        "width": 106.5625,
+        "height": 48,
+        "top": 258.859375,
+        "right": 213.28125,
+        "bottom": 306.859375,
+        "left": 106.71875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 37,
+          "y": 507.859375,
+          "width": 25,
+          "height": 25,
+          "top": 507.859375,
+          "right": 62,
+          "bottom": 532.859375,
+          "left": 37
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 70,
+          "y": 507.859375,
+          "width": 25,
+          "height": 25,
+          "top": 507.859375,
+          "right": 95,
+          "bottom": 532.859375,
+          "left": 70
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 103,
+          "y": 507.859375,
+          "width": 25,
+          "height": 25,
+          "top": 507.859375,
+          "right": 128,
+          "bottom": 532.859375,
+          "left": 103
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 136,
+          "y": 507.859375,
+          "width": 25,
+          "height": 25,
+          "top": 507.859375,
+          "right": 161,
+          "bottom": 532.859375,
+          "left": 136
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 29,
+          "y": 540.859375,
+          "width": 25,
+          "height": 25,
+          "top": 540.859375,
+          "right": 54,
+          "bottom": 565.859375,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 62,
+          "y": 540.859375,
+          "width": 25,
+          "height": 25,
+          "top": 540.859375,
+          "right": 87,
+          "bottom": 565.859375,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 95,
+          "y": 540.859375,
+          "width": 25,
+          "height": 25,
+          "top": 540.859375,
+          "right": 120,
+          "bottom": 565.859375,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 128,
+          "y": 540.859375,
+          "width": 25,
+          "height": 25,
+          "top": 540.859375,
+          "right": 153,
+          "bottom": 565.859375,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 29,
+          "y": 573.859375,
+          "width": 25,
+          "height": 25,
+          "top": 573.859375,
+          "right": 54,
+          "bottom": 598.859375,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 62,
+          "y": 573.859375,
+          "width": 25,
+          "height": 25,
+          "top": 573.859375,
+          "right": 87,
+          "bottom": 598.859375,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 95,
+          "y": 573.859375,
+          "width": 25,
+          "height": 25,
+          "top": 573.859375,
+          "right": 120,
+          "bottom": 598.859375,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 128,
+          "y": 573.859375,
+          "width": 25,
+          "height": 25,
+          "top": 573.859375,
+          "right": 153,
+          "bottom": 598.859375,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 29,
+          "y": 606.859375,
+          "width": 25,
+          "height": 25,
+          "top": 606.859375,
+          "right": 54,
+          "bottom": 631.859375,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 62,
+          "y": 606.859375,
+          "width": 25,
+          "height": 25,
+          "top": 606.859375,
+          "right": 87,
+          "bottom": 631.859375,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 1104.765625,
+          "width": 262,
+          "height": 48,
+          "top": 1104.765625,
+          "right": 291,
+          "bottom": 1152.765625,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 1164.765625,
+          "width": 262,
+          "height": 48,
+          "top": 1164.765625,
+          "right": 291,
+          "bottom": 1212.765625,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 390,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 390,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 141.71875,
+        "y": 289.296875,
+        "width": 106.5625,
+        "height": 48,
+        "top": 289.296875,
+        "right": 248.28125,
+        "bottom": 337.296875,
+        "left": 141.71875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 37,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 62,
+          "bottom": 563.296875,
+          "left": 37
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 70,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 95,
+          "bottom": 563.296875,
+          "left": 70
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 103,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 128,
+          "bottom": 563.296875,
+          "left": 103
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 136,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 161,
+          "bottom": 563.296875,
+          "left": 136
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 29,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 54,
+          "bottom": 596.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 62,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 87,
+          "bottom": 596.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 95,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 120,
+          "bottom": 596.296875,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 128,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 153,
+          "bottom": 596.296875,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 29,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 54,
+          "bottom": 629.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 62,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 87,
+          "bottom": 629.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 95,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 120,
+          "bottom": 629.296875,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 128,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 153,
+          "bottom": 629.296875,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 29,
+          "y": 637.296875,
+          "width": 25,
+          "height": 25,
+          "top": 637.296875,
+          "right": 54,
+          "bottom": 662.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 62,
+          "y": 637.296875,
+          "width": 25,
+          "height": 25,
+          "top": 637.296875,
+          "right": 87,
+          "bottom": 662.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 1111.8125,
+          "width": 332,
+          "height": 48,
+          "top": 1111.8125,
+          "right": 361,
+          "bottom": 1159.8125,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 1171.8125,
+          "width": 332,
+          "height": 48,
+          "top": 1171.8125,
+          "right": 361,
+          "bottom": 1219.8125,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 768,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 768,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 330.71875,
+        "y": 289.296875,
+        "width": 106.5625,
+        "height": 48,
+        "top": 289.296875,
+        "right": 437.28125,
+        "bottom": 337.296875,
+        "left": 330.71875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 37,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 62,
+          "bottom": 563.296875,
+          "left": 37
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 70,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 95,
+          "bottom": 563.296875,
+          "left": 70
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 103,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 128,
+          "bottom": 563.296875,
+          "left": 103
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 136,
+          "y": 538.296875,
+          "width": 25,
+          "height": 25,
+          "top": 538.296875,
+          "right": 161,
+          "bottom": 563.296875,
+          "left": 136
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 29,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 54,
+          "bottom": 596.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 62,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 87,
+          "bottom": 596.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 95,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 120,
+          "bottom": 596.296875,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 128,
+          "y": 571.296875,
+          "width": 25,
+          "height": 25,
+          "top": 571.296875,
+          "right": 153,
+          "bottom": 596.296875,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 29,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 54,
+          "bottom": 629.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 62,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 87,
+          "bottom": 629.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 95,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 120,
+          "bottom": 629.296875,
+          "left": 95
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 128,
+          "y": 604.296875,
+          "width": 25,
+          "height": 25,
+          "top": 604.296875,
+          "right": 153,
+          "bottom": 629.296875,
+          "left": 128
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 29,
+          "y": 637.296875,
+          "width": 25,
+          "height": 25,
+          "top": 637.296875,
+          "right": 54,
+          "bottom": 662.296875,
+          "left": 29
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 62,
+          "y": 637.296875,
+          "width": 25,
+          "height": 25,
+          "top": 637.296875,
+          "right": 87,
+          "bottom": 662.296875,
+          "left": 62
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 29,
+          "y": 983.875,
+          "width": 710,
+          "height": 48,
+          "top": 983.875,
+          "right": 739,
+          "bottom": 1031.875,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 29,
+          "y": 1043.875,
+          "width": 710,
+          "height": 48,
+          "top": 1043.875,
+          "right": 739,
+          "bottom": 1091.875,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 1024,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1024,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 88.109375,
+        "y": 272.296875,
+        "width": 106.5625,
+        "height": 48,
+        "top": 272.296875,
+        "right": 194.671875,
+        "bottom": 320.296875,
+        "left": 88.109375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        },
+        {
+          "text": "Rates",
+          "current": false
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 395,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 420,
+          "bottom": 582.296875,
+          "left": 395
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 428,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 453,
+          "bottom": 582.296875,
+          "left": 428
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 461,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 486,
+          "bottom": 582.296875,
+          "left": 461
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 494,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 519,
+          "bottom": 582.296875,
+          "left": 494
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 387,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 412,
+          "bottom": 615.296875,
+          "left": 387
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 420,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 445,
+          "bottom": 615.296875,
+          "left": 420
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 453,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 478,
+          "bottom": 615.296875,
+          "left": 453
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 486,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 511,
+          "bottom": 615.296875,
+          "left": 486
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 387,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 412,
+          "bottom": 648.296875,
+          "left": 387
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 420,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 445,
+          "bottom": 648.296875,
+          "left": 420
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 453,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 478,
+          "bottom": 648.296875,
+          "left": 453
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 486,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 511,
+          "bottom": 648.296875,
+          "left": 486
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 387,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 412,
+          "bottom": 681.296875,
+          "left": 387
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 420,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 445,
+          "bottom": 681.296875,
+          "left": 420
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 708.03125,
+          "y": 871.390625,
+          "width": 145,
+          "height": 48,
+          "top": 871.390625,
+          "right": 853.03125,
+          "bottom": 919.390625,
+          "left": 708.03125
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 708.03125,
+          "y": 931.390625,
+          "width": 145,
+          "height": 48,
+          "top": 931.390625,
+          "right": 853.03125,
+          "bottom": 979.390625,
+          "left": 708.03125
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 1440,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1440,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 219.609375,
+        "y": 272.296875,
+        "width": 106.5625,
+        "height": 48,
+        "top": 272.296875,
+        "right": 326.171875,
+        "bottom": 320.296875,
+        "left": 219.609375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        },
+        {
+          "text": "Rates",
+          "current": false
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 501,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 526,
+          "bottom": 582.296875,
+          "left": 501
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 534,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 559,
+          "bottom": 582.296875,
+          "left": 534
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 567,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 592,
+          "bottom": 582.296875,
+          "left": 567
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 600,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 625,
+          "bottom": 582.296875,
+          "left": 600
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 493,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 518,
+          "bottom": 615.296875,
+          "left": 493
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 526,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 551,
+          "bottom": 615.296875,
+          "left": 526
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 559,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 584,
+          "bottom": 615.296875,
+          "left": 559
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 592,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 617,
+          "bottom": 615.296875,
+          "left": 592
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 493,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 518,
+          "bottom": 648.296875,
+          "left": 493
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 526,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 551,
+          "bottom": 648.296875,
+          "left": 526
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 559,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 584,
+          "bottom": 648.296875,
+          "left": 559
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 592,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 617,
+          "bottom": 648.296875,
+          "left": 592
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 493,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 518,
+          "bottom": 681.296875,
+          "left": 493
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 526,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 551,
+          "bottom": 681.296875,
+          "left": 526
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1018.03125,
+          "y": 785.03125,
+          "width": 145,
+          "height": 48,
+          "top": 785.03125,
+          "right": 1163.03125,
+          "bottom": 833.03125,
+          "left": 1018.03125
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1018.03125,
+          "y": 845.03125,
+          "width": 145,
+          "height": 48,
+          "top": 845.03125,
+          "right": 1163.03125,
+          "bottom": 893.03125,
+          "left": 1018.03125
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "results",
+    "width": 1920,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1920,
+    "progress": {
+      "label": "Hotels",
+      "visible": true,
+      "rect": {
+        "x": 459.609375,
+        "y": 272.296875,
+        "width": 106.5625,
+        "height": 48,
+        "top": 272.296875,
+        "right": 566.171875,
+        "bottom": 320.296875,
+        "left": 459.609375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": true
+        },
+        {
+          "text": "Rates",
+          "current": false
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [
+      {
+        "title": "Quad Bikes",
+        "rect": {
+          "x": 741,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 766,
+          "bottom": 582.296875,
+          "left": 741
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Golf",
+        "rect": {
+          "x": 774,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 799,
+          "bottom": 582.296875,
+          "left": 774
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Hiking",
+        "rect": {
+          "x": 807,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 832,
+          "bottom": 582.296875,
+          "left": 807
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Pool",
+        "rect": {
+          "x": 840,
+          "y": 557.296875,
+          "width": 25,
+          "height": 25,
+          "top": 557.296875,
+          "right": 865,
+          "bottom": 582.296875,
+          "left": 840
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Spa",
+        "rect": {
+          "x": 733,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 758,
+          "bottom": 615.296875,
+          "left": 733
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Wireless Internet Access",
+        "rect": {
+          "x": 766,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 791,
+          "bottom": 615.296875,
+          "left": 766
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Conference Facilities",
+        "rect": {
+          "x": 799,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 824,
+          "bottom": 615.296875,
+          "left": 799
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Game",
+        "rect": {
+          "x": 832,
+          "y": 590.296875,
+          "width": 25,
+          "height": 25,
+          "top": 590.296875,
+          "right": 857,
+          "bottom": 615.296875,
+          "left": 832
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Children Welcome",
+        "rect": {
+          "x": 733,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 758,
+          "bottom": 648.296875,
+          "left": 733
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Bar",
+        "rect": {
+          "x": 766,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 791,
+          "bottom": 648.296875,
+          "left": 766
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Restaurant",
+        "rect": {
+          "x": 799,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 824,
+          "bottom": 648.296875,
+          "left": 799
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Satellite TV",
+        "rect": {
+          "x": 832,
+          "y": 623.296875,
+          "width": 25,
+          "height": 25,
+          "top": 623.296875,
+          "right": 857,
+          "bottom": 648.296875,
+          "left": 832
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Horse Riding",
+        "rect": {
+          "x": 733,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 758,
+          "bottom": 681.296875,
+          "left": 733
+        },
+        "natural": [
+          42,
+          42
+        ]
+      },
+      {
+        "title": "Tennis",
+        "rect": {
+          "x": 766,
+          "y": 656.296875,
+          "width": 25,
+          "height": 25,
+          "top": 656.296875,
+          "right": 791,
+          "bottom": 681.296875,
+          "left": 766
+        },
+        "natural": [
+          42,
+          42
+        ]
+      }
+    ],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "View Rates",
+        "rect": {
+          "x": 1258.03125,
+          "y": 785.03125,
+          "width": 145,
+          "height": 48,
+          "top": 785.03125,
+          "right": 1403.03125,
+          "bottom": 833.03125,
+          "left": 1258.03125
+        }
+      },
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1258.03125,
+          "y": 845.03125,
+          "width": 145,
+          "height": 48,
+          "top": 845.03125,
+          "right": 1403.03125,
+          "bottom": 893.03125,
+          "left": 1258.03125
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 320,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 320,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 156.125,
+        "y": 139,
+        "width": 99.3125,
+        "height": 48,
+        "top": 139,
+        "right": 255.4375,
+        "bottom": 187,
+        "left": 156.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 515.234375,
+          "width": 262,
+          "height": 48,
+          "top": 515.234375,
+          "right": 294,
+          "bottom": 563.234375,
+          "left": 32
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 390,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 390,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 191.125,
+        "y": 155,
+        "width": 99.3125,
+        "height": 48,
+        "top": 155,
+        "right": 290.4375,
+        "bottom": 203,
+        "left": 191.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 509.140625,
+          "width": 332,
+          "height": 48,
+          "top": 509.140625,
+          "right": 364,
+          "bottom": 557.140625,
+          "left": 32
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 768,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 768,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 380.125,
+        "y": 155,
+        "width": 99.3125,
+        "height": 48,
+        "top": 155,
+        "right": 479.4375,
+        "bottom": 203,
+        "left": 380.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 32,
+          "y": 509.140625,
+          "width": 710,
+          "height": 48,
+          "top": 509.140625,
+          "right": 742,
+          "bottom": 557.140625,
+          "left": 32
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1024,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1024,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 518.34375,
+        "y": 183,
+        "width": 99.3125,
+        "height": 48,
+        "top": 183,
+        "right": 617.65625,
+        "bottom": 231,
+        "left": 518.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 681,
+          "y": 548.1875,
+          "width": 291,
+          "height": 48,
+          "top": 548.1875,
+          "right": 972,
+          "bottom": 596.1875,
+          "left": 681
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1440,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1440,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 726.34375,
+        "y": 183,
+        "width": 99.3125,
+        "height": 48,
+        "top": 183,
+        "right": 825.65625,
+        "bottom": 231,
+        "left": 726.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 889,
+          "y": 548.1875,
+          "width": 393,
+          "height": 48,
+          "top": 548.1875,
+          "right": 1282,
+          "bottom": 596.1875,
+          "left": 889
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1920,
+    "height": 900,
+    "route": "/extraordinary/mabula/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1920,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 966.34375,
+        "y": 183,
+        "width": 99.3125,
+        "height": 48,
+        "top": 183,
+        "right": 1065.65625,
+        "bottom": 231,
+        "left": 966.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 1129,
+          "y": 548.1875,
+          "width": 393,
+          "height": 48,
+          "top": 548.1875,
+          "right": 1522,
+          "bottom": 596.1875,
+          "left": 1129
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 320,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 320,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 156.125,
+        "y": 143,
+        "width": 99.3125,
+        "height": 48,
+        "top": 143,
+        "right": 255.4375,
+        "bottom": 191,
+        "left": 156.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 506.890625,
+          "width": 222,
+          "height": 48,
+          "top": 506.890625,
+          "right": 274,
+          "bottom": 554.890625,
+          "left": 52
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 390,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 390,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 191.125,
+        "y": 159,
+        "width": 99.3125,
+        "height": 48,
+        "top": 159,
+        "right": 290.4375,
+        "bottom": 207,
+        "left": 191.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 534.140625,
+          "width": 292,
+          "height": 48,
+          "top": 534.140625,
+          "right": 344,
+          "bottom": 582.140625,
+          "left": 52
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 768,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 768,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 380.125,
+        "y": 159,
+        "width": 99.3125,
+        "height": 48,
+        "top": 159,
+        "right": 479.4375,
+        "bottom": 207,
+        "left": 380.125
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 52,
+          "y": 534.140625,
+          "width": 670,
+          "height": 48,
+          "top": 534.140625,
+          "right": 722,
+          "bottom": 582.140625,
+          "left": 52
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1024,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1024,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 518.34375,
+        "y": 195,
+        "width": 99.3125,
+        "height": 48,
+        "top": 195,
+        "right": 617.65625,
+        "bottom": 243,
+        "left": 518.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 315.5,
+          "y": 549.1875,
+          "width": 283.5,
+          "height": 48,
+          "top": 549.1875,
+          "right": 599,
+          "bottom": 597.1875,
+          "left": 315.5
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1440,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1440,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 726.34375,
+        "y": 195,
+        "width": 99.3125,
+        "height": 48,
+        "top": 195,
+        "right": 825.65625,
+        "bottom": 243,
+        "left": 726.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 523.5,
+          "y": 549.1875,
+          "width": 385.5,
+          "height": 48,
+          "top": 549.1875,
+          "right": 909,
+          "bottom": 597.1875,
+          "left": 523.5
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "state": "results",
+    "width": 1920,
+    "height": 900,
+    "route": "/extraordinary/safari/mobile.html",
+    "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36",
+    "documentWidth": 1920,
+    "progress": {
+      "label": "Step 1 of 3",
+      "visible": true,
+      "rect": {
+        "x": 966.34375,
+        "y": 195,
+        "width": 99.3125,
+        "height": 48,
+        "top": 195,
+        "right": 1065.65625,
+        "bottom": 243,
+        "left": 966.34375
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(51, 67, 66)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Step 1 of 3",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book Now",
+        "rect": {
+          "x": 763.5,
+          "y": 549.1875,
+          "width": 385.5,
+          "height": 48,
+          "top": 549.1875,
+          "right": 1149,
+          "bottom": 597.1875,
+          "left": 763.5
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": null,
+    "pass": true
+  }
+]

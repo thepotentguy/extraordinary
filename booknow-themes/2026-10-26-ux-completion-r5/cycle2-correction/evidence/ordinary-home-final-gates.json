@@ -1,0 +1,146 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "pageId": 13,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "rules": 1023,
+        "sha256": "692a800e67db8244e807a8c0fb4a76e9950b17ebfd3d8fbe0edcb5ed33305458",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "theme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "rules": 638,
+        "sha256": "b9756efc115f159155dff849418c54d76f1e424daa203f54a5e302be3faacdac",
+        "r5": true,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  },
+  {
+    "property": "safari-plains",
+    "profile": "desktop",
+    "pageId": 14,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "rules": 1034,
+        "sha256": "4bcc62fc5bd6b56a105578565367a76040a1ae362ff3d5992f8f729bd9890ad4",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "theme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/theme.css",
+        "rules": 620,
+        "sha256": "38a50d66ed4ffa485e943e5bda2b6ec6a4da5f612d75734dae024ef346015358",
+        "r5": false,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  },
+  {
+    "property": "angels-view",
+    "profile": "desktop",
+    "pageId": 18,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/angelsview/published/theme/css/mainStyle.css",
+        "rules": 1035,
+        "sha256": "eb5e3e25bafd4bfa9b13ff2519dc9bdf053616659c98f43745a8f7550da518f6",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "theme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/angelsview/published/theme/css/theme.css",
+        "rules": 621,
+        "sha256": "5531177e77e54731ba7388b245235f3ee812d2adfe342d51813c7408126aceb1",
+        "r5": false,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "pageId": 16,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "rules": 1023,
+        "sha256": "692a800e67db8244e807a8c0fb4a76e9950b17ebfd3d8fbe0edcb5ed33305458",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mobileTheme.css",
+        "rules": 546,
+        "sha256": "104b419ff47ac0ca1444d9c48cc24dfa295a982b7225aa2908614a04591e0010",
+        "r5": true,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "pageId": 17,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mainStyle.css",
+        "rules": 1034,
+        "sha256": "4bcc62fc5bd6b56a105578565367a76040a1ae362ff3d5992f8f729bd9890ad4",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/safari/published/theme/css/mobileTheme.css",
+        "rules": 557,
+        "sha256": "4cd0b329bca2f86e56ca621b72983c40dbd4f77092f556e3018a72d7e3d8540c",
+        "r5": true,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  },
+  {
+    "property": "angels-view",
+    "profile": "mobile",
+    "pageId": 19,
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/angelsview/published/theme/css/mainStyle.css",
+        "rules": 1035,
+        "sha256": "eb5e3e25bafd4bfa9b13ff2519dc9bdf053616659c98f43745a8f7550da518f6",
+        "r5": false,
+        "exactFinal": false
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/angelsview/published/theme/css/mobileTheme.css",
+        "rules": 529,
+        "sha256": "076c6e6a6c6620285a0fd37e61dc9fbba5b47535b3a7597cbf7674c390ea23ca",
+        "r5": false,
+        "exactFinal": false
+      }
+    ],
+    "finalApplied": false
+  }
+]

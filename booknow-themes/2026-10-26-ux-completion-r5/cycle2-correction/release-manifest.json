@@ -1,0 +1,41 @@
+[
+  {
+    "property": "mabula",
+    "file": "mabula-Legacy-BookNow-20261026-UX-R5.1.zip",
+    "sha256": "18cb8ba26f50d8ed2a67df95ea8a7b183e94efd5f9231b44c7bfad32dcc0c752",
+    "baseSha256": "d2586ee5775e92cfa59bfcbea35112d4ed6f22c73d40eedbf1bc8db3556754a8",
+    "patchSha256": "5faf2d895cf5e31b18cfb61ea1d99e3eb7add0cb7fcec98acf45aedaea1698d9",
+    "changedMembers": [
+      "black-rhino2021/css/mainStyle.css",
+      "black-rhino2021/css/theme.css",
+      "black-rhino2021/css/mobileTheme.css"
+    ],
+    "allOtherMembersUnchanged": true
+  },
+  {
+    "property": "safari-plains",
+    "file": "safari-plains-Legacy-BookNow-20261026-UX-R5.1.zip",
+    "sha256": "4740dbf1718d98f6c4c3ce2898bb11613296125e319f77f658ac1c52e9b368d2",
+    "baseSha256": "dc4054c03f3a9fdc574945ece1742c7bcb5ee71c66fef9f6c549c3295c57f594",
+    "patchSha256": "5faf2d895cf5e31b18cfb61ea1d99e3eb7add0cb7fcec98acf45aedaea1698d9",
+    "changedMembers": [
+      "black-rhino2021/css/mainStyle.css",
+      "black-rhino2021/css/theme.css",
+      "black-rhino2021/css/mobileTheme.css"
+    ],
+    "allOtherMembersUnchanged": true
+  },
+  {
+    "property": "angels-view",
+    "file": "angels-view-Legacy-BookNow-20261026-UX-R5.1.zip",
+    "sha256": "7478245b598df3e42e098711d27504efb34c29e289d7c8cdeb0780d5dfc4914f",
+    "baseSha256": "9a1cb3e577fca4b969bfb998837eeaf94e74283174946494bc5ed1c9f0209b6b",
+    "patchSha256": "5faf2d895cf5e31b18cfb61ea1d99e3eb7add0cb7fcec98acf45aedaea1698d9",
+    "changedMembers": [
+      "black-rhino2021/css/mainStyle.css",
+      "black-rhino2021/css/theme.css",
+      "black-rhino2021/css/mobileTheme.css"
+    ],
+    "allOtherMembersUnchanged": true
+  }
+]
