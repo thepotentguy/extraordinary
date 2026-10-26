@@ -3010,6 +3010,11 @@
       "file": "source/fonts/poppins.css",
       "sha256": "7afcee5c3b697c7b2db49564c786755507d6d0757007ad46c9624f94d16c8b6a",
       "bytes": 632
+    },
+    {
+      "file": "DEPLOYMENT-20261026.md",
+      "sha256": "dea9b5fda4efb4fc47ffa410a040beb2f7b7958ba05a2db2e8e235cffd9725f9",
+      "bytes": 3865
     }
   ]
 }
