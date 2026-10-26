@@ -1,0 +1,80 @@
+[
+  {
+    "file": "bodonimoda-OFL.txt",
+    "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+    "source": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "BodoniModa[opsz,wght].ttf",
+    "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+    "source": "https://github.com/google/fonts/tree/main/ofl/bodonimoda",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "InriaSerif-Bold.ttf",
+    "sha256": "35ff98e0c58cb27a6ec045b25072d99de57d6ea03f12c8dc0963fcbed0df2d91",
+    "source": "https://github.com/google/fonts/tree/main/ofl/inriaserif",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "inriaserif-OFL.txt",
+    "sha256": "17ce133cf770fd000edafa607ae2a41dc6ce5a4f30fe82f777fa242929e76714",
+    "source": "https://github.com/google/fonts/tree/main/ofl/inriaserif",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "InriaSerif-Regular.ttf",
+    "sha256": "576ba277e3ea1bb7de43724d14c989de92e35eeae204210b0c2a9e7b10dc23fc",
+    "source": "https://github.com/google/fonts/tree/main/ofl/inriaserif",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "plusjakartasans-OFL.txt",
+    "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+    "source": "https://github.com/google/fonts/tree/main/ofl/plusjakartasans",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "PlusJakartaSans[wght].ttf",
+    "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8",
+    "source": "https://github.com/google/fonts/tree/main/ofl/plusjakartasans",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins-0.ttf",
+    "sha256": "cdedb1729acac414ed01744a11da7badb86adf13108e7bd3fa161b9323f7fe54",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins-1.ttf",
+    "sha256": "fcff04f4bec2b3636f05ed894dc1f9a752c4cb587ee49857ec7a82abaf6ca016",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins-2.ttf",
+    "sha256": "dae40ca7b35fe7501bda2e4140a6860b1db47330be5d3c8ab6971fd83a70e9a5",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins-3.ttf",
+    "sha256": "1984efdda0fbe207d7ac20feac2ba7c2768c92a90094b02a206c9d58cc30ff2e",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins-OFL.txt",
+    "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  },
+  {
+    "file": "poppins.css",
+    "sha256": "7afcee5c3b697c7b2db49564c786755507d6d0757007ad46c9624f94d16c8b6a",
+    "source": "Retained 25 October Poppins source",
+    "retrievedOrReused": "2026-10-26"
+  }
+]

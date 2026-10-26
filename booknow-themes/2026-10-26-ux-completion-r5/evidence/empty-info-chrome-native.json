@@ -1,0 +1,30 @@
+{
+  "property": "mabula",
+  "profile": "desktop",
+  "version": "Ordinary applied R5",
+  "state": "Results after native Rates Back",
+  "dom": [
+    {
+      "cls": "hotelInfoContent",
+      "rect": {
+        "x": 493,
+        "y": 669.03125,
+        "width": 792,
+        "height": 46,
+        "top": 669.03125,
+        "right": 1285,
+        "bottom": 715.03125,
+        "left": 493
+      },
+      "display": "table",
+      "border": "",
+      "borderLeft": "3px solid rgb(154, 89, 61)",
+      "borderRadius": "9px",
+      "textLength": 0,
+      "html": "<table cellspacing=\"0\" cellpadding=\"0\" class=\"hotelInfoContent\"><tbody><tr><td align=\"left\" style=\"vertical-align: top;\"><a href=\"javascript:void(0);\" class=\"header\" style=\"display: block;\"></a></td></tr><tr><td align=\"left\" style=\"vertical-align: top;\"><div style=\"padding: 0px; overflow: hidden;\"></div></td></tr></tbody></table>",
+      "pictureSelected": false,
+      "finalGuardMatches": false
+    }
+  ],
+  "qualification": "Outstanding cosmetic defect. R5.1 Pictures-selected guard does not match this empty neutral state; not fixed or accepted as perfect. No third implementation cycle performed."
+}

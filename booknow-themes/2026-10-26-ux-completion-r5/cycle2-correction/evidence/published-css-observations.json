@@ -1,0 +1,260 @@
+[
+  {
+    "property": "mabula",
+    "files": [
+      {
+        "name": "mainStyle.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 148454,
+        "sha256": "08150d8e5fdcc78f58aa704444665c6683cab3f8a2bcd026849542c9eaf4d31f",
+        "age": "5161",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:32:13 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:39 GMT",
+        "expectedFinalSha256": "381e0b4afb98da96d2563ea911c33c11b84c38fc520152db3643bbfc8f44388f",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "mainStyle.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 154971,
+        "sha256": "381e0b4afb98da96d2563ea911c33c11b84c38fc520152db3643bbfc8f44388f",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:58:14 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:39 GMT",
+        "expectedFinalSha256": "381e0b4afb98da96d2563ea911c33c11b84c38fc520152db3643bbfc8f44388f",
+        "exactFinal": true
+      },
+      {
+        "name": "theme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 112527,
+        "sha256": "ad0c4a9394158398740be787575b0be39f489142f5d93a7611daaacfecb2288a",
+        "age": "1357",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:38:10 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:39 GMT",
+        "expectedFinalSha256": "42e6abb21b5a9b0f5f8684ee792b467403d0974aa73b2b75485930a60f546290",
+        "exactFinal": false,
+        "version": "R5"
+      },
+      {
+        "name": "theme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 112951,
+        "sha256": "42e6abb21b5a9b0f5f8684ee792b467403d0974aa73b2b75485930a60f546290",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:58:14 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:40 GMT",
+        "expectedFinalSha256": "42e6abb21b5a9b0f5f8684ee792b467403d0974aa73b2b75485930a60f546290",
+        "exactFinal": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 102736,
+        "sha256": "491886e7098e066d28e4d8cda780bb392e18b377a1b2f762bc7ebbe7147e98c1",
+        "age": "1305",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:38:10 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:40 GMT",
+        "expectedFinalSha256": "f8ec0134c51e1e53db775a3d8edc362af3c4744ab4990d8fa2bf12b21330131d",
+        "exactFinal": false,
+        "version": "R5"
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 103160,
+        "sha256": "f8ec0134c51e1e53db775a3d8edc362af3c4744ab4990d8fa2bf12b21330131d",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:58:14 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:40 GMT",
+        "expectedFinalSha256": "f8ec0134c51e1e53db775a3d8edc362af3c4744ab4990d8fa2bf12b21330131d",
+        "exactFinal": true
+      }
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "files": [
+      {
+        "name": "mainStyle.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 148317,
+        "sha256": "63d75e58ec65c320fa31178db0d9aedbe07338f00971865acd9f26ccabcd5a69",
+        "age": "5950",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:31:11 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:41 GMT",
+        "expectedFinalSha256": "2920554c652b680eb6d097fe0167d0de841d6b6e771c1da46c5705efaabfe471",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "mainStyle.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 154834,
+        "sha256": "2920554c652b680eb6d097fe0167d0de841d6b6e771c1da46c5705efaabfe471",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:57:06 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:41 GMT",
+        "expectedFinalSha256": "2920554c652b680eb6d097fe0167d0de841d6b6e771c1da46c5705efaabfe471",
+        "exactFinal": true
+      },
+      {
+        "name": "theme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 106297,
+        "sha256": "3a2b8c2b3350227f60e1c1db0df0802d7776b98c86176a545be0b432bc16d2e2",
+        "age": "5951",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:31:11 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:41 GMT",
+        "expectedFinalSha256": "7bcfd04fd816e76b0a5f024919fbfcf0f6bd8f8ba808e8a10fc55673892d1cbc",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "theme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 112814,
+        "sha256": "7bcfd04fd816e76b0a5f024919fbfcf0f6bd8f8ba808e8a10fc55673892d1cbc",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:57:06 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:41 GMT",
+        "expectedFinalSha256": "7bcfd04fd816e76b0a5f024919fbfcf0f6bd8f8ba808e8a10fc55673892d1cbc",
+        "exactFinal": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 102599,
+        "sha256": "8f642eb1eb80541e82f2bd837df69b92b502ef0bd07cdc206b77796f3c23f6f5",
+        "age": "1097",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:39:15 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:41 GMT",
+        "expectedFinalSha256": "c9a22bb06ea67a1f7e111467a5c305c27d1965a92a97765e6e88bd70da97220b",
+        "exactFinal": false,
+        "version": "R5"
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 103023,
+        "sha256": "c9a22bb06ea67a1f7e111467a5c305c27d1965a92a97765e6e88bd70da97220b",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:57:06 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:42 GMT",
+        "expectedFinalSha256": "c9a22bb06ea67a1f7e111467a5c305c27d1965a92a97765e6e88bd70da97220b",
+        "exactFinal": true
+      }
+    ]
+  },
+  {
+    "property": "angels-view",
+    "files": [
+      {
+        "name": "mainStyle.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 148327,
+        "sha256": "7b316c7c241e90308a05d8ed3634de7f777682a4618fd8fa36ad3426fe083c03",
+        "age": "7132",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:29:58 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:42 GMT",
+        "expectedFinalSha256": "bdfdbcfd0cfef7b778612ecef2f1e2f740dcd675cd423cf7ce422fc8dad6bc90",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "mainStyle.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 154844,
+        "sha256": "bdfdbcfd0cfef7b778612ecef2f1e2f740dcd675cd423cf7ce422fc8dad6bc90",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:56:08 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:43 GMT",
+        "expectedFinalSha256": "bdfdbcfd0cfef7b778612ecef2f1e2f740dcd675cd423cf7ce422fc8dad6bc90",
+        "exactFinal": true
+      },
+      {
+        "name": "theme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 106307,
+        "sha256": "a89e0ea2366a37758c99533e70ffd9cadae1f91461540728f0e022e5da3918e9",
+        "age": "7132",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:29:59 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:43 GMT",
+        "expectedFinalSha256": "e09dc54551029fbca4a69a6055da3f28dd38f99a714015f4d43dbb912e539a20",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "theme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 112824,
+        "sha256": "e09dc54551029fbca4a69a6055da3f28dd38f99a714015f4d43dbb912e539a20",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:56:08 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:43 GMT",
+        "expectedFinalSha256": "e09dc54551029fbca4a69a6055da3f28dd38f99a714015f4d43dbb912e539a20",
+        "exactFinal": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "ordinary",
+        "status": 200,
+        "bytes": 96516,
+        "sha256": "bae2c5805f60a5be03e34efe4c15415e899665ddee53f01f9f5411ed562c3360",
+        "age": "3224",
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 16:29:58 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:43 GMT",
+        "expectedFinalSha256": "758d00f508dc21808625a17c9f5e9f9f2173f4cdd2345aabea4d54fbf8375541",
+        "exactFinal": false,
+        "version": "R4"
+      },
+      {
+        "name": "mobileTheme.css",
+        "kind": "fresh-verification",
+        "status": 200,
+        "bytes": 103033,
+        "sha256": "758d00f508dc21808625a17c9f5e9f9f2173f4cdd2345aabea4d54fbf8375541",
+        "age": null,
+        "cacheControl": "max-age=14400",
+        "lastModified": "Mon, 26 Oct 2026 18:56:08 GMT",
+        "date": "Mon, 26 Oct 2026 19:01:44 GMT",
+        "expectedFinalSha256": "758d00f508dc21808625a17c9f5e9f9f2173f4cdd2345aabea4d54fbf8375541",
+        "exactFinal": true
+      }
+    ]
+  }
+]

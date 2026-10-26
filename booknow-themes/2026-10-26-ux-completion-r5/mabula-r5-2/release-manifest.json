@@ -1,0 +1,15 @@
+[
+  {
+    "property": "mabula",
+    "file": "mabula-Legacy-BookNow-20261026-UX-R5.2.zip",
+    "sha256": "127032d0f27db21a69f161c1eb44d2e635b69afa05e9c07739c619a18c44141d",
+    "baseSha256": "18cb8ba26f50d8ed2a67df95ea8a7b183e94efd5f9231b44c7bfad32dcc0c752",
+    "patchSha256": "7b48758c9c6c5b7b266e18f10f5d0c367ca0418eeda59fe8224472b379bc5e78",
+    "changedMembers": [
+      "black-rhino2021/css/mainStyle.css",
+      "black-rhino2021/css/theme.css",
+      "black-rhino2021/css/mobileTheme.css"
+    ],
+    "allOtherMembersUnchanged": true
+  }
+]

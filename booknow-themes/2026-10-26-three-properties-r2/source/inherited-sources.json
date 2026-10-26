@@ -1,0 +1,32 @@
+[
+  {
+    "source": "2026-10-25-five-properties-r3/source/corrections.css",
+    "sha256": "c64768a772e745fa95743b32c444b7c74caf24eebc61e9f6d2bc9ec618e26166",
+    "selection": "Shared support only; property-specific sections excluded"
+  },
+  {
+    "source": "2026-10-25-five-properties-r3.1/source/mobile-steps.css",
+    "sha256": "231d4bd150533c64c6f4487c9c1672d1736b69477b793789538e30fc150fd38b",
+    "selection": "Shared support only; property-specific sections excluded"
+  },
+  {
+    "source": "2026-10-25-five-properties-r3.2/source/round1.css",
+    "sha256": "c892aff7fd6ce95efb93e0207296f7174702da13dc080d881311ecd41aa433c4",
+    "selection": "Shared support only; property-specific sections excluded"
+  },
+  {
+    "source": "2026-10-25-five-properties-r3.2.1/source/button-margins.css",
+    "sha256": "eb371b8914e4563de8574500ea80bf9effde28fc5ddd8bd908e2daa090bcfd8f",
+    "selection": "Shared support only; property-specific sections excluded"
+  },
+  {
+    "source": "2026-10-25-five-properties-r3.2.3/source/mobile-details.css",
+    "sha256": "72b74fd4f4169bf10b66bcd5aacb94d154cd4824107d62421482e66e74ec412f",
+    "selection": "Shared support only; property-specific sections excluded"
+  },
+  {
+    "source": "2026-10-25-five-properties-r3.2.4/source/message-dialog-resize.css",
+    "sha256": "c999d02a53a6e37bde11edb521beec90b43c330155794e2c4f2a1d6ace920f20",
+    "selection": "Shared support only; property-specific sections excluded"
+  }
+]

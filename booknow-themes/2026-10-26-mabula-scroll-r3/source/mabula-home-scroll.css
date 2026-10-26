@@ -1,0 +1,8 @@
+/* Mabula home uses a full-width planning row, not a sticky side rail.
+   Keep the inherited sticky booking rail on result pages unchanged. */
+@media (min-width: 961px) {
+ body:has(#content .imageCarousel #main) #contentWrapper > #sideBar {
+  position: static;
+  top: auto;
+ }
+}

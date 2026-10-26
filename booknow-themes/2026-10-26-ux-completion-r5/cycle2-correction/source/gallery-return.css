@@ -1,0 +1,7 @@
+/* Pictures opens its own native dialog. The shared information table can still
+   contain cached Terms/Location content; it must not reappear for Pictures.
+   Selecting Room Info, Location or Terms removes the native selected picture
+   class and restores the information table through the existing handler. */
+#content .hotelResult:has(.hotelInfo .pictureIcon.selected) > .hotelInfoContent {
+ display: none !important;
+}

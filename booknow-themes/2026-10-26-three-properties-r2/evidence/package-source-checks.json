@@ -1,0 +1,26 @@
+[
+  {
+    "property": "mabula",
+    "packageSha256": "dd32677fda045e8a69891a659e40e54b0f11d3b5a0ef70b22b602411dfc966a2",
+    "sourceMembersIdentical": true,
+    "fileCount": 131,
+    "javascript": false,
+    "html": false
+  },
+  {
+    "property": "safari-plains",
+    "packageSha256": "3154d5b51011bac1a052e04b83582ec22a88053fea7553c5caa6a3b979227ddf",
+    "sourceMembersIdentical": true,
+    "fileCount": 131,
+    "javascript": false,
+    "html": false
+  },
+  {
+    "property": "angels-view",
+    "packageSha256": "6b8a8225b566a7731e7fdaf1b0918788a497ee026107f821663fde6d870a6d9a",
+    "sourceMembersIdentical": true,
+    "fileCount": 130,
+    "javascript": false,
+    "html": false
+  }
+]

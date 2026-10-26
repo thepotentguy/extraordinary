@@ -1,0 +1,32 @@
+/* Final scoped gallery flow: captions and controls occupy real layout space. */
+#content .imageCarousel #main,
+.gwt-DialogBox:has(#gallery) #gallery{
+ box-sizing:content-box!important;position:relative!important;width:100%!important;max-width:670px!important;
+ height:auto!important;aspect-ratio:auto!important;padding-top:44.77612%!important;overflow:visible!important;
+ margin:0 0 20px!important;min-height:0!important;
+}
+.gwt-DialogBox:has(#gallery) #main{height:auto!important;aspect-ratio:auto!important;overflow:visible!important}
+#content .imageCarousel #main .gallerylayer,
+.gwt-DialogBox:has(#gallery) #gallery .gallerylayer{position:absolute!important;top:0!important;left:0!important;width:100%!important;height:auto!important;aspect-ratio:670/300!important;overflow:hidden}
+#content .imageCarousel #main .gallerylayer img,
+.gwt-DialogBox:has(#gallery) #gallery .gallerylayer img{display:block;width:100%!important;height:100%!important;object-fit:contain}
+#content .imageCarousel .gallerylayer>a,.gwt-DialogBox:has(#gallery) #gallery .gallerylayer>a{display:block;width:100%;height:100%}
+#content .imageCarousel .gallerydesc,
+.gwt-DialogBox:has(#gallery) #gallery .gallerydesc{position:relative!important;top:auto!important;left:auto!important;width:100%!important;height:auto!important;min-height:0!important;visibility:visible!important;padding:16px 0 0;box-sizing:border-box;overflow:visible}
+#content .imageCarousel .gallerydescfg,#content .imageCarousel .gallerydesctext,
+.gwt-DialogBox:has(#gallery) #gallery .gallerydescfg,.gwt-DialogBox:has(#gallery) #gallery .gallerydesctext{position:static!important;width:100%!important;height:auto!important;max-width:100%;white-space:normal;overflow-wrap:anywhere;box-sizing:border-box}
+#content .imageCarousel .navpanellayer,
+.gwt-DialogBox:has(#gallery) #gallery .navpanellayer{position:relative!important;top:auto!important;bottom:auto!important;left:auto!important;right:auto!important;transform:none!important;width:100%!important;height:auto!important;min-height:64px!important;margin-top:12px;box-sizing:border-box}
+#content .imageCarousel .navpanelfg,
+.gwt-DialogBox:has(#gallery) #gallery .navpanelfg{position:relative!important;top:auto!important;display:flex!important;align-items:center;flex-wrap:wrap;gap:10px!important;width:100%!important;height:auto!important;min-height:48px;padding:0!important}
+#content .imageCarousel .gallerystatus,
+.gwt-DialogBox:has(#gallery) #gallery .gallerystatus{position:static!important;top:auto!important;left:auto!important;right:auto!important;width:auto!important;min-width:28px;height:auto;margin:0 0 0 6px!important;font:12px/1.4 var(--brand-body);color:var(--brand-ink);white-space:nowrap}
+.gwt-DialogBox:has(#gallery) .gallerydesctext{font:500 17px/1.5 var(--brand-heading)!important;color:var(--brand-ink)!important}
+.gwt-DialogBox:has(#gallery) .navpanelbg{display:none!important}
+.gwt-DialogBox:has(#gallery) #gallery{margin-bottom:12px!important}
+.gwt-DialogBox:has(#gallery) #formButtons{position:static!important;clear:both}
+@media(max-width:960px){
+ body:has(#content .imageCarousel #main) #contentWrapper>#sideBar{order:-2!important}
+ body:has(#content .imageCarousel #main) .imageCarousel{order:-1!important}
+ #content .imageCarousel .gallerydesctext{font-size:18px!important;line-height:1.4!important}
+}

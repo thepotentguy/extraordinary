@@ -1,0 +1,15 @@
+{
+  "width": 1440,
+  "height": 768,
+  "searchButton": {
+    "x": 998.328125,
+    "y": 461.1875,
+    "width": 282.65625,
+    "height": 47,
+    "top": 461.1875,
+    "right": 1280.984375,
+    "bottom": 508.1875,
+    "left": 998.328125
+  },
+  "availabilityVisible": true
+}

@@ -1,0 +1,19 @@
+# Reusable quality controls from the UX pass
+
+26October2026. Apply these checks to future matching BookNow layouts; do not copy a property's identity or assume another engine has the same DOM.
+
+1. Set the actual mobile user agent **and** viewport/touch profile before loading the native application. The browser tool resets an omitted user agent to desktop. Resizing an already-initialised desktop application is not a fresh native mobile test. Keep initialisation and resize evidence distinct.
+2. Separate actual desktop/mobile stylesheet orders and actual result markup. An invisible desktop table in the mobile cascade is N/A, not a price-readability pass. Hidden or disabled replay actions do not prove native actions work.
+3. Check content against its immediate parent and intended padding, not just the document or its own scrollWidth. The first checks missed a17px description overhang while the document still fit. Include glyph/control bounds, long content and enlarged text.
+4. Inspect the selected step's actual text, computed color/background and text-shadow. Geometry missed pale overprinted text. Use native conditional step labels; mobile supplied Step1of3, not four stages. Do not expose future/hidden actions or invent accessible labels with CSS.
+5. Measure authentic icons and real controls, preserving aspect ratios and supplied title text. Uniform gaps and aligned boxes help; CSS cannot supply missing native alt text, event semantics or keyboard focus management. Preserve existing focus-visible treatment without claiming new semantics.
+6. Confirm each previous overlay is actually dismissed before the next action. Record the state **before** opening Pictures as well as after Close. A gallery disappearing can still leave an unexpected cached Terms panel; this was a real transition defect despite passing frame geometry.
+7. At short heights, keep gallery header/Close separate from the scrollable image/caption/navigation body. Prove the end of that body is reachable and not covered by the footer. A contained outer frame alone is insufficient. Sticky children trapped in small table containing blocks were an unsuccessful experiment, not a fix.
+8. Verify ordinary applied CSS identity before spending a live query. Fresh archives/assets and a publication success establish delivery, not the ordinary user's loaded version. Record observed Age/Cache-Control once; do not promise global expiry, inject styles as live proof, or spend blind retries.
+9. Keep read-only query ledgers separate by approved increment. Count conservatively, preserve failed/blocked attempts and distinguish analytics traffic from availability. Never select Book/rates, create a hold, enter guest/payment details or accept terms to enlarge coverage.
+
+The shared structural source uses existing brand variables and matching GWT selectors. Future reuse requires a fresh current archive, actual DOM/cascade comparison, measured baseline, scoped candidate, independent review and ordinary native postconditions. Preserve each property's authentic logo, imagery, typography, palette, bindings and earlier fixes. Cape Milner/Profitroom and other engines require their own design; these selectors are not universal.
+
+Clifftop's premium availability-panel adaptation remains separately tracked in the26October comparison. Its current installed archive identity remains a gate before an installable candidate. It is not included in this pass or allowance.
+
+10. Never-opened neutral, explicitly closed and reopened information tables can have different modifiers and geometry. A0x0 closed table on one property/state is not universal. Capture the empty state after native Back, require exact empty header/body evidence, and exclude open, closed and populated counterexamples before a narrow fix.

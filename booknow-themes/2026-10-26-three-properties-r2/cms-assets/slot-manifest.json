@@ -1,0 +1,1953 @@
+[
+  {
+    "property": "mabula",
+    "order": 1,
+    "caption": "Entrance",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "584e47b7a2ed750c051ee4aadc11b210cf714f06c0fd91e8b438fc61f109ec57",
+    "originalDimensions": [
+      5472,
+      3648
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/01-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "f899730710b177df7c9cca05235a78480a811195202b66ee5b3ace7acce74c2f"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/01-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "080a091b039474ffb35dd73a685d273c4f2e397ae923bd23bf235a0811f4b301"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Property thumbnail",
+        "order": 1,
+        "dimensions": [
+          133,
+          99
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 2,
+    "caption": "Terrace at dusk",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "54f6f251f49244d55ab09846220956df19bdc497541aa96c5e7db33424ef26eb",
+    "originalDimensions": [
+      5906,
+      3939
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/02-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "bb6161cfb9e6e009d3dd12f5aa0c0015d4e98d31add254db0bfe24a0869e735a"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/02-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "9092e756cbc1b020fc48c89a87473cd28f0d9b680a6d65d859782fa27e33ed3f"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 3,
+    "caption": "Terrace seating",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "62df06aa9f633d12bc385bfcff77e33209388db5503c42a1600d5ae5a5e05ac6",
+    "originalDimensions": [
+      5866,
+      3889
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/03-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "1576ecde87086ec21a11394fc7d5db39ad2e755eec63cb592df9793a5f7f3816"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/03-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "b48e431d25d864bf608da9ff00b8bdbc51627b77ce8cc771323230855b991064"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 4,
+    "caption": "Lodge lounge",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "3c7c5048b88d28c050f70d21ae85ba6c0b7ba58d291de710b237a461c41c7548",
+    "originalDimensions": [
+      5906,
+      3939
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/04-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "53b446f50dd6d283ba168fe5e5dcbf7867f7f92da13e523c47eb33252ec1ca05"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/04-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "ad9efb81d56fab3fb61d671674e6d0a8ec4a8455088808c4f0986aa8a4bb8582"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 5,
+    "caption": "Whisky bar",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "bb7df60feccbb2f4447c1f91381ee5ba238e91b0fffe8d28273db7ad1b4808cc",
+    "originalDimensions": [
+      5906,
+      3939
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/05-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "84567c41e8a7ff07ef37c196a04f92e957f3d2f639801c7418e2260d6eab1ac4"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/05-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "84ade21110528de0b0c1d072593821f7ba549f94aa61b978454d2a0b3019ed13"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 5,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 6,
+    "caption": "Reception hall",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "b219d96f2ac40855ee9756622f1e2c1c1d63826b848e338563e58736a561d430",
+    "originalDimensions": [
+      5906,
+      3939
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/06-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "b794e91f9e021548f430c56bda39cb92ce615f4c9699bed47bc777dd41b13298"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/06-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "dc2f0dc5ea381c3c3f7edcb27bcc4d15863a35469ce776e0232f57c2416d9d0a"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 6,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 7,
+    "caption": "Lounge interior",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "ac61b9b9cdf6dbc2801622aaba16812ed9db50478f33c515400732d3ea93afd2",
+    "originalDimensions": [
+      5906,
+      3939
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/shared-property/07-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "bde7e137666803ed145a007c5d1283085ee617d6bbbef64eb096a7e2367c2af2"
+      },
+      {
+        "file": "cms-assets/mabula/shared-property/07-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "00864bf3f0a41edbe72b64b79a0f19aaf6137324760b548bfdd56d8c102e9e2e"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 7,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 8,
+    "caption": "Superior candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "5677922f4e5626dac512daec4f155acb113dcad46c7570510c22a16006eb0316",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/08-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "b38819fd6741f095d729f7cd7e4242e8541ff2a1349a3ef36ac8de77f10e0d7b"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/08-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "0042f623492249c7e1b2d76f5c68c6b7dc36da0ac3e79eae36a4d6b819a23034"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 9,
+    "caption": "Superior candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "9a6bb3e031ae8760250e2a42a3449cd675c546a3e05bdfc677451bf8075ca4b7",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/09-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "ff7b16e52545ef6f79cc48cdfbf4bf0aa6432abdd532d416e46548b495f35f06"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/09-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "8b8c2c63b184591b295ef1dfbdef98e7b735f4d3323f1653ad5a1d84c6bb58db"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 10,
+    "caption": "Superior candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "616c3ce9af73bd4198d8175b6d539e6a25be3e56db84f5b08f2cc0fb9850cf02",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/10-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "6085b61c9b25089d3e3c4d84f223f9ad05c3c4240ebc2d44240527574284637d"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/10-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "e891934d4fcf402cbe373e46a3ab0b6bc2e257a9145b320b4f54697f9c2c9bc2"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 11,
+    "caption": "Superior candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "8f9eb366c0d4b771b998d8a4a9c99f178aaac46b599872623c2e19e623315635",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/11-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "202a69a9200e2bc1b3ec2b5d3222312f127ea61ea57753d17613c2a49ad9fc43"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/11-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "0b61be727ddbb6fa4cfb8d0fec9b2f5762dcc9f997354637ddb3212223fb9bd8"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 12,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "cef5909af3c37270ae5457fdb51fbd8a7bb0f2cdd64a153a5d105614d0bc4195",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/12-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "275828aee0707545d68ad7731c9cf1fef28ddcf6521c8858292d92ecf65ab322"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/12-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "0925ada6a618a2d6b88d31a37fb6bb2df7ceec1be88d62f65c2b7819508a4be6"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 13,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "6b1993a8d4eb2501654e4972c13c42759ac223bd96b340749ad1439c6ca4682c",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/13-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "6cbe9e2b088fc4034116f875b1630fcf3fa59b6ee2b69147a487d23f98bf8629"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/13-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "79c9f5f9c4b7f8d6b11717fa4c11490c2dad32fa51cb41d797f6ad9672794295"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 14,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "f103d883f52d88a20a436c93004484829272ea0ff39e0605c73ecb999f031bbe",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/14-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "727e080841961508ba758f9d29f060c4038233e10b4ce7fab3c7b8cd46c01dbc"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/14-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "fb0922ea11ef2bc24940976db74a00398ef7ef7a2b2148276a9035deba65dc31"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 15,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "75010b985c5e7286702a8650b74b474a78d6cf0d15bed64afbdc0039827d79d6",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/15-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "c017fe00b36bda81ff11691b9c436e024ed4c35ca938cea8284de3ddff289dfc"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/15-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "67dab7f62a7ea82fb562765bf9941df3f21c027025164fa57cd3447b928af7f9"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 16,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "bfd994e625bb0c3300c076ca83422a347fa3d5406cfab129d2abdb32f389d62b",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/16-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "fee1be7344c6b948c95c286cf5ffdc647f0fcb721d6a40023bf571a9e71ca438"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/16-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "1b671b99395630bc26e2ebe89f5ef1169f6a67637cb1b04305c979ef52ef4846"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 17,
+    "caption": "Sleeper-couch group candidate \u2014 exact mapping pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "61008bd40103018b19ea9c8651a8464788f03047b0f38e5dc5995f2a17f013c8",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/17-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "6b5f0083c79e90052aee04dd564f751c3fac09f101000c89ce3b4892f4b8298a"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/17-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "6db64f772440487c7b85722fd6c5931d83988e5d902be04805e4110e2cf5922e"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 18,
+    "caption": "Suite source-folder view \u2014 native code pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "b846b637f03799df9e0a49389c2aa34cc7f0003e369010b4555f9a5ad8a0c00e",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/18-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "ff284dd25e899fc426c04a0851fd664326b70e91186cf90035f10fe7ae88120c"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/18-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "de609821d4fb35c05192c6deca7805d3e0ccd5cf3c0e87a13cb68dbe966ebef0"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 19,
+    "caption": "Suite source-folder view \u2014 native code pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "824cadd34a2b7d85df5b9a5377d3da02c6589bf9e4495dc19046f2250199fd8f",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/19-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "b797130a66c549cf52098ccadec85c27a6706feba02750611dfdb46e0ce3bef5"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/19-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "a55a3c936e7a3549704dd7195a519f36715ae52b3cfe228a9bce93e8dabd98d6"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 20,
+    "caption": "Suite source-folder view \u2014 native code pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "c7415732bbdc02627352802c0e404775afb78968cd1ebb5aac7109e359b05463",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/20-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "2d9be93c226fbd600aebd649eea477e548cee6f3738cd7117d04c58193c51729"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/20-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "baf073927f152ff6933dbb597c80911a8de85a3753bf9dd49e9345296c4edd81"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 21,
+    "caption": "Suite source-folder view \u2014 native code pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "055effd0229e2a72b64a6da248a154e312fa6c1be38be6ba79b47a21ba6b58b8",
+    "originalDimensions": [
+      3600,
+      2398
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/21-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "cb82acd3cfdd655f76a0ef151b3a33b226a7967c41a228d4180b99eca4de3ee3"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/21-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "af93c2377aa8d4e08c1b9b3826fdf9f2fee9bb15e8ad28bf3750dacfdcb88fad"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Wide crop removes part of bed, couch, seating or bathroom fixture. Do not use as complete category/amenity proof; original retained.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 22,
+    "caption": "Final refurbishment suite candidate \u2014 reconciliation pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "f027b23608ca14adfff8076df5b9a71b03d6cb4ae0b825c7dcefece06ca6952e",
+    "originalDimensions": [
+      2880,
+      1920
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/22-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "c2a3120fd5b347da5f23cf6d056dc4c06ba6befd1a2dbce701bc11acb92bea22"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/22-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "dbc58da7e07fca0a61b0e7e391b586bf51f60d49555c2bbeaeb70291a5b875e0"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 23,
+    "caption": "Final refurbishment suite candidate \u2014 reconciliation pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "966bbb5a539510b5cbc8c73e64e2785cc7967885c02d55d68f07550af0298ed0",
+    "originalDimensions": [
+      2880,
+      1916
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/23-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "a65854cc7f7b89032e060fa8aabc9c4185a2eb09d71a727a44651f8ebe1f3166"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/23-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "128ae65432030ebd7eb83843e0b8eae8d9ecd6ff1ee2951621a00edbe74c07c9"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "mabula",
+    "order": 24,
+    "caption": "Final refurbishment suite candidate \u2014 reconciliation pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "85fd8e9c004695554ea226a1b29b6edd4dfe224e8efb3abb713070ba7fe88577",
+    "originalDimensions": [
+      2880,
+      1920
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/mabula/room-review-only/24-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "08cf3602cdb162c6e80f9dffdbd5def8b299fe5966620865323701b68a95944f"
+      },
+      {
+        "file": "cms-assets/mabula/room-review-only/24-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "6730d9734d54ba9cac314dc2257f057eb4b72c80bfbf35cfc65f2c407bbdba6f"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 1,
+    "caption": "Lodge and reserve from above",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "e653b673f2eae724eb9caf81573d288ef3ca567e24ce067bd13e95e7e024ef05",
+    "originalDimensions": [
+      5906,
+      3254
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/01-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "1b80a0b2d786e4efe478702d93ed3882b20abff0651b0d3691bc932f333ad4a3"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/01-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "d23e04c27fcca7c19488a3aeb1be35e2f2e57feeed6a10fce186bd5315e2e7de"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Property thumbnail",
+        "order": 1,
+        "dimensions": [
+          133,
+          99
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 2,
+    "caption": "Safari Plains landscape",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "9cf57143997526472c1038d01a705e0178a88b047ba095ae0edc967feb49acf6",
+    "originalDimensions": [
+      5906,
+      3322
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/02-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "07da944b4e5c304e85395a300c9248503ff3da6624a7db6e707eb1fb2d21bb20"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/02-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "a02906b7cc530b821c13bd025767bce8ac67c1e085e5a2b00d70e452e86589ef"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 3,
+    "caption": "Reception lounge",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "afad0acad047e7d12791f0333fb39b073494314ee8a150614dd78809333637b3",
+    "originalDimensions": [
+      7205,
+      4803
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/03-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "14937bacbe43295b0a983328de8b870631f717bc4c48895482326b03d964b45d"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/03-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "b698b897adca386531053fe7b775cf3eb30c78a7470af8c2dcb0850d75a210c7"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 4,
+    "caption": "Shared lounge seating",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "bc3c8d7e0f6c4b5182c12cc62df9c0b750a9935bd8f9852a758a8c550aa5ab9f",
+    "originalDimensions": [
+      5906,
+      3937
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/04-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "447e623fa1fe3a7b91a783b55987b30680f602be428a8912caa8aa316ab702b4"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/04-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "21ea524375d96114693b973adecaf0ec639d26e30790aaefbf90331451f10698"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 5,
+    "caption": "Lodge bar",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "5d9aeffc49d1eaf2783eeb5f273ef0195d3effdd118d02290cdac808c0f070cc",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/05-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "5a7082c0895850fef4c68d3d0a36244b039814771ec277b76bf4eab294ae7457"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/05-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "d65cf51727930c5dbde8ba3034360ccca7b9824ea434122d13c19813cd1c130a"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 5,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "optionalAlternate": true,
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 6,
+    "caption": "Pool at dusk",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "badb148b7e6c09a0b1571f3110c5e398fb62918e14502780f208c99fa4010700",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/06-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "25fd5c90a66249de2c7c9be908e3a995e301072b9e505ccc5a41fabdda202c46"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/06-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "05af2a77e7d67f754ae1e0090382c1798464bd681d1e030348ab5dc9180ade6f"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 6,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 7,
+    "caption": "Poolside terrace",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "2043e31ca61313c91c7301c8ec4586db3662d8eb3e40b133be9bc0c11473e538",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/shared-property/07-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "0b448642e7ff9231fe612fcee9b0655119be5c0046d669c8d20c76078a0b9061"
+      },
+      {
+        "file": "cms-assets/safari-plains/shared-property/07-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "dfa48c00a3f991544de7edfac2102bd9080c4446da7dba5714d5400996a07c95"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 7,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 8,
+    "caption": "Tent view \u2014 category pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "769c268575b6ddda3f23094e78e3f288f26ba1658eee3eb09b2565c39be6ddb4",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/room-review-only/08-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "c2e5269506e59e821a163808b00a898dcb67b667f9087eedb9befe8800896fbf"
+      },
+      {
+        "file": "cms-assets/safari-plains/room-review-only/08-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "02685157434f816853b92ad0174a072f65248111b118f5894da403adac7e4a37"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Exact standard/family/luxury category is unverified. Wide bathroom/tent crop omits some lower fixtures/furnishings; no cross-category upload.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 9,
+    "caption": "Tent interior \u2014 category pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "3f0e9c939dce3bea51a1c5507ab6d334f4313022b8c6d17bad953f75e6bf878d",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/room-review-only/09-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "f7d567f45f94c4681fc6a65c19cfef3680190a97f3ee6e72f8fb4a1feccd5615"
+      },
+      {
+        "file": "cms-assets/safari-plains/room-review-only/09-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "63ca07c2c333fc03cbf4280eba175c4afecfe125ab3888229d15302bebe26399"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Exact standard/family/luxury category is unverified. Wide bathroom/tent crop omits some lower fixtures/furnishings; no cross-category upload.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 10,
+    "caption": "Private sala view \u2014 category pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "11585421a287896b4e28e9da9dd326f0ca683ef4ea06d683846b2b4ee42bc1aa",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/room-review-only/10-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "5b490c570c6fe7d24c0e67626d9ec8a1a3aafbf8aaa3b2441d2aa0ad95d4033b"
+      },
+      {
+        "file": "cms-assets/safari-plains/room-review-only/10-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "fe18ab9e3d021f7630c5dc63c6bf3c171098ba3c44cda2277565ea81b2da3c91"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Exact standard/family/luxury category is unverified. Wide bathroom/tent crop omits some lower fixtures/furnishings; no cross-category upload.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 11,
+    "caption": "Tent bedroom \u2014 category pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "c7b8a9bfd91828a2ad97f02a03cb10d9fcb313993ad0b7d6dc772243800915f0",
+    "originalDimensions": [
+      4803,
+      3202
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/room-review-only/11-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "f253887fe415f9cc8ee14c6499780aae70ed0922f1de9dcffbcdddf31480d2b0"
+      },
+      {
+        "file": "cms-assets/safari-plains/room-review-only/11-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "05c57efa93eeca62eafdc97d7c097135e574831e9937aba901700c92d3923131"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Exact standard/family/luxury category is unverified. Wide bathroom/tent crop omits some lower fixtures/furnishings; no cross-category upload.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "safari-plains",
+    "order": 12,
+    "caption": "Tent bathroom \u2014 category pending",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "7882737f2a01cf32e8877479a87b60e46849d1f6b8eeefbdedfbc3c5752bf4bd",
+    "originalDimensions": [
+      5906,
+      3896
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/safari-plains/room-review-only/12-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "c92fb025a336206d7f80b03f97a2c739f8d7c95498023827ae27e7dc895c7ee1"
+      },
+      {
+        "file": "cms-assets/safari-plains/room-review-only/12-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "0dc95d866c48a707869c98ed6c1afedee6993bee5802038787f0052ed22c746a"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Exact standard/family/luxury category is unverified. Wide bathroom/tent crop omits some lower fixtures/furnishings; no cross-category upload.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 1,
+    "caption": "Hotel and escarpment",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "81a28589a911db48b1866abb2c1916d079760abfe005d6a5c23158b554cbdb42",
+    "originalDimensions": [
+      6496,
+      3650
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/01-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "ad28b11d044e500bb2374b14cc01340f302632ce36be1df7ba47d2bb99aca360"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/01-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "a1b758c706c7b4de211163087ac3ee16453cc1215d03d210aac7d3b1376261e8"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Property thumbnail",
+        "order": 1,
+        "dimensions": [
+          133,
+          99
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 1,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 2,
+    "caption": "Hotel at dusk",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "4b864081b45531b44edea68ce21dc11156d1b305e0ff89e6274b5d5dcbacd280",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/02-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "ee9ec6f0fb62c1089bafaa61bb5eaa1efe6ac2df45e3c5b5504a1ce63db8e5d8"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/02-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "803c02597d5fa6088681070f8941fd64563639cc7bf70af182b58c4ba74fb56b"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 2,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 3,
+    "caption": "Hotel entrance",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "5e56ebce657468f58a361a045974b627168f741d6d5362102ba0a7b6e1ab22ee",
+    "originalDimensions": [
+      7207,
+      4724
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/03-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "930f66d4d1c1a2846e478baa95ea210b7a136f4def112be28b6429940cab01d7"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/03-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "e80d62bafe2c5093f8506efeb3ced7f2a2ef50766f45bfb4751d5df189ecbb7b"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 3,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 4,
+    "caption": "Hotel architecture",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "203c821b94b22f0c90a5c2910c1e70866fec61da92aacfa9844407ae546c8690",
+    "originalDimensions": [
+      7093,
+      4724
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/04-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "63de07cfbd86fe949999d30d4c7ddb876ac51828df76211dfe211fb597dd0ab6"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/04-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "26fe0dd27bf23d02e81a2c64afb4d110b25495d54d727d7849851e8ae9fcb1c7"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 5,
+    "caption": "Hotel pool",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "cce885543e64a36b9324a5f21bf8f27e2f3c27fd6a5babf0d6d80d916cad664f",
+    "originalDimensions": [
+      7197,
+      4724
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/05-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "ec65f28ae910cb20ecdf296ccd7098f16a5dea9ecce3d25154fa6a6096338cbf"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/05-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "def8313f120373154680eeafe1d746461304a058951c00f1674af2577e2e299e"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 5,
+        "dimensions": [
+          670,
+          300
+        ]
+      },
+      {
+        "collection": "Home carousel",
+        "order": 4,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 6,
+    "caption": "Reception interior",
+    "status": "Shared-property candidate, subject to owner acceptance",
+    "categoryProof": "Shared property, not room category",
+    "collection": "Carousel and separately managed property Pictures gallery",
+    "sourceSha256": "1f28ef9ecf994c323ee8d1ba0754309647dff572ba6b7f81910916d8ca545225",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/shared-property/06-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "97993459ce21009f6f7914f8af4891cf94ab9ce9bbe45829b69f629526a375d3"
+      },
+      {
+        "file": "cms-assets/angels-view/shared-property/06-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "c9f316be555d4df573efa8572b35ba9507ed892a5af89b3ed05a44384463a348"
+      }
+    ],
+    "cropReview": "Viewed source/670x300/133x99 proof. No visible people. Shared subject retained.",
+    "cropCaveat": "",
+    "recommendedSlots": [
+      {
+        "collection": "Property Pictures gallery",
+        "order": 6,
+        "dimensions": [
+          670,
+          300
+        ]
+      }
+    ],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 7,
+    "caption": "Earth Grotto suite exterior",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Explicit source label supports group only; never auto-assign king/twin",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "b772514c1e72b0c13c7dde8b102c5fe5cc2c2b5bc7efc90a343a2ed1eebf71a1",
+    "originalDimensions": [
+      6496,
+      3650
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/room-review-only/07-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "c1a5836bf78843756a1c730af893620949c2faeab7bc3f4a33ad8b5956f17824"
+      },
+      {
+        "file": "cms-assets/angels-view/room-review-only/07-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "fd7c29d1508b8aa0f28dcff9ee1b4a79db633afc00a86442978dfb320f6efac5"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 8,
+    "caption": "Luxury Classic suite interior",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Explicit source label supports group only; never auto-assign king/twin",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "1111a6065ce968a9f41992b885648276c070f096150e4f8849758b53c53d79b2",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/room-review-only/08-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "28601855be46120ca841a5599656b374077ca8162939763a9aedc7fa6e746df7"
+      },
+      {
+        "file": "cms-assets/angels-view/room-review-only/08-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "cf4920738acb90a39cd314d783e379a12849167aaf56e09490f60d7a4dd99e9f"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Source label supports Luxury Classic group; visible king-like configuration is not twin-slot evidence.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 9,
+    "caption": "Luxury Classic suite lounge",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Explicit source label supports group only; never auto-assign king/twin",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "5a88572a1984202f53ef16b9154b3a2e1128bfe8434ee07cae5b6a4f69d71011",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/room-review-only/09-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "942a1ed4ec5456baaf585a787469ad71723538927c27d183b363ee09ad518f16"
+      },
+      {
+        "file": "cms-assets/angels-view/room-review-only/09-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "edbf1e904e7222f5e9ac0a9da54cdbe908d938480e45a7f90c57d77008efd1d1"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Source label supports Luxury Classic group; visible king-like configuration is not twin-slot evidence.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 10,
+    "caption": "Luxury Classic suite view",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Explicit source label supports group only; never auto-assign king/twin",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "c2ee8e5c2edc78090c5f74736f97878e8b4c9d79aa36a7d537f36709631a64f3",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/room-review-only/10-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "2b84e40d1138648592b0d6d49e85d994a689d08380d002fde926edaad2e8b228"
+      },
+      {
+        "file": "cms-assets/angels-view/room-review-only/10-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "7802c96684b6d7790c10b67d30664433fabefdf7e5a9d703ad8f52995148ec08"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "Source label supports Luxury Classic group; visible king-like configuration is not twin-slot evidence.",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  },
+  {
+    "property": "angels-view",
+    "order": 11,
+    "caption": "Suite image \u2014 category unverified",
+    "status": "HOLD - no room upload or binding change",
+    "categoryProof": "Unreconciled",
+    "collection": "REVIEW ONLY; retain current native room bindings",
+    "sourceSha256": "d4cb51e1eb551c265697eeaebf63f12c9bc9f43197431377afe1538da889feee",
+    "originalDimensions": [
+      6496,
+      4331
+    ],
+    "exports": [
+      {
+        "file": "cms-assets/angels-view/room-review-only/11-670x300.jpg",
+        "dimensions": [
+          670,
+          300
+        ],
+        "sha256": "896c4c50d0c8efe4acf57b68f2975d4e653a29c3e297e4c0b72a55a7c5b8b38d"
+      },
+      {
+        "file": "cms-assets/angels-view/room-review-only/11-133x99.jpg",
+        "dimensions": [
+          133,
+          99
+        ],
+        "sha256": "6d3d1ee8d49ac2ef42316264e11f49e4586ff55c733981a19f836d70e651a4dc"
+      }
+    ],
+    "cropReview": "Viewed source and both derivatives; review only, category/native binding HOLD.",
+    "cropCaveat": "",
+    "recommendedSlots": [],
+    "sourceEvidence": "Approved IMAGE GALLERY original; private source binding retained by project owner"
+  }
+]

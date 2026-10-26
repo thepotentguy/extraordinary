@@ -1,0 +1,122 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/mabula/black-rhino2021/css/mainStyle.css",
+        "rules": 1052,
+        "sha256": "a583037cd618aa9d5d994481ba94066847c4cd83e0cd0e841b923863cd87e782",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/package-css/mabula/black-rhino2021/css/theme.css",
+        "rules": 638,
+        "sha256": "b9756efc115f159155dff849418c54d76f1e424daa203f54a5e302be3faacdac",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/mabula/black-rhino2021/css/mainStyle.css",
+        "rules": 1052,
+        "sha256": "a583037cd618aa9d5d994481ba94066847c4cd83e0cd0e841b923863cd87e782",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/package-css/mabula/black-rhino2021/css/mobileTheme.css",
+        "rules": 546,
+        "sha256": "104b419ff47ac0ca1444d9c48cc24dfa295a982b7225aa2908614a04591e0010",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/safari-plains/black-rhino2021/css/mainStyle.css",
+        "rules": 1063,
+        "sha256": "3d8865bdc22947a206fef690a02e11031147aefb92d3d89f9f82155776e2e974",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/package-css/safari-plains/black-rhino2021/css/theme.css",
+        "rules": 649,
+        "sha256": "47fcf19a87cbda07183b9d41f215fc1cec4151ef3238f82fd93d30309926cf09",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/safari-plains/black-rhino2021/css/mainStyle.css",
+        "rules": 1063,
+        "sha256": "3d8865bdc22947a206fef690a02e11031147aefb92d3d89f9f82155776e2e974",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/package-css/safari-plains/black-rhino2021/css/mobileTheme.css",
+        "rules": 557,
+        "sha256": "4cd0b329bca2f86e56ca621b72983c40dbd4f77092f556e3018a72d7e3d8540c",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "angels-view",
+    "profile": "desktop",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/angels-view/black-rhino2021/css/mainStyle.css",
+        "rules": 1064,
+        "sha256": "bb4824152a3f7f039fbc49a8c1907cdae4b0a37b2c382cfbe372fa485b5b23ba",
+        "r5": true
+      },
+      {
+        "name": "theme.css",
+        "href": "http://127.0.0.1:9155/package-css/angels-view/black-rhino2021/css/theme.css",
+        "rules": 650,
+        "sha256": "8a1e89ef620c3834e31af7d47961c7d0656cbf6950b75307c1617638c97542d5",
+        "r5": true
+      }
+    ]
+  },
+  {
+    "property": "angels-view",
+    "profile": "mobile",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "http://127.0.0.1:9155/package-css/angels-view/black-rhino2021/css/mainStyle.css",
+        "rules": 1064,
+        "sha256": "bb4824152a3f7f039fbc49a8c1907cdae4b0a37b2c382cfbe372fa485b5b23ba",
+        "r5": true
+      },
+      {
+        "name": "mobileTheme.css",
+        "href": "http://127.0.0.1:9155/package-css/angels-view/black-rhino2021/css/mobileTheme.css",
+        "rules": 558,
+        "sha256": "0404a88a3bbf10c7a56dfccb07dbc3e0c87d3b6ee3f45ebea2b896df4142877c",
+        "r5": true
+      }
+    ]
+  }
+]

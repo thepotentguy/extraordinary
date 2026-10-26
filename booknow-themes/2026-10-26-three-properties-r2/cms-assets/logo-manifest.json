@@ -1,0 +1,47 @@
+[
+  {
+    "property": "mabula",
+    "collection": "Site logo",
+    "file": "cms-assets/mabula/logo-230x100.png",
+    "dimensions": [
+      230,
+      100
+    ],
+    "alphaRange": [
+      0,
+      255
+    ],
+    "sha256": "8dded13481aa35c314e7efdd988eeaa6ab64f67794d29f6571afbd6fe879bf7f",
+    "geometry": "Full original artboard contained; no trim or redraw"
+  },
+  {
+    "property": "safari-plains",
+    "collection": "Site logo",
+    "file": "cms-assets/safari-plains/logo-230x100.png",
+    "dimensions": [
+      230,
+      100
+    ],
+    "alphaRange": [
+      0,
+      255
+    ],
+    "sha256": "1e17234274077479e93bcc166e4c093c292e18c66065d835edd4d29d085357e8",
+    "geometry": "Full original artboard contained; no trim or redraw"
+  },
+  {
+    "property": "angels-view",
+    "collection": "Site logo",
+    "file": "cms-assets/angels-view/logo-230x100.png",
+    "dimensions": [
+      230,
+      100
+    ],
+    "alphaRange": [
+      0,
+      255
+    ],
+    "sha256": "d08082b53af04b20946ac036e8c397f30d3cc0ffd39a3171ba2515118259d258",
+    "geometry": "Full original artboard contained; no trim or redraw"
+  }
+]

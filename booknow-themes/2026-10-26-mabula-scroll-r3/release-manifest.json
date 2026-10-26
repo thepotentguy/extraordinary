@@ -1,0 +1,16 @@
+{
+  "property": "mabula",
+  "version": "20261026-Scroll-R3",
+  "file": "mabula-Legacy-BookNow-20261026-Scroll-R3.zip",
+  "sha256": "1fe8779b64a467aeabf2025fd49153a908cd822bcd9be5dad48aecb54d48c9ad",
+  "baseSha256": "dd32677fda045e8a69891a659e40e54b0f11d3b5a0ef70b22b602411dfc966a2",
+  "patchSha256": "3da0fd051c1723e2b780fba7df6719be1264a98677d4b40edc2ffdc5c0e93db1",
+  "changedMembers": [
+    "black-rhino2021/css/mainStyle.css",
+    "black-rhino2021/css/theme.css",
+    "black-rhino2021/css/mobileTheme.css"
+  ],
+  "files": 131,
+  "directories": 8,
+  "allOtherMembersUnchanged": true
+}

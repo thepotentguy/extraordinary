@@ -1,0 +1,8 @@
+{
+  "cases": 36,
+  "stateChecks": 180,
+  "desktopVisibleTableCases": 18,
+  "mobileTableReadability": "N/A hidden unchanged baseline; not native mobile UI acceptance",
+  "allGeometryChecksPass": true,
+  "sourceChanged": false
+}

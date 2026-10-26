@@ -1,0 +1,23 @@
+[
+  {
+    "property": "mabula",
+    "cssMembers": 10,
+    "unwantedIdentityLiterals": [],
+    "order": "Converted native base -> shared identity -> property composition -> narrow inherited support -> scoped flowing gallery",
+    "scopeNote": "Legacy generic fallback fonts remain in earlier/vendor selectors; computed representative roles determine the effective face. No property sections from the five-brand correction file are appended."
+  },
+  {
+    "property": "safari-plains",
+    "cssMembers": 10,
+    "unwantedIdentityLiterals": [],
+    "order": "Converted native base -> shared identity -> property composition -> narrow inherited support -> scoped flowing gallery",
+    "scopeNote": "Legacy generic fallback fonts remain in earlier/vendor selectors; computed representative roles determine the effective face. No property sections from the five-brand correction file are appended."
+  },
+  {
+    "property": "angels-view",
+    "cssMembers": 10,
+    "unwantedIdentityLiterals": [],
+    "order": "Converted native base -> shared identity -> property composition -> narrow inherited support -> scoped flowing gallery",
+    "scopeNote": "Legacy generic fallback fonts remain in earlier/vendor selectors; computed representative roles determine the effective face. No property sections from the five-brand correction file are appended."
+  }
+]

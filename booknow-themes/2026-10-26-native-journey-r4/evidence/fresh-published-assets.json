@@ -1,0 +1,92 @@
+{
+  "qualification": "Fresh verification URLs only; ordinary applied CSS is checked separately. Python direct requests returned403; browser same-origin verified bytes.",
+  "properties": [
+    {
+      "property": "angels-view",
+      "files": [
+        {
+          "name": "mainStyle.css",
+          "status": 200,
+          "bytes": 148327,
+          "sha256": "7b316c7c241e90308a05d8ed3634de7f777682a4618fd8fa36ad3426fe083c03",
+          "expectedSha256": "7b316c7c241e90308a05d8ed3634de7f777682a4618fd8fa36ad3426fe083c03",
+          "exactMatch": true
+        },
+        {
+          "name": "theme.css",
+          "status": 200,
+          "bytes": 106307,
+          "sha256": "a89e0ea2366a37758c99533e70ffd9cadae1f91461540728f0e022e5da3918e9",
+          "expectedSha256": "a89e0ea2366a37758c99533e70ffd9cadae1f91461540728f0e022e5da3918e9",
+          "exactMatch": true
+        },
+        {
+          "name": "mobileTheme.css",
+          "status": 200,
+          "bytes": 96516,
+          "sha256": "bae2c5805f60a5be03e34efe4c15415e899665ddee53f01f9f5411ed562c3360",
+          "expectedSha256": "bae2c5805f60a5be03e34efe4c15415e899665ddee53f01f9f5411ed562c3360",
+          "exactMatch": true
+        }
+      ]
+    },
+    {
+      "property": "safari-plains",
+      "files": [
+        {
+          "name": "mainStyle.css",
+          "status": 200,
+          "bytes": 148317,
+          "sha256": "63d75e58ec65c320fa31178db0d9aedbe07338f00971865acd9f26ccabcd5a69",
+          "expectedSha256": "63d75e58ec65c320fa31178db0d9aedbe07338f00971865acd9f26ccabcd5a69",
+          "exactMatch": true
+        },
+        {
+          "name": "theme.css",
+          "status": 200,
+          "bytes": 106297,
+          "sha256": "3a2b8c2b3350227f60e1c1db0df0802d7776b98c86176a545be0b432bc16d2e2",
+          "expectedSha256": "3a2b8c2b3350227f60e1c1db0df0802d7776b98c86176a545be0b432bc16d2e2",
+          "exactMatch": true
+        },
+        {
+          "name": "mobileTheme.css",
+          "status": 200,
+          "bytes": 96506,
+          "sha256": "358967083ca4e54110f47e4a93c423c2824d48d68889fb94c7d3e64f49c45d1c",
+          "expectedSha256": "358967083ca4e54110f47e4a93c423c2824d48d68889fb94c7d3e64f49c45d1c",
+          "exactMatch": true
+        }
+      ]
+    },
+    {
+      "property": "mabula",
+      "files": [
+        {
+          "name": "mainStyle.css",
+          "status": 200,
+          "bytes": 148454,
+          "sha256": "08150d8e5fdcc78f58aa704444665c6683cab3f8a2bcd026849542c9eaf4d31f",
+          "expectedSha256": "08150d8e5fdcc78f58aa704444665c6683cab3f8a2bcd026849542c9eaf4d31f",
+          "exactMatch": true
+        },
+        {
+          "name": "theme.css",
+          "status": 200,
+          "bytes": 106434,
+          "sha256": "d8106d1cf19950f1933aef26d96d32cd789b88a303f4656cb72f14a787afc6a3",
+          "expectedSha256": "d8106d1cf19950f1933aef26d96d32cd789b88a303f4656cb72f14a787afc6a3",
+          "exactMatch": true
+        },
+        {
+          "name": "mobileTheme.css",
+          "status": 200,
+          "bytes": 96643,
+          "sha256": "510b5873510e3539c1e251b324d2441b78ab62899e8f15976539ed6d0238daf7",
+          "expectedSha256": "510b5873510e3539c1e251b324d2441b78ab62899e8f15976539ed6d0238daf7",
+          "exactMatch": true
+        }
+      ]
+    }
+  ]
+}

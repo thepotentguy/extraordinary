@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mabula",
+    "name": "Mabula Game Lodge",
+    "url": "https://mabula.com/",
+    "headingFont": "Bodoni Moda",
+    "bodyFont": "Poppins",
+    "ink": "#373f38",
+    "accent": "#9a593d",
+    "surface": "#f7f3ed",
+    "edge": "#b9a896",
+    "headline": "A bushveld welcome",
+    "copy": "Plan your stay at Mabula Game Lodge. Explore room and rate choices for your dates.",
+    "composition": "Left-aligned editorial masthead, broad native search band before the home panorama, and open copper-ruled room/rate sections. Native DOM search order is preserved."
+  },
+  {
+    "id": "safari-plains",
+    "name": "Safari Plains",
+    "url": "https://safariplains.co.za/",
+    "headingFont": "Inria Serif",
+    "bodyFont": "Poppins",
+    "ink": "#334342",
+    "accent": "#a37c37",
+    "surface": "#f6f6ef",
+    "edge": "#a8b3a5",
+    "headline": "Your home in the bushveld",
+    "copy": "Explore Safari Plains and its tented accommodation. Choose your dates to view the current room and rate options.",
+    "composition": "Centred lodge masthead, white panorama and a green booking panel on the right. Framed suite sections and a distinct rate band."
+  },
+  {
+    "id": "angels-view",
+    "name": "Angels View",
+    "url": "https://angelsview.co.za/",
+    "headingFont": "Plus Jakarta Sans",
+    "bodyFont": "Plus Jakarta Sans",
+    "ink": "#233b4b",
+    "accent": "#b64c00",
+    "surface": "#f5f7f8",
+    "edge": "#99a7b0",
+    "headline": "A view from the escarpment",
+    "copy": "Plan your Angels View stay on the Panorama Route. Explore the accommodation and rates offered for your dates.",
+    "composition": "Architectural blue-and-white frame, compact centred masthead, left booking rail and squared result grid. Orange actions remain distinct from information headers."
+  }
+]

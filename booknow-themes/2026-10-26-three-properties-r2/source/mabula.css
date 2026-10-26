@@ -1,0 +1,25 @@
+/* Mabula: editorial panorama and broad home planning band. */
+#header{border-top:5px solid #9a593d}
+#client_logo{margin:22px max(24px,calc((100vw - 1180px)/2));align-self:flex-start}
+#nav{justify-content:flex-start;padding-left:max(16px,calc((100vw - 1180px)/2));background:#373f38}
+#searchBar{border-top:4px solid #9a593d;background:#f3ece2}
+#searchBar button{background:#9a593d;border-color:#9a593d}
+#content .hotelResult{border:0;border-top:2px solid #9a593d;padding-top:24px}
+#content .hotelRates{border-top:1px solid #cdb9a6}
+#content .hotelResultRoom{border:0;border-top:1px solid #b9a896;padding:24px 0}
+#content .hotelInfo a{border-radius:24px}
+#content .imageCarousel .navimages{border-radius:50%!important;border-color:#9a593d!important}
+#content .hotelInfoContent{border-left:3px solid #9a593d}
+@media(min-width:961px){
+ #contentWrapper{grid-template-columns:310px minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #contentWrapper{grid-template-columns:minmax(0,1fr)}
+ body:has(#content .imageCarousel #main) #contentWrapper>#content{grid-column:1;grid-row:2;display:block;padding:28px 30px 0}
+ body:has(#content .imageCarousel #main) #contentWrapper>#sideBar{grid-column:1;grid-row:1}
+ body:has(#content .imageCarousel #main) #searchBar{display:grid;grid-template-columns:210px minmax(0,1fr);gap:24px;padding:28px}
+ body:has(#content .imageCarousel #main) #searchBarContent{display:grid;grid-template-columns:1.1fr .9fr 1fr;gap:20px;align-items:end}
+ body:has(#content .imageCarousel #main) #searchBarContent>.smallDivider,body:has(#content .imageCarousel #main) #searchBarContent>.dividerStripe{display:none}
+ body:has(#content .imageCarousel #main) #searchBarContent>.submitBtnContainer{grid-column:3}
+ body:has(#content .imageCarousel #main) #promoCriteria{grid-column:2;grid-row:2}
+ body:has(#content .imageCarousel #main) #unitBreakdown{grid-column:2;grid-row:1}
+ body:has(#content .imageCarousel #main) #stayCriteria{grid-column:1;grid-row:1/3}
+}

@@ -1,0 +1,536 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 320,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 320,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 145.921875,
+        "y": 258.859375,
+        "width": 102.171875,
+        "height": 48,
+        "top": 258.859375,
+        "right": 248.09375,
+        "bottom": 306.859375,
+        "left": 145.921875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Rates",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 1072.921875,
+          "width": 262,
+          "height": 46,
+          "top": 1072.921875,
+          "right": 291,
+          "bottom": 1118.921875,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 1726.046875,
+          "width": 262,
+          "height": 46,
+          "top": 1726.046875,
+          "right": 291,
+          "bottom": 1772.046875,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 29,
+        "y": 454.859375,
+        "width": 262,
+        "height": 67.5,
+        "top": 454.859375,
+        "right": 291,
+        "bottom": 522.359375,
+        "left": 29
+      },
+      "clientWidth": 262,
+      "scrollWidth": 262,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 390,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 390,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 180.921875,
+        "y": 289.296875,
+        "width": 102.171875,
+        "height": 48,
+        "top": 289.296875,
+        "right": 283.09375,
+        "bottom": 337.296875,
+        "left": 180.921875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Rates",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 1079.578125,
+          "width": 332,
+          "height": 46,
+          "top": 1079.578125,
+          "right": 361,
+          "bottom": 1125.578125,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 1709.3125,
+          "width": 332,
+          "height": 46,
+          "top": 1709.3125,
+          "right": 361,
+          "bottom": 1755.3125,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 29,
+        "y": 485.296875,
+        "width": 332,
+        "height": 67.5,
+        "top": 485.296875,
+        "right": 361,
+        "bottom": 552.796875,
+        "left": 29
+      },
+      "clientWidth": 332,
+      "scrollWidth": 332,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 768,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 768,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 369.921875,
+        "y": 289.296875,
+        "width": 102.171875,
+        "height": 48,
+        "top": 289.296875,
+        "right": 472.09375,
+        "bottom": 337.296875,
+        "left": 369.921875
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Rates",
+          "current": true
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 938.453125,
+          "width": 710,
+          "height": 46,
+          "top": 938.453125,
+          "right": 739,
+          "bottom": 984.453125,
+          "left": 29
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 29,
+          "y": 1443.4375,
+          "width": 710,
+          "height": 46,
+          "top": 1443.4375,
+          "right": 739,
+          "bottom": 1489.4375,
+          "left": 29
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 29,
+        "y": 439.296875,
+        "width": 710,
+        "height": 67.5,
+        "top": 439.296875,
+        "right": 739,
+        "bottom": 506.796875,
+        "left": 29
+      },
+      "clientWidth": 710,
+      "scrollWidth": 710,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 1024,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1024,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 376.5,
+        "y": 272.296875,
+        "width": 102.171875,
+        "height": 48,
+        "top": 272.296875,
+        "right": 478.671875,
+        "bottom": 320.296875,
+        "left": 376.5
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": false
+        },
+        {
+          "text": "Rates",
+          "current": true
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 387,
+          "y": 813.703125,
+          "width": 58,
+          "height": 46,
+          "top": 813.703125,
+          "right": 445,
+          "bottom": 859.703125,
+          "left": 387
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 387,
+          "y": 1200.421875,
+          "width": 58,
+          "height": 46,
+          "top": 1200.421875,
+          "right": 445,
+          "bottom": 1246.421875,
+          "left": 387
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 387,
+        "y": 458.296875,
+        "width": 588,
+        "height": 67.5,
+        "top": 458.296875,
+        "right": 975,
+        "bottom": 525.796875,
+        "left": 387
+      },
+      "clientWidth": 588,
+      "scrollWidth": 588,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 1440,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1440,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 559,
+        "y": 272.296875,
+        "width": 102.171875,
+        "height": 48,
+        "top": 272.296875,
+        "right": 661.171875,
+        "bottom": 320.296875,
+        "left": 559
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": false
+        },
+        {
+          "text": "Rates",
+          "current": true
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 493,
+          "y": 789.921875,
+          "width": 58,
+          "height": 46,
+          "top": 789.921875,
+          "right": 551,
+          "bottom": 835.921875,
+          "left": 493
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 493,
+          "y": 1152.859375,
+          "width": 58,
+          "height": 46,
+          "top": 1152.859375,
+          "right": 551,
+          "bottom": 1198.859375,
+          "left": 493
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 493,
+        "y": 458.296875,
+        "width": 792,
+        "height": 67.5,
+        "top": 458.296875,
+        "right": 1285,
+        "bottom": 525.796875,
+        "left": 493
+      },
+      "clientWidth": 792,
+      "scrollWidth": 792,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "state": "rates",
+    "width": 1920,
+    "height": 900,
+    "route": "/extraordinary/mabula/desktop.html",
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/146.0.0.0 Safari/537.36",
+    "documentWidth": 1920,
+    "progress": {
+      "label": "Rates",
+      "visible": true,
+      "rect": {
+        "x": 799,
+        "y": 272.296875,
+        "width": 102.171875,
+        "height": 48,
+        "top": 272.296875,
+        "right": 901.171875,
+        "bottom": 320.296875,
+        "left": 799
+      },
+      "color": "rgb(255, 255, 255)",
+      "background": "rgb(55, 63, 56)",
+      "textShadow": "none",
+      "visibleStages": [
+        {
+          "text": "Hotels",
+          "current": false
+        },
+        {
+          "text": "Rates",
+          "current": true
+        },
+        {
+          "text": "Services",
+          "current": false
+        },
+        {
+          "text": "Details",
+          "current": false
+        }
+      ],
+      "hiddenActionVisible": false
+    },
+    "textIssues": [],
+    "icons": [],
+    "iconCollisions": [],
+    "actions": [
+      {
+        "text": "Book",
+        "rect": {
+          "x": 733,
+          "y": 789.921875,
+          "width": 58,
+          "height": 46,
+          "top": 789.921875,
+          "right": 791,
+          "bottom": 835.921875,
+          "left": 733
+        }
+      },
+      {
+        "text": "Book",
+        "rect": {
+          "x": 733,
+          "y": 1152.859375,
+          "width": 58,
+          "height": 46,
+          "top": 1152.859375,
+          "right": 791,
+          "bottom": 1198.859375,
+          "left": 733
+        }
+      }
+    ],
+    "panel": null,
+    "calendar": {
+      "rect": {
+        "x": 733,
+        "y": 458.296875,
+        "width": 792,
+        "height": 67.5,
+        "top": 458.296875,
+        "right": 1525,
+        "bottom": 525.796875,
+        "left": 733
+      },
+      "clientWidth": 792,
+      "scrollWidth": 792,
+      "lastColumnReachable": true,
+      "visibleLabels": []
+    },
+    "pass": true
+  }
+]

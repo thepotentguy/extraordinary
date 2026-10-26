@@ -1,0 +1,3020 @@
+{
+  "scope": "Explicitly allowlisted design/source/package/evidence files. No raw originals, private source references or operational captures.",
+  "files": [
+    {
+      "file": "COVERAGE.md",
+      "sha256": "6543904853bfe96927ba5841f4457ede6538242a1efdecdf53ce45438263daad",
+      "bytes": 2900
+    },
+    {
+      "file": "index.html",
+      "sha256": "7459a8dfed2489bc6e97e7c9548506018fe3d95bc19d0a20d06b5651163c6f06",
+      "bytes": 1617
+    },
+    {
+      "file": "INSTALLER.md",
+      "sha256": "0178fa73a8b81c92744a2d66cca0793ece0c346104a6a416688b16b1652ba0e2",
+      "bytes": 6186
+    },
+    {
+      "file": "README.md",
+      "sha256": "4704684c851f63c9c3755388d2930bbdac5ef03f6422ba9776e349210535f61d",
+      "bytes": 3008
+    },
+    {
+      "file": "release-manifest.json",
+      "sha256": "5461b063c69a4865965c825ae7aa2228ec951eac89572d085c4aac5bacafe6ff",
+      "bytes": 1701
+    },
+    {
+      "file": "REVIEW-DISPOSITION.md",
+      "sha256": "fb9b208c222b3ff3de89f2565a0ea2b1e8e2491f72c1b8ea546b86b095d648aa",
+      "bytes": 1614
+    },
+    {
+      "file": "ROUND2-RESPONSE.md",
+      "sha256": "99365c982103c9fa9f433d4ef94993dbf84956624c2bdb9fc2c9249f4ecb64ab",
+      "bytes": 2272
+    },
+    {
+      "file": "TEST-MATRIX.md",
+      "sha256": "c526aa276c7bc34aa65bceaebf82e5f7ccfe147ea391ca97bd859ec2c9ea534d",
+      "bytes": 3947
+    },
+    {
+      "file": "cms-assets/logo-manifest.json",
+      "sha256": "7830400365cb137469a60bf86b8274a3cf037fbeb70b42fa57938f12708000bd",
+      "bytes": 1158
+    },
+    {
+      "file": "cms-assets/slot-manifest.json",
+      "sha256": "28bab13cf046736a0ab53d353c6569ec3ff57beec03735147d8d694aa2555ad6",
+      "bytes": 65910
+    },
+    {
+      "file": "evidence/carousel-runtime-parity.json",
+      "sha256": "b93e7c957d79f8835b8b3de7ba96daae29cf50a50be907b16de06e7a9d9da0f8",
+      "bytes": 1437
+    },
+    {
+      "file": "evidence/computed-role-audit.json",
+      "sha256": "e2aec4a12c68b23964d6b19ddca855e79041de480c9e4f085d11c61ebc88c909",
+      "bytes": 65507
+    },
+    {
+      "file": "evidence/contrast.json",
+      "sha256": "45ec37328f4a982352d148c5face3520d908e8b47629d50e1a3ab05a7341ad2d",
+      "bytes": 2551
+    },
+    {
+      "file": "evidence/geometry-r2-release.json",
+      "sha256": "8341df7222eaa1ec765c930c9a11b93ed1449d5cf7c41b51067ebb1f1c1a5c91",
+      "bytes": 529373
+    },
+    {
+      "file": "evidence/home-comparison.jpg",
+      "sha256": "fa3c2a0b48e1649a331082c79a27f4140e83d178bd36c4ba3a7d0c20158ca395",
+      "bytes": 524217
+    },
+    {
+      "file": "evidence/interactions-r2.json",
+      "sha256": "c35d7ec80916b8a39b2290b0eb4b70377feba587756a4f01e5d85aa00b036ed4",
+      "bytes": 10505
+    },
+    {
+      "file": "evidence/keyboard-open-panel.json",
+      "sha256": "cde6df08ab5653a843050691ab30ec7a54dd5ea5d06dc118d585424237ad59db",
+      "bytes": 10088
+    },
+    {
+      "file": "evidence/keyboard-tab-order.json",
+      "sha256": "ab52fd99a5c3883a7fdd352c51e0c235e5b450bbf0963d9b86371263c7b8c249",
+      "bytes": 27498
+    },
+    {
+      "file": "evidence/mabula-laptop-height.json",
+      "sha256": "2b7c829a06f84b730654fb44107af7bac2577625c3dd3bb28c4ed323d2fc7183",
+      "bytes": 269
+    },
+    {
+      "file": "evidence/native-markup-coverage.json",
+      "sha256": "642a9857c09d2df80895afa076f6bcc01e7f8738ed64f92e4e03f8a9e95f84dc",
+      "bytes": 4848
+    },
+    {
+      "file": "evidence/open-dialog-resize-r2.json",
+      "sha256": "d9a3c02fc381f5721c0ec50a839aee8ac89e73efba4eb4d980e707d735d60586",
+      "bytes": 17456
+    },
+    {
+      "file": "evidence/package-source-checks.json",
+      "sha256": "059f4d78b5ecbd071ed2bec6b1a2a05ad789537631df10522041624e4fbf0029",
+      "bytes": 714
+    },
+    {
+      "file": "evidence/source-identity-audit.json",
+      "sha256": "7f8708a182469300c9bb3ebea4738ec2beb140e9036c1eec79be335e1c569aa3",
+      "bytes": 1368
+    },
+    {
+      "file": "evidence/tested-package-hashes.json",
+      "sha256": "6e9a81fd804bbcabb3cd3729be32ad42aa2b5f28b28b2f86511a42e39407d450",
+      "bytes": 994
+    },
+    {
+      "file": "packages/angels-view-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "6b8a8225b566a7731e7fdaf1b0918788a497ee026107f821663fde6d870a6d9a",
+      "bytes": 453220
+    },
+    {
+      "file": "packages/angels-view-manifest.json",
+      "sha256": "9ea2b22abbb15fe1a99b83552e3b32937f82a693c6e463f53f8539da501efb83",
+      "bytes": 21937
+    },
+    {
+      "file": "packages/BookNow-shared-CMS-assets-20261026-R2.zip",
+      "sha256": "3a54ac73e1699c7432b769e383d9b0c15aa8a0fb4d06a50f72d8059d2b6fae37",
+      "bytes": 2018863
+    },
+    {
+      "file": "packages/mabula-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "dd32677fda045e8a69891a659e40e54b0f11d3b5a0ef70b22b602411dfc966a2",
+      "bytes": 826548
+    },
+    {
+      "file": "packages/mabula-manifest.json",
+      "sha256": "1d5ffaf7fd02eaa40accb7238d4f51c633aba530f5314767d01cb800a4bd9cd2",
+      "bytes": 22080
+    },
+    {
+      "file": "packages/safari-plains-Legacy-BookNow-20261026-R2.zip",
+      "sha256": "3154d5b51011bac1a052e04b83582ec22a88053fea7553c5caa6a3b979227ddf",
+      "bytes": 831348
+    },
+    {
+      "file": "packages/safari-plains-manifest.json",
+      "sha256": "6ce6e667c404e7075ae4609467e9b35c185d45099cee21fff4ec70a6fd696813",
+      "bytes": 22094
+    },
+    {
+      "file": "previews/carousel.css",
+      "sha256": "b5902d8cca94153c043152007c91e30cef70c065538d64821daeab46b1ab6219",
+      "bytes": 284
+    },
+    {
+      "file": "previews/fixture.js",
+      "sha256": "3953cc8194140da733d7dc09d85586aee3a3cb8cb0af576945e0c6dbdae8858f",
+      "bytes": 7104
+    },
+    {
+      "file": "source/angels-view.css",
+      "sha256": "0c1bf9889a1ce5adfddd19b7e9a5453c30ec2f3f9549fcceee93b5dc024cb940",
+      "bytes": 2109
+    },
+    {
+      "file": "source/brands.json",
+      "sha256": "0ca46faf8e3e66836574639d3aa2e0c454d179592fcfbd831ea2c205cf420684",
+      "bytes": 1832
+    },
+    {
+      "file": "source/check-interactions.js",
+      "sha256": "096f1c9dbfdb5f61c7cbce6594d1bf917a29c9b83f42682a02a4d7a253ed694e",
+      "bytes": 1649
+    },
+    {
+      "file": "source/fixture-r2.js",
+      "sha256": "3953cc8194140da733d7dc09d85586aee3a3cb8cb0af576945e0c6dbdae8858f",
+      "bytes": 7104
+    },
+    {
+      "file": "source/FONT-SOURCES.json",
+      "sha256": "3009dcc6ec00a135bf93cff8b10ff44faf94e005da8dc7765d65fd1018d85397",
+      "bytes": 3034
+    },
+    {
+      "file": "source/gallery-layout.css",
+      "sha256": "471833a108784acfc48e9375cfc59fde08eb2fb792b2523cf6c139a62eaef004",
+      "bytes": 3327
+    },
+    {
+      "file": "source/inherited-sources.json",
+      "sha256": "dabfc38b8d25924aaf9a5f41883513485288cceea72dcd0ef4cc708f46709ff7",
+      "bytes": 1483
+    },
+    {
+      "file": "source/inherited-support.css",
+      "sha256": "38b6c2b214e4686c3a0201db938a5b57310d17401a8eba7451419bcb1cd1e863",
+      "bytes": 14118
+    },
+    {
+      "file": "source/mabula.css",
+      "sha256": "8c54026e40c2e063b393cd90254604126e9eb062454fca83af502b4e2281e2d7",
+      "bytes": 1997
+    },
+    {
+      "file": "source/measure-dom.js",
+      "sha256": "36d9b789af3409539f12da362ebbf3e6b927857ad275aced8748cd3dd0dd7057",
+      "bytes": 2637
+    },
+    {
+      "file": "source/repack.py",
+      "sha256": "34a8f23e0a6aa35014fb90e4c80460d0184cdf00efaf3fa7482f1e33f444893d",
+      "bytes": 1224
+    },
+    {
+      "file": "source/safari-plains.css",
+      "sha256": "0b81925fc733f9917bcfd158fcce469dddaab3689227f98776327f3b86d8a026",
+      "bytes": 2115
+    },
+    {
+      "file": "source/shared.css",
+      "sha256": "f0ea4823212b67b67ab7caad6079f59681532d602f542070920d27e09176bd7d",
+      "bytes": 8857
+    },
+    {
+      "file": "source/SOURCE.md",
+      "sha256": "fc6bd26e9c573ffadf6914d85e2c801bc09f44356c8650eec614527a32a78a12",
+      "bytes": 1684
+    },
+    {
+      "file": "cms-assets/angels-view/carousel-01-670x300.jpg",
+      "sha256": "ad28b11d044e500bb2374b14cc01340f302632ce36be1df7ba47d2bb99aca360",
+      "bytes": 69999
+    },
+    {
+      "file": "cms-assets/angels-view/carousel-01-alt-crop-670x300.jpg",
+      "sha256": "ee9ec6f0fb62c1089bafaa61bb5eaa1efe6ac2df45e3c5b5504a1ce63db8e5d8",
+      "bytes": 71134
+    },
+    {
+      "file": "cms-assets/angels-view/carousel-02-670x300.jpg",
+      "sha256": "ee9ec6f0fb62c1089bafaa61bb5eaa1efe6ac2df45e3c5b5504a1ce63db8e5d8",
+      "bytes": 71134
+    },
+    {
+      "file": "cms-assets/angels-view/logo-230x100.png",
+      "sha256": "d08082b53af04b20946ac036e8c397f30d3cc0ffd39a3171ba2515118259d258",
+      "bytes": 11457
+    },
+    {
+      "file": "cms-assets/angels-view/property-133x99.jpg",
+      "sha256": "a1b758c706c7b4de211163087ac3ee16453cc1215d03d210aac7d3b1376261e8",
+      "bytes": 6389
+    },
+    {
+      "file": "cms-assets/mabula/carousel-01-670x300.jpg",
+      "sha256": "f899730710b177df7c9cca05235a78480a811195202b66ee5b3ace7acce74c2f",
+      "bytes": 87254
+    },
+    {
+      "file": "cms-assets/mabula/carousel-01-alt-crop-670x300.jpg",
+      "sha256": "bb6161cfb9e6e009d3dd12f5aa0c0015d4e98d31add254db0bfe24a0869e735a",
+      "bytes": 118084
+    },
+    {
+      "file": "cms-assets/mabula/carousel-02-670x300.jpg",
+      "sha256": "bb6161cfb9e6e009d3dd12f5aa0c0015d4e98d31add254db0bfe24a0869e735a",
+      "bytes": 118084
+    },
+    {
+      "file": "cms-assets/mabula/logo-230x100.png",
+      "sha256": "8dded13481aa35c314e7efdd988eeaa6ab64f67794d29f6571afbd6fe879bf7f",
+      "bytes": 12846
+    },
+    {
+      "file": "cms-assets/mabula/property-133x99.jpg",
+      "sha256": "080a091b039474ffb35dd73a685d273c4f2e397ae923bd23bf235a0811f4b301",
+      "bytes": 7778
+    },
+    {
+      "file": "cms-assets/safari-plains/carousel-01-670x300.jpg",
+      "sha256": "1b80a0b2d786e4efe478702d93ed3882b20abff0651b0d3691bc932f333ad4a3",
+      "bytes": 141719
+    },
+    {
+      "file": "cms-assets/safari-plains/carousel-01-alt-crop-670x300.jpg",
+      "sha256": "25fd5c90a66249de2c7c9be908e3a995e301072b9e505ccc5a41fabdda202c46",
+      "bytes": 81761
+    },
+    {
+      "file": "cms-assets/safari-plains/carousel-02-670x300.jpg",
+      "sha256": "25fd5c90a66249de2c7c9be908e3a995e301072b9e505ccc5a41fabdda202c46",
+      "bytes": 81761
+    },
+    {
+      "file": "cms-assets/safari-plains/logo-230x100.png",
+      "sha256": "1e17234274077479e93bcc166e4c093c292e18c66065d835edd4d29d085357e8",
+      "bytes": 10274
+    },
+    {
+      "file": "cms-assets/safari-plains/property-133x99.jpg",
+      "sha256": "d23e04c27fcca7c19488a3aeb1be35e2f2e57feeed6a10fce186bd5315e2e7de",
+      "bytes": 10193
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/01-133x99.jpg",
+      "sha256": "a1b758c706c7b4de211163087ac3ee16453cc1215d03d210aac7d3b1376261e8",
+      "bytes": 6389
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/01-670x300.jpg",
+      "sha256": "ad28b11d044e500bb2374b14cc01340f302632ce36be1df7ba47d2bb99aca360",
+      "bytes": 69999
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/02-133x99.jpg",
+      "sha256": "803c02597d5fa6088681070f8941fd64563639cc7bf70af182b58c4ba74fb56b",
+      "bytes": 6973
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/02-670x300.jpg",
+      "sha256": "ee9ec6f0fb62c1089bafaa61bb5eaa1efe6ac2df45e3c5b5504a1ce63db8e5d8",
+      "bytes": 71134
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/03-133x99.jpg",
+      "sha256": "e80d62bafe2c5093f8506efeb3ced7f2a2ef50766f45bfb4751d5df189ecbb7b",
+      "bytes": 6803
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/03-670x300.jpg",
+      "sha256": "930f66d4d1c1a2846e478baa95ea210b7a136f4def112be28b6429940cab01d7",
+      "bytes": 66126
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/04-133x99.jpg",
+      "sha256": "26fe0dd27bf23d02e81a2c64afb4d110b25495d54d727d7849851e8ae9fcb1c7",
+      "bytes": 6851
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/04-670x300.jpg",
+      "sha256": "63de07cfbd86fe949999d30d4c7ddb876ac51828df76211dfe211fb597dd0ab6",
+      "bytes": 71817
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/05-133x99.jpg",
+      "sha256": "def8313f120373154680eeafe1d746461304a058951c00f1674af2577e2e299e",
+      "bytes": 6269
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/05-670x300.jpg",
+      "sha256": "ec65f28ae910cb20ecdf296ccd7098f16a5dea9ecce3d25154fa6a6096338cbf",
+      "bytes": 69152
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/06-133x99.jpg",
+      "sha256": "c9f316be555d4df573efa8572b35ba9507ed892a5af89b3ed05a44384463a348",
+      "bytes": 7439
+    },
+    {
+      "file": "cms-assets/angels-view/shared-property/06-670x300.jpg",
+      "sha256": "97993459ce21009f6f7914f8af4891cf94ab9ce9bbe45829b69f629526a375d3",
+      "bytes": 72202
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/01-133x99.jpg",
+      "sha256": "080a091b039474ffb35dd73a685d273c4f2e397ae923bd23bf235a0811f4b301",
+      "bytes": 7778
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/01-670x300.jpg",
+      "sha256": "f899730710b177df7c9cca05235a78480a811195202b66ee5b3ace7acce74c2f",
+      "bytes": 87254
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/02-133x99.jpg",
+      "sha256": "9092e756cbc1b020fc48c89a87473cd28f0d9b680a6d65d859782fa27e33ed3f",
+      "bytes": 9863
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/02-670x300.jpg",
+      "sha256": "bb6161cfb9e6e009d3dd12f5aa0c0015d4e98d31add254db0bfe24a0869e735a",
+      "bytes": 118084
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/03-133x99.jpg",
+      "sha256": "b48e431d25d864bf608da9ff00b8bdbc51627b77ce8cc771323230855b991064",
+      "bytes": 9341
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/03-670x300.jpg",
+      "sha256": "1576ecde87086ec21a11394fc7d5db39ad2e755eec63cb592df9793a5f7f3816",
+      "bytes": 108390
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/04-133x99.jpg",
+      "sha256": "ad9efb81d56fab3fb61d671674e6d0a8ec4a8455088808c4f0986aa8a4bb8582",
+      "bytes": 9693
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/04-670x300.jpg",
+      "sha256": "53b446f50dd6d283ba168fe5e5dcbf7867f7f92da13e523c47eb33252ec1ca05",
+      "bytes": 98866
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/05-133x99.jpg",
+      "sha256": "84ade21110528de0b0c1d072593821f7ba549f94aa61b978454d2a0b3019ed13",
+      "bytes": 8980
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/05-670x300.jpg",
+      "sha256": "84567c41e8a7ff07ef37c196a04f92e957f3d2f639801c7418e2260d6eab1ac4",
+      "bytes": 83044
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/06-133x99.jpg",
+      "sha256": "dc2f0dc5ea381c3c3f7edcb27bcc4d15863a35469ce776e0232f57c2416d9d0a",
+      "bytes": 9217
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/06-670x300.jpg",
+      "sha256": "b794e91f9e021548f430c56bda39cb92ce615f4c9699bed47bc777dd41b13298",
+      "bytes": 99227
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/07-133x99.jpg",
+      "sha256": "00864bf3f0a41edbe72b64b79a0f19aaf6137324760b548bfdd56d8c102e9e2e",
+      "bytes": 9402
+    },
+    {
+      "file": "cms-assets/mabula/shared-property/07-670x300.jpg",
+      "sha256": "bde7e137666803ed145a007c5d1283085ee617d6bbbef64eb096a7e2367c2af2",
+      "bytes": 94210
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/01-133x99.jpg",
+      "sha256": "d23e04c27fcca7c19488a3aeb1be35e2f2e57feeed6a10fce186bd5315e2e7de",
+      "bytes": 10193
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/01-670x300.jpg",
+      "sha256": "1b80a0b2d786e4efe478702d93ed3882b20abff0651b0d3691bc932f333ad4a3",
+      "bytes": 141719
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/02-133x99.jpg",
+      "sha256": "a02906b7cc530b821c13bd025767bce8ac67c1e085e5a2b00d70e452e86589ef",
+      "bytes": 9188
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/02-670x300.jpg",
+      "sha256": "07da944b4e5c304e85395a300c9248503ff3da6624a7db6e707eb1fb2d21bb20",
+      "bytes": 123386
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/03-133x99.jpg",
+      "sha256": "b698b897adca386531053fe7b775cf3eb30c78a7470af8c2dcb0850d75a210c7",
+      "bytes": 9053
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/03-670x300.jpg",
+      "sha256": "14937bacbe43295b0a983328de8b870631f717bc4c48895482326b03d964b45d",
+      "bytes": 81051
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/04-133x99.jpg",
+      "sha256": "21ea524375d96114693b973adecaf0ec639d26e30790aaefbf90331451f10698",
+      "bytes": 8934
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/04-670x300.jpg",
+      "sha256": "447e623fa1fe3a7b91a783b55987b30680f602be428a8912caa8aa316ab702b4",
+      "bytes": 89812
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/05-133x99.jpg",
+      "sha256": "d65cf51727930c5dbde8ba3034360ccca7b9824ea434122d13c19813cd1c130a",
+      "bytes": 8790
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/05-670x300.jpg",
+      "sha256": "5a7082c0895850fef4c68d3d0a36244b039814771ec277b76bf4eab294ae7457",
+      "bytes": 90895
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/06-133x99.jpg",
+      "sha256": "05af2a77e7d67f754ae1e0090382c1798464bd681d1e030348ab5dc9180ade6f",
+      "bytes": 6850
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/06-670x300.jpg",
+      "sha256": "25fd5c90a66249de2c7c9be908e3a995e301072b9e505ccc5a41fabdda202c46",
+      "bytes": 81761
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/07-133x99.jpg",
+      "sha256": "dfa48c00a3f991544de7edfac2102bd9080c4446da7dba5714d5400996a07c95",
+      "bytes": 8345
+    },
+    {
+      "file": "cms-assets/safari-plains/shared-property/07-670x300.jpg",
+      "sha256": "0b448642e7ff9231fe612fcee9b0655119be5c0046d669c8d20c76078a0b9061",
+      "bytes": 95228
+    },
+    {
+      "file": "evidence/screenshots/angels-view-error-1440.jpg",
+      "sha256": "53e42ab1c4a5023e19fe7aea00d1070903a949bed76d87a3322797a2366e1426",
+      "bytes": 442702
+    },
+    {
+      "file": "evidence/screenshots/angels-view-error-320.jpg",
+      "sha256": "ee2af988885d53202e6d36fac7cd3ebef73d1bf427d40b409ae7d54fa29b45b5",
+      "bytes": 308360
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-1024.jpg",
+      "sha256": "feeeadeec850ee96c8b0a95bd0ae33adc82be32b40e0019a415a7a5eecbdbecf",
+      "bytes": 108918
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-1440.jpg",
+      "sha256": "05907ad9318338049de1e8e766b11e9ba43798048ae8597aec32fd1d8b6b5974",
+      "bytes": 123428
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-1920.jpg",
+      "sha256": "4b6af00e2b8dead5e85fe991d954215aadb73de8a4383e6d2326521bdb16aad7",
+      "bytes": 131795
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-320.jpg",
+      "sha256": "e5092cfb98eecc5282c78083d7fb2f00893eae6f584cb82a03163a18aca18ea6",
+      "bytes": 73197
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-390.jpg",
+      "sha256": "b4d4cea5d10fea92453777666b4cdc23e90f86869cbaab476601ec8a93847749",
+      "bytes": 80350
+    },
+    {
+      "file": "evidence/screenshots/angels-view-home-768.jpg",
+      "sha256": "3c06b1f5269ff61f14ea8c4c02485b6508c9b21c85b5aba19b078629dc47c7fa",
+      "bytes": 115551
+    },
+    {
+      "file": "evidence/screenshots/angels-view-imagefailure-1440.jpg",
+      "sha256": "dce5ce83e090e5457b0b670f13941b41648824da4313e96583f0d8d6b21c62f3",
+      "bytes": 152467
+    },
+    {
+      "file": "evidence/screenshots/angels-view-imagefailure-320.jpg",
+      "sha256": "0e9094c30f261f0060de6cbcee8c207148dc658e43de2d09e148024e63d3623c",
+      "bytes": 104701
+    },
+    {
+      "file": "evidence/screenshots/angels-view-loading-1440.jpg",
+      "sha256": "4d359e8d610dea4747e2a7da36de205749b5487ca9879f4bf9b02f4ceb86e717",
+      "bytes": 442976
+    },
+    {
+      "file": "evidence/screenshots/angels-view-loading-320.jpg",
+      "sha256": "b2af783256b21a640f1b3850ca151e29df6e649c65f3bcfc39c21020912f4eb4",
+      "bytes": 308435
+    },
+    {
+      "file": "evidence/screenshots/angels-view-location-1440.jpg",
+      "sha256": "65f732f767c54f3e1647f6d3d6413ecc334171bdedd4391a38f19a4ad375fbef",
+      "bytes": 192293
+    },
+    {
+      "file": "evidence/screenshots/angels-view-location-320.jpg",
+      "sha256": "45dc579f03e7feba41647d12105362ff8051024dae0b09c1f70b59f56be19a2a",
+      "bytes": 99014
+    },
+    {
+      "file": "evidence/screenshots/angels-view-longcaption-1440.jpg",
+      "sha256": "3636705b2dac5a21f67b78d1d6dee5391e1e3771b3baf535ac5cb42e2c2264ec",
+      "bytes": 192145
+    },
+    {
+      "file": "evidence/screenshots/angels-view-longcaption-320.jpg",
+      "sha256": "1faf9fa2e1d1b8ae83c7c8df8eb9aa9a19a08c9df4550a974ed10ce191ad2fb8",
+      "bytes": 114129
+    },
+    {
+      "file": "evidence/screenshots/angels-view-photos-1440.jpg",
+      "sha256": "4db56f90f2e4f38dd117cbfca67226db8b8f033f808360bf19a1eaa466b45404",
+      "bytes": 184114
+    },
+    {
+      "file": "evidence/screenshots/angels-view-photos-320.jpg",
+      "sha256": "54a4f8b523076159dc833328b05de3e6b0933a1991a8168cb020b91c07eda060",
+      "bytes": 110561
+    },
+    {
+      "file": "evidence/screenshots/angels-view-rates-1440.jpg",
+      "sha256": "779787aba482e0f66f5cee14e0863046cfb37fb7f7566ed464f6c290ddcfca3f",
+      "bytes": 442641
+    },
+    {
+      "file": "evidence/screenshots/angels-view-rates-320.jpg",
+      "sha256": "bf0de8214a1141017b8a5b13748eaa73ddb14bd01c13c6753eeca388cdfc092d",
+      "bytes": 308266
+    },
+    {
+      "file": "evidence/screenshots/angels-view-results-1440.jpg",
+      "sha256": "1a8681af7df4675fcc56f6879630f075acc7cca815ed660643609231ea5f8fe2",
+      "bytes": 168030
+    },
+    {
+      "file": "evidence/screenshots/angels-view-results-320.jpg",
+      "sha256": "116240129d704cb82698322156130ece2dcb5720ee27c8d904cd4c618c85e06f",
+      "bytes": 108002
+    },
+    {
+      "file": "evidence/screenshots/angels-view-roominfo-1440.jpg",
+      "sha256": "ae3f078b7a6da23ce9a4056155736041480b2e17519de4b9fba75ac705d33f95",
+      "bytes": 407204
+    },
+    {
+      "file": "evidence/screenshots/angels-view-roominfo-320.jpg",
+      "sha256": "947fa11981b440978f0d2147268c3f2fea8697fba83bf41cd717414fa6c39a45",
+      "bytes": 106357
+    },
+    {
+      "file": "evidence/screenshots/angels-view-terms-1440.jpg",
+      "sha256": "c38f5d5ecfa99350c147ee2d8dabb49856966940db11e01337e3e1fd6b7b0f46",
+      "bytes": 193791
+    },
+    {
+      "file": "evidence/screenshots/angels-view-terms-320.jpg",
+      "sha256": "1573aa537575e1f778438d38c5993f62b927c875bb848d67c89fe4905e3cbdb0",
+      "bytes": 107814
+    },
+    {
+      "file": "evidence/screenshots/mabula-error-1440.jpg",
+      "sha256": "8374e168fca7193ea155c3f56c506be1231bbe7ed3e59699723ca2a40b85bd91",
+      "bytes": 266370
+    },
+    {
+      "file": "evidence/screenshots/mabula-error-320.jpg",
+      "sha256": "a4a29d9552e531d25b171a5145246d8d168e11f1531136faeab2698699482b72",
+      "bytes": 180127
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-1024.jpg",
+      "sha256": "989a67443891ed53de1868b0ac8e894cea971b225806ef05170313d7e3f51549",
+      "bytes": 122125
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-1440.jpg",
+      "sha256": "31e8244d2bc1f1825e0c6bb9f4b84b7eec11323c00f90c399a52fe5c0611a948",
+      "bytes": 132629
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-1920.jpg",
+      "sha256": "3961bc990bbae2b739da72af8d6d4ca5e454098476e4a30869abd4e5333ca734",
+      "bytes": 141166
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-320.jpg",
+      "sha256": "986d9da133e5ed3b0460b06a7c1ecc15a1cd6a5481bb53d2b618caafddd6e952",
+      "bytes": 69392
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-390.jpg",
+      "sha256": "7915f97d32b31ef470af046ff1d1d33c3319aa795e413c1f2f5d7bcef09b81ef",
+      "bytes": 76514
+    },
+    {
+      "file": "evidence/screenshots/mabula-home-768.jpg",
+      "sha256": "0313c40a1b97666c16a936a35503674941664c74d61b88bc64a024111104421d",
+      "bytes": 115375
+    },
+    {
+      "file": "evidence/screenshots/mabula-imagefailure-1440.jpg",
+      "sha256": "2eecf7e5d1d643aa45e61ddc431070bb9b3bfc98b1bc78a8274cbeee35c8bcfd",
+      "bytes": 135900
+    },
+    {
+      "file": "evidence/screenshots/mabula-imagefailure-320.jpg",
+      "sha256": "775f7c47a25dac8099081d8fb59bf0155e9d844060c39a3488e84e9a6fa0d2c7",
+      "bytes": 106714
+    },
+    {
+      "file": "evidence/screenshots/mabula-laptop-1440x768.jpg",
+      "sha256": "2b9e885e445ced6fc7facfd990eed4af0217ab1e546b92454d9ed8dca669d8fb",
+      "bytes": 60066
+    },
+    {
+      "file": "evidence/screenshots/mabula-loading-1440.jpg",
+      "sha256": "15807107b5caf34d174f0a8f7763a121bdef8b155730cd02ae25f9a60ab01b70",
+      "bytes": 266477
+    },
+    {
+      "file": "evidence/screenshots/mabula-loading-320.jpg",
+      "sha256": "82d79afe4d692e98a22adde98d849c92b2c83089767eb8976768cbfb87409ecb",
+      "bytes": 180182
+    },
+    {
+      "file": "evidence/screenshots/mabula-location-1440.jpg",
+      "sha256": "be0175ecfb1d8525c13aee7befa1e235cf476acc34dcc1ba28babcc599ab31e9",
+      "bytes": 179826
+    },
+    {
+      "file": "evidence/screenshots/mabula-location-320.jpg",
+      "sha256": "7fbb9ab0d8e3181fc8e4df14ed390fd2993d367a01cc42429216dc0a1033e550",
+      "bytes": 100572
+    },
+    {
+      "file": "evidence/screenshots/mabula-longcaption-1440.jpg",
+      "sha256": "c2f4071589d070466c13f49cb168b34349a42d09804abc04608614ace892168c",
+      "bytes": 182154
+    },
+    {
+      "file": "evidence/screenshots/mabula-longcaption-320.jpg",
+      "sha256": "fb2a6f7fc4ee5a429b681ebd91161a50c35a2c40e25b2d1e6f2657a0b2cf5352",
+      "bytes": 114499
+    },
+    {
+      "file": "evidence/screenshots/mabula-photos-1440.jpg",
+      "sha256": "3f3c9494a09307202cb765616530f50ebd91f4c89ad7202acc3ce528e376a8e6",
+      "bytes": 174813
+    },
+    {
+      "file": "evidence/screenshots/mabula-photos-320.jpg",
+      "sha256": "39a68a3741c064f0193662c2cbd19ee619018d2b8efd24b5c11d598622966430",
+      "bytes": 113562
+    },
+    {
+      "file": "evidence/screenshots/mabula-rates-1440.jpg",
+      "sha256": "358d7d4fa561272344fafe268e5e79000c3294391f6b7e5bc676987739ae2557",
+      "bytes": 266180
+    },
+    {
+      "file": "evidence/screenshots/mabula-rates-320.jpg",
+      "sha256": "2acf7adfb082176515631c97cb327fe5f3ab59556992414b49b59ff81ace2c09",
+      "bytes": 179896
+    },
+    {
+      "file": "evidence/screenshots/mabula-results-1440.jpg",
+      "sha256": "1d68ee411fe2b88e54bc48a164f6d5332aec8554dbc692574adec1798cc475c2",
+      "bytes": 152678
+    },
+    {
+      "file": "evidence/screenshots/mabula-results-320.jpg",
+      "sha256": "bf7200a822b79f4a6c54c9fc905224fb4681c29fd29f052d54ae9f284786286b",
+      "bytes": 109755
+    },
+    {
+      "file": "evidence/screenshots/mabula-roominfo-1440.jpg",
+      "sha256": "76938803b092485b0fb90b2ef5c1e88871116287020c621222f1aa458f18ae60",
+      "bytes": 227680
+    },
+    {
+      "file": "evidence/screenshots/mabula-roominfo-320.jpg",
+      "sha256": "2625f1ffc96c143642d1ea06577e693184627a2eb9059294eca8e819eb66a91d",
+      "bytes": 111547
+    },
+    {
+      "file": "evidence/screenshots/mabula-terms-1440.jpg",
+      "sha256": "cc733b79ab3b115c3efe79e46560b2ec62b06a9a97f94fe8edfef8d4cc32c9f4",
+      "bytes": 179345
+    },
+    {
+      "file": "evidence/screenshots/mabula-terms-320.jpg",
+      "sha256": "713db3cd6444f33cda0d8f6cb89873462f0816409645144d1674675eb1742e1f",
+      "bytes": 107449
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-error-1440.jpg",
+      "sha256": "6ce1d081cfbbcbeebc2b8c9f52c1ee612aa8ff4aa4ce4ad88121c4ad919872cf",
+      "bytes": 203872
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-error-320.jpg",
+      "sha256": "18338c5272af987bc44b0354e46efd7592ba5a589daef41f264027f409ff5ccc",
+      "bytes": 138144
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-1024.jpg",
+      "sha256": "a021d7293792e5ad30353bc1802223c54ff02fcc615b9f5eca9d111d4a385ae9",
+      "bytes": 120897
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-1440.jpg",
+      "sha256": "3b9e49a44d497cddf6a9eb26987c50460f068b0f4aabddcfa1c1a9394366c39c",
+      "bytes": 150812
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-1920.jpg",
+      "sha256": "d08043bb58521ef058354665059563c9574bf9b5eb17728cd0493223469d907d",
+      "bytes": 158974
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-320.jpg",
+      "sha256": "9c0b207c845bd2a044cc90d45f08309a1e52b11317a311f6f7868709a8f71c73",
+      "bytes": 77050
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-390.jpg",
+      "sha256": "3c40602466c80da99b2734764d2f8089f5b6a1d9ab31732fdef679264272ee6f",
+      "bytes": 86121
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-home-768.jpg",
+      "sha256": "ac5922c92ed9793d9d8baf9ad841a41587b8ca75f5bbf13b91837a2d34de2fea",
+      "bytes": 139385
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-imagefailure-1440.jpg",
+      "sha256": "05b6abbecd5fd631d0f1ee14ece5d032363360a643ce4b89a3f627e02b0207ba",
+      "bytes": 133898
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-imagefailure-320.jpg",
+      "sha256": "69713f133cc5a65900e0b4b68985449361b8cfb6c52035d1de7dd99060a2d637",
+      "bytes": 111102
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-loading-1440.jpg",
+      "sha256": "45898be2d70492ade8159d5b4b4a04d7d381101e712b364a4757ec262199c3d2",
+      "bytes": 203971
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-loading-320.jpg",
+      "sha256": "916c7978de84d378d1480280b6db20196cd7b5a2af0ab56344cc88c5366fae2b",
+      "bytes": 138197
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-location-1440.jpg",
+      "sha256": "503d85fc6bf104f3e87eed656d875c65e5b5932b8cf62d94f445928595e778c6",
+      "bytes": 178002
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-location-320.jpg",
+      "sha256": "57621e6b0a10d482e1ae8ee2407d300e4ac2ca9f411d62d4f7cbd39fb8532787",
+      "bytes": 105145
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-longcaption-1440.jpg",
+      "sha256": "1213f2e1ab8421fc5587be68e79f02f38887025e803ccfe4c889b82223d23b10",
+      "bytes": 206903
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-longcaption-320.jpg",
+      "sha256": "a2bfb14fcf15c44f7dd6d952b8e0b9ee19d17465028ab7c38d69df865ce7c631",
+      "bytes": 126142
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-photos-1440.jpg",
+      "sha256": "a32173e5c4fe1c85cb71030c85129f55db7191c2b534ed6f21c3a4c033c75db6",
+      "bytes": 200648
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-photos-320.jpg",
+      "sha256": "ce5f1606f9e8496781a6a09b057d82d5eaf948321cc1790327cab18c5a3d676e",
+      "bytes": 121751
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-rates-1440.jpg",
+      "sha256": "d194be4e4ab0e47f3a2c2d688aba0e54a4d6b9e87decd6dac8b5a82c2cff27b2",
+      "bytes": 203718
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-rates-320.jpg",
+      "sha256": "b3524420a877e57d8b3e8dc38025c218c14ff253f62e375d1f60a39e4678dcac",
+      "bytes": 138030
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-results-1440.jpg",
+      "sha256": "33ee2622e69691571edbd4d23c59213538aa56890ac33de2e41691853407ca37",
+      "bytes": 152838
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-results-320.jpg",
+      "sha256": "fb0b4f79f9ae73a1257cdfe4628ae0c38667429e64d51c3c3f57abe3f5ec7e8d",
+      "bytes": 112283
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-roominfo-1440.jpg",
+      "sha256": "81e9ad153cc58f5627cf140ab13c83e038229f390862a22ec5361cf09f7030d6",
+      "bytes": 190681
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-roominfo-320.jpg",
+      "sha256": "b428151d809eb854022e8e80ef84957cf0b2ce559e3e011936ea5d010bcfc7c9",
+      "bytes": 114248
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-terms-1440.jpg",
+      "sha256": "cba31a76119a10ef471586bc5599334b931f10f4797a1d64cc60be0e5704617a",
+      "bytes": 180722
+    },
+    {
+      "file": "evidence/screenshots/safari-plains-terms-320.jpg",
+      "sha256": "b504860a24bf1e9cd8e1564f7d12607a48cd280947471ebf63547d855e8dd7fd",
+      "bytes": 112004
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/brand-fonts.css",
+      "sha256": "f3bc45e1a086199903e89dbc65d310e6beaf342436b40fb7274b4c501c8dea62",
+      "bytes": 235202
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/facebook.css",
+      "sha256": "1a8c7fdc27d08c6f807ebdcafb0e8f75ce2f2553fd9c60f003ce27dc9e4e7714",
+      "bytes": 832
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/mainStyle.css",
+      "sha256": "614e9d637e26874f95d901f0f8655f4ea07348c94d2af6f7abb5bc3ae335b6eb",
+      "bytes": 143281
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/mobile.css",
+      "sha256": "b9b0046559aa7a04a4674f67efda270b3b42b8d8fc23f54a5f41f16e11d2b520",
+      "bytes": 17698
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/mobileTheme.css",
+      "sha256": "05dc0fbeedcd5ab7f1b95f8e78c3b32c83fffc259774a98bc7f2d21d136214c9",
+      "bytes": 91470
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/reset.css",
+      "sha256": "4dd488dae98075f2d47dbaf00c778c927835c4fad3eb6cb5e31f348461b1b293",
+      "bytes": 676
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/searchwidget.css",
+      "sha256": "102de677dd917c68d2da8bd8101787d56199a46f70b18afa7a21ccfa20f00158",
+      "bytes": 7482
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/theme.css",
+      "sha256": "085ae71bf72631c7366f1cf0dbf1d907b7d1d7063b81b5f5e44b4deb0645bdcc",
+      "bytes": 101261
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/bigl_divider.gif",
+      "sha256": "e22a1c343586f521238d1d0522b97e70d95557a5d0192463e8e901627397661a",
+      "bytes": 2701
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/caption.png",
+      "sha256": "76f2a9c1e0e6fe8f6f0fe94675b8219548c21bda693a02a25ada31e20d30ae37",
+      "bytes": 4922
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/check_box.png",
+      "sha256": "be05dccd5150920beb05438695830e94b629f634147cff81d227a9f9738c5e06",
+      "bytes": 501
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/compass.png",
+      "sha256": "5c1bcd51b44ead94d454e42365b89a60fcae95fd37acdd2843218405225bfdbd",
+      "bytes": 24171
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/dividerGrad.gif",
+      "sha256": "059f4d656725d54327e8c4fc9353ad7bc71e9f039639325b704f5e83b287c33f",
+      "bytes": 95
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/dropdown_down_arrow.gif",
+      "sha256": "452a9365dd3cca720ffbe80fe322b3cd7e4cad701e12b513acfae56851818d7d",
+      "bytes": 963
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features.gif",
+      "sha256": "5df924f8f16d8cf51d009ee5f108068203179143b8205723341119ed990304e3",
+      "bytes": 7517
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/fieldset_bg_grad.gif",
+      "sha256": "18de5cc4a28750b57619e5379183f3a68e43b68f0979bcda30f94531aaaf5698",
+      "bytes": 1202
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/forward.png",
+      "sha256": "410fa86dacebd9e52d8e1a3305fb6f1d2a93624575513e299a578076cbda0581",
+      "bytes": 2355
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/Hotel.png",
+      "sha256": "42f5082670d0c2923127de887cb73b58fc0be50a6161b354407568ce1afa9427",
+      "bytes": 1384
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/icon_sprite.gif",
+      "sha256": "c30c7dc4599018d412ab99350ddc2640c927c855bd9d280ea25f52860f63fa56",
+      "bytes": 2916
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/icon_sprite.png",
+      "sha256": "e9988eb0e5b7e66b4ed330431b56f48a94910a0024f3915db24f8622e7f3f073",
+      "bytes": 6035
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/image_shadow_bg.gif",
+      "sha256": "6d61332e6dcf49be36c6d4683726667313ea1b009db98f43a1243ae8e8315fd6",
+      "bytes": 2627
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/image_shadow_bg.png",
+      "sha256": "03d200b69d1afef4729b739f4edaa4a825979a6f819a8602e02e5dbebc9a0778",
+      "bytes": 2561
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/input_bg_grad.gif",
+      "sha256": "e4987c74bdf84555c06905ae49a0fec56f1089bfe95843f5e6156ac3ca06e7d6",
+      "bytes": 1161
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/itineraryDivider.gif",
+      "sha256": "4e5179cf1b3950dd7fabb29e26580e01e19951ffc7954334955ec7ee94e7bcd0",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/loading.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/loadingsmall.gif",
+      "sha256": "fd29b3b084cf11160bfc4e99d98a261f2b36bff29113b07367c5204563c5d355",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/login_input_bg.gif",
+      "sha256": "644433ce831ef982eb9eefe121807b9dbb8601821935dc26c2758a3daf9d7e08",
+      "bytes": 1667
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/login_input_bg.png",
+      "sha256": "2f4e37790506d7d6be6c66b44b8e379c2798a3f8b937e4447d32d66295b95d5b",
+      "bytes": 774
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/logo_bg.gif",
+      "sha256": "4615bc19f9f557d0932d866fafb76b8e64f415e3596965a200e8201a2969f9b1",
+      "bytes": 3080
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/logo_bg.png",
+      "sha256": "5a609669d83ee27f3ee23b4d2e9a860a8501055751f31f90f789eb0ccf59759f",
+      "bytes": 3187
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/logo_bg2.png",
+      "sha256": "ab10a148b7eece9afc593b19badbcd9ed85e0c5ea24ed4f02abbd49049bc4b65",
+      "bytes": 3012
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/medium_divider.gif",
+      "sha256": "b351da896b627571061ced02d53b1b50a0f9461665a1078fafa999f9033e0e6b",
+      "bytes": 2650
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/medium_divider.png",
+      "sha256": "2dd52f62d0e11d1c5c6f8a48d89a5d05b1230f20d3dd986266584a79068f14cd",
+      "bytes": 1783
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/payment_terms.png",
+      "sha256": "c1bbd6452aa9c8c0016a641f153a887fa48caf56b9cd81eff1e69cff87987b73",
+      "bytes": 1420
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/pictures.png",
+      "sha256": "c9e053dcf0bf77b2125cb7eb2d8de43c3f4a6470e273a4c9623a5ce95d0bb0df",
+      "bytes": 2559
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/pleaseWait.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/ratesGrad.gif",
+      "sha256": "c3622bef3e75841d2f7d002766a8599d96f8e20fe19044794293f2c1d8dbf249",
+      "bytes": 1311
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/room.png",
+      "sha256": "033d67d15f248396e4164b43da30ec870bc44b507eb9bdcafa04def9979f29cd",
+      "bytes": 1316
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/rooms.png",
+      "sha256": "1014650ecb251864d070c3758ad173c532762b395b2b644e5b863e2b5c29b197",
+      "bytes": 1957
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/room_pictures_grad.gif",
+      "sha256": "98f3bc199b723840c7d6708b9ab135f3ab54ef48caaf96a67c25a25d7ba70961",
+      "bytes": 1379
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/searchBg.png",
+      "sha256": "91840423c258e73afc794bc1a850e8eb6d44c092418f63d6b7432d008be25809",
+      "bytes": 3338
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/selectedNumberBg.png",
+      "sha256": "dd100aa4f6614b0eb178005afac895cb699d1f36381a1621167a8fc3c622c212",
+      "bytes": 223
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/smallLoadingTransparent.gif",
+      "sha256": "aebc793d0064383ee6b1625bf3bb32532ec30a5c12bf9117066107d412119123",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/small_divider.gif",
+      "sha256": "7c781b504a0751224205db1ec255f1e122b32c5ea7c8f6e0a1dc1b179da1c45e",
+      "bytes": 2285
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/small_image_shadow_bg.gif",
+      "sha256": "b39f47ec328058d5812e835c1c87cf7472990769d09db25978f72ec080f3ba5a",
+      "bytes": 3202
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/special_big.png",
+      "sha256": "d8c2b3b9401b4be107ee5e0cff9130423d18e1cc754b757d890ff1a61e48efc8",
+      "bytes": 5819
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/steps.png",
+      "sha256": "b780469f57a57b408523d1c19225c04c8f3da247e21085de0415c359d668919e",
+      "bytes": 2246
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/steps_selected.png",
+      "sha256": "2e062abe020cbe22670abb3a9f3a1e356f55d7d31902575d9c1ce16ceacc456d",
+      "bytes": 2109
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/tabBg.gif",
+      "sha256": "9bf37bcdc8e68558d11c15a649e13795eef88705bec94091fd0a796f172aabdf",
+      "bytes": 155
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/tableGrad.gif",
+      "sha256": "570b73c42b9f6b3299c127746687ef49604ff62fcf6db523fc88e5ea3119111c",
+      "bytes": 1261
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/tableGradBottom.gif",
+      "sha256": "03a7ae5c9537324eb56640569a9aca91b4e6c99b03a25b89101ccddbbf87a4ea",
+      "bytes": 1239
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/tableGradTop.png",
+      "sha256": "9a8e858d339cd1dc718b87ceefa2e03fc24c817a92c3aacd18c4ce5cfe3a3bc1",
+      "bytes": 111
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/tabNumberBg.png",
+      "sha256": "9d30ae289375c117cb9d312bdbd8983965521e80378366192a1aaefcf5352407",
+      "bytes": 239
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/transparent.gif",
+      "sha256": "a192ecd692934ab2022bf2c8e006d6906b9e30c284afa42f22daa5d17b1a604f",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/licenses/plusjakartasans-OFL.txt",
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "bytes": 4402
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/colourSchemes/custom.css",
+      "sha256": "3c0e471f16f2198c28f4495d7b1578ba88a57f7c77da19af317b86c4eb522c8e",
+      "bytes": 4749
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/css/colourSchemes/mobileTheme.css",
+      "sha256": "256e84239b813a949890bd35e2fddc7efa49abf2aab96190e08d30203c0138cb",
+      "bytes": 14673
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Bar.gif",
+      "sha256": "f545bff272abb8bded56697e11dc4459101bd468272c8d2fded9d783debed6e5",
+      "bytes": 964
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Beach.gif",
+      "sha256": "e2ec71cc8ac9126cdcbe7c327915a391fcc0cc521f288075447a6cf8e6ab0be3",
+      "bytes": 1287
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/BusService.gif",
+      "sha256": "e54997551d9ca590545ea635a0e895b511e91591945a3ce533e9bf55688c37df",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Catamaran.gif",
+      "sha256": "b66249d0083b07f32d67523fa8fff75fc59fa6fa6a1f2c9358094ff8cbf90766",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/ChildrenWelcome.gif",
+      "sha256": "8862152dda6b1201591386cd97006afc642854c310e91817f22991d3df2601a9",
+      "bytes": 1465
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/ConferenceFacilities.gif",
+      "sha256": "ce44c51403e70181edaf74ef98eaa5234b8f52b43e0cd5781d4ad51115900a54",
+      "bytes": 1415
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/DisabledAccess.gif",
+      "sha256": "8f74c01b0446969895e9f89f93c4021f5ee94c2eda9bf1c1918f194325433ad8",
+      "bytes": 988
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Fishing.gif",
+      "sha256": "1346a60d30cf9743c5c7cfed0e658a0b244a021f9c60f49b1b83e111e641a413",
+      "bytes": 1215
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Game.gif",
+      "sha256": "2008320eef1116c8923480d6c0628897fbfc7382fcd4de2f11f43bc6e95fd266",
+      "bytes": 1376
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Golf.gif",
+      "sha256": "f8114e25ba30fb09d61a0dd87aaf76e8dbe7d7ee9912cd85a82d60f714f88f9c",
+      "bytes": 1210
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Gym.gif",
+      "sha256": "5ff9d140c5344666f2d26fd7b81b81269eefae12ba79835ab237e0bd8c96b60e",
+      "bytes": 1209
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Hiking.gif",
+      "sha256": "eaadd4e1df7fa04cbd9ef4d1fe362265930fc8c75c5c8e12a75714cc1ae7d942",
+      "bytes": 1003
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/HorseRiding.gif",
+      "sha256": "e657c27ce735cfa8f7226525aefe2a56b5b0d6d05f7284f7a28dcca48d4f3d79",
+      "bytes": 1043
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/InternetAccess.gif",
+      "sha256": "0d6bc1d2bd182b8a024d5f5346dc497e780783cf5a93aca78563129dcef5ce4f",
+      "bytes": 1284
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Pool.gif",
+      "sha256": "9e27ad05b2aa51df4e01bdaf31a82a6ac5d8c67b6f860e7398068140940bca08",
+      "bytes": 1285
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/QuadBikes.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/QuadBiking.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Restaurant.gif",
+      "sha256": "0b37412bf552ad8a423e9a562f48b95a68e2ee8c955c7c17bc46411bb15203c0",
+      "bytes": 1488
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/RoomService.gif",
+      "sha256": "56ec42fbbd6474c88926e73cddf7abbfafd353a57a3c394ed9c1f3fcc4a35fea",
+      "bytes": 1280
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/SatelliteTV.gif",
+      "sha256": "6ae90012cdf743dcc88a4ff66f13d7aa38e4b48359c0b6fa94c69b4384f364c4",
+      "bytes": 1160
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/ScubaDiving.gif",
+      "sha256": "23f923bf930866ddb6a77c6e2d3a8cb45fae244fcc5333b0b535317f55c88ccb",
+      "bytes": 1265
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/SightSeeing.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/SightSeeingTours.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Snorkeling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Snorkling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Spa.gif",
+      "sha256": "81a577ed6ed79899bd629b36ab2d889845f09ad0402d72fc65da260f7dd2b41a",
+      "bytes": 1431
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Squash.gif",
+      "sha256": "9103d5c70dea0742dbc9e9116c095bd59252f4a266218ecbc522570d13e48897",
+      "bytes": 1257
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/Tennis.gif",
+      "sha256": "2fac53cabb083408f2923925887148f06560ec00c796d5a96f23be529e89123d",
+      "bytes": 1134
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/features/WirelessInternetAccess.gif",
+      "sha256": "d4e2f7454711a73c8d2885a84344f22680769679a99705f6b3c8e39da7697d06",
+      "bytes": 1204
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/back-arrow-charcoal.png",
+      "sha256": "5c6f3867040bb9617a528ffc2522f048b7b8f9855aa3c575fef11b39043eec97",
+      "bytes": 4274
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/background_gradient.gif",
+      "sha256": "e0c9f96263215ebe7db0ab117bf82fdcdc4041a4715817c5f2b4d3a703f2c8fa",
+      "bytes": 1408
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/banner.png",
+      "sha256": "9e1bd7cfcc37d0be8564be9ca44d6db395f82875b084bcaab3a330f3f6cd95d7",
+      "bytes": 3830
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/bigArrowEast.png",
+      "sha256": "f64ae5def45d241c046851e514d6bcdd7da5999e366f4f6088f8484813215d37",
+      "bytes": 1589
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/calendar-icon.png",
+      "sha256": "6b338c7ae7c7ac6eeafd8670e173e08d96a0a0dce9f1d303dbdc55f6513254ea",
+      "bytes": 6031
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/confirmationLinksGrad.gif",
+      "sha256": "1da3afc76e9ee5385758368e1d6416e7aebd17eabbb7e0b470846edb1a42572c",
+      "bytes": 1648
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/confirmationRewardsGrad.gif",
+      "sha256": "6163f1a5ed0e25b0db41d4df3fafcf60a5baf55f2ba3815d9ce86c9c3ab3e523",
+      "bytes": 1662
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/cv_bg.png",
+      "sha256": "53cfb68652792aba914a0237b8ef4b6593fddc0b043d475450eef6449d61b65a",
+      "bytes": 1259
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/doors_bg.gif",
+      "sha256": "6b646f277e5e5eb6ca5e3b94ce3b6f6abb7f42d01ce42cb945b6233b3b6233af",
+      "bytes": 1324
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/form_but_sprite.png",
+      "sha256": "b816eca78b8a97a775beda6f2b1da8e9b93ef19e57a3bbe2247a2e265c1f6256",
+      "bytes": 2064
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/forward-arrow-charcoal.png",
+      "sha256": "f6452519ddc9940da01a59a3aa9447df883031a3118e4a208fe7feee5c5ea033",
+      "bytes": 4309
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/forward-small.png",
+      "sha256": "9be56d48be354134e0e81088175ed68527a3fa115654ca943f340880779829dc",
+      "bytes": 883
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/heading-bg.png",
+      "sha256": "0d795dfc7cf16589e990d682a736f7100522e5a178af8145bdd7be812340aa52",
+      "bytes": 1579
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/icons.png",
+      "sha256": "1c28a99d876c752193f2d3c6d9f5c382b03e37096ce06144fe60f4f99d388d70",
+      "bytes": 3350
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/intineraryBg.gif",
+      "sha256": "093e06482eaa81fcb14e59c997bbe13abab5be8f2caa38c8d3148c610cea9209",
+      "bytes": 1230
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/itineraryMoreEnd.gif",
+      "sha256": "44ddb295c5149ad2ec4cb0ee4f528495d96f930b4c8c236cc17ad89b44807d58",
+      "bytes": 839
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/itineraryMoreGRad.gif",
+      "sha256": "d02c0f7b0ff2a6e8033d28c6f29c5e7c24bfaf0abbcc9eba3b3a9b0f816400ff",
+      "bytes": 120
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/loginPanelBg.gif",
+      "sha256": "d5681a7d0229bda0eb2ec0f0a2b92d339911bb99a6974982abe0dcf2729ee20a",
+      "bytes": 3699
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/login_but_sprite.png",
+      "sha256": "6242b58c4c228af0c5de84eaa941f8e73ea443f5afe4cd53aa921b975afa8126",
+      "bytes": 3085
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/logo.png",
+      "sha256": "d08082b53af04b20946ac036e8c397f30d3cc0ffd39a3171ba2515118259d258",
+      "bytes": 11457
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/med_but_sprite.png",
+      "sha256": "258e2957a840b5d61e840d54dcb9e0221b8a32932619b156e30290bb358e3623",
+      "bytes": 3798
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/newsItem.png",
+      "sha256": "46a9248079a58cadf4ab8297aa68e68bdd29387a43a59e0f0be6ccd3f4b2fa0f",
+      "bytes": 5705
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/ratesLeft.png",
+      "sha256": "d7cdb61bc4b58b1aa5657fe7a0ae018ee258582fc22cedeef64bcda4a5a84d18",
+      "bytes": 1616
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/ratesRight.png",
+      "sha256": "05742d0edd2d30ec3da037817e82eb0ea725e4b6031242a536371596834314a1",
+      "bytes": 1638
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/redcross.png",
+      "sha256": "3dbb5f285c5c9e79fa180f694b83fcf1cfbc4d347b182a1777706622e1411f91",
+      "bytes": 1341
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/reservations.png",
+      "sha256": "bd2864c85df0afd89194ea1ee0b86b97230c8b679b1824ac06c1c07183e8e090",
+      "bytes": 15839
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/result_name_bg.png",
+      "sha256": "3141fa34a5e90bbe7c142fba4c734fdd0993b354afc7fae1e6b4cd3573cffed7",
+      "bytes": 987
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/searchBarHeading.gif",
+      "sha256": "fd3b6beecca49f4d7bed2867c029ee11ef2664cb8fd76d130c9fef85f0a966e3",
+      "bytes": 1873
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/steps_numbers.png",
+      "sha256": "613d3198ebada933caa3ffa5049f409665974f908ac72973375f3606ccc3bd2f",
+      "bytes": 1709
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/steps_numbers2.png",
+      "sha256": "7434252bbc619fd7f00b67d793c851223a1ac2f547b2d0108dd83f7c7c44af31",
+      "bytes": 8834
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/steps_numbers_2019.png",
+      "sha256": "2dabb6d509fab8cb9a3d49996f6d78c519069c11d57a38c52bce39c294df4f59",
+      "bytes": 13311
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/steps_selected.png",
+      "sha256": "3d15aa9c59b9b520fa6a139b12ee0c68c64c67c7771d24be5a8cd2da67c3378f",
+      "bytes": 5308
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/steps_selected2.png",
+      "sha256": "c9b8b0078b66978ae5cf0d955eeb2b20472292f8152eacefd4339b9ddec130d0",
+      "bytes": 17664
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/suggestHotelSelectItem.gif",
+      "sha256": "c296e086158dabd5b70d9404504900343d53018608bc2016dcc152190844f35b",
+      "bytes": 63
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/tab_sprite.gif",
+      "sha256": "fc3dd8203c183fea98ccba34195a2f185bfb028c0d70da59c9f70dd96406199d",
+      "bytes": 4350
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/thumbsUp.png",
+      "sha256": "e28712b2b3d96118603e5867a880cb1b3dc837473c506ee9e206f5dc732822c0",
+      "bytes": 1628
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/view.png",
+      "sha256": "023618e7e102f3b3f5faa1690c3fcc4ebb77dac4ca61fd07266167b4b7f242cf",
+      "bytes": 18359
+    },
+    {
+      "file": "package-css/angels-view/black-rhino2021/images/colourSchemes/custom/xsmall_but_sprite.png",
+      "sha256": "abdabced74e084498574ff076036c7a24cf04aadf47a4ed24158ab33cae39e41",
+      "bytes": 705
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/brand-fonts.css",
+      "sha256": "45541e818bfed7612a697bded26d5cf52f46558bd923e7a113dd975893c8ed71",
+      "bytes": 1029324
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/facebook.css",
+      "sha256": "1a8c7fdc27d08c6f807ebdcafb0e8f75ce2f2553fd9c60f003ce27dc9e4e7714",
+      "bytes": 832
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/mainStyle.css",
+      "sha256": "967918685194c8c5f55e3928f783a7647e85944908cb03b0847408d82bde9fc9",
+      "bytes": 143128
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/mobile.css",
+      "sha256": "b36815090d2f2900c60ac389a0fb17210aaded5415cad1b7f566cb7d7a095c7d",
+      "bytes": 17698
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/mobileTheme.css",
+      "sha256": "6dbffc1c5fd8728e5ee46e356ff9c96933b15c0a3efca60dd94784305fc192f0",
+      "bytes": 91317
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/reset.css",
+      "sha256": "4dd488dae98075f2d47dbaf00c778c927835c4fad3eb6cb5e31f348461b1b293",
+      "bytes": 676
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/searchwidget.css",
+      "sha256": "102de677dd917c68d2da8bd8101787d56199a46f70b18afa7a21ccfa20f00158",
+      "bytes": 7482
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/theme.css",
+      "sha256": "f8a2a5a8e3acfacd0f33f64e698b07e72a94d451a1c951cce8e42eee8e4e0807",
+      "bytes": 101108
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/bigl_divider.gif",
+      "sha256": "e22a1c343586f521238d1d0522b97e70d95557a5d0192463e8e901627397661a",
+      "bytes": 2701
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/caption.png",
+      "sha256": "76f2a9c1e0e6fe8f6f0fe94675b8219548c21bda693a02a25ada31e20d30ae37",
+      "bytes": 4922
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/check_box.png",
+      "sha256": "be05dccd5150920beb05438695830e94b629f634147cff81d227a9f9738c5e06",
+      "bytes": 501
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/compass.png",
+      "sha256": "5c1bcd51b44ead94d454e42365b89a60fcae95fd37acdd2843218405225bfdbd",
+      "bytes": 24171
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/dividerGrad.gif",
+      "sha256": "059f4d656725d54327e8c4fc9353ad7bc71e9f039639325b704f5e83b287c33f",
+      "bytes": 95
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/dropdown_down_arrow.gif",
+      "sha256": "452a9365dd3cca720ffbe80fe322b3cd7e4cad701e12b513acfae56851818d7d",
+      "bytes": 963
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features.gif",
+      "sha256": "5df924f8f16d8cf51d009ee5f108068203179143b8205723341119ed990304e3",
+      "bytes": 7517
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/fieldset_bg_grad.gif",
+      "sha256": "18de5cc4a28750b57619e5379183f3a68e43b68f0979bcda30f94531aaaf5698",
+      "bytes": 1202
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/forward.png",
+      "sha256": "410fa86dacebd9e52d8e1a3305fb6f1d2a93624575513e299a578076cbda0581",
+      "bytes": 2355
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/Hotel.png",
+      "sha256": "42f5082670d0c2923127de887cb73b58fc0be50a6161b354407568ce1afa9427",
+      "bytes": 1384
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/icon_sprite.gif",
+      "sha256": "c30c7dc4599018d412ab99350ddc2640c927c855bd9d280ea25f52860f63fa56",
+      "bytes": 2916
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/icon_sprite.png",
+      "sha256": "e9988eb0e5b7e66b4ed330431b56f48a94910a0024f3915db24f8622e7f3f073",
+      "bytes": 6035
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/image_shadow_bg.gif",
+      "sha256": "6d61332e6dcf49be36c6d4683726667313ea1b009db98f43a1243ae8e8315fd6",
+      "bytes": 2627
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/image_shadow_bg.png",
+      "sha256": "03d200b69d1afef4729b739f4edaa4a825979a6f819a8602e02e5dbebc9a0778",
+      "bytes": 2561
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/input_bg_grad.gif",
+      "sha256": "e4987c74bdf84555c06905ae49a0fec56f1089bfe95843f5e6156ac3ca06e7d6",
+      "bytes": 1161
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/itineraryDivider.gif",
+      "sha256": "4e5179cf1b3950dd7fabb29e26580e01e19951ffc7954334955ec7ee94e7bcd0",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/loading.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/loadingsmall.gif",
+      "sha256": "fd29b3b084cf11160bfc4e99d98a261f2b36bff29113b07367c5204563c5d355",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/login_input_bg.gif",
+      "sha256": "644433ce831ef982eb9eefe121807b9dbb8601821935dc26c2758a3daf9d7e08",
+      "bytes": 1667
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/login_input_bg.png",
+      "sha256": "2f4e37790506d7d6be6c66b44b8e379c2798a3f8b937e4447d32d66295b95d5b",
+      "bytes": 774
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/logo_bg.gif",
+      "sha256": "4615bc19f9f557d0932d866fafb76b8e64f415e3596965a200e8201a2969f9b1",
+      "bytes": 3080
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/logo_bg.png",
+      "sha256": "5a609669d83ee27f3ee23b4d2e9a860a8501055751f31f90f789eb0ccf59759f",
+      "bytes": 3187
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/logo_bg2.png",
+      "sha256": "ab10a148b7eece9afc593b19badbcd9ed85e0c5ea24ed4f02abbd49049bc4b65",
+      "bytes": 3012
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/medium_divider.gif",
+      "sha256": "b351da896b627571061ced02d53b1b50a0f9461665a1078fafa999f9033e0e6b",
+      "bytes": 2650
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/medium_divider.png",
+      "sha256": "2dd52f62d0e11d1c5c6f8a48d89a5d05b1230f20d3dd986266584a79068f14cd",
+      "bytes": 1783
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/payment_terms.png",
+      "sha256": "c1bbd6452aa9c8c0016a641f153a887fa48caf56b9cd81eff1e69cff87987b73",
+      "bytes": 1420
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/pictures.png",
+      "sha256": "c9e053dcf0bf77b2125cb7eb2d8de43c3f4a6470e273a4c9623a5ce95d0bb0df",
+      "bytes": 2559
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/pleaseWait.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/ratesGrad.gif",
+      "sha256": "c3622bef3e75841d2f7d002766a8599d96f8e20fe19044794293f2c1d8dbf249",
+      "bytes": 1311
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/room.png",
+      "sha256": "033d67d15f248396e4164b43da30ec870bc44b507eb9bdcafa04def9979f29cd",
+      "bytes": 1316
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/rooms.png",
+      "sha256": "1014650ecb251864d070c3758ad173c532762b395b2b644e5b863e2b5c29b197",
+      "bytes": 1957
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/room_pictures_grad.gif",
+      "sha256": "98f3bc199b723840c7d6708b9ab135f3ab54ef48caaf96a67c25a25d7ba70961",
+      "bytes": 1379
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/searchBg.png",
+      "sha256": "91840423c258e73afc794bc1a850e8eb6d44c092418f63d6b7432d008be25809",
+      "bytes": 3338
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/selectedNumberBg.png",
+      "sha256": "dd100aa4f6614b0eb178005afac895cb699d1f36381a1621167a8fc3c622c212",
+      "bytes": 223
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/smallLoadingTransparent.gif",
+      "sha256": "aebc793d0064383ee6b1625bf3bb32532ec30a5c12bf9117066107d412119123",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/small_divider.gif",
+      "sha256": "7c781b504a0751224205db1ec255f1e122b32c5ea7c8f6e0a1dc1b179da1c45e",
+      "bytes": 2285
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/small_image_shadow_bg.gif",
+      "sha256": "b39f47ec328058d5812e835c1c87cf7472990769d09db25978f72ec080f3ba5a",
+      "bytes": 3202
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/special_big.png",
+      "sha256": "d8c2b3b9401b4be107ee5e0cff9130423d18e1cc754b757d890ff1a61e48efc8",
+      "bytes": 5819
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/steps.png",
+      "sha256": "b780469f57a57b408523d1c19225c04c8f3da247e21085de0415c359d668919e",
+      "bytes": 2246
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/steps_selected.png",
+      "sha256": "2e062abe020cbe22670abb3a9f3a1e356f55d7d31902575d9c1ce16ceacc456d",
+      "bytes": 2109
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/tabBg.gif",
+      "sha256": "9bf37bcdc8e68558d11c15a649e13795eef88705bec94091fd0a796f172aabdf",
+      "bytes": 155
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/tableGrad.gif",
+      "sha256": "570b73c42b9f6b3299c127746687ef49604ff62fcf6db523fc88e5ea3119111c",
+      "bytes": 1261
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/tableGradBottom.gif",
+      "sha256": "03a7ae5c9537324eb56640569a9aca91b4e6c99b03a25b89101ccddbbf87a4ea",
+      "bytes": 1239
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/tableGradTop.png",
+      "sha256": "9a8e858d339cd1dc718b87ceefa2e03fc24c817a92c3aacd18c4ce5cfe3a3bc1",
+      "bytes": 111
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/tabNumberBg.png",
+      "sha256": "9d30ae289375c117cb9d312bdbd8983965521e80378366192a1aaefcf5352407",
+      "bytes": 239
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/transparent.gif",
+      "sha256": "a192ecd692934ab2022bf2c8e006d6906b9e30c284afa42f22daa5d17b1a604f",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/licenses/bodonimoda-OFL.txt",
+      "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "bytes": 4400
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/licenses/poppins-OFL.txt",
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+      "bytes": 4385
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/colourSchemes/custom.css",
+      "sha256": "ed87e64a027b67ae9811dffc1352158cf64ab567a1b348d12383f25ea9b3ba57",
+      "bytes": 4749
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/css/colourSchemes/mobileTheme.css",
+      "sha256": "2bc94c17590b21e5d2a6e29caa3a8918c6da947522dc6b6a993d64c95fe6e179",
+      "bytes": 14673
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Bar.gif",
+      "sha256": "f545bff272abb8bded56697e11dc4459101bd468272c8d2fded9d783debed6e5",
+      "bytes": 964
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Beach.gif",
+      "sha256": "e2ec71cc8ac9126cdcbe7c327915a391fcc0cc521f288075447a6cf8e6ab0be3",
+      "bytes": 1287
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/BusService.gif",
+      "sha256": "e54997551d9ca590545ea635a0e895b511e91591945a3ce533e9bf55688c37df",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Catamaran.gif",
+      "sha256": "b66249d0083b07f32d67523fa8fff75fc59fa6fa6a1f2c9358094ff8cbf90766",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/ChildrenWelcome.gif",
+      "sha256": "8862152dda6b1201591386cd97006afc642854c310e91817f22991d3df2601a9",
+      "bytes": 1465
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/ConferenceFacilities.gif",
+      "sha256": "ce44c51403e70181edaf74ef98eaa5234b8f52b43e0cd5781d4ad51115900a54",
+      "bytes": 1415
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/DisabledAccess.gif",
+      "sha256": "8f74c01b0446969895e9f89f93c4021f5ee94c2eda9bf1c1918f194325433ad8",
+      "bytes": 988
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Fishing.gif",
+      "sha256": "1346a60d30cf9743c5c7cfed0e658a0b244a021f9c60f49b1b83e111e641a413",
+      "bytes": 1215
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Game.gif",
+      "sha256": "2008320eef1116c8923480d6c0628897fbfc7382fcd4de2f11f43bc6e95fd266",
+      "bytes": 1376
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Golf.gif",
+      "sha256": "f8114e25ba30fb09d61a0dd87aaf76e8dbe7d7ee9912cd85a82d60f714f88f9c",
+      "bytes": 1210
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Gym.gif",
+      "sha256": "5ff9d140c5344666f2d26fd7b81b81269eefae12ba79835ab237e0bd8c96b60e",
+      "bytes": 1209
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Hiking.gif",
+      "sha256": "eaadd4e1df7fa04cbd9ef4d1fe362265930fc8c75c5c8e12a75714cc1ae7d942",
+      "bytes": 1003
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/HorseRiding.gif",
+      "sha256": "e657c27ce735cfa8f7226525aefe2a56b5b0d6d05f7284f7a28dcca48d4f3d79",
+      "bytes": 1043
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/InternetAccess.gif",
+      "sha256": "0d6bc1d2bd182b8a024d5f5346dc497e780783cf5a93aca78563129dcef5ce4f",
+      "bytes": 1284
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Pool.gif",
+      "sha256": "9e27ad05b2aa51df4e01bdaf31a82a6ac5d8c67b6f860e7398068140940bca08",
+      "bytes": 1285
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/QuadBikes.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/QuadBiking.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Restaurant.gif",
+      "sha256": "0b37412bf552ad8a423e9a562f48b95a68e2ee8c955c7c17bc46411bb15203c0",
+      "bytes": 1488
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/RoomService.gif",
+      "sha256": "56ec42fbbd6474c88926e73cddf7abbfafd353a57a3c394ed9c1f3fcc4a35fea",
+      "bytes": 1280
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/SatelliteTV.gif",
+      "sha256": "6ae90012cdf743dcc88a4ff66f13d7aa38e4b48359c0b6fa94c69b4384f364c4",
+      "bytes": 1160
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/ScubaDiving.gif",
+      "sha256": "23f923bf930866ddb6a77c6e2d3a8cb45fae244fcc5333b0b535317f55c88ccb",
+      "bytes": 1265
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/SightSeeing.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/SightSeeingTours.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Snorkeling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Snorkling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Spa.gif",
+      "sha256": "81a577ed6ed79899bd629b36ab2d889845f09ad0402d72fc65da260f7dd2b41a",
+      "bytes": 1431
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Squash.gif",
+      "sha256": "9103d5c70dea0742dbc9e9116c095bd59252f4a266218ecbc522570d13e48897",
+      "bytes": 1257
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/Tennis.gif",
+      "sha256": "2fac53cabb083408f2923925887148f06560ec00c796d5a96f23be529e89123d",
+      "bytes": 1134
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/features/WirelessInternetAccess.gif",
+      "sha256": "d4e2f7454711a73c8d2885a84344f22680769679a99705f6b3c8e39da7697d06",
+      "bytes": 1204
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/back-arrow-charcoal.png",
+      "sha256": "5c6f3867040bb9617a528ffc2522f048b7b8f9855aa3c575fef11b39043eec97",
+      "bytes": 4274
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/background_gradient.gif",
+      "sha256": "e0c9f96263215ebe7db0ab117bf82fdcdc4041a4715817c5f2b4d3a703f2c8fa",
+      "bytes": 1408
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/banner.png",
+      "sha256": "9e1bd7cfcc37d0be8564be9ca44d6db395f82875b084bcaab3a330f3f6cd95d7",
+      "bytes": 3830
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/bigArrowEast.png",
+      "sha256": "f64ae5def45d241c046851e514d6bcdd7da5999e366f4f6088f8484813215d37",
+      "bytes": 1589
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/calendar-icon.png",
+      "sha256": "6b338c7ae7c7ac6eeafd8670e173e08d96a0a0dce9f1d303dbdc55f6513254ea",
+      "bytes": 6031
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/confirmationLinksGrad.gif",
+      "sha256": "1da3afc76e9ee5385758368e1d6416e7aebd17eabbb7e0b470846edb1a42572c",
+      "bytes": 1648
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/confirmationRewardsGrad.gif",
+      "sha256": "6163f1a5ed0e25b0db41d4df3fafcf60a5baf55f2ba3815d9ce86c9c3ab3e523",
+      "bytes": 1662
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/cv_bg.png",
+      "sha256": "53cfb68652792aba914a0237b8ef4b6593fddc0b043d475450eef6449d61b65a",
+      "bytes": 1259
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/doors_bg.gif",
+      "sha256": "6b646f277e5e5eb6ca5e3b94ce3b6f6abb7f42d01ce42cb945b6233b3b6233af",
+      "bytes": 1324
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/form_but_sprite.png",
+      "sha256": "b816eca78b8a97a775beda6f2b1da8e9b93ef19e57a3bbe2247a2e265c1f6256",
+      "bytes": 2064
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/forward-arrow-charcoal.png",
+      "sha256": "f6452519ddc9940da01a59a3aa9447df883031a3118e4a208fe7feee5c5ea033",
+      "bytes": 4309
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/forward-small.png",
+      "sha256": "9be56d48be354134e0e81088175ed68527a3fa115654ca943f340880779829dc",
+      "bytes": 883
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/heading-bg.png",
+      "sha256": "0d795dfc7cf16589e990d682a736f7100522e5a178af8145bdd7be812340aa52",
+      "bytes": 1579
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/icons.png",
+      "sha256": "1c28a99d876c752193f2d3c6d9f5c382b03e37096ce06144fe60f4f99d388d70",
+      "bytes": 3350
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/intineraryBg.gif",
+      "sha256": "093e06482eaa81fcb14e59c997bbe13abab5be8f2caa38c8d3148c610cea9209",
+      "bytes": 1230
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/itineraryMoreEnd.gif",
+      "sha256": "44ddb295c5149ad2ec4cb0ee4f528495d96f930b4c8c236cc17ad89b44807d58",
+      "bytes": 839
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/itineraryMoreGRad.gif",
+      "sha256": "d02c0f7b0ff2a6e8033d28c6f29c5e7c24bfaf0abbcc9eba3b3a9b0f816400ff",
+      "bytes": 120
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/loginPanelBg.gif",
+      "sha256": "d5681a7d0229bda0eb2ec0f0a2b92d339911bb99a6974982abe0dcf2729ee20a",
+      "bytes": 3699
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/login_but_sprite.png",
+      "sha256": "6242b58c4c228af0c5de84eaa941f8e73ea443f5afe4cd53aa921b975afa8126",
+      "bytes": 3085
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/logo.png",
+      "sha256": "8dded13481aa35c314e7efdd988eeaa6ab64f67794d29f6571afbd6fe879bf7f",
+      "bytes": 12846
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/med_but_sprite.png",
+      "sha256": "258e2957a840b5d61e840d54dcb9e0221b8a32932619b156e30290bb358e3623",
+      "bytes": 3798
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/newsItem.png",
+      "sha256": "46a9248079a58cadf4ab8297aa68e68bdd29387a43a59e0f0be6ccd3f4b2fa0f",
+      "bytes": 5705
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/ratesLeft.png",
+      "sha256": "d7cdb61bc4b58b1aa5657fe7a0ae018ee258582fc22cedeef64bcda4a5a84d18",
+      "bytes": 1616
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/ratesRight.png",
+      "sha256": "05742d0edd2d30ec3da037817e82eb0ea725e4b6031242a536371596834314a1",
+      "bytes": 1638
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/redcross.png",
+      "sha256": "3dbb5f285c5c9e79fa180f694b83fcf1cfbc4d347b182a1777706622e1411f91",
+      "bytes": 1341
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/reservations.png",
+      "sha256": "bd2864c85df0afd89194ea1ee0b86b97230c8b679b1824ac06c1c07183e8e090",
+      "bytes": 15839
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/result_name_bg.png",
+      "sha256": "3141fa34a5e90bbe7c142fba4c734fdd0993b354afc7fae1e6b4cd3573cffed7",
+      "bytes": 987
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/searchBarHeading.gif",
+      "sha256": "fd3b6beecca49f4d7bed2867c029ee11ef2664cb8fd76d130c9fef85f0a966e3",
+      "bytes": 1873
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/steps_numbers.png",
+      "sha256": "613d3198ebada933caa3ffa5049f409665974f908ac72973375f3606ccc3bd2f",
+      "bytes": 1709
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/steps_numbers2.png",
+      "sha256": "7434252bbc619fd7f00b67d793c851223a1ac2f547b2d0108dd83f7c7c44af31",
+      "bytes": 8834
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/steps_numbers_2019.png",
+      "sha256": "2dabb6d509fab8cb9a3d49996f6d78c519069c11d57a38c52bce39c294df4f59",
+      "bytes": 13311
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/steps_selected.png",
+      "sha256": "3d15aa9c59b9b520fa6a139b12ee0c68c64c67c7771d24be5a8cd2da67c3378f",
+      "bytes": 5308
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/steps_selected2.png",
+      "sha256": "c9b8b0078b66978ae5cf0d955eeb2b20472292f8152eacefd4339b9ddec130d0",
+      "bytes": 17664
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/suggestHotelSelectItem.gif",
+      "sha256": "c296e086158dabd5b70d9404504900343d53018608bc2016dcc152190844f35b",
+      "bytes": 63
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/tab_sprite.gif",
+      "sha256": "fc3dd8203c183fea98ccba34195a2f185bfb028c0d70da59c9f70dd96406199d",
+      "bytes": 4350
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/thumbsUp.png",
+      "sha256": "e28712b2b3d96118603e5867a880cb1b3dc837473c506ee9e206f5dc732822c0",
+      "bytes": 1628
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/view.png",
+      "sha256": "023618e7e102f3b3f5faa1690c3fcc4ebb77dac4ca61fd07266167b4b7f242cf",
+      "bytes": 18359
+    },
+    {
+      "file": "package-css/mabula/black-rhino2021/images/colourSchemes/custom/xsmall_but_sprite.png",
+      "sha256": "abdabced74e084498574ff076036c7a24cf04aadf47a4ed24158ab33cae39e41",
+      "bytes": 705
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/brand-fonts.css",
+      "sha256": "6ad08487a674d43ddf1d5a61b571f988fb00da5f1aa82643b35ac0c45bc34a90",
+      "bytes": 1075964
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/facebook.css",
+      "sha256": "1a8c7fdc27d08c6f807ebdcafb0e8f75ce2f2553fd9c60f003ce27dc9e4e7714",
+      "bytes": 832
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/mainStyle.css",
+      "sha256": "9072ff53eb849bf7e395cc5bc3c0314ab65a92337b67317882224a9b2a227c13",
+      "bytes": 143271
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/mobile.css",
+      "sha256": "b0e5c328619422578aeb49f62a22d582228100ae9a9651231487fb53169c2969",
+      "bytes": 17698
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/mobileTheme.css",
+      "sha256": "28838a2d0720b6078243510153de15902349d8c43c9a264855bc09619c2a85ba",
+      "bytes": 91460
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/reset.css",
+      "sha256": "4dd488dae98075f2d47dbaf00c778c927835c4fad3eb6cb5e31f348461b1b293",
+      "bytes": 676
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/searchwidget.css",
+      "sha256": "102de677dd917c68d2da8bd8101787d56199a46f70b18afa7a21ccfa20f00158",
+      "bytes": 7482
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/theme.css",
+      "sha256": "84142b341fc28951c4488d39d086425853a09439161fbd6606f0301e5a59ea25",
+      "bytes": 101251
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/bigl_divider.gif",
+      "sha256": "e22a1c343586f521238d1d0522b97e70d95557a5d0192463e8e901627397661a",
+      "bytes": 2701
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/caption.png",
+      "sha256": "76f2a9c1e0e6fe8f6f0fe94675b8219548c21bda693a02a25ada31e20d30ae37",
+      "bytes": 4922
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/check_box.png",
+      "sha256": "be05dccd5150920beb05438695830e94b629f634147cff81d227a9f9738c5e06",
+      "bytes": 501
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/compass.png",
+      "sha256": "5c1bcd51b44ead94d454e42365b89a60fcae95fd37acdd2843218405225bfdbd",
+      "bytes": 24171
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/dividerGrad.gif",
+      "sha256": "059f4d656725d54327e8c4fc9353ad7bc71e9f039639325b704f5e83b287c33f",
+      "bytes": 95
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/dropdown_down_arrow.gif",
+      "sha256": "452a9365dd3cca720ffbe80fe322b3cd7e4cad701e12b513acfae56851818d7d",
+      "bytes": 963
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features.gif",
+      "sha256": "5df924f8f16d8cf51d009ee5f108068203179143b8205723341119ed990304e3",
+      "bytes": 7517
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/fieldset_bg_grad.gif",
+      "sha256": "18de5cc4a28750b57619e5379183f3a68e43b68f0979bcda30f94531aaaf5698",
+      "bytes": 1202
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/forward.png",
+      "sha256": "410fa86dacebd9e52d8e1a3305fb6f1d2a93624575513e299a578076cbda0581",
+      "bytes": 2355
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/Hotel.png",
+      "sha256": "42f5082670d0c2923127de887cb73b58fc0be50a6161b354407568ce1afa9427",
+      "bytes": 1384
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/icon_sprite.gif",
+      "sha256": "c30c7dc4599018d412ab99350ddc2640c927c855bd9d280ea25f52860f63fa56",
+      "bytes": 2916
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/icon_sprite.png",
+      "sha256": "e9988eb0e5b7e66b4ed330431b56f48a94910a0024f3915db24f8622e7f3f073",
+      "bytes": 6035
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/image_shadow_bg.gif",
+      "sha256": "6d61332e6dcf49be36c6d4683726667313ea1b009db98f43a1243ae8e8315fd6",
+      "bytes": 2627
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/image_shadow_bg.png",
+      "sha256": "03d200b69d1afef4729b739f4edaa4a825979a6f819a8602e02e5dbebc9a0778",
+      "bytes": 2561
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/input_bg_grad.gif",
+      "sha256": "e4987c74bdf84555c06905ae49a0fec56f1089bfe95843f5e6156ac3ca06e7d6",
+      "bytes": 1161
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/itineraryDivider.gif",
+      "sha256": "4e5179cf1b3950dd7fabb29e26580e01e19951ffc7954334955ec7ee94e7bcd0",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/loading.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/loadingsmall.gif",
+      "sha256": "fd29b3b084cf11160bfc4e99d98a261f2b36bff29113b07367c5204563c5d355",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/login_input_bg.gif",
+      "sha256": "644433ce831ef982eb9eefe121807b9dbb8601821935dc26c2758a3daf9d7e08",
+      "bytes": 1667
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/login_input_bg.png",
+      "sha256": "2f4e37790506d7d6be6c66b44b8e379c2798a3f8b937e4447d32d66295b95d5b",
+      "bytes": 774
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/logo_bg.gif",
+      "sha256": "4615bc19f9f557d0932d866fafb76b8e64f415e3596965a200e8201a2969f9b1",
+      "bytes": 3080
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/logo_bg.png",
+      "sha256": "5a609669d83ee27f3ee23b4d2e9a860a8501055751f31f90f789eb0ccf59759f",
+      "bytes": 3187
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/logo_bg2.png",
+      "sha256": "ab10a148b7eece9afc593b19badbcd9ed85e0c5ea24ed4f02abbd49049bc4b65",
+      "bytes": 3012
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/medium_divider.gif",
+      "sha256": "b351da896b627571061ced02d53b1b50a0f9461665a1078fafa999f9033e0e6b",
+      "bytes": 2650
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/medium_divider.png",
+      "sha256": "2dd52f62d0e11d1c5c6f8a48d89a5d05b1230f20d3dd986266584a79068f14cd",
+      "bytes": 1783
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/payment_terms.png",
+      "sha256": "c1bbd6452aa9c8c0016a641f153a887fa48caf56b9cd81eff1e69cff87987b73",
+      "bytes": 1420
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/pictures.png",
+      "sha256": "c9e053dcf0bf77b2125cb7eb2d8de43c3f4a6470e273a4c9623a5ce95d0bb0df",
+      "bytes": 2559
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/pleaseWait.gif",
+      "sha256": "a41e7043b455f67ca63b6a6ff98f8cb9fda13e7ab3072ad2eb1d18114d0df851",
+      "bytes": 1924
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/ratesGrad.gif",
+      "sha256": "c3622bef3e75841d2f7d002766a8599d96f8e20fe19044794293f2c1d8dbf249",
+      "bytes": 1311
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/room.png",
+      "sha256": "033d67d15f248396e4164b43da30ec870bc44b507eb9bdcafa04def9979f29cd",
+      "bytes": 1316
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/rooms.png",
+      "sha256": "1014650ecb251864d070c3758ad173c532762b395b2b644e5b863e2b5c29b197",
+      "bytes": 1957
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/room_pictures_grad.gif",
+      "sha256": "98f3bc199b723840c7d6708b9ab135f3ab54ef48caaf96a67c25a25d7ba70961",
+      "bytes": 1379
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/searchBg.png",
+      "sha256": "91840423c258e73afc794bc1a850e8eb6d44c092418f63d6b7432d008be25809",
+      "bytes": 3338
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/selectedNumberBg.png",
+      "sha256": "dd100aa4f6614b0eb178005afac895cb699d1f36381a1621167a8fc3c622c212",
+      "bytes": 223
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/smallLoadingTransparent.gif",
+      "sha256": "aebc793d0064383ee6b1625bf3bb32532ec30a5c12bf9117066107d412119123",
+      "bytes": 3208
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/small_divider.gif",
+      "sha256": "7c781b504a0751224205db1ec255f1e122b32c5ea7c8f6e0a1dc1b179da1c45e",
+      "bytes": 2285
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/small_image_shadow_bg.gif",
+      "sha256": "b39f47ec328058d5812e835c1c87cf7472990769d09db25978f72ec080f3ba5a",
+      "bytes": 3202
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/special_big.png",
+      "sha256": "d8c2b3b9401b4be107ee5e0cff9130423d18e1cc754b757d890ff1a61e48efc8",
+      "bytes": 5819
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/steps.png",
+      "sha256": "b780469f57a57b408523d1c19225c04c8f3da247e21085de0415c359d668919e",
+      "bytes": 2246
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/steps_selected.png",
+      "sha256": "2e062abe020cbe22670abb3a9f3a1e356f55d7d31902575d9c1ce16ceacc456d",
+      "bytes": 2109
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/tabBg.gif",
+      "sha256": "9bf37bcdc8e68558d11c15a649e13795eef88705bec94091fd0a796f172aabdf",
+      "bytes": 155
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/tableGrad.gif",
+      "sha256": "570b73c42b9f6b3299c127746687ef49604ff62fcf6db523fc88e5ea3119111c",
+      "bytes": 1261
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/tableGradBottom.gif",
+      "sha256": "03a7ae5c9537324eb56640569a9aca91b4e6c99b03a25b89101ccddbbf87a4ea",
+      "bytes": 1239
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/tableGradTop.png",
+      "sha256": "9a8e858d339cd1dc718b87ceefa2e03fc24c817a92c3aacd18c4ce5cfe3a3bc1",
+      "bytes": 111
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/tabNumberBg.png",
+      "sha256": "9d30ae289375c117cb9d312bdbd8983965521e80378366192a1aaefcf5352407",
+      "bytes": 239
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/transparent.gif",
+      "sha256": "a192ecd692934ab2022bf2c8e006d6906b9e30c284afa42f22daa5d17b1a604f",
+      "bytes": 1095
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/licenses/inriaserif-OFL.txt",
+      "sha256": "17ce133cf770fd000edafa607ae2a41dc6ce5a4f30fe82f777fa242929e76714",
+      "bytes": 4398
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/licenses/poppins-OFL.txt",
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+      "bytes": 4385
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/colourSchemes/custom.css",
+      "sha256": "bf38f2999e45d0c2f36841da7d05f8e0ca2ee632145997ab100ae138064ff2e5",
+      "bytes": 4749
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/css/colourSchemes/mobileTheme.css",
+      "sha256": "208487fdf669f9ced3f75288ba29551a6414070cf3713c3151b24f50401e1cad",
+      "bytes": 14673
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Bar.gif",
+      "sha256": "f545bff272abb8bded56697e11dc4459101bd468272c8d2fded9d783debed6e5",
+      "bytes": 964
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Beach.gif",
+      "sha256": "e2ec71cc8ac9126cdcbe7c327915a391fcc0cc521f288075447a6cf8e6ab0be3",
+      "bytes": 1287
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/BusService.gif",
+      "sha256": "e54997551d9ca590545ea635a0e895b511e91591945a3ce533e9bf55688c37df",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Catamaran.gif",
+      "sha256": "b66249d0083b07f32d67523fa8fff75fc59fa6fa6a1f2c9358094ff8cbf90766",
+      "bytes": 1252
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/ChildrenWelcome.gif",
+      "sha256": "8862152dda6b1201591386cd97006afc642854c310e91817f22991d3df2601a9",
+      "bytes": 1465
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/ConferenceFacilities.gif",
+      "sha256": "ce44c51403e70181edaf74ef98eaa5234b8f52b43e0cd5781d4ad51115900a54",
+      "bytes": 1415
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/DisabledAccess.gif",
+      "sha256": "8f74c01b0446969895e9f89f93c4021f5ee94c2eda9bf1c1918f194325433ad8",
+      "bytes": 988
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Fishing.gif",
+      "sha256": "1346a60d30cf9743c5c7cfed0e658a0b244a021f9c60f49b1b83e111e641a413",
+      "bytes": 1215
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Game.gif",
+      "sha256": "2008320eef1116c8923480d6c0628897fbfc7382fcd4de2f11f43bc6e95fd266",
+      "bytes": 1376
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Golf.gif",
+      "sha256": "f8114e25ba30fb09d61a0dd87aaf76e8dbe7d7ee9912cd85a82d60f714f88f9c",
+      "bytes": 1210
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Gym.gif",
+      "sha256": "5ff9d140c5344666f2d26fd7b81b81269eefae12ba79835ab237e0bd8c96b60e",
+      "bytes": 1209
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Hiking.gif",
+      "sha256": "eaadd4e1df7fa04cbd9ef4d1fe362265930fc8c75c5c8e12a75714cc1ae7d942",
+      "bytes": 1003
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/HorseRiding.gif",
+      "sha256": "e657c27ce735cfa8f7226525aefe2a56b5b0d6d05f7284f7a28dcca48d4f3d79",
+      "bytes": 1043
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/InternetAccess.gif",
+      "sha256": "0d6bc1d2bd182b8a024d5f5346dc497e780783cf5a93aca78563129dcef5ce4f",
+      "bytes": 1284
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Pool.gif",
+      "sha256": "9e27ad05b2aa51df4e01bdaf31a82a6ac5d8c67b6f860e7398068140940bca08",
+      "bytes": 1285
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/QuadBikes.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/QuadBiking.gif",
+      "sha256": "e8443c921f85df562f6f2ed16a4dfe4adf0485a2f99cd75e5b28f8bd8b8f6ea6",
+      "bytes": 1597
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Restaurant.gif",
+      "sha256": "0b37412bf552ad8a423e9a562f48b95a68e2ee8c955c7c17bc46411bb15203c0",
+      "bytes": 1488
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/RoomService.gif",
+      "sha256": "56ec42fbbd6474c88926e73cddf7abbfafd353a57a3c394ed9c1f3fcc4a35fea",
+      "bytes": 1280
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/SatelliteTV.gif",
+      "sha256": "6ae90012cdf743dcc88a4ff66f13d7aa38e4b48359c0b6fa94c69b4384f364c4",
+      "bytes": 1160
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/ScubaDiving.gif",
+      "sha256": "23f923bf930866ddb6a77c6e2d3a8cb45fae244fcc5333b0b535317f55c88ccb",
+      "bytes": 1265
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/SightSeeing.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/SightSeeingTours.gif",
+      "sha256": "efd76e216daeb9a53ae2bb4c218b15b72a3b6c8eae1a9a7c3d8f8db26699a4f2",
+      "bytes": 1496
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Snorkeling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Snorkling.gif",
+      "sha256": "644439acb36cdcc8831bf61faafa8cd596197f29326c6d003baba63559786efc",
+      "bytes": 1300
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Spa.gif",
+      "sha256": "81a577ed6ed79899bd629b36ab2d889845f09ad0402d72fc65da260f7dd2b41a",
+      "bytes": 1431
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Squash.gif",
+      "sha256": "9103d5c70dea0742dbc9e9116c095bd59252f4a266218ecbc522570d13e48897",
+      "bytes": 1257
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/Tennis.gif",
+      "sha256": "2fac53cabb083408f2923925887148f06560ec00c796d5a96f23be529e89123d",
+      "bytes": 1134
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/features/WirelessInternetAccess.gif",
+      "sha256": "d4e2f7454711a73c8d2885a84344f22680769679a99705f6b3c8e39da7697d06",
+      "bytes": 1204
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/back-arrow-charcoal.png",
+      "sha256": "5c6f3867040bb9617a528ffc2522f048b7b8f9855aa3c575fef11b39043eec97",
+      "bytes": 4274
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/back-arrow.png",
+      "sha256": "3720b41eb74a845577785cad8d0c42353f39f3a5b7e26ef02a6c89073f2f5bd3",
+      "bytes": 17114
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/background_gradient.gif",
+      "sha256": "e0c9f96263215ebe7db0ab117bf82fdcdc4041a4715817c5f2b4d3a703f2c8fa",
+      "bytes": 1408
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/banner.png",
+      "sha256": "9e1bd7cfcc37d0be8564be9ca44d6db395f82875b084bcaab3a330f3f6cd95d7",
+      "bytes": 3830
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/bigArrowEast.png",
+      "sha256": "f64ae5def45d241c046851e514d6bcdd7da5999e366f4f6088f8484813215d37",
+      "bytes": 1589
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/calendar-icon.png",
+      "sha256": "6b338c7ae7c7ac6eeafd8670e173e08d96a0a0dce9f1d303dbdc55f6513254ea",
+      "bytes": 6031
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/confirmationLinksGrad.gif",
+      "sha256": "1da3afc76e9ee5385758368e1d6416e7aebd17eabbb7e0b470846edb1a42572c",
+      "bytes": 1648
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/confirmationRewardsGrad.gif",
+      "sha256": "6163f1a5ed0e25b0db41d4df3fafcf60a5baf55f2ba3815d9ce86c9c3ab3e523",
+      "bytes": 1662
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/cv_bg.png",
+      "sha256": "53cfb68652792aba914a0237b8ef4b6593fddc0b043d475450eef6449d61b65a",
+      "bytes": 1259
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/dividerStripeBg.gif",
+      "sha256": "0749808a571858e81628196a8b8fb5b49bc2e2e42720fba19b9b7aa2fb94966e",
+      "bytes": 1113
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/doors_bg.gif",
+      "sha256": "6b646f277e5e5eb6ca5e3b94ce3b6f6abb7f42d01ce42cb945b6233b3b6233af",
+      "bytes": 1324
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/form_but_sprite.png",
+      "sha256": "b816eca78b8a97a775beda6f2b1da8e9b93ef19e57a3bbe2247a2e265c1f6256",
+      "bytes": 2064
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/forward-arrow-charcoal.png",
+      "sha256": "f6452519ddc9940da01a59a3aa9447df883031a3118e4a208fe7feee5c5ea033",
+      "bytes": 4309
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/forward-arrow.png",
+      "sha256": "98d622d5d5935f47747db3b73d33dfb3c1aac685d8d4c9d29ba0da117fb28b3a",
+      "bytes": 16661
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/forward-small.png",
+      "sha256": "9be56d48be354134e0e81088175ed68527a3fa115654ca943f340880779829dc",
+      "bytes": 883
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/heading-bg.png",
+      "sha256": "0d795dfc7cf16589e990d682a736f7100522e5a178af8145bdd7be812340aa52",
+      "bytes": 1579
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/icons.png",
+      "sha256": "1c28a99d876c752193f2d3c6d9f5c382b03e37096ce06144fe60f4f99d388d70",
+      "bytes": 3350
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/intineraryBg.gif",
+      "sha256": "093e06482eaa81fcb14e59c997bbe13abab5be8f2caa38c8d3148c610cea9209",
+      "bytes": 1230
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/itineraryMoreEnd.gif",
+      "sha256": "44ddb295c5149ad2ec4cb0ee4f528495d96f930b4c8c236cc17ad89b44807d58",
+      "bytes": 839
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/itineraryMoreGRad.gif",
+      "sha256": "d02c0f7b0ff2a6e8033d28c6f29c5e7c24bfaf0abbcc9eba3b3a9b0f816400ff",
+      "bytes": 120
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/loginPanelBg.gif",
+      "sha256": "d5681a7d0229bda0eb2ec0f0a2b92d339911bb99a6974982abe0dcf2729ee20a",
+      "bytes": 3699
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/login_but_sprite.png",
+      "sha256": "6242b58c4c228af0c5de84eaa941f8e73ea443f5afe4cd53aa921b975afa8126",
+      "bytes": 3085
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/logo.png",
+      "sha256": "1e17234274077479e93bcc166e4c093c292e18c66065d835edd4d29d085357e8",
+      "bytes": 10274
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/med_but_sprite.png",
+      "sha256": "258e2957a840b5d61e840d54dcb9e0221b8a32932619b156e30290bb358e3623",
+      "bytes": 3798
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/newsItem.png",
+      "sha256": "46a9248079a58cadf4ab8297aa68e68bdd29387a43a59e0f0be6ccd3f4b2fa0f",
+      "bytes": 5705
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/ratesLeft.png",
+      "sha256": "d7cdb61bc4b58b1aa5657fe7a0ae018ee258582fc22cedeef64bcda4a5a84d18",
+      "bytes": 1616
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/ratesRight.png",
+      "sha256": "05742d0edd2d30ec3da037817e82eb0ea725e4b6031242a536371596834314a1",
+      "bytes": 1638
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/redcross.png",
+      "sha256": "3dbb5f285c5c9e79fa180f694b83fcf1cfbc4d347b182a1777706622e1411f91",
+      "bytes": 1341
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/reservations.png",
+      "sha256": "bd2864c85df0afd89194ea1ee0b86b97230c8b679b1824ac06c1c07183e8e090",
+      "bytes": 15839
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/result_name_bg.png",
+      "sha256": "3141fa34a5e90bbe7c142fba4c734fdd0993b354afc7fae1e6b4cd3573cffed7",
+      "bytes": 987
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/searchBarHeading.gif",
+      "sha256": "fd3b6beecca49f4d7bed2867c029ee11ef2664cb8fd76d130c9fef85f0a966e3",
+      "bytes": 1873
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/steps_numbers.png",
+      "sha256": "613d3198ebada933caa3ffa5049f409665974f908ac72973375f3606ccc3bd2f",
+      "bytes": 1709
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/steps_numbers2.png",
+      "sha256": "7434252bbc619fd7f00b67d793c851223a1ac2f547b2d0108dd83f7c7c44af31",
+      "bytes": 8834
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/steps_numbers_2019.png",
+      "sha256": "2dabb6d509fab8cb9a3d49996f6d78c519069c11d57a38c52bce39c294df4f59",
+      "bytes": 13311
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/steps_selected.png",
+      "sha256": "3d15aa9c59b9b520fa6a139b12ee0c68c64c67c7771d24be5a8cd2da67c3378f",
+      "bytes": 5308
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/steps_selected2.png",
+      "sha256": "c9b8b0078b66978ae5cf0d955eeb2b20472292f8152eacefd4339b9ddec130d0",
+      "bytes": 17664
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/suggestHotelSelectItem.gif",
+      "sha256": "c296e086158dabd5b70d9404504900343d53018608bc2016dcc152190844f35b",
+      "bytes": 63
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/tab_sprite.gif",
+      "sha256": "fc3dd8203c183fea98ccba34195a2f185bfb028c0d70da59c9f70dd96406199d",
+      "bytes": 4350
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/thumbsUp.png",
+      "sha256": "e28712b2b3d96118603e5867a880cb1b3dc837473c506ee9e206f5dc732822c0",
+      "bytes": 1628
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/view.png",
+      "sha256": "023618e7e102f3b3f5faa1690c3fcc4ebb77dac4ca61fd07266167b4b7f242cf",
+      "bytes": 18359
+    },
+    {
+      "file": "package-css/safari-plains/black-rhino2021/images/colourSchemes/custom/xsmall_but_sprite.png",
+      "sha256": "abdabced74e084498574ff076036c7a24cf04aadf47a4ed24158ab33cae39e41",
+      "bytes": 705
+    },
+    {
+      "file": "previews/angels-view/home.html",
+      "sha256": "cbbd40d2657e6b3b367330c0808dfd1c8d60a9446683c827c39deef600ef3479",
+      "bytes": 9181
+    },
+    {
+      "file": "previews/angels-view/journey.html",
+      "sha256": "0e1fc362e8170224626e7bc72b041c53e5a3e65e49e3c39436530002e247b975",
+      "bytes": 10211
+    },
+    {
+      "file": "previews/mabula/home.html",
+      "sha256": "bede5f669c82759e01e47b8b11d988393b2a7171fc1e0fc6360e24417eebef37",
+      "bytes": 9163
+    },
+    {
+      "file": "previews/mabula/journey.html",
+      "sha256": "480a19528ec5b48b26d3eb07247fe89a5dc61144b6f0292f71ffd041a69ce97a",
+      "bytes": 10191
+    },
+    {
+      "file": "previews/native-fixtures/angels-view.js",
+      "sha256": "a7587eb91523e0cee16cc7a20e57609da5c0bd28f0103d7619b801ba398866a3",
+      "bytes": 56778
+    },
+    {
+      "file": "previews/native-fixtures/mabula.js",
+      "sha256": "b49487a4c10adf3795a15583260a02bd504b83823d7bd3d4f31d573904216c58",
+      "bytes": 50207
+    },
+    {
+      "file": "previews/native-fixtures/safari-plains.js",
+      "sha256": "8fe9ea9d76b8fec4c58bf825f135356155d8da9ab503fa00d2f69c79d4a353e4",
+      "bytes": 35954
+    },
+    {
+      "file": "previews/runtime/create-carousel.js",
+      "sha256": "3d812b474e0e2e62cfc3c69e203178d1f50cdf5926d1e391196db66da283a60b",
+      "bytes": 1146
+    },
+    {
+      "file": "previews/runtime/jquery-1.3.2.min.js",
+      "sha256": "c8370a2d050359e9d505acc411e6f457a49b21360a21e6cbc9229bad3a767899",
+      "bytes": 57254
+    },
+    {
+      "file": "previews/runtime/simplegallery.js",
+      "sha256": "d0efd020e46daeb01ca2b398168b42ccdfbf67c3cc6dbed296df7e51cd764d68",
+      "bytes": 11474
+    },
+    {
+      "file": "previews/safari-plains/home.html",
+      "sha256": "87e6e32b248fb176f1b6d70c11406d3a7d110061cfa559c53e2d8d97ac20cc23",
+      "bytes": 9234
+    },
+    {
+      "file": "previews/safari-plains/journey.html",
+      "sha256": "301c507c7696dbb82d0cc70eca43d6d1958fdd0f1ce3bed259b1b69e01e8ba6f",
+      "bytes": 10140
+    },
+    {
+      "file": "previews/images/imageCarousel/left.gif",
+      "sha256": "45434d25e8ab34e8799f28a1af66175d0e90e6f3b47ced89358d0532b4cbb58b",
+      "bytes": 896
+    },
+    {
+      "file": "previews/images/imageCarousel/pause.gif",
+      "sha256": "881ef6b444af7e5ac05127924366802259931d395e81216da359c1fedd47ae3a",
+      "bytes": 1110
+    },
+    {
+      "file": "previews/images/imageCarousel/play.gif",
+      "sha256": "b0119ff4eb7a4884197cfef6cd733e160ecc87ace1bca9b5ad103ed3d537060d",
+      "bytes": 1088
+    },
+    {
+      "file": "previews/images/imageCarousel/right.gif",
+      "sha256": "5fda6c96b64cb31d0692d095da64e6fe870b50d14b361bb049e45d9b38925107",
+      "bytes": 895
+    },
+    {
+      "file": "source/fonts/bodonimoda-OFL.txt",
+      "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+      "bytes": 4400
+    },
+    {
+      "file": "source/fonts/BodoniModa[opsz,wght].ttf",
+      "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf",
+      "bytes": 162104
+    },
+    {
+      "file": "source/fonts/InriaSerif-Bold.ttf",
+      "sha256": "35ff98e0c58cb27a6ec045b25072d99de57d6ea03f12c8dc0963fcbed0df2d91",
+      "bytes": 97172
+    },
+    {
+      "file": "source/fonts/inriaserif-OFL.txt",
+      "sha256": "17ce133cf770fd000edafa607ae2a41dc6ce5a4f30fe82f777fa242929e76714",
+      "bytes": 4398
+    },
+    {
+      "file": "source/fonts/InriaSerif-Regular.ttf",
+      "sha256": "576ba277e3ea1bb7de43724d14c989de92e35eeae204210b0c2a9e7b10dc23fc",
+      "bytes": 99808
+    },
+    {
+      "file": "source/fonts/plusjakartasans-OFL.txt",
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99",
+      "bytes": 4402
+    },
+    {
+      "file": "source/fonts/PlusJakartaSans[wght].ttf",
+      "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8",
+      "bytes": 176288
+    },
+    {
+      "file": "source/fonts/poppins-0.ttf",
+      "sha256": "cdedb1729acac414ed01744a11da7badb86adf13108e7bd3fa161b9323f7fe54",
+      "bytes": 154628
+    },
+    {
+      "file": "source/fonts/poppins-1.ttf",
+      "sha256": "fcff04f4bec2b3636f05ed894dc1f9a752c4cb587ee49857ec7a82abaf6ca016",
+      "bytes": 152860
+    },
+    {
+      "file": "source/fonts/poppins-2.ttf",
+      "sha256": "dae40ca7b35fe7501bda2e4140a6860b1db47330be5d3c8ab6971fd83a70e9a5",
+      "bytes": 151516
+    },
+    {
+      "file": "source/fonts/poppins-3.ttf",
+      "sha256": "1984efdda0fbe207d7ac20feac2ba7c2768c92a90094b02a206c9d58cc30ff2e",
+      "bytes": 150292
+    },
+    {
+      "file": "source/fonts/poppins-OFL.txt",
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+      "bytes": 4385
+    },
+    {
+      "file": "source/fonts/poppins.css",
+      "sha256": "7afcee5c3b697c7b2db49564c786755507d6d0757007ad46c9624f94d16c8b6a",
+      "bytes": 632
+    },
+    {
+      "file": "DEPLOYMENT-20261026.md",
+      "sha256": "da340b763d09a9caa0002a726808abfc04112be479c6af2edc813cbf4c9415ec",
+      "bytes": 4507
+    }
+  ]
+}

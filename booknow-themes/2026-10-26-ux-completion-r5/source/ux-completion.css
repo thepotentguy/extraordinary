@@ -1,0 +1,164 @@
+/* Restore the native progress labels and state after legacy sprite cleanup.
+   Do not infer a total: mobile supplies its own conditional Step N of N text. */
+#bookingSteps > div:not([aria-hidden="true"]):not([style*="display: none"]):not([style*="display:none"]) {
+ display: flex !important;
+ align-items: center;
+ flex-wrap: wrap;
+ gap: 12px;
+ min-width: 0;
+ width: 100%;
+ height: auto !important;
+ box-sizing: border-box;
+}
+#bookingSteps .steps:not([aria-hidden="true"]):not([style*="display: none"]):not([style*="display:none"]) {
+ display: flex !important;
+ position: static !important;
+ float: none !important;
+ flex: 1 1 auto;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: flex-end;
+ gap: 8px;
+ width: auto !important;
+ height: auto !important;
+ min-height: 48px;
+ margin: 0 !important;
+ padding: 0;
+ box-sizing: border-box;
+}
+#bookingSteps .steps > div[class*="stepsName"] {
+ position: static !important;
+ float: none !important;
+ flex: 0 1 auto;
+ width: auto !important;
+ min-width: 0;
+ height: auto !important;
+}
+#bookingSteps .steps > div[class*="stepsName"] > a {
+ width: auto !important;
+ min-height: 48px;
+ padding: 10px 14px;
+ border: 1px solid var(--brand-edge, #aaa);
+ color: var(--brand-ink, #333) !important;
+ background: var(--brand-surface, #fff);
+ font: 500 14px/1.5 var(--brand-body);
+ text-align: center;
+ text-decoration: none;
+ text-shadow: none !important;
+ text-transform: none !important;
+ overflow-wrap: break-word;
+}
+#bookingSteps .steps > div[class*="stepsName"]:has(> .selected) > a {
+ color: #fff !important;
+ background: var(--brand-ink, #333);
+ border-color: var(--brand-ink, #333);
+ box-shadow: inset 0 -3px var(--brand-accent, #aaa);
+ font-weight: 600;
+}
+/* Authentic mobile labels already include their native step count. */
+#bookingSteps .steps:not(:has(> .gwt-Label)) > div[class*="stepsName"] > a::before {
+ content: none !important;
+ display: none !important;
+}
+#bookingSteps :is(.backButton,.homeButton,.myBookingsButton,.forwardButton,.forwardButtonWide) {
+ position: static !important;
+ float: none !important;
+ inset: auto !important;
+ margin: 0 !important;
+ min-height: 48px;
+ max-width: 100%;
+ height: auto !important;
+ padding: 10px 14px;
+ box-sizing: border-box;
+ white-space: normal;
+ font: 500 14px/1.5 var(--brand-body);
+}
+#bookingSteps[aria-hidden="true"],
+#bookingSteps [aria-hidden="true"] { display: none !important; }
+
+/* A consistent icon row uses the existing authentic amenity files. */
+#content .hotelFeatures {
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ gap: 8px;
+ width: 100%;
+ max-width: 100%;
+ min-width: 0;
+ padding: 0;
+ margin: 12px 0 0;
+ box-sizing: border-box;
+}
+#content .hotelFeatures .gwt-Image {
+ display: block;
+ flex: 0 0 25px;
+ width: 25px !important;
+ height: 25px !important;
+ object-fit: contain;
+ margin: 0;
+ padding: 0;
+}
+
+/* Keep a genuine next action readable without legacy fixed button widths. */
+#content .hotelRates {
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: flex-end;
+ gap: 12px;
+ min-width: 0;
+ max-width: 100%;
+}
+#content button.viewRatesLink {
+ width: auto !important;
+ min-width: min(140px, 100%) !important;
+ min-height: 48px;
+ height: auto !important;
+ padding: 12px 18px;
+ white-space: normal;
+ font: 500 14px/1.5 var(--brand-body);
+ box-sizing: border-box;
+}
+#content .hotelRates :is(h4,h5) { max-width: 100%; min-width: 0; }
+#content .hotelRates button { width: 100% !important; min-height: 48px; }
+#content .hotelDescription { width: auto !important; max-width: 100%; min-width: 0; box-sizing: border-box; }
+#content .hotelRooms td { line-height: 1.5; }
+#content .hotelRooms td.rate { font-variant-numeric: tabular-nums; letter-spacing: 0; }
+#content :is(.hotelDescription,.roomDescription,.roomOptions,.paymentTerms,#locationDetails) :is(p,h1,h2,h3,h4,h5,.gwt-HTML) {
+ max-width: 100%;
+ min-width: 0;
+ box-sizing: border-box;
+ overflow-wrap: break-word;
+ white-space: normal;
+}
+@media (max-width: 960px) {
+ #bookingSteps .steps { justify-content: flex-end; }
+ #bookingSteps .steps > div[class*="stepsName"].unselected { display: none !important; }
+ #content .hotelDescription { margin-inline: 0 !important; padding-inline: 0; }
+ #content .hotelRates { align-items: stretch; flex-direction: column; }
+ #content .hotelRates :is(button,.viewRatesLink) { width: 100% !important; }
+}
+
+/* Keep the native gallery header and Close in separate, non-scrolling rows.
+   The existing image/caption/navigation region scrolls between them. */
+.gwt-DialogBox:has(#gallery){display:flex!important;flex-direction:column;overflow:hidden!important}
+.gwt-DialogBox:has(#gallery)>div,
+.gwt-DialogBox:has(#gallery)>div>table,
+.gwt-DialogBox:has(#gallery)>div>table>tbody,
+.gwt-DialogBox:has(#gallery) .dialogMiddle,
+.gwt-DialogBox:has(#gallery) .dialogMiddleCenter,
+.gwt-DialogBox:has(#gallery) .dialogContent,
+.gwt-DialogBox:has(#gallery) .dialogContent>table,
+.gwt-DialogBox:has(#gallery) .dialogContent>table>tbody{
+display:flex!important;flex-direction:column;flex:1 1 auto;min-height:0;min-width:0;width:100%;box-sizing:border-box}
+.gwt-DialogBox:has(#gallery) :is(.dialogTop,.dialogBottom){flex:0 0 auto}
+.gwt-DialogBox:has(#gallery) :is(.dialogMiddleLeft,.dialogMiddleRight){display:none}
+.gwt-DialogBox:has(#gallery) .dialogContent>table>tbody>tr:first-child{display:block;flex:1 1 auto;min-height:0;overflow:auto}
+.gwt-DialogBox:has(#gallery) .dialogContent>table>tbody>tr>td{display:block;min-width:0;width:100%;box-sizing:border-box}
+.gwt-DialogBox:has(#gallery) .dialogContent>table>tbody>tr:last-child{display:block;flex:0 0 auto;position:static;z-index:5}
+.gwt-DialogBox:has(#gallery) #formButtons{position:static!important;min-height:48px}
+.gwt-DialogBox:has(#gallery) .dialogContent>table>tbody>tr:last-child>td {
+ background: var(--brand-surface, #fff);
+ box-shadow: 0 -1px var(--brand-edge, #aaa);
+}
+.gwt-DialogBox:has(#gallery) #formButtons button { min-height: 48px; }

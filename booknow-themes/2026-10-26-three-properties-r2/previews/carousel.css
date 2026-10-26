@@ -1,0 +1,11 @@
+#main { /*CSS for Simple Gallery Example 1*/
+	position: relative; /*keep this intact*/
+	visibility: hidden; /*keep this intact*/
+	/*border: 10px solid darkred;*/
+}
+
+#main .gallerydesctext {
+	/*CSS for description DIV of Example 1 (if defined)*/
+	text-align: left;
+	padding: 2px 5px;
+}

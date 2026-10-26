@@ -1,0 +1,36 @@
+[
+  {
+    "property": "mabula",
+    "state": "Terms selected after Pictures state",
+    "data": {
+      "selected": [
+        {
+          "text": "Terms",
+          "cls": "gwt-Anchor paymentTermsIcon  selected"
+        }
+      ],
+      "directChild": true,
+      "detailVisible": true,
+      "detailClass": "hotelInfoContent hotelInfoContent-open",
+      "detailKind": "terms",
+      "galleryVisible": false
+    }
+  },
+  {
+    "property": "safari-plains",
+    "state": "Terms selected after Pictures state",
+    "data": {
+      "selected": [
+        {
+          "text": "Terms",
+          "cls": "gwt-Anchor paymentTermsIcon  selected"
+        }
+      ],
+      "directChild": true,
+      "detailVisible": true,
+      "detailClass": "hotelInfoContent hotelInfoContent-open",
+      "detailKind": "terms",
+      "galleryVisible": false
+    }
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 84.4375,
+      "y": 731.328125,
+      "width": 151.125,
+      "height": 64,
+      "top": 731.328125,
+      "right": 235.5625,
+      "bottom": 795.328125,
+      "left": 84.4375
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "desktop",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 119.4375,
+      "y": 680.59375,
+      "width": 151.125,
+      "height": 64,
+      "top": 680.59375,
+      "right": 270.5625,
+      "bottom": 744.59375,
+      "left": 119.4375
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 70.578125,
+      "y": 810.03125,
+      "width": 178.859375,
+      "height": 64,
+      "top": 810.03125,
+      "right": 249.4375,
+      "bottom": 874.03125,
+      "left": 70.578125
+    }
+  },
+  {
+    "property": "mabula",
+    "profile": "mobile",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 174.109375,
+      "y": 684.296875,
+      "width": 178.859375,
+      "height": 64,
+      "top": 684.296875,
+      "right": 352.96875,
+      "bottom": 748.296875,
+      "left": 174.109375
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "desktop",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 84.4375,
+      "y": 737.328125,
+      "width": 151.125,
+      "height": 64,
+      "top": 737.328125,
+      "right": 235.5625,
+      "bottom": 801.328125,
+      "left": 84.4375
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "desktop",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 119.4375,
+      "y": 686.59375,
+      "width": 151.125,
+      "height": 64,
+      "top": 686.59375,
+      "right": 270.5625,
+      "bottom": 750.59375,
+      "left": 119.4375
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 70.578125,
+      "y": 816.03125,
+      "width": 178.859375,
+      "height": 64,
+      "top": 816.03125,
+      "right": 249.4375,
+      "bottom": 880.03125,
+      "left": 70.578125
+    }
+  },
+  {
+    "property": "safari-plains",
+    "profile": "mobile",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 174.109375,
+      "y": 690.296875,
+      "width": 178.859375,
+      "height": 64,
+      "top": 690.296875,
+      "right": 352.96875,
+      "bottom": 754.296875,
+      "left": 174.109375
+    }
+  },
+  {
+    "property": "angels-view",
+    "profile": "desktop",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 85.015625,
+      "y": 742.328125,
+      "width": 149.984375,
+      "height": 64,
+      "top": 742.328125,
+      "right": 235,
+      "bottom": 806.328125,
+      "left": 85.015625
+    }
+  },
+  {
+    "property": "angels-view",
+    "profile": "desktop",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 120.015625,
+      "y": 691.59375,
+      "width": 149.984375,
+      "height": 64,
+      "top": 691.59375,
+      "right": 270,
+      "bottom": 755.59375,
+      "left": 120.015625
+    }
+  },
+  {
+    "property": "angels-view",
+    "profile": "mobile",
+    "width": 320,
+    "doc": 320,
+    "issues": [],
+    "current": {
+      "x": 69.171875,
+      "y": 820.328125,
+      "width": 181.65625,
+      "height": 64,
+      "top": 820.328125,
+      "right": 250.828125,
+      "bottom": 884.328125,
+      "left": 69.171875
+    }
+  },
+  {
+    "property": "angels-view",
+    "profile": "mobile",
+    "width": 390,
+    "doc": 390,
+    "issues": [],
+    "current": {
+      "x": 170.515625,
+      "y": 694.296875,
+      "width": 181.65625,
+      "height": 64,
+      "top": 694.296875,
+      "right": 352.171875,
+      "bottom": 758.296875,
+      "left": 170.515625
+    }
+  }
+]
