@@ -1,8 +1,10 @@
-# Three-property UX completion pass: R5 and R5.1
+> Latest reviewed delivery: Mabula R5.2 in mabula-r5-2/packages; Safari Plains and Angels View remain R5.1 in cycle2-correction/packages. The extra Mabula-only rule hides the verified empty neutral shell, excluding populated, named-header, open and closed counterexamples. Twelve baseline/12corrected cases plus24safety checks passed locally. Origin reviewed and published it. The ordinary Mabula HOME still loads R5; final native acceptance remains pending. No extra availability searches or spending occurred.
+
+# Three-property UX completion pass: R5, R5.1 and Mabula R5.2
 
 R5 improves text containment, amenity icon alignment, current-step visibility, action sizing and short-screen gallery layout for Mabula, Safari Plains and Angels View. R5.1 prevents cached Terms/Location content from appearing while Pictures is selected. Existing brands, images, room/rate content, native handlers and earlier scrolling/table repairs are preserved.
 
-**Final live acceptance is pending.** All three R5.1 packages were independently reviewed and published, and fresh archives plus nine verification-URL CSS responses match. All six ordinary desktop/mobile routes still applied older R4/R5 styles at the final gate. No CSS was injected into real pages to manufacture a pass. The genuine Mabula desktop R5 proof also retains an identified empty information-table border stub after native Back; R5.1 does not address that neutral state.
+**Final live acceptance is pending.** All three R5.1 packages were independently reviewed and published, and fresh archives plus nine verification-URL CSS responses match. All six ordinary desktop/mobile routes still applied older R4/R5 styles at the final gate. No CSS was injected into real pages to manufacture a pass. The genuine older Mabula desktop R5 proof retains the identified empty-shell border; R5.2 addresses that shape in source, while installed acceptance remains cache-blocked.
 
 ## Installable and editable artifacts
 
@@ -19,3 +21,5 @@ Ordinary native R5 evidence covers 18 result observations, 63 detail/gallery obs
 Read FINAL-QA-MATRIX.md for the exact passed/pending distinction, CACHE-HANDOFF.md for the nine ordinary asset URLs/required hashes, and QUALITY-LESSONS.md for reusable checks. Genuine screenshots are evidence/mabula-native-desktop-1440-r5.jpg and safari-native-mobile-390-r5.jpg. Other final screenshots are labelled local design proofs. Public price observations are dated evidence, not quotes or availability guarantees.
 
 No private guest, booking, authentication, mailbox or raw chat records are included. Private native captures containing runtime map URLs were excluded. Clifftop's premium planning-panel adaptation remains separately tracked and is not included in this release. The draft PR remains for review; publication is not sponsor acceptance or authority for further live actions.
+
+Rebuild the extra Mabula package with Python3 mabula-r5-2/source/build-correction.py after building R5.1. The builder uses the exact frozen R5.1 base and checks its SHA256.

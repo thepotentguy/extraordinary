@@ -15,3 +15,5 @@
 The shared structural source uses existing brand variables and matching GWT selectors. Future reuse requires a fresh current archive, actual DOM/cascade comparison, measured baseline, scoped candidate, independent review and ordinary native postconditions. Preserve each property's authentic logo, imagery, typography, palette, bindings and earlier fixes. Cape Milner/Profitroom and other engines require their own design; these selectors are not universal.
 
 Clifftop's premium availability-panel adaptation remains separately tracked in the26October comparison. Its current installed archive identity remains a gate before an installable candidate. It is not included in this pass or allowance.
+
+10. Never-opened neutral, explicitly closed and reopened information tables can have different modifiers and geometry. A0x0 closed table on one property/state is not universal. Capture the empty state after native Back, require exact empty header/body evidence, and exclude open, closed and populated counterexamples before a narrow fix.

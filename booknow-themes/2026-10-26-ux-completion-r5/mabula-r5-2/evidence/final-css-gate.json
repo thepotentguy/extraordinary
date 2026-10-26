@@ -1,0 +1,90 @@
+{
+  "expected": [
+    {
+      "profile": "desktop",
+      "styles": [
+        {
+          "name": "mainStyle.css",
+          "href": "http://127.0.0.1:9155/mabula-r5-2/package-css/mabula/black-rhino2021/css/mainStyle.css",
+          "rules": 1054,
+          "sha256": "9e4ab0861b34325e5d27cd729f03deb85421cda074b33c2318fe3c48c74a7cab",
+          "r5": true
+        },
+        {
+          "name": "theme.css",
+          "href": "http://127.0.0.1:9155/mabula-r5-2/package-css/mabula/black-rhino2021/css/theme.css",
+          "rules": 640,
+          "sha256": "bfac7d8448704c56aaa1788dc954d5ad6809b3c04e1b59e9fd2338c6069084bf",
+          "r5": true
+        }
+      ]
+    },
+    {
+      "profile": "mobile",
+      "styles": [
+        {
+          "name": "mainStyle.css",
+          "href": "http://127.0.0.1:9155/mabula-r5-2/package-css/mabula/black-rhino2021/css/mainStyle.css",
+          "rules": 1054,
+          "sha256": "9e4ab0861b34325e5d27cd729f03deb85421cda074b33c2318fe3c48c74a7cab",
+          "r5": true
+        },
+        {
+          "name": "mobileTheme.css",
+          "href": "http://127.0.0.1:9155/mabula-r5-2/package-css/mabula/black-rhino2021/css/mobileTheme.css",
+          "rules": 548,
+          "sha256": "7e4c8c1d566ec79c4a253be2d435a17ba206429272bec6489758dcb9a1483475",
+          "r5": true
+        }
+      ]
+    }
+  ],
+  "ordinaryHome": {
+    "profile": "desktop",
+    "route": "ordinary Mabula HOME",
+    "styles": [
+      {
+        "name": "mainStyle.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/mainStyle.css",
+        "rules": 1023,
+        "sha256": "692a800e67db8244e807a8c0fb4a76e9950b17ebfd3d8fbe0edcb5ed33305458",
+        "r5": false
+      },
+      {
+        "name": "theme.css",
+        "href": "https://nebulacrs.hti.app/extraordinary/mabula/published/theme/css/theme.css",
+        "rules": 638,
+        "sha256": "b9756efc115f159155dff849418c54d76f1e424daa203f54a5e302be3faacdac",
+        "r5": true
+      }
+    ],
+    "finalR52Applied": false,
+    "qualification": "One ordinary HOME reload only; no availability query or injected style. Existing result state remains unverified against final R5.2."
+  },
+  "freshVerificationAssets": [
+    {
+      "name": "mainStyle.css",
+      "status": 200,
+      "bytes": 155355,
+      "sha256": "96b9961a1849c1d0bd2423e67ef7ebc252aa1a04db91ce01fe207d4a198d1a8a",
+      "expectedSha256": "96b9961a1849c1d0bd2423e67ef7ebc252aa1a04db91ce01fe207d4a198d1a8a",
+      "exactMatch": true
+    },
+    {
+      "name": "theme.css",
+      "status": 200,
+      "bytes": 113335,
+      "sha256": "65d9cd6df159dc834ff9a1dfdba6621b4ce9cf23a6cc362e0f04498a1870551b",
+      "expectedSha256": "65d9cd6df159dc834ff9a1dfdba6621b4ce9cf23a6cc362e0f04498a1870551b",
+      "exactMatch": true
+    },
+    {
+      "name": "mobileTheme.css",
+      "status": 200,
+      "bytes": 103544,
+      "sha256": "dd9b7bce12269c2bbcbbca516e6aa9b4aa9bd2ce18f6f94e9003da39513f06f6",
+      "expectedSha256": "dd9b7bce12269c2bbcbbca516e6aa9b4aa9bd2ce18f6f94e9003da39513f06f6",
+      "exactMatch": true
+    }
+  ]
+}

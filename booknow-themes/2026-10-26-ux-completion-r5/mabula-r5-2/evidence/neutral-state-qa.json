@@ -1,0 +1,1610 @@
+[
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 320,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 29,
+        "y": 1718.640625,
+        "width": 262,
+        "height": 46,
+        "top": 1718.640625,
+        "right": 291,
+        "bottom": 1764.640625,
+        "left": 29
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1718.640625,
+        "width": 262,
+        "height": 46,
+        "top": 1718.640625,
+        "right": 291,
+        "bottom": 1764.640625,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 390,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 29,
+        "y": 1644.515625,
+        "width": 332,
+        "height": 46,
+        "top": 1644.515625,
+        "right": 361,
+        "bottom": 1690.515625,
+        "left": 29
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1644.515625,
+        "width": 332,
+        "height": 46,
+        "top": 1644.515625,
+        "right": 361,
+        "bottom": 1690.515625,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 768,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 29,
+        "y": 1373.21875,
+        "width": 710,
+        "height": 46,
+        "top": 1373.21875,
+        "right": 739,
+        "bottom": 1419.21875,
+        "left": 29
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1373.21875,
+        "width": 710,
+        "height": 46,
+        "top": 1373.21875,
+        "right": 739,
+        "bottom": 1419.21875,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 1024,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 387,
+        "y": 1240.34375,
+        "width": 588,
+        "height": 46,
+        "top": 1240.34375,
+        "right": 975,
+        "bottom": 1286.34375,
+        "left": 387
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 387,
+        "y": 1240.34375,
+        "width": 588,
+        "height": 46,
+        "top": 1240.34375,
+        "right": 975,
+        "bottom": 1286.34375,
+        "left": 387
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 1440,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 493,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1285,
+        "bottom": 1139.203125,
+        "left": 493
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 493,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1285,
+        "bottom": 1139.203125,
+        "left": 493
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "baseline",
+    "width": 1920,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 733,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1525,
+        "bottom": 1139.203125,
+        "left": 733
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 733,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1525,
+        "bottom": 1139.203125,
+        "left": 733
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 320,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1718.640625,
+        "width": 262,
+        "height": 46,
+        "top": 1718.640625,
+        "right": 291,
+        "bottom": 1764.640625,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 390,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1644.515625,
+        "width": 332,
+        "height": 46,
+        "top": 1644.515625,
+        "right": 361,
+        "bottom": 1690.515625,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 768,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 29,
+        "y": 1373.21875,
+        "width": 710,
+        "height": 46,
+        "top": 1373.21875,
+        "right": 739,
+        "bottom": 1419.21875,
+        "left": 29
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 1024,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 387,
+        "y": 1240.34375,
+        "width": 588,
+        "height": 46,
+        "top": 1240.34375,
+        "right": 975,
+        "bottom": 1286.34375,
+        "left": 387
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 1440,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 493,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1285,
+        "bottom": 1139.203125,
+        "left": 493
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "desktop",
+    "lane": "corrected",
+    "width": 1920,
+    "mobile": false,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 733,
+        "y": 1093.203125,
+        "width": 792,
+        "height": 46,
+        "top": 1093.203125,
+        "right": 1525,
+        "bottom": 1139.203125,
+        "left": 733
+      }
+    },
+    "details": [
+      {
+        "state": "roominfo",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 320,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 32,
+        "y": 1300.046875,
+        "width": 262,
+        "height": 46,
+        "top": 1300.046875,
+        "right": 294,
+        "bottom": 1346.046875,
+        "left": 32
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 1300.046875,
+        "width": 262,
+        "height": 46,
+        "top": 1300.046875,
+        "right": 294,
+        "bottom": 1346.046875,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 390,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 32,
+        "y": 1189.390625,
+        "width": 332,
+        "height": 46,
+        "top": 1189.390625,
+        "right": 364,
+        "bottom": 1235.390625,
+        "left": 32
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 1189.390625,
+        "width": 332,
+        "height": 46,
+        "top": 1189.390625,
+        "right": 364,
+        "bottom": 1235.390625,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 768,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 32,
+        "y": 977.265625,
+        "width": 710,
+        "height": 46,
+        "top": 977.265625,
+        "right": 742,
+        "bottom": 1023.265625,
+        "left": 32
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 977.265625,
+        "width": 710,
+        "height": 46,
+        "top": 977.265625,
+        "right": 742,
+        "bottom": 1023.265625,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 1024,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 390,
+        "y": 1019.3125,
+        "width": 582,
+        "height": 46,
+        "top": 1019.3125,
+        "right": 972,
+        "bottom": 1065.3125,
+        "left": 390
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 390,
+        "y": 1019.3125,
+        "width": 582,
+        "height": 46,
+        "top": 1019.3125,
+        "right": 972,
+        "bottom": 1065.3125,
+        "left": 390
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 1440,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 496,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1282,
+        "bottom": 981.140625,
+        "left": 496
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 496,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1282,
+        "bottom": 981.140625,
+        "left": 496
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "baseline",
+    "width": 1920,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": true,
+      "rect": {
+        "x": 736,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1522,
+        "bottom": 981.140625,
+        "left": 736
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 736,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1522,
+        "bottom": 981.140625,
+        "left": 736
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": false,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 320,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 1300.046875,
+        "width": 262,
+        "height": 46,
+        "top": 1300.046875,
+        "right": 294,
+        "bottom": 1346.046875,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 390,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 1189.390625,
+        "width": 332,
+        "height": 46,
+        "top": 1189.390625,
+        "right": 364,
+        "bottom": 1235.390625,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 768,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 32,
+        "y": 977.265625,
+        "width": 710,
+        "height": 46,
+        "top": 977.265625,
+        "right": 742,
+        "bottom": 1023.265625,
+        "left": 32
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 1024,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 390,
+        "y": 1019.3125,
+        "width": 582,
+        "height": 46,
+        "top": 1019.3125,
+        "right": 972,
+        "bottom": 1065.3125,
+        "left": 390
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 1440,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 496,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1282,
+        "bottom": 981.140625,
+        "left": 496
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  },
+  {
+    "profile": "mobile",
+    "lane": "corrected",
+    "width": 1920,
+    "mobile": true,
+    "neutral": {
+      "matches": true,
+      "visible": false,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      }
+    },
+    "populated": {
+      "matches": false,
+      "visible": true
+    },
+    "namedHeader": {
+      "matches": false,
+      "visible": true
+    },
+    "openEmpty": {
+      "matches": false,
+      "visible": true
+    },
+    "closed": {
+      "matches": false,
+      "display": "table",
+      "rect": {
+        "x": 736,
+        "y": 935.140625,
+        "width": 786,
+        "height": 46,
+        "top": 935.140625,
+        "right": 1522,
+        "bottom": 981.140625,
+        "left": 736
+      }
+    },
+    "details": [
+      {
+        "state": "terms",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      },
+      {
+        "state": "location",
+        "firstVisible": true,
+        "reopenVisible": true,
+        "guardMatches": false
+      }
+    ],
+    "galleryVisible": true,
+    "fixPass": true,
+    "safetyPass": true,
+    "qualification": "Local exact native neutral-table replay and observed detail markup. No native events, availability, booking or installed acceptance certified."
+  }
+]

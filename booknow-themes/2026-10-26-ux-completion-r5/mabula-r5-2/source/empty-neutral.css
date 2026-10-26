@@ -1,0 +1,5 @@
+/* Only the verified empty, never-opened information shell after Rates Back.
+   An open/closed modifier or nonempty body prevents this rule matching. */
+#content .hotelResult > .hotelInfoContent:not(.hotelInfoContent-open):not(.hotelInfoContent-closed):has(> tbody > tr:first-child > td > .header:empty):has(> tbody > tr:nth-child(2) > td > div:empty) {
+ display: none !important;
+}
